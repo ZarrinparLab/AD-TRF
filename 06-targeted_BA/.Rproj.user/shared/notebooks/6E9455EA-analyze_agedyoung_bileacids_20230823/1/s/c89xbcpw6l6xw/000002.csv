@@ -1,0 +1,9 @@
+"0","```r
+
+rtab %>%
+  get_long_table(quant=., metadata=md) %>%
+  filter(!sample_name %in% c(\"serum_32\", \"serum_24\", \"serum_08\")) %>%
+  plot_ba_by_X(y_label = \"Serum Bile Acid [pmol/uL]\", fill_col = \"age_status\", x_col = \"phase\") +
+  #ggpubr::stat_compare_means(method = \"wilcox\", label.y.npc=0.7, label=\"p.signif\" ) +
+  ggtitle(\"Serum from Aged vs Young - filtered BAs + removing outlier8\") + xlab(\"Phase\")
+```"

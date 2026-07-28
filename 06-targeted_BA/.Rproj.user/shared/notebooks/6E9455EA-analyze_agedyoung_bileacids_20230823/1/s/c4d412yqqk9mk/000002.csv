@@ -1,0 +1,8 @@
+"0","```r
+rtab %>%  
+filter(!sample_name %in% c(\"liver_01\", \"liver_20\", \"liver_28\")) %>%
+calculate_ba_ratio(dat = .) %>%
+  get_long_table(quant=., metadata=md) %>%
+  plot_ba_by_X(y_label = \"Liver log2(Unconj/Conj)\", fill_col = \"age_status\", x_col = \"phase\") +
+  xlab(\"Phase\")
+```"

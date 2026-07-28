@@ -1,0 +1,18 @@
+"0","```r
+
+
+qtab[,-1] %>% 
+  rowSums() %>%
+  cbind(qtab[,1], `total_ba`=.) %>%
+  get_long_table(quant=., metadata=md) %>%
+  filter(!sample_name %in% c(\"liver_01\", \"liver_20\", \"liver_28\")) %>%
+  ggplot(aes(y=value, x=age_status, fill=age_status)) +
+  geom_boxplot(alpha=0.4, aes(x=age_status)) +
+  geom_point(position = position_jitterdodge())+
+  ylab(\"Liver Total BA (pmol/mg)\") +
+  scale_fill_manual(values = age_young_colors) +
+  scale_color_manual(values = age_young_colors) +
+  facet_wrap(~ phase, scales = \"free_y\") +
+ # ggrepel::geom_text_repel(aes(label=sample_name),color=\"black\", size=3, max.overlaps = 20 )+
+  stat_compare_means() 
+```"

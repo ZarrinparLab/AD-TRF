@@ -1,0 +1,28 @@
+"0","```r
+# Read input data ------------------
+
+# Metadata
+md <- read_excel(csba_f, sheet = \"stool_samples_metadata\")  %>%
+    mutate(zt_time=fct_relevel(as.factor(zt_time), c(\"ZT10\", \"ZT22\")),
+         phase = fct_relevel(as.factor(phase), c(\"light\", \"dark\")),
+         age_status = fct_relevel(as.factor(age_status), c(\"Young\", \"Aged\")))
+
+# Full quantification table
+qtab <- read_excel(csba_f, sheet = \"stool_results_table\") 
+
+# Refined quantification table
+rtab <- read_excel(csba_f, sheet = \"stool_results_table_refined\")  
+
+
+qtab[,-1] %>% rowSums() %>%
+  cbind(qtab[,1], `total_ba`=.) %>%
+  get_long_table(quant=., metadata=md) %>%
+  ggplot(aes(y=value, x=paste(age_status, phase), fill=age_status)) +
+  geom_boxplot(alpha=0.4) +
+  geom_point(position = position_jitterdodge())+
+  ylab(\"Stool Total BA (pmol/mg)\") +
+  scale_fill_manual(values = age_young_colors) +
+  scale_color_manual(values = age_young_colors) +
+  ggrepel::geom_text_repel(aes(label=sample_name),color=\"black\", size=3, max.overlaps = 20 )+
+  stat_compare_means() 
+```"

@@ -1,0 +1,9 @@
+"0","```r
+calculate_ba_ratio(dat = rtab) %>%
+  get_long_table(quant=., metadata=md) %>%
+  plot_ba_by_zt(., y_label = \"log2(Unconj/Conj)\") +
+  ggtitle(\"Fecal BAs in aged mice (BSH+ vs BSH-) - filtered BAs\")
+ggsave(\"./20231025_bsh_filtered_ratios_by_zt.pdf\")
+```"
+"1","Saving 7.29 x 4.5 in image
+"

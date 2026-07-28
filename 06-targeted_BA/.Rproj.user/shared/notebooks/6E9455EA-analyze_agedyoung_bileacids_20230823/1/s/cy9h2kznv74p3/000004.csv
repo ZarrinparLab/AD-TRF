@@ -1,0 +1,10 @@
+"0","```r
+qtab %>%  
+calculate_ba_ratio(dat = .) %>%
+  get_long_table(quant=., metadata=md) %>%
+  plot_ba_by_X(y_label = \"Stool log2(Unconj/Conj)\", fill_col = \"age_status\", x_col = \"phase\") +
+  xlab(\"Phase\")
+ggsave(\"../figures/20230823_stool_qtab_aged-young.pdf\")
+```"
+"1","Saving 7.29 x 4.51 in image
+"

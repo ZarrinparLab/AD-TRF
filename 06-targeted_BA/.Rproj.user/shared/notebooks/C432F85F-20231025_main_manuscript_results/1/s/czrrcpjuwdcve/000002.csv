@@ -1,0 +1,24 @@
+"0","```r
+
+# Plot total BAs for all data
+p1 <- qtab[,-1] %>% rowSums() %>%
+  cbind(qtab[,1], `total_ba`=.) %>%
+    get_long_table(quant=., metadata=md) %>%
+  #filter(mouse_age_weeks == 110) %>%
+  plot_ba_by_zt(ltab = ., \"Total BA (pmol/mg stool)\") +
+  ggtitle(\"Fecal Bile Acids\")
+
+p2 <- rtab[,-1] %>% rowSums() %>%
+  cbind(qtab[,1], `total_ba`=.) %>%
+    get_long_table(quant=., metadata=md) %>%
+  #filter(mouse_age_weeks == 110) %>%
+  plot_ba_by_zt(ltab = ., \"Total BA (pmol/mg stool)\") +
+  ggtitle(\"Fecal Bile Acids (refined set)\")
+
+
+
+ggpubr::ggarrange(plotlist = list(p1, p2))
+ggsave(\"./20231025_bsh_stool_total_BAs.pdf\")
+```"
+"1","Saving 7.29 x 4.5 in image
+"

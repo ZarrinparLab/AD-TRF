@@ -1,0 +1,12 @@
+"0","```r
+
+rtab %>%
+  get_percentages() %>% 
+  get_long_table(quant=., metadata=md) %>%
+  plot_ba_by_X(y_label = \"Stool Bile Acid [%]\", fill_col = \"age_status\", x_col = \"phase\") +
+  #ggpubr::stat_compare_means(method = \"wilcox\", label.y.npc=0.7, label=\"p.signif\" ) +
+  ggtitle(\"Stool from Aged vs Young - filtered BAs\") + xlab(\"Phase\")
+ggsave(\"../figures/20230823_stool_individual-BAs-rtab-percent_aged-young_Fig3.pdf\")
+```"
+"1","Saving 7.29 x 4.51 in image
+"

@@ -1,0 +1,10 @@
+"0","```r
+qtab %>%
+  get_long_table(quant=., metadata=md) %>%
+  plot_ba_by_X(y_label = \"Cecum Bile Acid [pmol/mg]\", fill_col = \"age_status\", x_col = \"phase\") +
+  ggtitle(\"Cecum from Aged vs Young\") + xlab(\"Phase\")
+
+ggsave(\"../figures/20230823_cecum_individual-BAs-qtab_aged-young_Fig3.pdf\")
+```"
+"1","Saving 7.29 x 4.51 in image
+"

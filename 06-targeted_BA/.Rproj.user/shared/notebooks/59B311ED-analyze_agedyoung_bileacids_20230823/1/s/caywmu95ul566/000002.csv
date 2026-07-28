@@ -1,0 +1,8 @@
+"0","```r
+rtab %>%
+filter(!sample_name %in% c(\"serum_32\", \"serum_24\", \"serum_08\")) %>%
+calculate_ba_ratio(dat = .) %>%
+  get_long_table(quant=., metadata=md) %>%
+  plot_ba_by_agestatus(y_label = \"Serum log2(Unconj/Conj)\") +
+  facet_grid(phase ~ metabolite, scales = \"free_y\")
+```"

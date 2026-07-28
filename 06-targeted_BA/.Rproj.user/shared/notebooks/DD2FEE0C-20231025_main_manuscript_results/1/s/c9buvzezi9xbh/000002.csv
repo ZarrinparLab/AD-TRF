@@ -1,0 +1,26 @@
+"0","```r
+library(readxl)
+library(tidyverse)
+library(ggpubr)
+
+# Load functions
+source(\"../code/functions-mass-spec.R\")
+
+# Set main paths
+inpath <- file.path(\"../data/processed\")
+ba <- read.csv(\"../data/bile-acid-information.csv\", row.names = 1)
+fba_file <- file.path(inpath, \"20210609_AS_Zarrinpar_agingbsh_BA_fecal_ac.xlsx\")
+
+
+# Read Metadata
+md <- read_excel(fba_file, sheet = \"sample_metadata\")  %>%
+  mutate(zt_time=fct_relevel(as.factor(zt_time), c(\"ZT06\", \"ZT18\")),
+         phase = fct_relevel(as.factor(phase), c(\"light\", \"dark\")))
+
+# Read full input quantification table
+qtab <- read_excel(fba_file, sheet = \"results_table\")
+
+# Read refined quantification table
+rtab <- read_excel(fba_file, sheet = \"refined_results_table\")
+
+```"

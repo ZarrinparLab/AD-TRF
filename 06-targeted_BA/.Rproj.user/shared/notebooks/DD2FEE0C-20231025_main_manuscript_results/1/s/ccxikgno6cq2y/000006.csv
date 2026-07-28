@@ -1,0 +1,11 @@
+"0","```r
+calculate_ba_ratio(dat = rtab) %>%
+  get_long_table(quant=., metadata=md)  %>%
+  compare_means(formula = value ~ condition, group.by = \"metabolite\", 
+                p.adjust.method	=\"fdr\")  %>%
+  filter(., (group1 == \"ZT06_minus\" & group2 == \"ZT06_plus\") | 
+           (group1 == \"ZT18_minus\" & group2 == \"ZT18_plus\")) %>%
+  mutate(new_padj = p.adjust(p, method=\"BH\")) -> res2
+
+res2
+```"
