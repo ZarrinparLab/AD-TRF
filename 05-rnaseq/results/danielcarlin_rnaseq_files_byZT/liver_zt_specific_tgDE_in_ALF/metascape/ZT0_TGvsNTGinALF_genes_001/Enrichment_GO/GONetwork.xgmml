@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<graph label="GOCluster" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cy="http://www.cytoscape.org" xmlns="http://www.cs.rpi.edu/XGMML" >
+  <att name="documentVersion" value="1.1"/>
+  <att name="networkMetadata">
+    <rdf:RDF>
+      <rdf:Description rdf:about="http://www.cytoscape.org/">
+        <dc:type>Protein-Protein Interaction</dc:type>
+        <dc:description>N/A</dc:description>
+        <dc:identifier>N/A</dc:identifier>
+        <dc:date>2024-05-28 09:32:01</dc:date>
+        <dc:title>Cytoscape Network</dc:title>
+        <dc:source>http://www.cytoscape.org/</dc:source>
+        <dc:format>Cytoscape-XGMML</dc:format>
+      </rdf:Description>
+    </rdf:RDF>
+  </att>
+  <att type="string" name="backgroundColor" value="#ffffff"/>
+  <att type="real" name="GRAPH_VIEW_ZOOM" value="1.0"/>
+  <att type="real" name="GRAPH_VIEW_CENTER_X" value="300.0"/>
+  <att type="real" name="GRAPH_VIEW_CENTER_Y" value="300.0"/>
+  <node label="WP706" id="1">
+    <att type="string" name="canonicalName" value="WP706"/>
+    <att type="string" name="Description" value="Sudden infant death syndrome SIDS susceptibility pathways"/>
+    <att type="string" name="Category" value="WikiPathways"/>
+    <att type="real" name="LogP" value="-3.6840669880160624"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="1"/>
+    <att type="string" name="Hits" value="BDNF|CHRNA4|POU3F2"/>
+    <att type="real" name="Enrichment" value="25.81193181818182"/>
+    <att type="real" name="Z-score" value="8.484217623187575"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="3"/>
+    <att type="integer" name="#GeneInGO" value="160"/>
+    <att type="integer" name="#GeneInHitList" value="22"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="13.636363636363637"/>
+    <att type="real" name="STDV %InGO" value="7.31650049984536"/>
+    <att type="real" name="BestLogPInGroup" value="-3.6840669880160624"/>
+    <att type="real" name="BestEnrichmentInGroup" value="25.81193181818182"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="1"/>
+    <att type="integer" name="FirstInGroupByLogP" value="1"/>
+    <att type="string" name="GeneID" value="627|1137|5454"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value="Sudden infant death syndrome SIDS susceptibility pathways"/>
+    <att type="integer" name="#COUNT_001" value="3"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-3.6840669880160624"/>
+    <att type="string" name="Gene" value="WP706"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="27"/>
+    <att type="string" name="PARENT_GO" value=""/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="347.29295144990306" y="361.3544391125264"/>
+  </node>
+  <node label="GO:0007610" id="2">
+    <att type="string" name="canonicalName" value="GO:0007610"/>
+    <att type="string" name="Description" value="behavior"/>
+    <att type="string" name="Category" value="GO Biological Processes"/>
+    <att type="real" name="LogP" value="-2.008873067984351"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="2"/>
+    <att type="string" name="Hits" value="BDNF|CHRNA4|NR4A2"/>
+    <att type="real" name="Enrichment" value="6.671904831840211"/>
+    <att type="real" name="Z-score" value="3.844141888483347"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="3"/>
+    <att type="integer" name="#GeneInGO" value="619"/>
+    <att type="integer" name="#GeneInHitList" value="22"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="13.636363636363637"/>
+    <att type="real" name="STDV %InGO" value="7.31650049984536"/>
+    <att type="real" name="BestLogPInGroup" value="-2.008873067984351"/>
+    <att type="real" name="BestEnrichmentInGroup" value="6.671904831840211"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="1"/>
+    <att type="integer" name="FirstInGroupByLogP" value="1"/>
+    <att type="string" name="GeneID" value="627|1137|4929"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value="behavior"/>
+    <att type="integer" name="#COUNT_001" value="3"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-2.008873067984351"/>
+    <att type="string" name="Gene" value="GO:0007610"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="19"/>
+    <att type="string" name="PARENT_GO" value="19_GO:0032501 multicellular organismal process"/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="257.05250904803927" y="266.76986043695496"/>
+  </node>
+  <edge label="WP706 (pp) WP706" source="1" target="1">
+    <att type="string" name="canonicalName" value="WP706 (pp) WP706"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="1.0"/>
+  </edge>
+  <edge label="GO:0007610 (pp) GO:0007610" source="2" target="2">
+    <att type="string" name="canonicalName" value="GO:0007610 (pp) GO:0007610"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="1.0"/>
+  </edge>
+</graph>

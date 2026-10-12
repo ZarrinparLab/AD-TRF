@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d11" for="edge" attr.name="component" attr.type="long" />
+  <key id="d10" for="edge" attr.name="scan2" attr.type="string" />
+  <key id="d9" for="edge" attr.name="scan1" attr.type="string" />
+  <key id="d8" for="edge" attr.name="matched_peaks" attr.type="string" />
+  <key id="d7" for="edge" attr.name="score" attr.type="double" />
+  <key id="d6" for="edge" attr.name="deltamz_int" attr.type="long" />
+  <key id="d5" for="edge" attr.name="deltamz" attr.type="double" />
+  <key id="d4" for="node" attr.name="component" attr.type="long" />
+  <key id="d3" for="node" attr.name="charge" attr.type="long" />
+  <key id="d2" for="node" attr.name="rt_min" attr.type="double" />
+  <key id="d1" for="node" attr.name="rt" attr.type="double" />
+  <key id="d0" for="node" attr.name="mz" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="21935">
+      <data key="d0">332.182</data>
+      <data key="d1">2.34</data>
+      <data key="d2">2.34</data>
+      <data key="d3">0</data>
+      <data key="d4">2069</data>
+    </node>
+    <node id="21773">
+      <data key="d0">318.166</data>
+      <data key="d1">2.19</data>
+      <data key="d2">2.19</data>
+      <data key="d3">0</data>
+      <data key="d4">2069</data>
+    </node>
+    <node id="21770">
+      <data key="d0">318.166</data>
+      <data key="d1">1.91</data>
+      <data key="d2">1.91</data>
+      <data key="d3">0</data>
+      <data key="d4">2069</data>
+    </node>
+    <edge source="21935" target="21773">
+      <data key="d5">-14.016</data>
+      <data key="d6">-14</data>
+      <data key="d7">0.9473</data>
+      <data key="d8">0</data>
+      <data key="d9">21773</data>
+      <data key="d10">21935</data>
+      <data key="d11">2069</data>
+    </edge>
+    <edge source="21935" target="21770">
+      <data key="d5">-14.016</data>
+      <data key="d6">-14</data>
+      <data key="d7">0.9528</data>
+      <data key="d8">0</data>
+      <data key="d9">21935</data>
+      <data key="d10">21770</data>
+      <data key="d11">2069</data>
+    </edge>
+    <edge source="21773" target="21770">
+      <data key="d5">0.0</data>
+      <data key="d6">0</data>
+      <data key="d7">0.9466</data>
+      <data key="d8">0</data>
+      <data key="d9">21773</data>
+      <data key="d10">21770</data>
+      <data key="d11">2069</data>
+    </edge>
+  </graph>
+</graphml>

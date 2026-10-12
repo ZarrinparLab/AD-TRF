@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d11" for="edge" attr.name="component" attr.type="long" />
+  <key id="d10" for="edge" attr.name="scan2" attr.type="string" />
+  <key id="d9" for="edge" attr.name="scan1" attr.type="string" />
+  <key id="d8" for="edge" attr.name="matched_peaks" attr.type="string" />
+  <key id="d7" for="edge" attr.name="score" attr.type="double" />
+  <key id="d6" for="edge" attr.name="deltamz_int" attr.type="long" />
+  <key id="d5" for="edge" attr.name="deltamz" attr.type="double" />
+  <key id="d4" for="node" attr.name="component" attr.type="long" />
+  <key id="d3" for="node" attr.name="charge" attr.type="long" />
+  <key id="d2" for="node" attr.name="rt_min" attr.type="double" />
+  <key id="d1" for="node" attr.name="rt" attr.type="double" />
+  <key id="d0" for="node" attr.name="mz" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="23948">
+      <data key="d0">557.175</data>
+      <data key="d1">4.55</data>
+      <data key="d2">4.55</data>
+      <data key="d3">0</data>
+      <data key="d4">1807</data>
+    </node>
+    <node id="12949">
+      <data key="d0">512.165</data>
+      <data key="d1">2.34</data>
+      <data key="d2">2.34</data>
+      <data key="d3">0</data>
+      <data key="d4">1807</data>
+    </node>
+    <edge source="23948" target="12949">
+      <data key="d5">-45.01</data>
+      <data key="d6">-45</data>
+      <data key="d7">0.8528</data>
+      <data key="d8">0</data>
+      <data key="d9">23948</data>
+      <data key="d10">12949</data>
+      <data key="d11">1807</data>
+    </edge>
+  </graph>
+</graphml>

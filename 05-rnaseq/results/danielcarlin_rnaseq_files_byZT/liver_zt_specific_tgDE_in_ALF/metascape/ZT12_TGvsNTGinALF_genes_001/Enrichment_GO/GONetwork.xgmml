@@ -1,0 +1,2100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<graph label="GOCluster" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cy="http://www.cytoscape.org" xmlns="http://www.cs.rpi.edu/XGMML" >
+  <att name="documentVersion" value="1.1"/>
+  <att name="networkMetadata">
+    <rdf:RDF>
+      <rdf:Description rdf:about="http://www.cytoscape.org/">
+        <dc:type>Protein-Protein Interaction</dc:type>
+        <dc:description>N/A</dc:description>
+        <dc:identifier>N/A</dc:identifier>
+        <dc:date>2024-05-28 09:34:28</dc:date>
+        <dc:title>Cytoscape Network</dc:title>
+        <dc:source>http://www.cytoscape.org/</dc:source>
+        <dc:format>Cytoscape-XGMML</dc:format>
+      </rdf:Description>
+    </rdf:RDF>
+  </att>
+  <att type="string" name="backgroundColor" value="#ffffff"/>
+  <att type="real" name="GRAPH_VIEW_ZOOM" value="1.0"/>
+  <att type="real" name="GRAPH_VIEW_CENTER_X" value="300.0"/>
+  <att type="real" name="GRAPH_VIEW_CENTER_Y" value="300.0"/>
+  <node label="GO:1905952" id="1">
+    <att type="string" name="canonicalName" value="GO:1905952"/>
+    <att type="string" name="Description" value="regulation of lipid localization"/>
+    <att type="string" name="Category" value="GO Biological Processes"/>
+    <att type="real" name="LogP" value="-3.1828256493128366"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="1"/>
+    <att type="string" name="Hits" value="PPARG|IKBKE|LDLRAP1|DENND5B"/>
+    <att type="real" name="Enrichment" value="10.176747311827956"/>
+    <att type="real" name="Z-score" value="5.77702401564125"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="4"/>
+    <att type="integer" name="#GeneInGO" value="186"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="6.25"/>
+    <att type="real" name="STDV %InGO" value="3.0257682392245444"/>
+    <att type="real" name="BestLogPInGroup" value="-4.02273859695095"/>
+    <att type="real" name="BestEnrichmentInGroup" value="16.900669642857142"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="0"/>
+    <att type="integer" name="FirstInGroupByLogP" value="0"/>
+    <att type="string" name="GeneID" value="5468|9641|26119|160518"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value=" "/>
+    <att type="integer" name="#COUNT_001" value="4"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-3.1828256493128366"/>
+    <att type="string" name="Gene" value="GO:1905952"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="19"/>
+    <att type="string" name="PARENT_GO" value="19_GO:0051179 localization"/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="221.2239765580058" y="312.27784089307283"/>
+  </node>
+  <node label="GO:0032370" id="2">
+    <att type="string" name="canonicalName" value="GO:0032370"/>
+    <att type="string" name="Description" value="positive regulation of lipid transport"/>
+    <att type="string" name="Category" value="GO Biological Processes"/>
+    <att type="real" name="LogP" value="-3.075466587325451"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="1"/>
+    <att type="string" name="Hits" value="PPARG|LDLRAP1|DENND5B"/>
+    <att type="real" name="Enrichment" value="16.317887931034484"/>
+    <att type="real" name="Z-score" value="6.5842211341742285"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="3"/>
+    <att type="integer" name="#GeneInGO" value="87"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="4.6875"/>
+    <att type="real" name="STDV %InGO" value="2.6421385270446645"/>
+    <att type="real" name="BestLogPInGroup" value="-4.02273859695095"/>
+    <att type="real" name="BestEnrichmentInGroup" value="16.900669642857142"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="0"/>
+    <att type="integer" name="FirstInGroupByLogP" value="0"/>
+    <att type="string" name="GeneID" value="5468|26119|160518"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value=" "/>
+    <att type="integer" name="#COUNT_001" value="3"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-3.075466587325451"/>
+    <att type="string" name="Gene" value="GO:0032370"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="19"/>
+    <att type="string" name="PARENT_GO" value="19_GO:0051179 localization"/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="411.07639043515235" y="240.82257778564258"/>
+  </node>
+  <node label="GO:0062013" id="3">
+    <att type="string" name="canonicalName" value="GO:0062013"/>
+    <att type="string" name="Description" value="positive regulation of small molecule metabolic process"/>
+    <att type="string" name="Category" value="GO Biological Processes"/>
+    <att type="real" name="LogP" value="-2.4670719418742015"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="1"/>
+    <att type="string" name="Hits" value="IGF2|PPARG|LDLRAP1"/>
+    <att type="real" name="Enrichment" value="9.997579225352112"/>
+    <att type="real" name="Z-score" value="4.945515716875528"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="3"/>
+    <att type="integer" name="#GeneInGO" value="142"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="4.6875"/>
+    <att type="real" name="STDV %InGO" value="2.6421385270446645"/>
+    <att type="real" name="BestLogPInGroup" value="-4.02273859695095"/>
+    <att type="real" name="BestEnrichmentInGroup" value="16.900669642857142"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="0"/>
+    <att type="integer" name="FirstInGroupByLogP" value="0"/>
+    <att type="string" name="GeneID" value="3481|5468|26119"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value=" "/>
+    <att type="integer" name="#COUNT_001" value="3"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-2.4670719418742015"/>
+    <att type="string" name="Gene" value="GO:0062013"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="19"/>
+    <att type="string" name="PARENT_GO" value="19_GO:0048518 positive regulation of biological process"/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="330.85280333768844" y="360.2740238044214"/>
+  </node>
+  <node label="GO:0032368" id="4">
+    <att type="string" name="canonicalName" value="GO:0032368"/>
+    <att type="string" name="Description" value="regulation of lipid transport"/>
+    <att type="string" name="Category" value="GO Biological Processes"/>
+    <att type="real" name="LogP" value="-2.3528187559547837"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="1"/>
+    <att type="string" name="Hits" value="PPARG|LDLRAP1|DENND5B"/>
+    <att type="real" name="Enrichment" value="9.100360576923077"/>
+    <att type="real" name="Z-score" value="4.667767975338727"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="3"/>
+    <att type="integer" name="#GeneInGO" value="156"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="4.6875"/>
+    <att type="real" name="STDV %InGO" value="2.6421385270446645"/>
+    <att type="real" name="BestLogPInGroup" value="-4.02273859695095"/>
+    <att type="real" name="BestEnrichmentInGroup" value="16.900669642857142"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="0"/>
+    <att type="integer" name="FirstInGroupByLogP" value="0"/>
+    <att type="string" name="GeneID" value="5468|26119|160518"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value=" "/>
+    <att type="integer" name="#COUNT_001" value="3"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-2.3528187559547837"/>
+    <att type="string" name="Gene" value="GO:0032368"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="19"/>
+    <att type="string" name="PARENT_GO" value="19_GO:0051179 localization"/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="362.6377345053933" y="325.46277505956357"/>
+  </node>
+  <node label="GO:0019216" id="5">
+    <att type="string" name="canonicalName" value="GO:0019216"/>
+    <att type="string" name="Description" value="regulation of lipid metabolic process"/>
+    <att type="string" name="Category" value="GO Biological Processes"/>
+    <att type="real" name="LogP" value="-2.2973475550630655"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="1"/>
+    <att type="string" name="Hits" value="PPARG|SF1|LDLRAP1|CIDEC"/>
+    <att type="real" name="Enrichment" value="5.806365030674846"/>
+    <att type="real" name="Z-score" value="4.0151042143528475"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="4"/>
+    <att type="integer" name="#GeneInGO" value="326"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="6.25"/>
+    <att type="real" name="STDV %InGO" value="3.0257682392245444"/>
+    <att type="real" name="BestLogPInGroup" value="-4.02273859695095"/>
+    <att type="real" name="BestEnrichmentInGroup" value="16.900669642857142"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="0"/>
+    <att type="integer" name="FirstInGroupByLogP" value="0"/>
+    <att type="string" name="GeneID" value="5468|7536|26119|63924"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value=" "/>
+    <att type="integer" name="#COUNT_001" value="4"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-2.2973475550630655"/>
+    <att type="string" name="Gene" value="GO:0019216"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="19"/>
+    <att type="string" name="PARENT_GO" value="19_GO:0008152 metabolic process"/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="225.46951893435119" y="276.69426460065824"/>
+  </node>
+  <node label="GO:0048660" id="6">
+    <att type="string" name="canonicalName" value="GO:0048660"/>
+    <att type="string" name="Description" value="regulation of smooth muscle cell proliferation"/>
+    <att type="string" name="Category" value="GO Biological Processes"/>
+    <att type="real" name="LogP" value="-2.2213415416726057"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="1"/>
+    <att type="string" name="Hits" value="PPARG|SF1|LDLRAP1"/>
+    <att type="real" name="Enrichment" value="8.158943965517242"/>
+    <att type="real" name="Z-score" value="4.3580876622170575"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="3"/>
+    <att type="integer" name="#GeneInGO" value="174"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="4.6875"/>
+    <att type="real" name="STDV %InGO" value="2.6421385270446645"/>
+    <att type="real" name="BestLogPInGroup" value="-4.02273859695095"/>
+    <att type="real" name="BestEnrichmentInGroup" value="16.900669642857142"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="0"/>
+    <att type="integer" name="FirstInGroupByLogP" value="0"/>
+    <att type="string" name="GeneID" value="5468|7536|26119"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value=" "/>
+    <att type="integer" name="#COUNT_001" value="3"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-2.2213415416726057"/>
+    <att type="string" name="Gene" value="GO:0048660"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="19"/>
+    <att type="string" name="PARENT_GO" value="19_GO:0050789 regulation of biological process"/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="333.6545810959632" y="309.9895523756275"/>
+  </node>
+  <node label="GO:0001959" id="7">
+    <att type="string" name="canonicalName" value="GO:0001959"/>
+    <att type="string" name="Description" value="regulation of cytokine-mediated signaling pathway"/>
+    <att type="string" name="Category" value="GO Biological Processes"/>
+    <att type="real" name="LogP" value="-2.2008845848282084"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="1"/>
+    <att type="string" name="Hits" value="GSTP1|PPARG|IKBKE"/>
+    <att type="real" name="Enrichment" value="8.020656779661017"/>
+    <att type="real" name="Z-score" value="4.310805068560754"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="3"/>
+    <att type="integer" name="#GeneInGO" value="177"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="4.6875"/>
+    <att type="real" name="STDV %InGO" value="2.6421385270446645"/>
+    <att type="real" name="BestLogPInGroup" value="-4.02273859695095"/>
+    <att type="real" name="BestEnrichmentInGroup" value="16.900669642857142"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="0"/>
+    <att type="integer" name="FirstInGroupByLogP" value="0"/>
+    <att type="string" name="GeneID" value="2950|5468|9641"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value=" "/>
+    <att type="integer" name="#COUNT_001" value="3"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-2.2008845848282084"/>
+    <att type="string" name="Gene" value="GO:0001959"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="19"/>
+    <att type="string" name="PARENT_GO" value="19_GO:0050896 response to stimulus"/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="412.9117848538934" y="203.3344877489911"/>
+  </node>
+  <node label="R-HSA-3108232" id="8">
+    <att type="string" name="canonicalName" value="R-HSA-3108232"/>
+    <att type="string" name="Description" value="SUMO E3 ligases SUMOylate target proteins"/>
+    <att type="string" name="Category" value="Reactome Gene Sets"/>
+    <att type="real" name="LogP" value="-2.161092505584091"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="1"/>
+    <att type="string" name="Hits" value="PPARG|IKBKE|STAG1"/>
+    <att type="real" name="Enrichment" value="7.757684426229508"/>
+    <att type="real" name="Z-score" value="4.219497539226039"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="3"/>
+    <att type="integer" name="#GeneInGO" value="183"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="4.6875"/>
+    <att type="real" name="STDV %InGO" value="2.6421385270446645"/>
+    <att type="real" name="BestLogPInGroup" value="-4.02273859695095"/>
+    <att type="real" name="BestEnrichmentInGroup" value="16.900669642857142"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="0"/>
+    <att type="integer" name="FirstInGroupByLogP" value="0"/>
+    <att type="string" name="GeneID" value="5468|9641|10274"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value=" "/>
+    <att type="integer" name="#COUNT_001" value="3"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-2.161092505584091"/>
+    <att type="string" name="Gene" value="R-HSA-3108232"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="6"/>
+    <att type="string" name="PARENT_GO" value=""/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="433.2999645741991" y="361.7842315867034"/>
+  </node>
+  <node label="GO:0060759" id="9">
+    <att type="string" name="canonicalName" value="GO:0060759"/>
+    <att type="string" name="Description" value="regulation of response to cytokine stimulus"/>
+    <att type="string" name="Category" value="GO Biological Processes"/>
+    <att type="real" name="LogP" value="-2.122715329961286"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="1"/>
+    <att type="string" name="Hits" value="GSTP1|PPARG|IKBKE"/>
+    <att type="real" name="Enrichment" value="7.51140873015873"/>
+    <att type="real" name="Z-score" value="4.132248500941012"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="3"/>
+    <att type="integer" name="#GeneInGO" value="189"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="4.6875"/>
+    <att type="real" name="STDV %InGO" value="2.6421385270446645"/>
+    <att type="real" name="BestLogPInGroup" value="-4.02273859695095"/>
+    <att type="real" name="BestEnrichmentInGroup" value="16.900669642857142"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="0"/>
+    <att type="integer" name="FirstInGroupByLogP" value="0"/>
+    <att type="string" name="GeneID" value="2950|5468|9641"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value=" "/>
+    <att type="integer" name="#COUNT_001" value="3"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-2.122715329961286"/>
+    <att type="string" name="Gene" value="GO:0060759"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="19"/>
+    <att type="string" name="PARENT_GO" value="19_GO:0050896 response to stimulus"/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="350.47089177605767" y="377.5977789071836"/>
+  </node>
+  <node label="M254" id="10">
+    <att type="string" name="canonicalName" value="M254"/>
+    <att type="string" name="Description" value="PID MYC REPRESS PATHWAY"/>
+    <att type="string" name="Category" value="Canonical Pathways"/>
+    <att type="real" name="LogP" value="-3.4861684114944738"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="2"/>
+    <att type="string" name="Hits" value="LGALS1|MAX|SP1"/>
+    <att type="real" name="Enrichment" value="22.53422619047619"/>
+    <att type="real" name="Z-score" value="7.873592517950573"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="3"/>
+    <att type="integer" name="#GeneInGO" value="63"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="4.6875"/>
+    <att type="real" name="STDV %InGO" value="2.6421385270446645"/>
+    <att type="real" name="BestLogPInGroup" value="-3.7334938380305345"/>
+    <att type="real" name="BestEnrichmentInGroup" value="27.30108173076923"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="0"/>
+    <att type="integer" name="FirstInGroupByLogP" value="0"/>
+    <att type="string" name="GeneID" value="3956|4149|6667"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value=" "/>
+    <att type="integer" name="#COUNT_001" value="3"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-3.4861684114944738"/>
+    <att type="string" name="Gene" value="M254"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="11"/>
+    <att type="string" name="PARENT_GO" value=""/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="366.8592603340821" y="402.13320776896796"/>
+  </node>
+  <node label="hsa04010" id="11">
+    <att type="string" name="canonicalName" value="hsa04010"/>
+    <att type="string" name="Description" value="MAPK signaling pathway"/>
+    <att type="string" name="Category" value="KEGG Pathway"/>
+    <att type="real" name="LogP" value="-3.3669656875693614"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="2"/>
+    <att type="string" name="Hits" value="DUSP5|IGF2|MAX|NGF|RPS6KA1"/>
+    <att type="real" name="Enrichment" value="7.913357023411371"/>
+    <att type="real" name="Z-score" value="5.528410017475422"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="5"/>
+    <att type="integer" name="#GeneInGO" value="299"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="7.8125"/>
+    <att type="real" name="STDV %InGO" value="3.354602351038607"/>
+    <att type="real" name="BestLogPInGroup" value="-3.7334938380305345"/>
+    <att type="real" name="BestEnrichmentInGroup" value="27.30108173076923"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="0"/>
+    <att type="integer" name="FirstInGroupByLogP" value="0"/>
+    <att type="string" name="GeneID" value="1847|3481|4149|4803|6195"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value=" "/>
+    <att type="integer" name="#COUNT_001" value="5"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-3.3669656875693614"/>
+    <att type="string" name="Gene" value="hsa04010"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="24"/>
+    <att type="string" name="PARENT_GO" value=""/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="290.94299705322317" y="340.96048757087283"/>
+  </node>
+  <node label="WP5087" id="12">
+    <att type="string" name="canonicalName" value="WP5087"/>
+    <att type="string" name="Description" value="Pleural mesothelioma"/>
+    <att type="string" name="Category" value="WikiPathways"/>
+    <att type="real" name="LogP" value="-2.626334608987234"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="2"/>
+    <att type="string" name="Hits" value="IGF2|MAX|NGF|RPS6KA1|SP1"/>
+    <att type="real" name="Enrichment" value="5.389735193621868"/>
+    <att type="real" name="Z-score" value="4.263462185129662"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="5"/>
+    <att type="integer" name="#GeneInGO" value="439"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="7.8125"/>
+    <att type="real" name="STDV %InGO" value="3.354602351038607"/>
+    <att type="real" name="BestLogPInGroup" value="-3.7334938380305345"/>
+    <att type="real" name="BestEnrichmentInGroup" value="27.30108173076923"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="0"/>
+    <att type="integer" name="FirstInGroupByLogP" value="0"/>
+    <att type="string" name="GeneID" value="3481|4149|4803|6195|6667"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value=" "/>
+    <att type="integer" name="#COUNT_001" value="5"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-2.626334608987234"/>
+    <att type="string" name="Gene" value="WP5087"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="27"/>
+    <att type="string" name="PARENT_GO" value=""/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="210.96983142846878" y="421.84944981952634"/>
+  </node>
+  <node label="GO:0032869" id="13">
+    <att type="string" name="canonicalName" value="GO:0032869"/>
+    <att type="string" name="Description" value="cellular response to insulin stimulus"/>
+    <att type="string" name="Category" value="GO Biological Processes"/>
+    <att type="real" name="LogP" value="-2.4003628088418334"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="2"/>
+    <att type="string" name="Hits" value="IGF2|PPARG|SP1"/>
+    <att type="real" name="Enrichment" value="9.464375"/>
+    <att type="real" name="Z-score" value="4.782333922717942"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="3"/>
+    <att type="integer" name="#GeneInGO" value="150"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="4.6875"/>
+    <att type="real" name="STDV %InGO" value="2.6421385270446645"/>
+    <att type="real" name="BestLogPInGroup" value="-3.7334938380305345"/>
+    <att type="real" name="BestEnrichmentInGroup" value="27.30108173076923"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="0"/>
+    <att type="integer" name="FirstInGroupByLogP" value="0"/>
+    <att type="string" name="GeneID" value="3481|5468|6667"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value=" "/>
+    <att type="integer" name="#COUNT_001" value="3"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-2.4003628088418334"/>
+    <att type="string" name="Gene" value="GO:0032869"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="19"/>
+    <att type="string" name="PARENT_GO" value="19_GO:0050896 response to stimulus"/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="221.13583445261733" y="443.746619878909"/>
+  </node>
+  <node label="WP5434" id="14">
+    <att type="string" name="canonicalName" value="WP5434"/>
+    <att type="string" name="Description" value="Pathways in cancer"/>
+    <att type="string" name="Category" value="WikiPathways"/>
+    <att type="real" name="LogP" value="-2.3525609382831254"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="2"/>
+    <att type="string" name="Hits" value="GSTP1|IGF2|MAX|PPARG|SP1"/>
+    <att type="real" name="Enrichment" value="4.648514243614931"/>
+    <att type="real" name="Z-score" value="3.8201168041360156"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="5"/>
+    <att type="integer" name="#GeneInGO" value="509"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="7.8125"/>
+    <att type="real" name="STDV %InGO" value="3.354602351038607"/>
+    <att type="real" name="BestLogPInGroup" value="-3.7334938380305345"/>
+    <att type="real" name="BestEnrichmentInGroup" value="27.30108173076923"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="0"/>
+    <att type="integer" name="FirstInGroupByLogP" value="0"/>
+    <att type="string" name="GeneID" value="2950|3481|4149|5468|6667"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value=" "/>
+    <att type="integer" name="#COUNT_001" value="5"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-2.3525609382831254"/>
+    <att type="string" name="Gene" value="WP5434"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="27"/>
+    <att type="string" name="PARENT_GO" value=""/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="417.5179357700369" y="196.84854429262958"/>
+  </node>
+  <node label="hsa05200" id="15">
+    <att type="string" name="canonicalName" value="hsa05200"/>
+    <att type="string" name="Description" value="Pathways in cancer"/>
+    <att type="string" name="Category" value="KEGG Pathway"/>
+    <att type="real" name="LogP" value="-2.2756574140150208"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="2"/>
+    <att type="string" name="Hits" value="GSTP1|IGF2|MAX|PPARG|SP1"/>
+    <att type="real" name="Enrichment" value="4.4559204331450095"/>
+    <att type="real" name="Z-score" value="3.6972021219473867"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="5"/>
+    <att type="integer" name="#GeneInGO" value="531"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="7.8125"/>
+    <att type="real" name="STDV %InGO" value="3.354602351038607"/>
+    <att type="real" name="BestLogPInGroup" value="-3.7334938380305345"/>
+    <att type="real" name="BestEnrichmentInGroup" value="27.30108173076923"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="0"/>
+    <att type="integer" name="FirstInGroupByLogP" value="0"/>
+    <att type="string" name="GeneID" value="2950|3481|4149|5468|6667"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value=" "/>
+    <att type="integer" name="#COUNT_001" value="5"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-2.2756574140150208"/>
+    <att type="string" name="Gene" value="hsa05200"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="24"/>
+    <att type="string" name="PARENT_GO" value=""/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="199.65165321319944" y="302.4835128781495"/>
+  </node>
+  <node label="GO:0001936" id="16">
+    <att type="string" name="canonicalName" value="GO:0001936"/>
+    <att type="string" name="Description" value="regulation of endothelial cell proliferation"/>
+    <att type="string" name="Category" value="GO Biological Processes"/>
+    <att type="real" name="LogP" value="-2.1741946676952764"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="2"/>
+    <att type="string" name="Hits" value="IGF2|PPARG|SP1"/>
+    <att type="real" name="Enrichment" value="7.8434046961325965"/>
+    <att type="real" name="Z-score" value="4.24946611467242"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="3"/>
+    <att type="integer" name="#GeneInGO" value="181"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="4.6875"/>
+    <att type="real" name="STDV %InGO" value="2.6421385270446645"/>
+    <att type="real" name="BestLogPInGroup" value="-3.7334938380305345"/>
+    <att type="real" name="BestEnrichmentInGroup" value="27.30108173076923"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="0"/>
+    <att type="integer" name="FirstInGroupByLogP" value="0"/>
+    <att type="string" name="GeneID" value="3481|5468|6667"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value=" "/>
+    <att type="integer" name="#COUNT_001" value="3"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-2.1741946676952764"/>
+    <att type="string" name="Gene" value="GO:0001936"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="19"/>
+    <att type="string" name="PARENT_GO" value="19_GO:0050789 regulation of biological process"/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="376.05789417308915" y="266.0801906645463"/>
+  </node>
+  <node label="hsa05202" id="17">
+    <att type="string" name="canonicalName" value="hsa05202"/>
+    <att type="string" name="Description" value="Transcriptional misregulation in cancer"/>
+    <att type="string" name="Category" value="KEGG Pathway"/>
+    <att type="real" name="LogP" value="-2.0978722813563304"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="2"/>
+    <att type="string" name="Hits" value="MAX|PPARG|SP1"/>
+    <att type="real" name="Enrichment" value="7.355731865284974"/>
+    <att type="real" name="Z-score" value="4.076182820537119"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="3"/>
+    <att type="integer" name="#GeneInGO" value="193"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="4.6875"/>
+    <att type="real" name="STDV %InGO" value="2.6421385270446645"/>
+    <att type="real" name="BestLogPInGroup" value="-3.7334938380305345"/>
+    <att type="real" name="BestEnrichmentInGroup" value="27.30108173076923"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="0"/>
+    <att type="integer" name="FirstInGroupByLogP" value="0"/>
+    <att type="string" name="GeneID" value="4149|5468|6667"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value=" "/>
+    <att type="integer" name="#COUNT_001" value="3"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-2.0978722813563304"/>
+    <att type="string" name="Gene" value="hsa05202"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="24"/>
+    <att type="string" name="PARENT_GO" value=""/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="445.8078416143038" y="313.6882600755581"/>
+  </node>
+  <node label="GO:0044270" id="18">
+    <att type="string" name="canonicalName" value="GO:0044270"/>
+    <att type="string" name="Description" value="cellular nitrogen compound catabolic process"/>
+    <att type="string" name="Category" value="GO Biological Processes"/>
+    <att type="real" name="LogP" value="-2.935718495945584"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="3"/>
+    <att type="string" name="Hits" value="NUDT1|EXOG|NOCT|CECR2|PDXP"/>
+    <att type="real" name="Enrichment" value="6.343414879356568"/>
+    <att type="real" name="Z-score" value="4.77843300279963"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="5"/>
+    <att type="integer" name="#GeneInGO" value="373"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="7.8125"/>
+    <att type="real" name="STDV %InGO" value="3.354602351038607"/>
+    <att type="real" name="BestLogPInGroup" value="-3.6846726842551196"/>
+    <att type="real" name="BestEnrichmentInGroup" value="26.289930555555557"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="0"/>
+    <att type="integer" name="FirstInGroupByLogP" value="0"/>
+    <att type="string" name="GeneID" value="4521|9941|25819|27443|57026"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value=" "/>
+    <att type="integer" name="#COUNT_001" value="5"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-2.935718495945584"/>
+    <att type="string" name="Gene" value="GO:0044270"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="19"/>
+    <att type="string" name="PARENT_GO" value="19_GO:0008152 metabolic process"/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="333.9418923759015" y="217.20663004062442"/>
+  </node>
+  <node label="GO:0046700" id="19">
+    <att type="string" name="canonicalName" value="GO:0046700"/>
+    <att type="string" name="Description" value="heterocycle catabolic process"/>
+    <att type="string" name="Category" value="GO Biological Processes"/>
+    <att type="real" name="LogP" value="-2.930573240978821"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="3"/>
+    <att type="string" name="Hits" value="NUDT1|EXOG|NOCT|CECR2|PDXP"/>
+    <att type="real" name="Enrichment" value="6.326453877005347"/>
+    <att type="real" name="Z-score" value="4.769725886731004"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="5"/>
+    <att type="integer" name="#GeneInGO" value="374"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="7.8125"/>
+    <att type="real" name="STDV %InGO" value="3.354602351038607"/>
+    <att type="real" name="BestLogPInGroup" value="-3.6846726842551196"/>
+    <att type="real" name="BestEnrichmentInGroup" value="26.289930555555557"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="0"/>
+    <att type="integer" name="FirstInGroupByLogP" value="0"/>
+    <att type="string" name="GeneID" value="4521|9941|25819|27443|57026"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value=" "/>
+    <att type="integer" name="#COUNT_001" value="5"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-2.930573240978821"/>
+    <att type="string" name="Gene" value="GO:0046700"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="19"/>
+    <att type="string" name="PARENT_GO" value="19_GO:0008152 metabolic process"/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="237.45818278532076" y="163.3145729096509"/>
+  </node>
+  <node label="GO:0019439" id="20">
+    <att type="string" name="canonicalName" value="GO:0019439"/>
+    <att type="string" name="Description" value="aromatic compound catabolic process"/>
+    <att type="string" name="Category" value="GO Biological Processes"/>
+    <att type="real" name="LogP" value="-2.8308517456447158"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="3"/>
+    <att type="string" name="Hits" value="NUDT1|EXOG|NOCT|CECR2|PDXP"/>
+    <att type="real" name="Enrichment" value="6.005314086294416"/>
+    <att type="real" name="Z-score" value="4.6019737213378935"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="5"/>
+    <att type="integer" name="#GeneInGO" value="394"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="7.8125"/>
+    <att type="real" name="STDV %InGO" value="3.354602351038607"/>
+    <att type="real" name="BestLogPInGroup" value="-3.6846726842551196"/>
+    <att type="real" name="BestEnrichmentInGroup" value="26.289930555555557"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="0"/>
+    <att type="integer" name="FirstInGroupByLogP" value="0"/>
+    <att type="string" name="GeneID" value="4521|9941|25819|27443|57026"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value=" "/>
+    <att type="integer" name="#COUNT_001" value="5"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-2.8308517456447158"/>
+    <att type="string" name="Gene" value="GO:0019439"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="19"/>
+    <att type="string" name="PARENT_GO" value="19_GO:0008152 metabolic process"/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="350.88649418087266" y="331.41419000303074"/>
+  </node>
+  <node label="GO:1901361" id="21">
+    <att type="string" name="canonicalName" value="GO:1901361"/>
+    <att type="string" name="Description" value="organic cyclic compound catabolic process"/>
+    <att type="string" name="Category" value="GO Biological Processes"/>
+    <att type="real" name="LogP" value="-2.70061505508069"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="3"/>
+    <att type="string" name="Hits" value="NUDT1|EXOG|NOCT|CECR2|PDXP"/>
+    <att type="real" name="Enrichment" value="5.606857227488152"/>
+    <att type="real" name="Z-score" value="4.38560148753056"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="5"/>
+    <att type="integer" name="#GeneInGO" value="422"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="7.8125"/>
+    <att type="real" name="STDV %InGO" value="3.354602351038607"/>
+    <att type="real" name="BestLogPInGroup" value="-3.6846726842551196"/>
+    <att type="real" name="BestEnrichmentInGroup" value="26.289930555555557"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="0"/>
+    <att type="integer" name="FirstInGroupByLogP" value="0"/>
+    <att type="string" name="GeneID" value="4521|9941|25819|27443|57026"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value=" "/>
+    <att type="integer" name="#COUNT_001" value="5"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-2.70061505508069"/>
+    <att type="string" name="Gene" value="GO:1901361"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="19"/>
+    <att type="string" name="PARENT_GO" value="19_GO:0008152 metabolic process"/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="361.86450439472503" y="166.8173878364787"/>
+  </node>
+  <node label="GO:0034655" id="22">
+    <att type="string" name="canonicalName" value="GO:0034655"/>
+    <att type="string" name="Description" value="nucleobase-containing compound catabolic process"/>
+    <att type="string" name="Category" value="GO Biological Processes"/>
+    <att type="real" name="LogP" value="-2.269595097560086"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="3"/>
+    <att type="string" name="Hits" value="NUDT1|EXOG|NOCT|CECR2"/>
+    <att type="real" name="Enrichment" value="5.701430722891566"/>
+    <att type="real" name="Z-score" value="3.9638192779615866"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="4"/>
+    <att type="integer" name="#GeneInGO" value="332"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="6.25"/>
+    <att type="real" name="STDV %InGO" value="3.0257682392245444"/>
+    <att type="real" name="BestLogPInGroup" value="-3.6846726842551196"/>
+    <att type="real" name="BestEnrichmentInGroup" value="26.289930555555557"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="0"/>
+    <att type="integer" name="FirstInGroupByLogP" value="0"/>
+    <att type="string" name="GeneID" value="4521|9941|25819|27443"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value=" "/>
+    <att type="integer" name="#COUNT_001" value="4"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-2.269595097560086"/>
+    <att type="string" name="Gene" value="GO:0034655"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="19"/>
+    <att type="string" name="PARENT_GO" value="19_GO:0008152 metabolic process"/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="432.12174919443123" y="238.5147077987063"/>
+  </node>
+  <node label="GO:0006325" id="23">
+    <att type="string" name="canonicalName" value="GO:0006325"/>
+    <att type="string" name="Description" value="chromatin organization"/>
+    <att type="string" name="Category" value="GO Biological Processes"/>
+    <att type="real" name="LogP" value="-2.8420881557180944"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="4"/>
+    <att type="string" name="Hits" value="IGF2|SUPT5H|BICRAL|SETBP1|CECR2|DMAP1|TSPYL5"/>
+    <att type="real" name="Enrichment" value="4.15625"/>
+    <att type="real" name="Z-score" value="4.1553987882497125"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="7"/>
+    <att type="integer" name="#GeneInGO" value="797"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="10.9375"/>
+    <att type="real" name="STDV %InGO" value="3.901364131921519"/>
+    <att type="real" name="BestLogPInGroup" value="-3.347406250435034"/>
+    <att type="real" name="BestEnrichmentInGroup" value="12.133814102564102"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="0"/>
+    <att type="integer" name="FirstInGroupByLogP" value="0"/>
+    <att type="string" name="GeneID" value="3481|6829|23506|26040|27443|55929|85453"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value=" "/>
+    <att type="integer" name="#COUNT_001" value="7"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-2.8420881557180944"/>
+    <att type="string" name="Gene" value="GO:0006325"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="19"/>
+    <att type="string" name="PARENT_GO" value="19_GO:0009987 cellular process"/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="240.36086836258465" y="158.1534622395263"/>
+  </node>
+  <node label="hsa03082" id="24">
+    <att type="string" name="canonicalName" value="hsa03082"/>
+    <att type="string" name="Description" value="ATP-dependent chromatin remodeling"/>
+    <att type="string" name="Category" value="KEGG Pathway"/>
+    <att type="real" name="LogP" value="-2.7051107175625804"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="4"/>
+    <att type="string" name="Hits" value="BICRAL|CECR2|DMAP1"/>
+    <att type="real" name="Enrichment" value="12.133814102564102"/>
+    <att type="real" name="Z-score" value="5.5526284569780096"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="3"/>
+    <att type="integer" name="#GeneInGO" value="117"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="4.6875"/>
+    <att type="real" name="STDV %InGO" value="2.6421385270446645"/>
+    <att type="real" name="BestLogPInGroup" value="-3.347406250435034"/>
+    <att type="real" name="BestEnrichmentInGroup" value="12.133814102564102"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="0"/>
+    <att type="integer" name="FirstInGroupByLogP" value="0"/>
+    <att type="string" name="GeneID" value="23506|27443|55929"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value=" "/>
+    <att type="integer" name="#COUNT_001" value="3"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-2.7051107175625804"/>
+    <att type="string" name="Gene" value="hsa03082"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="24"/>
+    <att type="string" name="PARENT_GO" value=""/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="322.9953242053732" y="153.8421190421856"/>
+  </node>
+  <node label="GO:0045598" id="25">
+    <att type="string" name="canonicalName" value="GO:0045598"/>
+    <att type="string" name="Description" value="regulation of fat cell differentiation"/>
+    <att type="string" name="Category" value="GO Biological Processes"/>
+    <att type="real" name="LogP" value="-2.4332218191443102"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="5"/>
+    <att type="string" name="Hits" value="PPARG|NOCT|FNDC5"/>
+    <att type="real" name="Enrichment" value="9.723672945205479"/>
+    <att type="real" name="Z-score" value="4.86235154172714"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="3"/>
+    <att type="integer" name="#GeneInGO" value="146"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="4.6875"/>
+    <att type="real" name="STDV %InGO" value="2.6421385270446645"/>
+    <att type="real" name="BestLogPInGroup" value="-3.333252516394891"/>
+    <att type="real" name="BestEnrichmentInGroup" value="19.995158450704224"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="0"/>
+    <att type="integer" name="FirstInGroupByLogP" value="0"/>
+    <att type="string" name="GeneID" value="5468|25819|252995"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value=" "/>
+    <att type="integer" name="#COUNT_001" value="3"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-2.4332218191443102"/>
+    <att type="string" name="Gene" value="GO:0045598"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="19"/>
+    <att type="string" name="PARENT_GO" value="19_GO:0032502 developmental process"/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="415.69440799888724" y="392.6260064716747"/>
+  </node>
+  <node label="GO:0009991" id="26">
+    <att type="string" name="canonicalName" value="GO:0009991"/>
+    <att type="string" name="Description" value="response to extracellular stimulus"/>
+    <att type="string" name="Category" value="GO Biological Processes"/>
+    <att type="real" name="LogP" value="-2.356150863983741"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="5"/>
+    <att type="string" name="Hits" value="NUDT1|PPARG|SP1|KPTN|NOCT"/>
+    <att type="real" name="Enrichment" value="4.657664862204724"/>
+    <att type="real" name="Z-score" value="3.825869735592947"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="5"/>
+    <att type="integer" name="#GeneInGO" value="508"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="7.8125"/>
+    <att type="real" name="STDV %InGO" value="3.354602351038607"/>
+    <att type="real" name="BestLogPInGroup" value="-3.333252516394891"/>
+    <att type="real" name="BestEnrichmentInGroup" value="19.995158450704224"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="0"/>
+    <att type="integer" name="FirstInGroupByLogP" value="0"/>
+    <att type="string" name="GeneID" value="4521|5468|6667|11133|25819"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value=" "/>
+    <att type="integer" name="#COUNT_001" value="5"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-2.356150863983741"/>
+    <att type="string" name="Gene" value="GO:0009991"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="19"/>
+    <att type="string" name="PARENT_GO" value="19_GO:0050896 response to stimulus"/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="292.9170783411455" y="194.0971004173079"/>
+  </node>
+  <node label="GO:0043409" id="27">
+    <att type="string" name="canonicalName" value="GO:0043409"/>
+    <att type="string" name="Description" value="negative regulation of MAPK cascade"/>
+    <att type="string" name="Category" value="GO Biological Processes"/>
+    <att type="real" name="LogP" value="-2.2492287044946813"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="8"/>
+    <att type="string" name="Hits" value="DUSP5|GSTP1|PPARG"/>
+    <att type="real" name="Enrichment" value="8.35091911764706"/>
+    <att type="real" name="Z-score" value="4.422925621162272"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="3"/>
+    <att type="integer" name="#GeneInGO" value="170"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="4.6875"/>
+    <att type="real" name="STDV %InGO" value="2.6421385270446645"/>
+    <att type="real" name="BestLogPInGroup" value="-2.5412953064073247"/>
+    <att type="real" name="BestEnrichmentInGroup" value="8.35091911764706"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="0"/>
+    <att type="integer" name="FirstInGroupByLogP" value="0"/>
+    <att type="string" name="GeneID" value="1847|2950|5468"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value=" "/>
+    <att type="integer" name="#COUNT_001" value="3"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-2.2492287044946813"/>
+    <att type="string" name="Gene" value="GO:0043409"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="19"/>
+    <att type="string" name="PARENT_GO" value="19_GO:0048519 negative regulation of biological process"/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="342.2617164492332" y="413.1795761451539"/>
+  </node>
+  <node label="GO:1902532" id="28">
+    <att type="string" name="canonicalName" value="GO:1902532"/>
+    <att type="string" name="Description" value="negative regulation of intracellular signal transduction"/>
+    <att type="string" name="Category" value="GO Biological Processes"/>
+    <att type="real" name="LogP" value="-2.084129597079279"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="8"/>
+    <att type="string" name="Hits" value="DUSP5|GSTP1|PPARG|RPS6KA1|KPTN"/>
+    <att type="real" name="Enrichment" value="4.0035427241962775"/>
+    <att type="real" name="Z-score" value="3.3933453794653494"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="5"/>
+    <att type="integer" name="#GeneInGO" value="591"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="7.8125"/>
+    <att type="real" name="STDV %InGO" value="3.354602351038607"/>
+    <att type="real" name="BestLogPInGroup" value="-2.5412953064073247"/>
+    <att type="real" name="BestEnrichmentInGroup" value="8.35091911764706"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="0"/>
+    <att type="integer" name="FirstInGroupByLogP" value="0"/>
+    <att type="string" name="GeneID" value="1847|2950|5468|6195|11133"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value=" "/>
+    <att type="integer" name="#COUNT_001" value="5"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-2.084129597079279"/>
+    <att type="string" name="Gene" value="GO:1902532"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="19"/>
+    <att type="string" name="PARENT_GO" value="19_GO:0048519 negative regulation of biological process"/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="225.68996422874426" y="416.859430563006"/>
+  </node>
+  <node label="GO:0048469" id="29">
+    <att type="string" name="canonicalName" value="GO:0048469"/>
+    <att type="string" name="Description" value="cell maturation"/>
+    <att type="string" name="Category" value="GO Biological Processes"/>
+    <att type="real" name="LogP" value="-2.1546005655804734"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="9"/>
+    <att type="string" name="Hits" value="PPARG|RND1|SRRM4"/>
+    <att type="real" name="Enrichment" value="7.715523097826087"/>
+    <att type="real" name="Z-score" value="4.204682993908027"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="3"/>
+    <att type="integer" name="#GeneInGO" value="184"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="4.6875"/>
+    <att type="real" name="STDV %InGO" value="2.6421385270446645"/>
+    <att type="real" name="BestLogPInGroup" value="-2.4986831519715764"/>
+    <att type="real" name="BestEnrichmentInGroup" value="7.715523097826087"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="0"/>
+    <att type="integer" name="FirstInGroupByLogP" value="0"/>
+    <att type="string" name="GeneID" value="5468|27289|84530"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value=" "/>
+    <att type="integer" name="#COUNT_001" value="3"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-2.1546005655804734"/>
+    <att type="string" name="Gene" value="GO:0048469"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="19"/>
+    <att type="string" name="PARENT_GO" value="19_GO:0032502 developmental process"/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="236.24448669822195" y="165.14555923001086"/>
+  </node>
+  <node label="WP2882" id="30">
+    <att type="string" name="canonicalName" value="WP2882"/>
+    <att type="string" name="Description" value="Nuclear receptors meta pathway"/>
+    <att type="string" name="Category" value="WikiPathways"/>
+    <att type="real" name="LogP" value="-2.354653512503507"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="10"/>
+    <att type="string" name="Hits" value="GSTP1|NRG1|SP1|PTGR1"/>
+    <att type="real" name="Enrichment" value="6.028264331210191"/>
+    <att type="real" name="Z-score" value="4.121613250184569"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="4"/>
+    <att type="integer" name="#GeneInGO" value="314"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="6.25"/>
+    <att type="real" name="STDV %InGO" value="3.0257682392245444"/>
+    <att type="real" name="BestLogPInGroup" value="-2.475695919447031"/>
+    <att type="real" name="BestEnrichmentInGroup" value="10.068484042553191"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="0"/>
+    <att type="integer" name="FirstInGroupByLogP" value="0"/>
+    <att type="string" name="GeneID" value="2950|3084|6667|22949"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value=" "/>
+    <att type="integer" name="#COUNT_001" value="4"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-2.354653512503507"/>
+    <att type="string" name="Gene" value="WP2882"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="27"/>
+    <att type="string" name="PARENT_GO" value=""/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="296.308354835391" y="396.16252400824715"/>
+  </node>
+  <node label="WP2884" id="31">
+    <att type="string" name="canonicalName" value="WP2884"/>
+    <att type="string" name="Description" value="NRF2 pathway"/>
+    <att type="string" name="Category" value="WikiPathways"/>
+    <att type="real" name="LogP" value="-2.475695919447031"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="10"/>
+    <att type="string" name="Hits" value="GSTP1|NRG1|PTGR1"/>
+    <att type="real" name="Enrichment" value="10.068484042553191"/>
+    <att type="real" name="Z-score" value="4.966824111311533"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="3"/>
+    <att type="integer" name="#GeneInGO" value="141"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="4.6875"/>
+    <att type="real" name="STDV %InGO" value="2.6421385270446645"/>
+    <att type="real" name="BestLogPInGroup" value="-2.475695919447031"/>
+    <att type="real" name="BestEnrichmentInGroup" value="10.068484042553191"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="1"/>
+    <att type="integer" name="FirstInGroupByLogP" value="1"/>
+    <att type="string" name="GeneID" value="2950|3084|22949"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value="NRF2 pathway"/>
+    <att type="integer" name="#COUNT_001" value="3"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-2.475695919447031"/>
+    <att type="string" name="Gene" value="WP2884"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="27"/>
+    <att type="string" name="PARENT_GO" value=""/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="320.08964506240426" y="231.1007675577207"/>
+  </node>
+  <node label="R-HSA-381426" id="32">
+    <att type="string" name="canonicalName" value="R-HSA-381426"/>
+    <att type="string" name="Description" value="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+    <att type="string" name="Category" value="Reactome Gene Sets"/>
+    <att type="real" name="LogP" value="-2.623420791509084"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="7"/>
+    <att type="string" name="Hits" value="IGF2|LGALS1|ANO8"/>
+    <att type="real" name="Enrichment" value="11.35725"/>
+    <att type="real" name="Z-score" value="5.339723545335828"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="3"/>
+    <att type="integer" name="#GeneInGO" value="125"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="4.6875"/>
+    <att type="real" name="STDV %InGO" value="2.6421385270446645"/>
+    <att type="real" name="BestLogPInGroup" value="-2.623420791509084"/>
+    <att type="real" name="BestEnrichmentInGroup" value="11.35725"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="1"/>
+    <att type="integer" name="FirstInGroupByLogP" value="1"/>
+    <att type="string" name="GeneID" value="3481|3956|57719"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+    <att type="integer" name="#COUNT_001" value="3"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-2.623420791509084"/>
+    <att type="string" name="Gene" value="R-HSA-381426"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="6"/>
+    <att type="string" name="PARENT_GO" value=""/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="177.48377550449243" y="308.96334503779667"/>
+  </node>
+  <node label="WP4321" id="33">
+    <att type="string" name="canonicalName" value="WP4321"/>
+    <att type="string" name="Description" value="Thermogenesis"/>
+    <att type="string" name="Category" value="WikiPathways"/>
+    <att type="real" name="LogP" value="-2.804479163874881"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="6"/>
+    <att type="string" name="Hits" value="PPARG|RPS6KA1|CREB3L2"/>
+    <att type="real" name="Enrichment" value="13.144965277777779"/>
+    <att type="real" name="Z-score" value="5.818420483975515"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="3"/>
+    <att type="integer" name="#GeneInGO" value="108"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="4.6875"/>
+    <att type="real" name="STDV %InGO" value="2.6421385270446645"/>
+    <att type="real" name="BestLogPInGroup" value="-2.804479163874881"/>
+    <att type="real" name="BestEnrichmentInGroup" value="13.144965277777779"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="1"/>
+    <att type="integer" name="FirstInGroupByLogP" value="1"/>
+    <att type="string" name="GeneID" value="5468|6195|64764"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value="Thermogenesis"/>
+    <att type="integer" name="#COUNT_001" value="3"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-2.804479163874881"/>
+    <att type="string" name="Gene" value="WP4321"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="27"/>
+    <att type="string" name="PARENT_GO" value=""/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="447.1134186003298" y="292.5266775019984"/>
+  </node>
+  <node label="GO:0006338" id="34">
+    <att type="string" name="canonicalName" value="GO:0006338"/>
+    <att type="string" name="Description" value="chromatin remodeling"/>
+    <att type="string" name="Category" value="GO Biological Processes"/>
+    <att type="real" name="LogP" value="-3.347406250435034"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="4"/>
+    <att type="string" name="Hits" value="IGF2|SUPT5H|BICRAL|SETBP1|CECR2|DMAP1|TSPYL5"/>
+    <att type="real" name="Enrichment" value="5.072789050535988"/>
+    <att type="real" name="Z-score" value="4.841755693855772"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="7"/>
+    <att type="integer" name="#GeneInGO" value="653"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="10.9375"/>
+    <att type="real" name="STDV %InGO" value="3.901364131921519"/>
+    <att type="real" name="BestLogPInGroup" value="-3.347406250435034"/>
+    <att type="real" name="BestEnrichmentInGroup" value="12.133814102564102"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="1"/>
+    <att type="integer" name="FirstInGroupByLogP" value="1"/>
+    <att type="string" name="GeneID" value="3481|6829|23506|26040|27443|55929|85453"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value="chromatin remodeling"/>
+    <att type="integer" name="#COUNT_001" value="7"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-3.347406250435034"/>
+    <att type="string" name="Gene" value="GO:0006338"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="19"/>
+    <att type="string" name="PARENT_GO" value="19_GO:0009987 cellular process"/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="289.44848968149324" y="422.80568564531353"/>
+  </node>
+  <node label="GO:0021700" id="35">
+    <att type="string" name="canonicalName" value="GO:0021700"/>
+    <att type="string" name="Description" value="developmental maturation"/>
+    <att type="string" name="Category" value="GO Biological Processes"/>
+    <att type="real" name="LogP" value="-2.4986831519715764"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="9"/>
+    <att type="string" name="Hits" value="PPARG|SEZ6L2|RND1|SRRM4"/>
+    <att type="real" name="Enrichment" value="6.618444055944056"/>
+    <att type="real" name="Z-score" value="4.39319646460243"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="4"/>
+    <att type="integer" name="#GeneInGO" value="286"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="6.25"/>
+    <att type="real" name="STDV %InGO" value="3.0257682392245444"/>
+    <att type="real" name="BestLogPInGroup" value="-2.4986831519715764"/>
+    <att type="real" name="BestEnrichmentInGroup" value="7.715523097826087"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="1"/>
+    <att type="integer" name="FirstInGroupByLogP" value="1"/>
+    <att type="string" name="GeneID" value="5468|26470|27289|84530"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value="developmental maturation"/>
+    <att type="integer" name="#COUNT_001" value="4"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-2.4986831519715764"/>
+    <att type="string" name="Gene" value="GO:0021700"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="19"/>
+    <att type="string" name="PARENT_GO" value="19_GO:0032502 developmental process"/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="436.5592518353486" y="379.55467851602725"/>
+  </node>
+  <node label="GO:0007167" id="36">
+    <att type="string" name="canonicalName" value="GO:0007167"/>
+    <att type="string" name="Description" value="enzyme-linked receptor protein signaling pathway"/>
+    <att type="string" name="Category" value="GO Biological Processes"/>
+    <att type="real" name="LogP" value="-2.01693988827633"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="11"/>
+    <att type="string" name="Hits" value="EPHB6|NRG1|IGF2|NGF|PPARG"/>
+    <att type="real" name="Enrichment" value="3.8535728827361564"/>
+    <att type="real" name="Z-score" value="3.2873195313193526"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="5"/>
+    <att type="integer" name="#GeneInGO" value="614"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="7.8125"/>
+    <att type="real" name="STDV %InGO" value="3.354602351038607"/>
+    <att type="real" name="BestLogPInGroup" value="-2.01693988827633"/>
+    <att type="real" name="BestEnrichmentInGroup" value="3.8535728827361564"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="1"/>
+    <att type="integer" name="FirstInGroupByLogP" value="1"/>
+    <att type="string" name="GeneID" value="2051|3084|3481|4803|5468"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value="enzyme-linked receptor protein signaling pathway"/>
+    <att type="integer" name="#COUNT_001" value="5"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-2.01693988827633"/>
+    <att type="string" name="Gene" value="GO:0007167"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="19"/>
+    <att type="string" name="PARENT_GO" value="19_GO:0050896 response to stimulus"/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="246.41321679379135" y="436.03291088198927"/>
+  </node>
+  <node label="GO:0097194" id="37">
+    <att type="string" name="canonicalName" value="GO:0097194"/>
+    <att type="string" name="Description" value="execution phase of apoptosis"/>
+    <att type="string" name="Category" value="GO Biological Processes"/>
+    <att type="real" name="LogP" value="-3.6846726842551196"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="3"/>
+    <att type="string" name="Hits" value="EXOG|CECR2|CIDEC"/>
+    <att type="real" name="Enrichment" value="26.289930555555557"/>
+    <att type="real" name="Z-score" value="8.559595714476263"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="3"/>
+    <att type="integer" name="#GeneInGO" value="54"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="4.6875"/>
+    <att type="real" name="STDV %InGO" value="2.6421385270446645"/>
+    <att type="real" name="BestLogPInGroup" value="-3.6846726842551196"/>
+    <att type="real" name="BestEnrichmentInGroup" value="26.289930555555557"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="1"/>
+    <att type="integer" name="FirstInGroupByLogP" value="1"/>
+    <att type="string" name="GeneID" value="9941|27443|63924"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value="execution phase of apoptosis"/>
+    <att type="integer" name="#COUNT_001" value="3"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-3.6846726842551196"/>
+    <att type="string" name="Gene" value="GO:0097194"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="19"/>
+    <att type="string" name="PARENT_GO" value="19_GO:0009987 cellular process"/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="394.3543966865579" y="210.44384282861813"/>
+  </node>
+  <node label="GO:0045600" id="38">
+    <att type="string" name="canonicalName" value="GO:0045600"/>
+    <att type="string" name="Description" value="positive regulation of fat cell differentiation"/>
+    <att type="string" name="Category" value="GO Biological Processes"/>
+    <att type="real" name="LogP" value="-3.333252516394891"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="5"/>
+    <att type="string" name="Hits" value="PPARG|NOCT|FNDC5"/>
+    <att type="real" name="Enrichment" value="19.995158450704224"/>
+    <att type="real" name="Z-score" value="7.373997245974583"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="3"/>
+    <att type="integer" name="#GeneInGO" value="71"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="4.6875"/>
+    <att type="real" name="STDV %InGO" value="2.6421385270446645"/>
+    <att type="real" name="BestLogPInGroup" value="-3.333252516394891"/>
+    <att type="real" name="BestEnrichmentInGroup" value="19.995158450704224"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="1"/>
+    <att type="integer" name="FirstInGroupByLogP" value="1"/>
+    <att type="string" name="GeneID" value="5468|25819|252995"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value="positive regulation of fat cell differentiation"/>
+    <att type="integer" name="#COUNT_001" value="3"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-3.333252516394891"/>
+    <att type="string" name="Gene" value="GO:0045600"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="19"/>
+    <att type="string" name="PARENT_GO" value="19_GO:0032502 developmental process"/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="242.9478436549472" y="364.2254097367738"/>
+  </node>
+  <node label="GO:1905954" id="39">
+    <att type="string" name="canonicalName" value="GO:1905954"/>
+    <att type="string" name="Description" value="positive regulation of lipid localization"/>
+    <att type="string" name="Category" value="GO Biological Processes"/>
+    <att type="real" name="LogP" value="-4.02273859695095"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="1"/>
+    <att type="string" name="Hits" value="PPARG|IKBKE|LDLRAP1|DENND5B"/>
+    <att type="real" name="Enrichment" value="16.900669642857142"/>
+    <att type="real" name="Z-score" value="7.758006843122017"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="4"/>
+    <att type="integer" name="#GeneInGO" value="112"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="6.25"/>
+    <att type="real" name="STDV %InGO" value="3.0257682392245444"/>
+    <att type="real" name="BestLogPInGroup" value="-4.02273859695095"/>
+    <att type="real" name="BestEnrichmentInGroup" value="16.900669642857142"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="1"/>
+    <att type="integer" name="FirstInGroupByLogP" value="1"/>
+    <att type="string" name="GeneID" value="5468|9641|26119|160518"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value="positive regulation of lipid localization"/>
+    <att type="integer" name="#COUNT_001" value="4"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-4.02273859695095"/>
+    <att type="string" name="Gene" value="GO:1905954"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="19"/>
+    <att type="string" name="PARENT_GO" value="19_GO:0051179 localization"/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="246.51960911812873" y="423.643392030966"/>
+  </node>
+  <node label="GO:0043408" id="40">
+    <att type="string" name="canonicalName" value="GO:0043408"/>
+    <att type="string" name="Description" value="regulation of MAPK cascade"/>
+    <att type="string" name="Category" value="GO Biological Processes"/>
+    <att type="real" name="LogP" value="-2.5412953064073247"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="8"/>
+    <att type="string" name="Hits" value="DUSP5|GSTP1|NRG1|IGF2|PPARG|SORBS3"/>
+    <att type="real" name="Enrichment" value="4.244114349775785"/>
+    <att type="real" name="Z-score" value="3.904638710649701"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="6"/>
+    <att type="integer" name="#GeneInGO" value="669"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="9.375"/>
+    <att type="real" name="STDV %InGO" value="3.6435074426128184"/>
+    <att type="real" name="BestLogPInGroup" value="-2.5412953064073247"/>
+    <att type="real" name="BestEnrichmentInGroup" value="8.35091911764706"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="1"/>
+    <att type="integer" name="FirstInGroupByLogP" value="1"/>
+    <att type="string" name="GeneID" value="1847|2950|3084|3481|5468|10174"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value="regulation of MAPK cascade"/>
+    <att type="integer" name="#COUNT_001" value="6"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-2.5412953064073247"/>
+    <att type="string" name="Gene" value="GO:0043408"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="19"/>
+    <att type="string" name="PARENT_GO" value="19_GO:0050896 response to stimulus"/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="156.50880111987388" y="266.6126599584512"/>
+  </node>
+  <node label="GO:1905562" id="41">
+    <att type="string" name="canonicalName" value="GO:1905562"/>
+    <att type="string" name="Description" value="regulation of vascular endothelial cell proliferation"/>
+    <att type="string" name="Category" value="GO Biological Processes"/>
+    <att type="real" name="LogP" value="-3.7334938380305345"/>
+    <att type="real" name="Log(q-value)" value="0.0"/>
+    <att type="integer" name="GROUP_ID" value="2"/>
+    <att type="string" name="Hits" value="IGF2|PPARG|SP1"/>
+    <att type="real" name="Enrichment" value="27.30108173076923"/>
+    <att type="real" name="Z-score" value="8.735135650679007"/>
+    <att type="integer" name="#GeneInGOAndHitList" value="3"/>
+    <att type="integer" name="#GeneInGO" value="52"/>
+    <att type="integer" name="#GeneInHitList" value="64"/>
+    <att type="integer" name="#TotalGeneInLibrary" value="30286"/>
+    <att type="real" name="%InGO" value="4.6875"/>
+    <att type="real" name="STDV %InGO" value="2.6421385270446645"/>
+    <att type="real" name="BestLogPInGroup" value="-3.7334938380305345"/>
+    <att type="real" name="BestEnrichmentInGroup" value="27.30108173076923"/>
+    <att type="integer" name="FirstInGroupByEnrichment" value="1"/>
+    <att type="integer" name="FirstInGroupByLogP" value="1"/>
+    <att type="string" name="GeneID" value="3481|5468|6667"/>
+    <att type="integer" name="_RANK_" value="1"/>
+    <att type="string" name="_PATTERN_" value="M1"/>
+    <att type="string" name="CLUSTER_LABEL" value="regulation of vascular endothelial cell proliferation"/>
+    <att type="integer" name="#COUNT_001" value="3"/>
+    <att type="integer" name="_MEMBER_MyList" value="1"/>
+    <att type="real" name="_LogP_MyList" value="-3.7334938380305345"/>
+    <att type="string" name="Gene" value="GO:1905562"/>
+    <att type="integer" name="GiniIndex" value="0"/>
+    <att type="integer" name="CategoryID" value="19"/>
+    <att type="string" name="PARENT_GO" value="19_GO:0050789 regulation of biological process"/>
+    <att type="integer" name="EvidenceCutoff" value="0"/>
+    <graphics type="CIRCLE" x="315.2206020631974" y="405.9150112050456"/>
+  </node>
+  <edge label="GO:1905952 (pp) GO:1905954" source="1" target="39">
+    <att type="string" name="canonicalName" value="GO:1905952 (pp) GO:1905954"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="1.0"/>
+  </edge>
+  <edge label="GO:0032370 (pp) GO:1905954" source="2" target="39">
+    <att type="string" name="canonicalName" value="GO:0032370 (pp) GO:1905954"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.8421052631603878"/>
+  </edge>
+  <edge label="GO:0062013 (pp) GO:1905954" source="3" target="39">
+    <att type="string" name="canonicalName" value="GO:0062013 (pp) GO:1905954"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.5263157894811633"/>
+  </edge>
+  <edge label="GO:0032368 (pp) GO:1905954" source="4" target="39">
+    <att type="string" name="canonicalName" value="GO:0032368 (pp) GO:1905954"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.8421052631603878"/>
+  </edge>
+  <edge label="GO:0019216 (pp) GO:1905954" source="5" target="39">
+    <att type="string" name="canonicalName" value="GO:0019216 (pp) GO:1905954"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.4375000000079101"/>
+  </edge>
+  <edge label="GO:0048660 (pp) GO:1905954" source="6" target="39">
+    <att type="string" name="canonicalName" value="GO:0048660 (pp) GO:1905954"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.5263157894811633"/>
+  </edge>
+  <edge label="GO:0001959 (pp) GO:1905954" source="7" target="39">
+    <att type="string" name="canonicalName" value="GO:0001959 (pp) GO:1905954"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.5263157894811633"/>
+  </edge>
+  <edge label="GO:1905954 (pp) R-HSA-3108232" source="39" target="8">
+    <att type="string" name="canonicalName" value="GO:1905954 (pp) R-HSA-3108232"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.5263157894811633"/>
+  </edge>
+  <edge label="GO:0060759 (pp) GO:1905954" source="9" target="39">
+    <att type="string" name="canonicalName" value="GO:0060759 (pp) GO:1905954"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.5263157894811633"/>
+  </edge>
+  <edge label="GO:1905562 (pp) WP5087" source="41" target="12">
+    <att type="string" name="canonicalName" value="GO:1905562 (pp) WP5087"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.4418604651240672"/>
+  </edge>
+  <edge label="GO:0043408 (pp) GO:1905562" source="40" target="41">
+    <att type="string" name="canonicalName" value="GO:0043408 (pp) GO:1905562"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.3750000000078125"/>
+  </edge>
+  <edge label="GO:0062013 (pp) GO:1905562" source="3" target="41">
+    <att type="string" name="canonicalName" value="GO:0062013 (pp) GO:1905562"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.636363636370248"/>
+  </edge>
+  <edge label="GO:0032869 (pp) GO:1905562" source="13" target="41">
+    <att type="string" name="canonicalName" value="GO:0032869 (pp) GO:1905562"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="1.0"/>
+  </edge>
+  <edge label="GO:0009991 (pp) GO:1905562" source="26" target="41">
+    <att type="string" name="canonicalName" value="GO:0009991 (pp) GO:1905562"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.4418604651240672"/>
+  </edge>
+  <edge label="GO:1905562 (pp) WP5434" source="41" target="14">
+    <att type="string" name="canonicalName" value="GO:1905562 (pp) WP5434"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.7209302325620336"/>
+  </edge>
+  <edge label="GO:1905562 (pp) hsa05200" source="41" target="15">
+    <att type="string" name="canonicalName" value="GO:1905562 (pp) hsa05200"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.7209302325620336"/>
+  </edge>
+  <edge label="GO:0001936 (pp) GO:1905562" source="16" target="41">
+    <att type="string" name="canonicalName" value="GO:0001936 (pp) GO:1905562"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="1.0"/>
+  </edge>
+  <edge label="GO:1905562 (pp) hsa05202" source="41" target="17">
+    <att type="string" name="canonicalName" value="GO:1905562 (pp) hsa05202"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.636363636370248"/>
+  </edge>
+  <edge label="GO:0007167 (pp) GO:1905562" source="36" target="41">
+    <att type="string" name="canonicalName" value="GO:0007167 (pp) GO:1905562"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.4418604651240672"/>
+  </edge>
+  <edge label="GO:0044270 (pp) GO:0097194" source="18" target="37">
+    <att type="string" name="canonicalName" value="GO:0044270 (pp) GO:0097194"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.4418604651240672"/>
+  </edge>
+  <edge label="GO:0046700 (pp) GO:0097194" source="19" target="37">
+    <att type="string" name="canonicalName" value="GO:0046700 (pp) GO:0097194"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.4418604651240672"/>
+  </edge>
+  <edge label="GO:0019439 (pp) GO:0097194" source="20" target="37">
+    <att type="string" name="canonicalName" value="GO:0019439 (pp) GO:0097194"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.4418604651240672"/>
+  </edge>
+  <edge label="GO:0097194 (pp) GO:1901361" source="37" target="21">
+    <att type="string" name="canonicalName" value="GO:0097194 (pp) GO:1901361"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.4418604651240672"/>
+  </edge>
+  <edge label="GO:0034655 (pp) GO:0097194" source="22" target="37">
+    <att type="string" name="canonicalName" value="GO:0034655 (pp) GO:0097194"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.5263157894811633"/>
+  </edge>
+  <edge label="M254 (pp) WP5087" source="10" target="12">
+    <att type="string" name="canonicalName" value="M254 (pp) WP5087"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.4418604651240672"/>
+  </edge>
+  <edge label="M254 (pp) WP5434" source="10" target="14">
+    <att type="string" name="canonicalName" value="M254 (pp) WP5434"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.4418604651240672"/>
+  </edge>
+  <edge label="M254 (pp) hsa05200" source="10" target="15">
+    <att type="string" name="canonicalName" value="M254 (pp) hsa05200"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.4418604651240672"/>
+  </edge>
+  <edge label="M254 (pp) hsa05202" source="10" target="17">
+    <att type="string" name="canonicalName" value="M254 (pp) hsa05202"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.636363636370248"/>
+  </edge>
+  <edge label="WP5087 (pp) hsa04010" source="12" target="11">
+    <att type="string" name="canonicalName" value="WP5087 (pp) hsa04010"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.7677419354865681"/>
+  </edge>
+  <edge label="WP5434 (pp) hsa04010" source="14" target="11">
+    <att type="string" name="canonicalName" value="WP5434 (pp) hsa04010"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.30322580645970443"/>
+  </edge>
+  <edge label="hsa04010 (pp) hsa05200" source="11" target="15">
+    <att type="string" name="canonicalName" value="hsa04010 (pp) hsa05200"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.30322580645970443"/>
+  </edge>
+  <edge label="GO:1902532 (pp) hsa04010" source="28" target="11">
+    <att type="string" name="canonicalName" value="GO:1902532 (pp) hsa04010"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.30322580645970443"/>
+  </edge>
+  <edge label="GO:0007167 (pp) hsa04010" source="36" target="11">
+    <att type="string" name="canonicalName" value="GO:0007167 (pp) hsa04010"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.30322580645970443"/>
+  </edge>
+  <edge label="GO:0006325 (pp) GO:0006338" source="23" target="34">
+    <att type="string" name="canonicalName" value="GO:0006325 (pp) GO:0006338"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="1.0"/>
+  </edge>
+  <edge label="GO:0006338 (pp) hsa03082" source="34" target="24">
+    <att type="string" name="canonicalName" value="GO:0006338 (pp) hsa03082"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.547169811325881"/>
+  </edge>
+  <edge label="GO:0045598 (pp) GO:0045600" source="25" target="38">
+    <att type="string" name="canonicalName" value="GO:0045598 (pp) GO:0045600"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="1.0"/>
+  </edge>
+  <edge label="GO:0009991 (pp) GO:0045600" source="26" target="38">
+    <att type="string" name="canonicalName" value="GO:0009991 (pp) GO:0045600"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.4418604651240672"/>
+  </edge>
+  <edge label="GO:0032370 (pp) GO:1905952" source="2" target="1">
+    <att type="string" name="canonicalName" value="GO:0032370 (pp) GO:1905952"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.8421052631603878"/>
+  </edge>
+  <edge label="GO:0062013 (pp) GO:1905952" source="3" target="1">
+    <att type="string" name="canonicalName" value="GO:0062013 (pp) GO:1905952"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.5263157894811633"/>
+  </edge>
+  <edge label="GO:0032368 (pp) GO:1905952" source="4" target="1">
+    <att type="string" name="canonicalName" value="GO:0032368 (pp) GO:1905952"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.8421052631603878"/>
+  </edge>
+  <edge label="GO:0019216 (pp) GO:1905952" source="5" target="1">
+    <att type="string" name="canonicalName" value="GO:0019216 (pp) GO:1905952"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.4375000000079101"/>
+  </edge>
+  <edge label="GO:0048660 (pp) GO:1905952" source="6" target="1">
+    <att type="string" name="canonicalName" value="GO:0048660 (pp) GO:1905952"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.5263157894811633"/>
+  </edge>
+  <edge label="GO:0001959 (pp) GO:1905952" source="7" target="1">
+    <att type="string" name="canonicalName" value="GO:0001959 (pp) GO:1905952"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.5263157894811633"/>
+  </edge>
+  <edge label="GO:1905952 (pp) R-HSA-3108232" source="1" target="8">
+    <att type="string" name="canonicalName" value="GO:1905952 (pp) R-HSA-3108232"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.5263157894811633"/>
+  </edge>
+  <edge label="GO:0060759 (pp) GO:1905952" source="9" target="1">
+    <att type="string" name="canonicalName" value="GO:0060759 (pp) GO:1905952"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.5263157894811633"/>
+  </edge>
+  <edge label="GO:0032370 (pp) GO:0062013" source="2" target="3">
+    <att type="string" name="canonicalName" value="GO:0032370 (pp) GO:0062013"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.636363636370248"/>
+  </edge>
+  <edge label="GO:0032368 (pp) GO:0032370" source="4" target="2">
+    <att type="string" name="canonicalName" value="GO:0032368 (pp) GO:0032370"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="1.0"/>
+  </edge>
+  <edge label="GO:0019216 (pp) GO:0032370" source="5" target="2">
+    <att type="string" name="canonicalName" value="GO:0019216 (pp) GO:0032370"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.5263157894811633"/>
+  </edge>
+  <edge label="GO:0032370 (pp) GO:0048660" source="2" target="6">
+    <att type="string" name="canonicalName" value="GO:0032370 (pp) GO:0048660"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.636363636370248"/>
+  </edge>
+  <edge label="GO:0044270 (pp) GO:0046700" source="18" target="19">
+    <att type="string" name="canonicalName" value="GO:0044270 (pp) GO:0046700"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="1.0"/>
+  </edge>
+  <edge label="GO:0019439 (pp) GO:0044270" source="20" target="18">
+    <att type="string" name="canonicalName" value="GO:0019439 (pp) GO:0044270"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="1.0"/>
+  </edge>
+  <edge label="GO:0044270 (pp) GO:1901361" source="18" target="21">
+    <att type="string" name="canonicalName" value="GO:0044270 (pp) GO:1901361"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="1.0"/>
+  </edge>
+  <edge label="GO:0009991 (pp) GO:0044270" source="26" target="18">
+    <att type="string" name="canonicalName" value="GO:0009991 (pp) GO:0044270"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.30322580645970443"/>
+  </edge>
+  <edge label="GO:0034655 (pp) GO:0044270" source="22" target="18">
+    <att type="string" name="canonicalName" value="GO:0034655 (pp) GO:0044270"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.8732394366213252"/>
+  </edge>
+  <edge label="GO:0019439 (pp) GO:0046700" source="20" target="19">
+    <att type="string" name="canonicalName" value="GO:0019439 (pp) GO:0046700"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="1.0"/>
+  </edge>
+  <edge label="GO:0046700 (pp) GO:1901361" source="19" target="21">
+    <att type="string" name="canonicalName" value="GO:0046700 (pp) GO:1901361"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="1.0"/>
+  </edge>
+  <edge label="GO:0009991 (pp) GO:0046700" source="26" target="19">
+    <att type="string" name="canonicalName" value="GO:0009991 (pp) GO:0046700"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.30322580645970443"/>
+  </edge>
+  <edge label="GO:0034655 (pp) GO:0046700" source="22" target="19">
+    <att type="string" name="canonicalName" value="GO:0034655 (pp) GO:0046700"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.8732394366213252"/>
+  </edge>
+  <edge label="GO:0006325 (pp) hsa03082" source="23" target="24">
+    <att type="string" name="canonicalName" value="GO:0006325 (pp) hsa03082"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.547169811325881"/>
+  </edge>
+  <edge label="GO:0019439 (pp) GO:1901361" source="20" target="21">
+    <att type="string" name="canonicalName" value="GO:0019439 (pp) GO:1901361"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="1.0"/>
+  </edge>
+  <edge label="GO:0009991 (pp) GO:0019439" source="26" target="20">
+    <att type="string" name="canonicalName" value="GO:0009991 (pp) GO:0019439"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.30322580645970443"/>
+  </edge>
+  <edge label="GO:0019439 (pp) GO:0034655" source="20" target="22">
+    <att type="string" name="canonicalName" value="GO:0019439 (pp) GO:0034655"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.8732394366213252"/>
+  </edge>
+  <edge label="GO:1902532 (pp) WP4321" source="28" target="33">
+    <att type="string" name="canonicalName" value="GO:1902532 (pp) WP4321"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.4418604651240672"/>
+  </edge>
+  <edge label="GO:0009991 (pp) GO:1901361" source="26" target="21">
+    <att type="string" name="canonicalName" value="GO:0009991 (pp) GO:1901361"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.30322580645970443"/>
+  </edge>
+  <edge label="GO:0034655 (pp) GO:1901361" source="22" target="21">
+    <att type="string" name="canonicalName" value="GO:0034655 (pp) GO:1901361"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.8732394366213252"/>
+  </edge>
+  <edge label="GO:0032869 (pp) WP5087" source="13" target="12">
+    <att type="string" name="canonicalName" value="GO:0032869 (pp) WP5087"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.4418604651240672"/>
+  </edge>
+  <edge label="WP5087 (pp) WP5434" source="12" target="14">
+    <att type="string" name="canonicalName" value="WP5087 (pp) WP5434"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.5354838709731363"/>
+  </edge>
+  <edge label="WP5087 (pp) hsa05200" source="12" target="15">
+    <att type="string" name="canonicalName" value="WP5087 (pp) hsa05200"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.5354838709731363"/>
+  </edge>
+  <edge label="GO:0001936 (pp) WP5087" source="16" target="12">
+    <att type="string" name="canonicalName" value="GO:0001936 (pp) WP5087"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.4418604651240672"/>
+  </edge>
+  <edge label="WP5087 (pp) hsa05202" source="12" target="17">
+    <att type="string" name="canonicalName" value="WP5087 (pp) hsa05202"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.4418604651240672"/>
+  </edge>
+  <edge label="GO:0007167 (pp) WP5087" source="36" target="12">
+    <att type="string" name="canonicalName" value="GO:0007167 (pp) WP5087"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.30322580645970443"/>
+  </edge>
+  <edge label="GO:0043408 (pp) WP2884" source="40" target="31">
+    <att type="string" name="canonicalName" value="GO:0043408 (pp) WP2884"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.3750000000078125"/>
+  </edge>
+  <edge label="GO:0043408 (pp) GO:0062013" source="40" target="3">
+    <att type="string" name="canonicalName" value="GO:0043408 (pp) GO:0062013"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.3750000000078125"/>
+  </edge>
+  <edge label="GO:0032869 (pp) GO:0043408" source="13" target="40">
+    <att type="string" name="canonicalName" value="GO:0032869 (pp) GO:0043408"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.3750000000078125"/>
+  </edge>
+  <edge label="GO:0043408 (pp) WP2882" source="40" target="30">
+    <att type="string" name="canonicalName" value="GO:0043408 (pp) WP2882"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.30769230770029593"/>
+  </edge>
+  <edge label="GO:0043408 (pp) WP5434" source="40" target="14">
+    <att type="string" name="canonicalName" value="GO:0043408 (pp) WP5434"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.464285714291454"/>
+  </edge>
+  <edge label="GO:0043408 (pp) hsa05200" source="40" target="15">
+    <att type="string" name="canonicalName" value="GO:0043408 (pp) hsa05200"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.464285714291454"/>
+  </edge>
+  <edge label="GO:0043408 (pp) GO:0043409" source="40" target="27">
+    <att type="string" name="canonicalName" value="GO:0043408 (pp) GO:0043409"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.6250000000046875"/>
+  </edge>
+  <edge label="GO:0001959 (pp) GO:0043408" source="7" target="40">
+    <att type="string" name="canonicalName" value="GO:0001959 (pp) GO:0043408"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.3750000000078125"/>
+  </edge>
+  <edge label="GO:0001936 (pp) GO:0043408" source="16" target="40">
+    <att type="string" name="canonicalName" value="GO:0001936 (pp) GO:0043408"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.3750000000078125"/>
+  </edge>
+  <edge label="GO:0043408 (pp) GO:0060759" source="40" target="9">
+    <att type="string" name="canonicalName" value="GO:0043408 (pp) GO:0060759"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.3750000000078125"/>
+  </edge>
+  <edge label="GO:0043408 (pp) GO:1902532" source="40" target="28">
+    <att type="string" name="canonicalName" value="GO:0043408 (pp) GO:1902532"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.464285714291454"/>
+  </edge>
+  <edge label="GO:0007167 (pp) GO:0043408" source="36" target="40">
+    <att type="string" name="canonicalName" value="GO:0007167 (pp) GO:0043408"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.464285714291454"/>
+  </edge>
+  <edge label="GO:0021700 (pp) GO:0048469" source="35" target="29">
+    <att type="string" name="canonicalName" value="GO:0021700 (pp) GO:0048469"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.8421052631603878"/>
+  </edge>
+  <edge label="WP2882 (pp) WP2884" source="30" target="31">
+    <att type="string" name="canonicalName" value="WP2882 (pp) WP2884"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.8421052631603878"/>
+  </edge>
+  <edge label="GO:0032869 (pp) GO:0062013" source="13" target="3">
+    <att type="string" name="canonicalName" value="GO:0032869 (pp) GO:0062013"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.636363636370248"/>
+  </edge>
+  <edge label="GO:0032368 (pp) GO:0062013" source="4" target="3">
+    <att type="string" name="canonicalName" value="GO:0032368 (pp) GO:0062013"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.636363636370248"/>
+  </edge>
+  <edge label="GO:0062013 (pp) WP5434" source="3" target="14">
+    <att type="string" name="canonicalName" value="GO:0062013 (pp) WP5434"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.4418604651240672"/>
+  </edge>
+  <edge label="GO:0019216 (pp) GO:0062013" source="5" target="3">
+    <att type="string" name="canonicalName" value="GO:0019216 (pp) GO:0062013"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.5263157894811633"/>
+  </edge>
+  <edge label="GO:0062013 (pp) hsa05200" source="3" target="15">
+    <att type="string" name="canonicalName" value="GO:0062013 (pp) hsa05200"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.4418604651240672"/>
+  </edge>
+  <edge label="GO:0048660 (pp) GO:0062013" source="6" target="3">
+    <att type="string" name="canonicalName" value="GO:0048660 (pp) GO:0062013"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.636363636370248"/>
+  </edge>
+  <edge label="GO:0001936 (pp) GO:0062013" source="16" target="3">
+    <att type="string" name="canonicalName" value="GO:0001936 (pp) GO:0062013"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.636363636370248"/>
+  </edge>
+  <edge label="GO:0007167 (pp) GO:0062013" source="36" target="3">
+    <att type="string" name="canonicalName" value="GO:0007167 (pp) GO:0062013"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.4418604651240672"/>
+  </edge>
+  <edge label="GO:0009991 (pp) GO:0045598" source="26" target="25">
+    <att type="string" name="canonicalName" value="GO:0009991 (pp) GO:0045598"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.4418604651240672"/>
+  </edge>
+  <edge label="GO:0009991 (pp) GO:0032869" source="26" target="13">
+    <att type="string" name="canonicalName" value="GO:0009991 (pp) GO:0032869"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.4418604651240672"/>
+  </edge>
+  <edge label="GO:0032869 (pp) WP5434" source="13" target="14">
+    <att type="string" name="canonicalName" value="GO:0032869 (pp) WP5434"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.7209302325620336"/>
+  </edge>
+  <edge label="GO:0032869 (pp) hsa05200" source="13" target="15">
+    <att type="string" name="canonicalName" value="GO:0032869 (pp) hsa05200"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.7209302325620336"/>
+  </edge>
+  <edge label="GO:0001936 (pp) GO:0032869" source="16" target="13">
+    <att type="string" name="canonicalName" value="GO:0001936 (pp) GO:0032869"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="1.0"/>
+  </edge>
+  <edge label="GO:0032869 (pp) hsa05202" source="13" target="17">
+    <att type="string" name="canonicalName" value="GO:0032869 (pp) hsa05202"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.636363636370248"/>
+  </edge>
+  <edge label="GO:0007167 (pp) GO:0032869" source="36" target="13">
+    <att type="string" name="canonicalName" value="GO:0007167 (pp) GO:0032869"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.4418604651240672"/>
+  </edge>
+  <edge label="GO:0009991 (pp) WP5434" source="26" target="14">
+    <att type="string" name="canonicalName" value="GO:0009991 (pp) WP5434"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.30322580645970443"/>
+  </edge>
+  <edge label="GO:0009991 (pp) hsa05200" source="26" target="15">
+    <att type="string" name="canonicalName" value="GO:0009991 (pp) hsa05200"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.30322580645970443"/>
+  </edge>
+  <edge label="GO:0009991 (pp) GO:0034655" source="26" target="22">
+    <att type="string" name="canonicalName" value="GO:0009991 (pp) GO:0034655"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.3661971831066257"/>
+  </edge>
+  <edge label="GO:0001936 (pp) GO:0009991" source="16" target="26">
+    <att type="string" name="canonicalName" value="GO:0001936 (pp) GO:0009991"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.4418604651240672"/>
+  </edge>
+  <edge label="GO:0009991 (pp) hsa05202" source="26" target="17">
+    <att type="string" name="canonicalName" value="GO:0009991 (pp) hsa05202"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.4418604651240672"/>
+  </edge>
+  <edge label="GO:0009991 (pp) GO:1902532" source="26" target="28">
+    <att type="string" name="canonicalName" value="GO:0009991 (pp) GO:1902532"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.30322580645970443"/>
+  </edge>
+  <edge label="WP2882 (pp) WP5434" source="30" target="14">
+    <att type="string" name="canonicalName" value="WP2882 (pp) WP5434"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.3661971831066257"/>
+  </edge>
+  <edge label="WP2882 (pp) hsa05200" source="30" target="15">
+    <att type="string" name="canonicalName" value="WP2882 (pp) hsa05200"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.3661971831066257"/>
+  </edge>
+  <edge label="GO:0019216 (pp) GO:0032368" source="5" target="4">
+    <att type="string" name="canonicalName" value="GO:0019216 (pp) GO:0032368"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.5263157894811633"/>
+  </edge>
+  <edge label="GO:0032368 (pp) GO:0048660" source="4" target="6">
+    <att type="string" name="canonicalName" value="GO:0032368 (pp) GO:0048660"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.636363636370248"/>
+  </edge>
+  <edge label="WP5434 (pp) hsa05200" source="14" target="15">
+    <att type="string" name="canonicalName" value="WP5434 (pp) hsa05200"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="1.0"/>
+  </edge>
+  <edge label="GO:0043409 (pp) WP5434" source="27" target="14">
+    <att type="string" name="canonicalName" value="GO:0043409 (pp) WP5434"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.4418604651240672"/>
+  </edge>
+  <edge label="GO:0001959 (pp) WP5434" source="7" target="14">
+    <att type="string" name="canonicalName" value="GO:0001959 (pp) WP5434"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.4418604651240672"/>
+  </edge>
+  <edge label="GO:0001936 (pp) WP5434" source="16" target="14">
+    <att type="string" name="canonicalName" value="GO:0001936 (pp) WP5434"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.7209302325620336"/>
+  </edge>
+  <edge label="GO:0060759 (pp) WP5434" source="9" target="14">
+    <att type="string" name="canonicalName" value="GO:0060759 (pp) WP5434"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.4418604651240672"/>
+  </edge>
+  <edge label="WP5434 (pp) hsa05202" source="14" target="17">
+    <att type="string" name="canonicalName" value="WP5434 (pp) hsa05202"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.7209302325620336"/>
+  </edge>
+  <edge label="GO:1902532 (pp) WP5434" source="28" target="14">
+    <att type="string" name="canonicalName" value="GO:1902532 (pp) WP5434"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.30322580645970443"/>
+  </edge>
+  <edge label="GO:0007167 (pp) WP5434" source="36" target="14">
+    <att type="string" name="canonicalName" value="GO:0007167 (pp) WP5434"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.30322580645970443"/>
+  </edge>
+  <edge label="GO:0019216 (pp) GO:0048660" source="5" target="6">
+    <att type="string" name="canonicalName" value="GO:0019216 (pp) GO:0048660"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.8421052631603878"/>
+  </edge>
+  <edge label="GO:0043409 (pp) hsa05200" source="27" target="15">
+    <att type="string" name="canonicalName" value="GO:0043409 (pp) hsa05200"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.4418604651240672"/>
+  </edge>
+  <edge label="GO:0001959 (pp) hsa05200" source="7" target="15">
+    <att type="string" name="canonicalName" value="GO:0001959 (pp) hsa05200"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.4418604651240672"/>
+  </edge>
+  <edge label="GO:0001936 (pp) hsa05200" source="16" target="15">
+    <att type="string" name="canonicalName" value="GO:0001936 (pp) hsa05200"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.7209302325620336"/>
+  </edge>
+  <edge label="GO:0060759 (pp) hsa05200" source="9" target="15">
+    <att type="string" name="canonicalName" value="GO:0060759 (pp) hsa05200"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.4418604651240672"/>
+  </edge>
+  <edge label="hsa05200 (pp) hsa05202" source="15" target="17">
+    <att type="string" name="canonicalName" value="hsa05200 (pp) hsa05202"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.7209302325620336"/>
+  </edge>
+  <edge label="GO:1902532 (pp) hsa05200" source="28" target="15">
+    <att type="string" name="canonicalName" value="GO:1902532 (pp) hsa05200"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.30322580645970443"/>
+  </edge>
+  <edge label="GO:0007167 (pp) hsa05200" source="36" target="15">
+    <att type="string" name="canonicalName" value="GO:0007167 (pp) hsa05200"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.30322580645970443"/>
+  </edge>
+  <edge label="GO:0001959 (pp) GO:0043409" source="7" target="27">
+    <att type="string" name="canonicalName" value="GO:0001959 (pp) GO:0043409"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.636363636370248"/>
+  </edge>
+  <edge label="GO:0043409 (pp) GO:0060759" source="27" target="9">
+    <att type="string" name="canonicalName" value="GO:0043409 (pp) GO:0060759"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.636363636370248"/>
+  </edge>
+  <edge label="GO:0043409 (pp) GO:1902532" source="27" target="28">
+    <att type="string" name="canonicalName" value="GO:0043409 (pp) GO:1902532"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.7209302325620336"/>
+  </edge>
+  <edge label="GO:0001959 (pp) R-HSA-3108232" source="7" target="8">
+    <att type="string" name="canonicalName" value="GO:0001959 (pp) R-HSA-3108232"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.636363636370248"/>
+  </edge>
+  <edge label="GO:0001959 (pp) GO:0060759" source="7" target="9">
+    <att type="string" name="canonicalName" value="GO:0001959 (pp) GO:0060759"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="1.0"/>
+  </edge>
+  <edge label="GO:0001959 (pp) GO:1902532" source="7" target="28">
+    <att type="string" name="canonicalName" value="GO:0001959 (pp) GO:1902532"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.4418604651240672"/>
+  </edge>
+  <edge label="GO:0001936 (pp) hsa05202" source="16" target="17">
+    <att type="string" name="canonicalName" value="GO:0001936 (pp) hsa05202"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.636363636370248"/>
+  </edge>
+  <edge label="GO:0001936 (pp) GO:0007167" source="16" target="36">
+    <att type="string" name="canonicalName" value="GO:0001936 (pp) GO:0007167"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.4418604651240672"/>
+  </edge>
+  <edge label="GO:0060759 (pp) R-HSA-3108232" source="9" target="8">
+    <att type="string" name="canonicalName" value="GO:0060759 (pp) R-HSA-3108232"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.636363636370248"/>
+  </edge>
+  <edge label="GO:0060759 (pp) GO:1902532" source="9" target="28">
+    <att type="string" name="canonicalName" value="GO:0060759 (pp) GO:1902532"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="0.4418604651240672"/>
+  </edge>
+  <edge label="R-HSA-381426 (pp) R-HSA-381426" source="32" target="32">
+    <att type="string" name="canonicalName" value="R-HSA-381426 (pp) R-HSA-381426"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="real" name="SCORE" value="1.0"/>
+  </edge>
+</graph>

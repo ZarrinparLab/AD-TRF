@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d11" for="edge" attr.name="component" attr.type="long" />
+  <key id="d10" for="edge" attr.name="scan2" attr.type="string" />
+  <key id="d9" for="edge" attr.name="scan1" attr.type="string" />
+  <key id="d8" for="edge" attr.name="matched_peaks" attr.type="string" />
+  <key id="d7" for="edge" attr.name="score" attr.type="double" />
+  <key id="d6" for="edge" attr.name="deltamz_int" attr.type="long" />
+  <key id="d5" for="edge" attr.name="deltamz" attr.type="double" />
+  <key id="d4" for="node" attr.name="component" attr.type="long" />
+  <key id="d3" for="node" attr.name="charge" attr.type="long" />
+  <key id="d2" for="node" attr.name="rt_min" attr.type="double" />
+  <key id="d1" for="node" attr.name="rt" attr.type="double" />
+  <key id="d0" for="node" attr.name="mz" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="14585">
+      <data key="d0">582.593</data>
+      <data key="d1">7.59</data>
+      <data key="d2">7.59</data>
+      <data key="d3">0</data>
+      <data key="d4">477</data>
+    </node>
+    <node id="14586">
+      <data key="d0">582.594</data>
+      <data key="d1">7.5</data>
+      <data key="d2">7.5</data>
+      <data key="d3">0</data>
+      <data key="d4">477</data>
+    </node>
+    <node id="13590">
+      <data key="d0">537.537</data>
+      <data key="d1">7.33</data>
+      <data key="d2">7.33</data>
+      <data key="d3">0</data>
+      <data key="d4">477</data>
+    </node>
+    <node id="13587">
+      <data key="d0">537.537</data>
+      <data key="d1">8.11</data>
+      <data key="d2">8.11</data>
+      <data key="d3">0</data>
+      <data key="d4">477</data>
+    </node>
+    <node id="13588">
+      <data key="d0">537.537</data>
+      <data key="d1">8.05</data>
+      <data key="d2">8.05</data>
+      <data key="d3">0</data>
+      <data key="d4">477</data>
+    </node>
+    <node id="13591">
+      <data key="d0">537.537</data>
+      <data key="d1">6.65</data>
+      <data key="d2">6.65</data>
+      <data key="d3">0</data>
+      <data key="d4">477</data>
+    </node>
+    <node id="13589">
+      <data key="d0">537.537</data>
+      <data key="d1">7.49</data>
+      <data key="d2">7.49</data>
+      <data key="d3">0</data>
+      <data key="d4">477</data>
+    </node>
+    <edge source="14585" target="13589">
+      <data key="d5">-45.056</data>
+      <data key="d6">-45</data>
+      <data key="d7">0.8353</data>
+      <data key="d8">0</data>
+      <data key="d9">13589</data>
+      <data key="d10">14585</data>
+      <data key="d11">477</data>
+    </edge>
+    <edge source="14586" target="13589">
+      <data key="d5">-45.057</data>
+      <data key="d6">-45</data>
+      <data key="d7">0.8022</data>
+      <data key="d8">0</data>
+      <data key="d9">14586</data>
+      <data key="d10">13589</data>
+      <data key="d11">477</data>
+    </edge>
+    <edge source="13590" target="13589">
+      <data key="d5">0.0</data>
+      <data key="d6">0</data>
+      <data key="d7">0.8514</data>
+      <data key="d8">0</data>
+      <data key="d9">13590</data>
+      <data key="d10">13589</data>
+      <data key="d11">477</data>
+    </edge>
+    <edge source="13590" target="13591">
+      <data key="d5">-0.0</data>
+      <data key="d6">0</data>
+      <data key="d7">0.7999</data>
+      <data key="d8">0</data>
+      <data key="d9">13590</data>
+      <data key="d10">13591</data>
+      <data key="d11">477</data>
+    </edge>
+    <edge source="13587" target="13589">
+      <data key="d5">-0.0</data>
+      <data key="d6">0</data>
+      <data key="d7">0.844</data>
+      <data key="d8">0</data>
+      <data key="d9">13587</data>
+      <data key="d10">13589</data>
+      <data key="d11">477</data>
+    </edge>
+    <edge source="13587" target="13588">
+      <data key="d5">-0.0</data>
+      <data key="d6">0</data>
+      <data key="d7">0.7871</data>
+      <data key="d8">0</data>
+      <data key="d9">13587</data>
+      <data key="d10">13588</data>
+      <data key="d11">477</data>
+    </edge>
+    <edge source="13591" target="13589">
+      <data key="d5">-0.0</data>
+      <data key="d6">0</data>
+      <data key="d7">0.8757</data>
+      <data key="d8">0</data>
+      <data key="d9">13589</data>
+      <data key="d10">13591</data>
+      <data key="d11">477</data>
+    </edge>
+  </graph>
+</graphml>

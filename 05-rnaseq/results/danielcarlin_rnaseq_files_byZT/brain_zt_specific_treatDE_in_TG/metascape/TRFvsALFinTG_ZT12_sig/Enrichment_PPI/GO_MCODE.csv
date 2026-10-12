@@ -1,0 +1,26 @@
+Name,Category,CategoryID,GO,Description,PARENT_GO,LogP,Enrichment,Z-score,#TotalGeneInLibrary,#GeneInGO,#GeneInHitList,#GeneInGOAndHitList,%InGO,STDV %InGO,GeneID,Hits,Log(q-value)
+MyList,KEGG Pathway,24,hsa00590,Arachidonic acid metabolism,,-5.6,1.1e+02,18,30286,61,14,3,21,11,1557|8529|50487,CYP2C19|CYP4F2|PLA2G3,-1.2
+MyList,GO Biological Processes,19,GO:0032370,positive regulation of lipid transport,19_GO:0051179 localization,-5.1,75,15,30286,87,14,3,21,11,8529|10351|50487,CYP4F2|ABCA8|PLA2G3,-1.1
+MyList,GO Biological Processes,19,GO:0006631,fatty acid metabolic process,19_GO:0008152 metabolic process,-4.9,27,10,30286,324,14,4,29,12,1557|5354|8529|50487,CYP2C19|PLP1|CYP4F2|PLA2G3,-1.1
+MyList,GO Biological Processes,19,GO:0001676,long-chain fatty acid metabolic process,19_GO:0008152 metabolic process,-4.8,60,13,30286,109,14,3,21,11,1557|5354|8529,CYP2C19|PLP1|CYP4F2,-1.1
+MyList,GO Biological Processes,19,GO:1905954,positive regulation of lipid localization,19_GO:0051179 localization,-4.8,58,13,30286,112,14,3,21,11,8529|10351|50487,CYP4F2|ABCA8|PLA2G3,-1.1
+MyList,GO Biological Processes,19,GO:0006690,icosanoid metabolic process,19_GO:0008152 metabolic process,-4.7,56,13,30286,116,14,3,21,11,1557|8529|50487,CYP2C19|CYP4F2|PLA2G3,-1.1
+MyList,GO Biological Processes,19,GO:0032368,regulation of lipid transport,19_GO:0051179 localization,-4.3,42,11,30286,156,14,3,21,11,8529|10351|50487,CYP4F2|ABCA8|PLA2G3,-0.83
+MyList,GO Biological Processes,19,GO:0032787,monocarboxylic acid metabolic process,19_GO:0008152 metabolic process,-4.1,17,7.7,30286,520,14,4,29,12,1557|5354|8529|50487,CYP2C19|PLP1|CYP4F2|PLA2G3,-0.71
+MyList,GO Biological Processes,19,GO:1905952,regulation of lipid localization,19_GO:0051179 localization,-4.1,35,10,30286,186,14,3,21,11,8529|10351|50487,CYP4F2|ABCA8|PLA2G3,-0.71
+MyList,GO Biological Processes,19,GO:0006954,inflammatory response,19_GO:0050896 response to stimulus,-4,15,7.4,30286,563,14,4,29,12,3684|5354|10628|50487,ITGAM|PLP1|TXNIP|PLA2G3,-0.65
+MyList,GO Biological Processes,19,GO:1901654,response to ketone,19_GO:0050896 response to stimulus,-3.9,30,9.2,30286,215,14,3,21,11,3684|10628|54541,ITGAM|TXNIP|DDIT4,-0.61
+MyList,Reactome Gene Sets,6,R-HSA-556833,Metabolism of lipids,,-3.5,11,6.3,30286,757,14,4,29,12,1557|8529|50487|133121,CYP2C19|CYP4F2|PLA2G3|ENPP6,-0.26
+MyList,GO Biological Processes,19,GO:0051047,positive regulation of secretion,19_GO:0051179 localization,-3.4,21,7.6,30286,312,14,3,21,11,3684|8529|50487,ITGAM|CYP4F2|PLA2G3,-0.26
+MyList,WikiPathways,27,WP2882,Nuclear receptors meta pathway,,-3.4,21,7.5,30286,314,14,3,21,11,1557|2289|5166,CYP2C19|FKBP5|PDK4,-0.26
+MyList,GO Biological Processes,19,GO:0019752,carboxylic acid metabolic process,19_GO:0008152 metabolic process,-3.4,11,6.1,30286,789,14,4,29,12,1557|5354|8529|50487,CYP2C19|PLP1|CYP4F2|PLA2G3,-0.26
+MyList,GO Biological Processes,19,GO:0062012,regulation of small molecule metabolic process,19_GO:0008152 metabolic process,-3.4,20,7.3,30286,331,14,3,21,11,5166|50487|54541,PDK4|PLA2G3|DDIT4,-0.23
+MyList,GO Biological Processes,19,GO:0006644,phospholipid metabolic process,19_GO:0008152 metabolic process,-3.3,18,7,30286,361,14,3,21,11,10351|50487|133121,ABCA8|PLA2G3|ENPP6,-0.14
+MyList,GO Biological Processes,19,GO:0007169,transmembrane receptor protein tyrosine kinase signaling pathway,19_GO:0050896 response to stimulus,-3.1,15,6.4,30286,419,14,3,21,11,5166|10628|54541,PDK4|TXNIP|DDIT4,0
+MyList,GO Biological Processes,19,GO:0009410,response to xenobiotic stimulus,19_GO:0050896 response to stimulus,-3,15,6.3,30286,428,14,3,21,11,1557|8529|10628,CYP2C19|CYP4F2|TXNIP,0
+MyList,GO Biological Processes,19,GO:0007167,enzyme-linked receptor protein signaling pathway,19_GO:0050896 response to stimulus,-2.6,11,5.2,30286,614,14,3,21,11,5166|10628|54541,PDK4|TXNIP|DDIT4,0
+MyList,GO Biological Processes,19,GO:0051046,regulation of secretion,19_GO:0051179 localization,-2.6,10,5.1,30286,621,14,3,21,11,3684|8529|50487,ITGAM|CYP4F2|PLA2G3,0
+MyList,GO Biological Processes,19,GO:0009617,response to bacterium,19_GO:0044419 biological process involved in interspecies interaction between organisms,-2.4,9.1,4.7,30286,710,14,3,21,11,2289|3684|10804,FKBP5|ITGAM|GJB6,0
+MyList,GO Biological Processes,19,GO:0007420,brain development,19_GO:0032502 developmental process,-2.4,8.9,4.6,30286,729,14,3,21,11,3684|5354|54541,ITGAM|PLP1|DDIT4,0
+MyList,GO Biological Processes,19,GO:0060322,head development,19_GO:0032502 developmental process,-2.3,8.3,4.5,30286,778,14,3,21,11,3684|5354|54541,ITGAM|PLP1|DDIT4,0
+MyList,GO Biological Processes,19,GO:0009725,response to hormone,19_GO:0050896 response to stimulus,-2.3,8.3,4.4,30286,785,14,3,21,11,5166|10628|54541,PDK4|TXNIP|DDIT4,0

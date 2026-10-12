@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d20" for="edge" attr.name="component" attr.type="long" />
+  <key id="d19" for="edge" attr.name="scan2" attr.type="string" />
+  <key id="d18" for="edge" attr.name="scan1" attr.type="string" />
+  <key id="d17" for="edge" attr.name="matched_peaks" attr.type="string" />
+  <key id="d16" for="edge" attr.name="score" attr.type="double" />
+  <key id="d15" for="edge" attr.name="deltamz_int" attr.type="long" />
+  <key id="d14" for="edge" attr.name="deltamz" attr.type="double" />
+  <key id="d13" for="node" attr.name="library_npclassifier_pathway" attr.type="string" />
+  <key id="d12" for="node" attr.name="library_npclassifier_class" attr.type="string" />
+  <key id="d11" for="node" attr.name="library_npclassifier_superclass" attr.type="string" />
+  <key id="d10" for="node" attr.name="library_classyfire_subclass" attr.type="string" />
+  <key id="d9" for="node" attr.name="library_classyfire_class" attr.type="string" />
+  <key id="d8" for="node" attr.name="library_classyfire_superclass" attr.type="string" />
+  <key id="d7" for="node" attr.name="library_InChI" attr.type="string" />
+  <key id="d6" for="node" attr.name="library_SMILES" attr.type="string" />
+  <key id="d5" for="node" attr.name="library_compound_name" attr.type="string" />
+  <key id="d4" for="node" attr.name="component" attr.type="long" />
+  <key id="d3" for="node" attr.name="charge" attr.type="long" />
+  <key id="d2" for="node" attr.name="rt_min" attr.type="double" />
+  <key id="d1" for="node" attr.name="rt" attr.type="double" />
+  <key id="d0" for="node" attr.name="mz" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="23012">
+      <data key="d0">431.097</data>
+      <data key="d1">4.95</data>
+      <data key="d2">4.95</data>
+      <data key="d3">0</data>
+      <data key="d4">2104</data>
+      <data key="d5">Chrysin-7-O-glucuronide</data>
+      <data key="d6">O=C(O)[C@H]1O[C@@H](Oc2cc(O)c3c(=O)cc(-c4ccccc4)oc3c2)[C@H](O)[C@@H](O)[C@@H]1O</data>
+      <data key="d7">InChI=1S/C21H18O10/c22-11-6-10(29-21-18(26)16(24)17(25)19(31-21)20(27)28)7-14-15(11)12(23)8-13(30-14)9-4-2-1-3-5-9/h1-8,16-19,21-22,24-26H,(H,27,28)/t16-,17-,18+,19-,21+/m0/s1</data>
+      <data key="d8">Phenylpropanoids and polyketides</data>
+      <data key="d9">Flavonoids</data>
+      <data key="d10">Flavonoid glycosides</data>
+      <data key="d11">Flavonoids</data>
+      <data key="d12">Flavones</data>
+      <data key="d13">Shikimates and Phenylpropanoids</data>
+    </node>
+    <node id="23632">
+      <data key="d0">503.119</data>
+      <data key="d1">5.92</data>
+      <data key="d2">5.92</data>
+      <data key="d3">0</data>
+      <data key="d4">2104</data>
+    </node>
+    <node id="23730">
+      <data key="d0">519.115</data>
+      <data key="d1">6.34</data>
+      <data key="d2">6.34</data>
+      <data key="d3">0</data>
+      <data key="d4">2104</data>
+      <data key="d5">Malonylgenistin</data>
+      <data key="d6">O=C(O)CC(=O)OC[C@H]1O[C@@H](Oc2cc(O)c3c(=O)c(-c4ccc(O)cc4)coc3c2)[C@H](O)[C@@H](O)[C@@H]1O</data>
+      <data key="d7">InChI=1S/C24H22O13/c25-11-3-1-10(2-4-11)13-8-34-15-6-12(5-14(26)19(15)20(13)30)36-24-23(33)22(32)21(31)16(37-24)9-35-18(29)7-17(27)28/h1-6,8,16,21-26,31-33H,7,9H2,(H,27,28)/t16-,21-,22+,23-,24-/m1/s1</data>
+      <data key="d8">Phenylpropanoids and polyketides</data>
+      <data key="d9">Isoflavonoids</data>
+      <data key="d10">Isoflavonoid O-glycosides</data>
+      <data key="d11">Isoflavonoids</data>
+      <data key="d12">Isoflavones</data>
+      <data key="d13">Shikimates and Phenylpropanoids</data>
+    </node>
+    <node id="22901">
+      <data key="d0">417.118</data>
+      <data key="d1">4.96</data>
+      <data key="d2">4.96</data>
+      <data key="d3">0</data>
+      <data key="d4">2104</data>
+      <data key="d5">Daidzin</data>
+      <data key="d6">O=c1c(-c2ccc(O)cc2)coc2c1ccc(O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)c2</data>
+      <data key="d7">InChI=1S/C21H20O9/c22-8-16-18(25)19(26)20(27)21(30-16)29-12-5-6-13-15(7-12)28-9-14(17(13)24)10-1-3-11(23)4-2-10/h1-7,9,16,18-23,25-27H,8H2/t16-,18-,19+,20-,21-/m1/s1</data>
+      <data key="d8">Phenylpropanoids and polyketides</data>
+      <data key="d9">Isoflavonoids</data>
+      <data key="d10">Isoflavonoid O-glycosides</data>
+      <data key="d11">Isoflavonoids</data>
+      <data key="d12">Isoflavones</data>
+      <data key="d13">Shikimates and Phenylpropanoids</data>
+    </node>
+    <node id="23168">
+      <data key="d0">447.092</data>
+      <data key="d1">5.85</data>
+      <data key="d2">5.85</data>
+      <data key="d3">0</data>
+      <data key="d4">2104</data>
+      <data key="d5">Baicalin</data>
+      <data key="d6">O=C(O)[C@H]1O[C@@H](Oc2c(O)c(O)c3c(=O)cc(-c4ccccc4)oc3c2)[C@H](O)[C@@H](O)[C@@H]1O</data>
+      <data key="d7">InChI=1S/C21H18O11/c22-9-6-10(8-4-2-1-3-5-8)30-11-7-12(14(23)15(24)13(9)11)31-21-18(27)16(25)17(26)19(32-21)20(28)29/h1-7,16-19,21,23-27H,(H,28,29)/t16-,17-,18+,19-,21+/m0/s1</data>
+      <data key="d8">Phenylpropanoids and polyketides</data>
+      <data key="d9">Flavonoids</data>
+      <data key="d10">Flavonoid glycosides</data>
+      <data key="d11">Flavonoids</data>
+      <data key="d12">Flavones</data>
+      <data key="d13">Shikimates and Phenylpropanoids</data>
+    </node>
+    <edge source="23012" target="22901">
+      <data key="d14">-13.979</data>
+      <data key="d15">-13</data>
+      <data key="d16">0.9847</data>
+      <data key="d17">0</data>
+      <data key="d18">23012</data>
+      <data key="d19">22901</data>
+      <data key="d20">2104</data>
+    </edge>
+    <edge source="23632" target="22901">
+      <data key="d14">-86.0</data>
+      <data key="d15">-86</data>
+      <data key="d16">0.9957</data>
+      <data key="d17">0</data>
+      <data key="d18">22901</data>
+      <data key="d19">23632</data>
+      <data key="d20">2104</data>
+    </edge>
+    <edge source="23632" target="23730">
+      <data key="d14">-15.996</data>
+      <data key="d15">-15</data>
+      <data key="d16">0.9794</data>
+      <data key="d17">0</data>
+      <data key="d18">23730</data>
+      <data key="d19">23632</data>
+      <data key="d20">2104</data>
+    </edge>
+    <edge source="23730" target="23168">
+      <data key="d14">-72.022</data>
+      <data key="d15">-72</data>
+      <data key="d16">0.9716</data>
+      <data key="d17">0</data>
+      <data key="d18">23168</data>
+      <data key="d19">23730</data>
+      <data key="d20">2104</data>
+    </edge>
+  </graph>
+</graphml>

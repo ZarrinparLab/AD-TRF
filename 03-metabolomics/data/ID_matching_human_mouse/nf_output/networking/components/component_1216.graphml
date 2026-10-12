@@ -1,0 +1,596 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d11" for="edge" attr.name="component" attr.type="long" />
+  <key id="d10" for="edge" attr.name="scan2" attr.type="string" />
+  <key id="d9" for="edge" attr.name="scan1" attr.type="string" />
+  <key id="d8" for="edge" attr.name="matched_peaks" attr.type="string" />
+  <key id="d7" for="edge" attr.name="score" attr.type="double" />
+  <key id="d6" for="edge" attr.name="deltamz_int" attr.type="long" />
+  <key id="d5" for="edge" attr.name="deltamz" attr.type="double" />
+  <key id="d4" for="node" attr.name="component" attr.type="long" />
+  <key id="d3" for="node" attr.name="charge" attr.type="long" />
+  <key id="d2" for="node" attr.name="rt_min" attr.type="double" />
+  <key id="d1" for="node" attr.name="rt" attr.type="double" />
+  <key id="d0" for="node" attr.name="mz" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="17193">
+      <data key="d0">1413.59</data>
+      <data key="d1">3.08</data>
+      <data key="d2">3.08</data>
+      <data key="d3">0</data>
+      <data key="d4">1216</data>
+    </node>
+    <node id="17205">
+      <data key="d0">1414.58</data>
+      <data key="d1">3.17</data>
+      <data key="d2">3.17</data>
+      <data key="d3">0</data>
+      <data key="d4">1216</data>
+    </node>
+    <node id="17206">
+      <data key="d0">1414.59</data>
+      <data key="d1">3.08</data>
+      <data key="d2">3.08</data>
+      <data key="d3">0</data>
+      <data key="d4">1216</data>
+    </node>
+    <node id="17251">
+      <data key="d0">1419.55</data>
+      <data key="d1">3.09</data>
+      <data key="d2">3.09</data>
+      <data key="d3">0</data>
+      <data key="d4">1216</data>
+    </node>
+    <node id="17051">
+      <data key="d0">1397.56</data>
+      <data key="d1">3.39</data>
+      <data key="d2">3.39</data>
+      <data key="d3">0</data>
+      <data key="d4">1216</data>
+    </node>
+    <node id="17204">
+      <data key="d0">1414.58</data>
+      <data key="d1">3.43</data>
+      <data key="d2">3.43</data>
+      <data key="d3">0</data>
+      <data key="d4">1216</data>
+    </node>
+    <node id="17249">
+      <data key="d0">1419.53</data>
+      <data key="d1">3.43</data>
+      <data key="d2">3.43</data>
+      <data key="d3">0</data>
+      <data key="d4">1216</data>
+    </node>
+    <node id="17053">
+      <data key="d0">1397.57</data>
+      <data key="d1">3.08</data>
+      <data key="d2">3.08</data>
+      <data key="d3">0</data>
+      <data key="d4">1216</data>
+    </node>
+    <node id="17237">
+      <data key="d0">1418.54</data>
+      <data key="d1">3.11</data>
+      <data key="d2">3.11</data>
+      <data key="d3">0</data>
+      <data key="d4">1216</data>
+    </node>
+    <node id="17203">
+      <data key="d0">1414.57</data>
+      <data key="d1">4.56</data>
+      <data key="d2">4.56</data>
+      <data key="d3">0</data>
+      <data key="d4">1216</data>
+    </node>
+    <node id="17305">
+      <data key="d0">1430.62</data>
+      <data key="d1">3.09</data>
+      <data key="d2">3.09</data>
+      <data key="d3">0</data>
+      <data key="d4">1216</data>
+    </node>
+    <node id="17047">
+      <data key="d0">1396.57</data>
+      <data key="d1">3.09</data>
+      <data key="d2">3.09</data>
+      <data key="d3">0</data>
+      <data key="d4">1216</data>
+    </node>
+    <edge source="17193" target="17251">
+      <data key="d5">-5.956</data>
+      <data key="d6">-5</data>
+      <data key="d7">0.9732</data>
+      <data key="d8">0</data>
+      <data key="d9">17251</data>
+      <data key="d10">17193</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17193" target="17047">
+      <data key="d5">-17.026</data>
+      <data key="d6">-17</data>
+      <data key="d7">0.9875</data>
+      <data key="d8">0</data>
+      <data key="d9">17047</data>
+      <data key="d10">17193</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17193" target="17204">
+      <data key="d5">-0.986</data>
+      <data key="d6">0</data>
+      <data key="d7">0.9668</data>
+      <data key="d8">0</data>
+      <data key="d9">17204</data>
+      <data key="d10">17193</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17193" target="17237">
+      <data key="d5">-4.952</data>
+      <data key="d6">-4</data>
+      <data key="d7">0.9703</data>
+      <data key="d8">0</data>
+      <data key="d9">17193</data>
+      <data key="d10">17237</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17193" target="17053">
+      <data key="d5">-16.026</data>
+      <data key="d6">-16</data>
+      <data key="d7">0.9783</data>
+      <data key="d8">0</data>
+      <data key="d9">17193</data>
+      <data key="d10">17053</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17193" target="17205">
+      <data key="d5">-0.991</data>
+      <data key="d6">0</data>
+      <data key="d7">0.959</data>
+      <data key="d8">0</data>
+      <data key="d9">17193</data>
+      <data key="d10">17205</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17193" target="17206">
+      <data key="d5">-1.001</data>
+      <data key="d6">-1</data>
+      <data key="d7">0.9931</data>
+      <data key="d8">0</data>
+      <data key="d9">17193</data>
+      <data key="d10">17206</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17193" target="17051">
+      <data key="d5">-16.037</data>
+      <data key="d6">-16</data>
+      <data key="d7">0.9747</data>
+      <data key="d8">0</data>
+      <data key="d9">17193</data>
+      <data key="d10">17051</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17193" target="17203">
+      <data key="d5">-0.98</data>
+      <data key="d6">0</data>
+      <data key="d7">0.9364</data>
+      <data key="d8">0</data>
+      <data key="d9">17193</data>
+      <data key="d10">17203</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17193" target="17305">
+      <data key="d5">-17.027</data>
+      <data key="d6">-17</data>
+      <data key="d7">0.9806</data>
+      <data key="d8">0</data>
+      <data key="d9">17193</data>
+      <data key="d10">17305</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17205" target="17251">
+      <data key="d5">-4.965</data>
+      <data key="d6">-4</data>
+      <data key="d7">0.9545</data>
+      <data key="d8">0</data>
+      <data key="d9">17251</data>
+      <data key="d10">17205</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17205" target="17047">
+      <data key="d5">-18.016</data>
+      <data key="d6">-18</data>
+      <data key="d7">0.953</data>
+      <data key="d8">0</data>
+      <data key="d9">17047</data>
+      <data key="d10">17205</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17205" target="17204">
+      <data key="d5">-0.005</data>
+      <data key="d6">0</data>
+      <data key="d7">0.957</data>
+      <data key="d8">0</data>
+      <data key="d9">17204</data>
+      <data key="d10">17205</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17205" target="17206">
+      <data key="d5">-0.01</data>
+      <data key="d6">0</data>
+      <data key="d7">0.9613</data>
+      <data key="d8">0</data>
+      <data key="d9">17206</data>
+      <data key="d10">17205</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17205" target="17053">
+      <data key="d5">-17.016</data>
+      <data key="d6">-17</data>
+      <data key="d7">0.9608</data>
+      <data key="d8">0</data>
+      <data key="d9">17053</data>
+      <data key="d10">17205</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17205" target="17051">
+      <data key="d5">-17.028</data>
+      <data key="d6">-17</data>
+      <data key="d7">0.9709</data>
+      <data key="d8">0</data>
+      <data key="d9">17051</data>
+      <data key="d10">17205</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17205" target="17237">
+      <data key="d5">-3.962</data>
+      <data key="d6">-3</data>
+      <data key="d7">0.9506</data>
+      <data key="d8">0</data>
+      <data key="d9">17237</data>
+      <data key="d10">17205</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17205" target="17203">
+      <data key="d5">-0.01</data>
+      <data key="d6">0</data>
+      <data key="d7">0.9147</data>
+      <data key="d8">0</data>
+      <data key="d9">17203</data>
+      <data key="d10">17205</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17205" target="17305">
+      <data key="d5">-16.037</data>
+      <data key="d6">-16</data>
+      <data key="d7">0.9409</data>
+      <data key="d8">0</data>
+      <data key="d9">17305</data>
+      <data key="d10">17205</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17206" target="17251">
+      <data key="d5">-4.954</data>
+      <data key="d6">-4</data>
+      <data key="d7">0.9734</data>
+      <data key="d8">0</data>
+      <data key="d9">17251</data>
+      <data key="d10">17206</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17206" target="17047">
+      <data key="d5">-18.027</data>
+      <data key="d6">-18</data>
+      <data key="d7">0.9823</data>
+      <data key="d8">0</data>
+      <data key="d9">17047</data>
+      <data key="d10">17206</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17206" target="17204">
+      <data key="d5">-0.016</data>
+      <data key="d6">0</data>
+      <data key="d7">0.9682</data>
+      <data key="d8">0</data>
+      <data key="d9">17204</data>
+      <data key="d10">17206</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17206" target="17237">
+      <data key="d5">-3.951</data>
+      <data key="d6">-3</data>
+      <data key="d7">0.9692</data>
+      <data key="d8">0</data>
+      <data key="d9">17206</data>
+      <data key="d10">17237</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17206" target="17053">
+      <data key="d5">-17.027</data>
+      <data key="d6">-17</data>
+      <data key="d7">0.9805</data>
+      <data key="d8">0</data>
+      <data key="d9">17206</data>
+      <data key="d10">17053</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17206" target="17051">
+      <data key="d5">-17.038</data>
+      <data key="d6">-17</data>
+      <data key="d7">0.9744</data>
+      <data key="d8">0</data>
+      <data key="d9">17206</data>
+      <data key="d10">17051</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17206" target="17203">
+      <data key="d5">-0.021</data>
+      <data key="d6">0</data>
+      <data key="d7">0.9342</data>
+      <data key="d8">0</data>
+      <data key="d9">17206</data>
+      <data key="d10">17203</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17206" target="17305">
+      <data key="d5">-16.026</data>
+      <data key="d6">-16</data>
+      <data key="d7">0.9763</data>
+      <data key="d8">0</data>
+      <data key="d9">17206</data>
+      <data key="d10">17305</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17251" target="17237">
+      <data key="d5">-1.003</data>
+      <data key="d6">-1</data>
+      <data key="d7">0.9772</data>
+      <data key="d8">0</data>
+      <data key="d9">17251</data>
+      <data key="d10">17237</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17251" target="17053">
+      <data key="d5">-21.981</data>
+      <data key="d6">-21</data>
+      <data key="d7">0.9718</data>
+      <data key="d8">0</data>
+      <data key="d9">17251</data>
+      <data key="d10">17053</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17251" target="17249">
+      <data key="d5">-0.015</data>
+      <data key="d6">0</data>
+      <data key="d7">0.9382</data>
+      <data key="d8">0</data>
+      <data key="d9">17251</data>
+      <data key="d10">17249</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17251" target="17047">
+      <data key="d5">-22.981</data>
+      <data key="d6">-22</data>
+      <data key="d7">0.9649</data>
+      <data key="d8">0</data>
+      <data key="d9">17251</data>
+      <data key="d10">17047</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17251" target="17051">
+      <data key="d5">-21.993</data>
+      <data key="d6">-21</data>
+      <data key="d7">0.97</data>
+      <data key="d8">0</data>
+      <data key="d9">17251</data>
+      <data key="d10">17051</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17251" target="17204">
+      <data key="d5">-4.97</data>
+      <data key="d6">-4</data>
+      <data key="d7">0.9651</data>
+      <data key="d8">0</data>
+      <data key="d9">17251</data>
+      <data key="d10">17204</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17251" target="17305">
+      <data key="d5">-11.072</data>
+      <data key="d6">-11</data>
+      <data key="d7">0.9556</data>
+      <data key="d8">0</data>
+      <data key="d9">17251</data>
+      <data key="d10">17305</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17051" target="17047">
+      <data key="d5">-0.989</data>
+      <data key="d6">0</data>
+      <data key="d7">0.9659</data>
+      <data key="d8">0</data>
+      <data key="d9">17047</data>
+      <data key="d10">17051</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17051" target="17204">
+      <data key="d5">-17.023</data>
+      <data key="d6">-17</data>
+      <data key="d7">0.9654</data>
+      <data key="d8">0</data>
+      <data key="d9">17204</data>
+      <data key="d10">17051</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17051" target="17053">
+      <data key="d5">-0.011</data>
+      <data key="d6">0</data>
+      <data key="d7">0.9745</data>
+      <data key="d8">0</data>
+      <data key="d9">17053</data>
+      <data key="d10">17051</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17051" target="17237">
+      <data key="d5">-20.989</data>
+      <data key="d6">-20</data>
+      <data key="d7">0.9628</data>
+      <data key="d8">0</data>
+      <data key="d9">17051</data>
+      <data key="d10">17237</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17051" target="17203">
+      <data key="d5">-17.017</data>
+      <data key="d6">-17</data>
+      <data key="d7">0.9295</data>
+      <data key="d8">0</data>
+      <data key="d9">17051</data>
+      <data key="d10">17203</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17051" target="17305">
+      <data key="d5">-33.064</data>
+      <data key="d6">-33</data>
+      <data key="d7">0.9562</data>
+      <data key="d8">0</data>
+      <data key="d9">17051</data>
+      <data key="d10">17305</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17204" target="17047">
+      <data key="d5">-18.011</data>
+      <data key="d6">-18</data>
+      <data key="d7">0.9618</data>
+      <data key="d8">0</data>
+      <data key="d9">17047</data>
+      <data key="d10">17204</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17204" target="17237">
+      <data key="d5">-3.967</data>
+      <data key="d6">-3</data>
+      <data key="d7">0.9629</data>
+      <data key="d8">0</data>
+      <data key="d9">17204</data>
+      <data key="d10">17237</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17204" target="17053">
+      <data key="d5">-17.011</data>
+      <data key="d6">-17</data>
+      <data key="d7">0.9668</data>
+      <data key="d8">0</data>
+      <data key="d9">17204</data>
+      <data key="d10">17053</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17204" target="17203">
+      <data key="d5">-0.005</data>
+      <data key="d6">0</data>
+      <data key="d7">0.9345</data>
+      <data key="d8">0</data>
+      <data key="d9">17204</data>
+      <data key="d10">17203</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17204" target="17305">
+      <data key="d5">-16.042</data>
+      <data key="d6">-16</data>
+      <data key="d7">0.9476</data>
+      <data key="d8">0</data>
+      <data key="d9">17204</data>
+      <data key="d10">17305</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17249" target="17047">
+      <data key="d5">-22.967</data>
+      <data key="d6">-22</data>
+      <data key="d7">0.9367</data>
+      <data key="d8">0</data>
+      <data key="d9">17047</data>
+      <data key="d10">17249</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17249" target="17053">
+      <data key="d5">-21.966</data>
+      <data key="d6">-21</data>
+      <data key="d7">0.9405</data>
+      <data key="d8">0</data>
+      <data key="d9">17053</data>
+      <data key="d10">17249</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17249" target="17237">
+      <data key="d5">-0.989</data>
+      <data key="d6">0</data>
+      <data key="d7">0.9469</data>
+      <data key="d8">0</data>
+      <data key="d9">17237</data>
+      <data key="d10">17249</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17249" target="17305">
+      <data key="d5">-11.087</data>
+      <data key="d6">-11</data>
+      <data key="d7">0.9235</data>
+      <data key="d8">0</data>
+      <data key="d9">17249</data>
+      <data key="d10">17305</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17053" target="17047">
+      <data key="d5">-1.0</data>
+      <data key="d6">-1</data>
+      <data key="d7">0.9818</data>
+      <data key="d8">0</data>
+      <data key="d9">17047</data>
+      <data key="d10">17053</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17053" target="17237">
+      <data key="d5">-20.978</data>
+      <data key="d6">-20</data>
+      <data key="d7">0.9814</data>
+      <data key="d8">0</data>
+      <data key="d9">17053</data>
+      <data key="d10">17237</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17053" target="17305">
+      <data key="d5">-33.053</data>
+      <data key="d6">-33</data>
+      <data key="d7">0.9733</data>
+      <data key="d8">0</data>
+      <data key="d9">17053</data>
+      <data key="d10">17305</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17237" target="17047">
+      <data key="d5">-21.978</data>
+      <data key="d6">-21</data>
+      <data key="d7">0.9794</data>
+      <data key="d8">0</data>
+      <data key="d9">17047</data>
+      <data key="d10">17237</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17237" target="17305">
+      <data key="d5">-12.075</data>
+      <data key="d6">-12</data>
+      <data key="d7">0.9655</data>
+      <data key="d8">0</data>
+      <data key="d9">17237</data>
+      <data key="d10">17305</data>
+      <data key="d11">1216</data>
+    </edge>
+    <edge source="17305" target="17047">
+      <data key="d5">-34.053</data>
+      <data key="d6">-34</data>
+      <data key="d7">0.9816</data>
+      <data key="d8">0</data>
+      <data key="d9">17047</data>
+      <data key="d10">17305</data>
+      <data key="d11">1216</data>
+    </edge>
+  </graph>
+</graphml>

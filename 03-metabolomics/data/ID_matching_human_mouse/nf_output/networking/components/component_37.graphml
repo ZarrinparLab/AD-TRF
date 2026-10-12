@@ -1,0 +1,2439 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d20" for="edge" attr.name="component" attr.type="long" />
+  <key id="d19" for="edge" attr.name="scan2" attr.type="string" />
+  <key id="d18" for="edge" attr.name="scan1" attr.type="string" />
+  <key id="d17" for="edge" attr.name="matched_peaks" attr.type="string" />
+  <key id="d16" for="edge" attr.name="score" attr.type="double" />
+  <key id="d15" for="edge" attr.name="deltamz_int" attr.type="long" />
+  <key id="d14" for="edge" attr.name="deltamz" attr.type="double" />
+  <key id="d13" for="node" attr.name="library_npclassifier_pathway" attr.type="string" />
+  <key id="d12" for="node" attr.name="library_npclassifier_class" attr.type="string" />
+  <key id="d11" for="node" attr.name="library_npclassifier_superclass" attr.type="string" />
+  <key id="d10" for="node" attr.name="library_classyfire_subclass" attr.type="string" />
+  <key id="d9" for="node" attr.name="library_classyfire_class" attr.type="string" />
+  <key id="d8" for="node" attr.name="library_classyfire_superclass" attr.type="string" />
+  <key id="d7" for="node" attr.name="library_InChI" attr.type="string" />
+  <key id="d6" for="node" attr.name="library_SMILES" attr.type="string" />
+  <key id="d5" for="node" attr.name="library_compound_name" attr.type="string" />
+  <key id="d4" for="node" attr.name="component" attr.type="long" />
+  <key id="d3" for="node" attr.name="charge" attr.type="long" />
+  <key id="d2" for="node" attr.name="rt_min" attr.type="double" />
+  <key id="d1" for="node" attr.name="rt" attr.type="double" />
+  <key id="d0" for="node" attr.name="mz" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="4561">
+      <data key="d0">272.186</data>
+      <data key="d1">2.7</data>
+      <data key="d2">2.7</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="20584">
+      <data key="d0">218.139</data>
+      <data key="d1">1.04</data>
+      <data key="d2">1.04</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+      <data key="d5">levocarnitine-propionate</data>
+      <data key="d6">CCC(=O)O[C@H](CC(=O)O)C[N+](C)(C)C</data>
+      <data key="d7">InChI=1S/C10H19NO4/c1-5-10(14)15-8(6-9(12)13)7-11(2,3)4/h8H,5-7H2,1-4H3/p+1/t8-/m1/s1</data>
+      <data key="d8">Lipids and lipid-like molecules</data>
+      <data key="d9">Fatty Acyls</data>
+      <data key="d10">Fatty acid esters</data>
+      <data key="d11">nan</data>
+      <data key="d12">nan</data>
+      <data key="d13">nan</data>
+    </node>
+    <node id="6516">
+      <data key="d0">318.228</data>
+      <data key="d1">2.54</data>
+      <data key="d2">2.54</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="7507">
+      <data key="d0">342.264</data>
+      <data key="d1">4.32</data>
+      <data key="d2">4.32</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="5633">
+      <data key="d0">299.139</data>
+      <data key="d1">7.35</data>
+      <data key="d2">7.35</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="7397">
+      <data key="d0">340.176</data>
+      <data key="d1">2.49</data>
+      <data key="d2">2.49</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="10454">
+      <data key="d0">424.342</data>
+      <data key="d1">5.39</data>
+      <data key="d2">5.39</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="6267">
+      <data key="d0">313.22</data>
+      <data key="d1">3.57</data>
+      <data key="d2">3.57</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="4799">
+      <data key="d0">279.057</data>
+      <data key="d1">0.3</data>
+      <data key="d2">0.3</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="10031">
+      <data key="d0">412.307</data>
+      <data key="d1">4.5</data>
+      <data key="d2">4.5</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="4024">
+      <data key="d0">258.17</data>
+      <data key="d1">2.36</data>
+      <data key="d2">2.36</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="6401">
+      <data key="d0">316.176</data>
+      <data key="d1">2.07</data>
+      <data key="d2">2.07</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="8680">
+      <data key="d0">372.311</data>
+      <data key="d1">5.06</data>
+      <data key="d2">5.06</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+      <data key="d5">Myristoylcarnitine -  eV</data>
+      <data key="d6">CCCCCCCCCCCCCC(=O)O[C@H](CC(O)=O)C[N+](C)(C)C</data>
+      <data key="d7">InChI=1S/C21H41NO4/c1-5-6-7-8-9-10-11-12-13-14-15-16-21(25)26-19(17-20(23)24)18-22(2,3)4/h19H,5-18H2,1-4H3/p+1/t19-/m1/s1</data>
+      <data key="d8">Organic nitrogen compounds</data>
+      <data key="d9">Organonitrogen compounds</data>
+      <data key="d10">Quaternary ammonium salts</data>
+      <data key="d11">nan</data>
+      <data key="d12">nan</data>
+      <data key="d13">nan</data>
+    </node>
+    <node id="4157">
+      <data key="d0">262.165</data>
+      <data key="d1">0.44</data>
+      <data key="d2">0.44</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="5283">
+      <data key="d0">290.16</data>
+      <data key="d1">0.55</data>
+      <data key="d2">0.55</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+      <data key="d5">O-adipoylcarnitine</data>
+      <data key="d6">C[N+](C)(C)CC(CC([O-])=O)OC(=O)CCCCC(O)=O</data>
+      <data key="d7">"InChI=1S/C13H23NO6/c1-14(2,3)9-10(8-12(17)18)20-13(19)7-5-4-6-11(15)16/h10H,4-9H2,1-3H3,(H-,15,16,17,18)"</data>
+      <data key="d8">Lipids and lipid-like molecules</data>
+      <data key="d9">Fatty Acyls</data>
+      <data key="d10">Fatty acid esters</data>
+      <data key="d11">nan</data>
+      <data key="d12">nan</data>
+      <data key="d13">nan</data>
+    </node>
+    <node id="8529">
+      <data key="d0">368.28</data>
+      <data key="d1">4.55</data>
+      <data key="d2">4.55</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="8602">
+      <data key="d0">370.295</data>
+      <data key="d1">4.8</data>
+      <data key="d2">4.8</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="6927">
+      <data key="d0">328.248</data>
+      <data key="d1">4.02</data>
+      <data key="d2">4.02</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="5706">
+      <data key="d0">300.217</data>
+      <data key="d1">3.36</data>
+      <data key="d2">3.36</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="9198">
+      <data key="d0">386.29</data>
+      <data key="d1">4.34</data>
+      <data key="d2">4.34</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="6545">
+      <data key="d0">319.166</data>
+      <data key="d1">2.54</data>
+      <data key="d2">2.54</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="5512">
+      <data key="d0">296.149</data>
+      <data key="d1">1.27</data>
+      <data key="d2">1.27</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="3547">
+      <data key="d0">246.17</data>
+      <data key="d1">2.86</data>
+      <data key="d2">2.86</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+      <data key="d5">Isovalerylcarnitine - 30.00 eV</data>
+      <data key="d6">CC(C)CC(=O)OC(CC([O-])=O)C[N+](C)(C)C</data>
+      <data key="d7">InChI=1S/C12H23NO4/c1-9(2)6-12(16)17-10(7-11(14)15)8-13(3,4)5/h9-10H,6-8H2,1-5H3</data>
+      <data key="d8">Lipids and lipid-like molecules</data>
+      <data key="d9">Fatty Acyls</data>
+      <data key="d10">Fatty acid esters</data>
+      <data key="d11">nan</data>
+      <data key="d12">nan</data>
+      <data key="d13">nan</data>
+    </node>
+    <node id="2213">
+      <data key="d0">205.127</data>
+      <data key="d1">0.32</data>
+      <data key="d2">0.32</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="20894">
+      <data key="d0">246.17</data>
+      <data key="d1">3.57</data>
+      <data key="d2">3.57</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+      <data key="d5">DTXSID40865579</data>
+      <data key="d6">CC(C)CC(=O)OC(CC(=O)O)C[N+](C)(C)C</data>
+      <data key="d7">InChI=1S/C12H23NO4/c1-9(2)6-12(16)17-10(7-11(14)15)8-13(3,4)5/h9-10H,6-8H2,1-5H3/p+1</data>
+      <data key="d8">Organic nitrogen compounds</data>
+      <data key="d9">Organonitrogen compounds</data>
+      <data key="d10">Quaternary ammonium salts</data>
+      <data key="d11">nan</data>
+      <data key="d12">nan</data>
+      <data key="d13">nan</data>
+    </node>
+    <node id="20447">
+      <data key="d0">204.102</data>
+      <data key="d1">0.79</data>
+      <data key="d2">0.79</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="7853">
+      <data key="d0">350.233</data>
+      <data key="d1">3.85</data>
+      <data key="d2">3.85</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="7674">
+      <data key="d0">346.223</data>
+      <data key="d1">0.66</data>
+      <data key="d2">0.66</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="22982">
+      <data key="d0">426.358</data>
+      <data key="d1">7.42</data>
+      <data key="d2">7.42</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+      <data key="d5">Spectral Match to Oleoyl L-carnitine from NIST14</data>
+      <data key="d6">CCCCCCCC/C=C\\CCCCCCCC(=O)O[C@H](CC(=O)[O-])C[N+](C)(C)C</data>
+      <data key="d7">InChI=1S/C25H47NO4/c1-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-25(29)30-23(21-24(27)28)22-26(2,3)4/h12-13,23H,5-11,14-22H2,1-4H3/b13-12-/t23-/m1/s1</data>
+      <data key="d8">Lipids and lipid-like molecules</data>
+      <data key="d9">Fatty Acyls</data>
+      <data key="d10">Fatty acid esters</data>
+      <data key="d11">nan</data>
+      <data key="d12">nan</data>
+      <data key="d13">nan</data>
+    </node>
+    <node id="22961">
+      <data key="d0">424.342</data>
+      <data key="d1">7.29</data>
+      <data key="d2">7.29</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="4694">
+      <data key="d0">276.181</data>
+      <data key="d1">0.93</data>
+      <data key="d2">0.93</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="3546">
+      <data key="d0">246.17</data>
+      <data key="d1">1.59</data>
+      <data key="d2">1.59</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+      <data key="d5">Isovalerylcarnitine - 30.00 eV</data>
+      <data key="d6">CC(C)CC(=O)OC(CC([O-])=O)C[N+](C)(C)C</data>
+      <data key="d7">InChI=1S/C12H23NO4/c1-9(2)6-12(16)17-10(7-11(14)15)8-13(3,4)5/h9-10H,6-8H2,1-5H3</data>
+      <data key="d8">Lipids and lipid-like molecules</data>
+      <data key="d9">Fatty Acyls</data>
+      <data key="d10">Fatty acid esters</data>
+      <data key="d11">nan</data>
+      <data key="d12">nan</data>
+      <data key="d13">nan</data>
+    </node>
+    <node id="5897">
+      <data key="d0">304.212</data>
+      <data key="d1">3.28</data>
+      <data key="d2">3.28</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="4861">
+      <data key="d0">280.154</data>
+      <data key="d1">2.27</data>
+      <data key="d2">2.27</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="6498">
+      <data key="d0">318.191</data>
+      <data key="d1">3.33</data>
+      <data key="d2">3.33</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="6266">
+      <data key="d0">313.22</data>
+      <data key="d1">3.29</data>
+      <data key="d2">3.29</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="22709">
+      <data key="d0">397.183</data>
+      <data key="d1">7.08</data>
+      <data key="d2">7.08</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="5895">
+      <data key="d0">304.212</data>
+      <data key="d1">2.72</data>
+      <data key="d2">2.72</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="20451">
+      <data key="d0">204.124</data>
+      <data key="d1">0.78</data>
+      <data key="d2">0.78</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+      <data key="d5">O-ACETYLCARNITINE</data>
+      <data key="d6">CC(=O)OC(CC([O-])=O)C[N+](C)(C)C</data>
+      <data key="d7">"InChI=1S/C9H17NO4/c1-7(11)14-8(5-9(12)13)6-10(2,3)4/h8H,5-6H2,1-4H3"</data>
+      <data key="d8">Lipids and lipid-like molecules</data>
+      <data key="d9">Fatty Acyls</data>
+      <data key="d10">Fatty acid esters</data>
+      <data key="d11">nan</data>
+      <data key="d12">nan</data>
+      <data key="d13">nan</data>
+    </node>
+    <node id="7613">
+      <data key="d0">344.28</data>
+      <data key="d1">4.55</data>
+      <data key="d2">4.55</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+      <data key="d5">LAUROYLCARNITINE - 30.0 eV</data>
+      <data key="d6">CCCCCCCCCCCC(=O)O[C@H](CC([O-])=O)C[N+](C)(C)C</data>
+      <data key="d7">InChI=1S/C19H37NO4/c1-5-6-7-8-9-10-11-12-13-14-19(23)24-17(15-18(21)22)16-20(2,3)4/h17H,5-16H2,1-4H3/t17-/m1/s1</data>
+      <data key="d8">Lipids and lipid-like molecules</data>
+      <data key="d9">Fatty Acyls</data>
+      <data key="d10">Fatty acid esters</data>
+      <data key="d11">nan</data>
+      <data key="d12">nan</data>
+      <data key="d13">nan</data>
+    </node>
+    <node id="6308">
+      <data key="d0">314.233</data>
+      <data key="d1">3.77</data>
+      <data key="d2">3.77</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="20895">
+      <data key="d0">246.17</data>
+      <data key="d1">3.47</data>
+      <data key="d2">3.47</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+      <data key="d5">DTXSID40865579</data>
+      <data key="d6">CC(C)CC(=O)OC(CC(=O)O)C[N+](C)(C)C</data>
+      <data key="d7">InChI=1S/C12H23NO4/c1-9(2)6-12(16)17-10(7-11(14)15)8-13(3,4)5/h9-10H,6-8H2,1-5H3/p+1</data>
+      <data key="d8">Organic nitrogen compounds</data>
+      <data key="d9">Organonitrogen compounds</data>
+      <data key="d10">Quaternary ammonium salts</data>
+      <data key="d11">nan</data>
+      <data key="d12">nan</data>
+      <data key="d13">nan</data>
+    </node>
+    <node id="4025">
+      <data key="d0">258.17</data>
+      <data key="d1">2.29</data>
+      <data key="d2">2.29</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="8170">
+      <data key="d0">358.296</data>
+      <data key="d1">4.77</data>
+      <data key="d2">4.77</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="7111">
+      <data key="d0">332.243</data>
+      <data key="d1">3.44</data>
+      <data key="d2">3.44</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="20449">
+      <data key="d0">204.124</data>
+      <data key="d1">0.96</data>
+      <data key="d2">0.96</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+      <data key="d5">O-ACETYLCARNITINE</data>
+      <data key="d6">CC(=O)OC(CC([O-])=O)C[N+](C)(C)C</data>
+      <data key="d7">"InChI=1S/C9H17NO4/c1-7(11)14-8(5-9(12)13)6-10(2,3)4/h8H,5-6H2,1-4H3"</data>
+      <data key="d8">Lipids and lipid-like molecules</data>
+      <data key="d9">Fatty Acyls</data>
+      <data key="d10">Fatty acid esters</data>
+      <data key="d11">nan</data>
+      <data key="d12">nan</data>
+      <data key="d13">nan</data>
+    </node>
+    <node id="22741">
+      <data key="d0">400.342</data>
+      <data key="d1">7.38</data>
+      <data key="d2">7.38</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+      <data key="d5">Palmitoyl-L-(-)-carnitin [German]</data>
+      <data key="d6">CCCCCCCCCCCCCCCC(=O)O[C@H](CC(=O)O)C[N+](C)(C)C</data>
+      <data key="d7">InChI=1S/C23H45NO4/c1-5-6-7-8-9-10-11-12-13-14-15-16-17-18-23(27)28-21(19-22(25)26)20-24(2,3)4/h21H,5-20H2,1-4H3/p+1/t21-/m1/s1</data>
+      <data key="d8">Lipids and lipid-like molecules</data>
+      <data key="d9">Fatty Acyls</data>
+      <data key="d10">Fatty acid esters</data>
+      <data key="d11">nan</data>
+      <data key="d12">nan</data>
+      <data key="d13">nan</data>
+    </node>
+    <node id="6249">
+      <data key="d0">313.163</data>
+      <data key="d1">5.0</data>
+      <data key="d2">5.0</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="22383">
+      <data key="d0">368.28</data>
+      <data key="d1">6.85</data>
+      <data key="d2">6.85</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="5791">
+      <data key="d0">302.159</data>
+      <data key="d1">0.65</data>
+      <data key="d2">0.65</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="4298">
+      <data key="d0">266.139</data>
+      <data key="d1">2.13</data>
+      <data key="d2">2.13</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="8083">
+      <data key="d0">356.28</data>
+      <data key="d1">4.53</data>
+      <data key="d2">4.53</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="5054">
+      <data key="d0">285.111</data>
+      <data key="d1">3.28</data>
+      <data key="d2">3.28</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="5024">
+      <data key="d0">284.186</data>
+      <data key="d1">2.77</data>
+      <data key="d2">2.77</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="20740">
+      <data key="d0">232.155</data>
+      <data key="d1">2.08</data>
+      <data key="d2">2.08</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+      <data key="d5">Butyrylcarnitine</data>
+      <data key="d6">CCCC(=O)O[C@H](CC(=O)O)C[N+](C)(C)C</data>
+      <data key="d7">InChI=1S/C11H21NO4/c1-5-6-11(15)16-9(7-10(13)14)8-12(2,3)4/h9H,5-8H2,1-4H3/p+1/t9-/m1/s1</data>
+      <data key="d8">Lipids and lipid-like molecules</data>
+      <data key="d9">Fatty Acyls</data>
+      <data key="d10">Fatty acid esters</data>
+      <data key="d11">nan</data>
+      <data key="d12">nan</data>
+      <data key="d13">nan</data>
+    </node>
+    <node id="22406">
+      <data key="d0">370.295</data>
+      <data key="d1">7.06</data>
+      <data key="d2">7.06</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="6911">
+      <data key="d0">328.212</data>
+      <data key="d1">1.36</data>
+      <data key="d2">1.36</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="4582">
+      <data key="d0">273.169</data>
+      <data key="d1">3.5</data>
+      <data key="d2">3.5</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="2181">
+      <data key="d0">204.124</data>
+      <data key="d1">0.32</data>
+      <data key="d2">0.32</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+      <data key="d5">Spectral Match to Acetyl-DL-carnitine from NIST14</data>
+      <data key="d6">CC(=O)OC(CC(=O)[O-])C[N+](C)(C)C</data>
+      <data key="d7">InChI=1S/C9H17NO4/c1-7(11)14-8(5-9(12)13)6-10(2,3)4/h8H,5-6H2,1-4H3</data>
+      <data key="d8">Lipids and lipid-like molecules</data>
+      <data key="d9">Fatty Acyls</data>
+      <data key="d10">Fatty acid esters</data>
+      <data key="d11">nan</data>
+      <data key="d12">nan</data>
+      <data key="d13">nan</data>
+    </node>
+    <node id="6421">
+      <data key="d0">316.248</data>
+      <data key="d1">4.04</data>
+      <data key="d2">4.04</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+      <data key="d5">DECANOYLCARNITINE</data>
+      <data key="d6">CCCCCCCCCC(=O)OC(CC(=O)[O-])C[N+](C)(C)C</data>
+      <data key="d7">"InChI=1S/C17H33NO4/c1-5-6-7-8-9-10-11-12-17(21)22-15(13-16(19)20)14-18(2,3)4/h15H,5-14H2,1-4H3"</data>
+      <data key="d8">Lipids and lipid-like molecules</data>
+      <data key="d9">Fatty Acyls</data>
+      <data key="d10">Fatty acid esters</data>
+      <data key="d11">nan</data>
+      <data key="d12">nan</data>
+      <data key="d13">nan</data>
+    </node>
+    <node id="5115">
+      <data key="d0">286.201</data>
+      <data key="d1">3.11</data>
+      <data key="d2">3.11</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="10395">
+      <data key="d0">422.326</data>
+      <data key="d1">5.15</data>
+      <data key="d2">5.15</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="8251">
+      <data key="d0">360.275</data>
+      <data key="d1">4.0</data>
+      <data key="d2">4.0</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="22084">
+      <data key="d0">344.28</data>
+      <data key="d1">6.96</data>
+      <data key="d2">6.96</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+      <data key="d5">LAUROYLCARNITINE</data>
+      <data key="d6">CCCCCCCCCCCC(=O)O[C@H](CC(=O)[O-])C[N+](C)(C)C</data>
+      <data key="d7">"InChI=1S/C19H37NO4/c1-5-6-7-8-9-10-11-12-13-14-19(23)24-17(15-18(21)22)16-20(2,3)4/h17H,5-16H2,1-4H3/t17-/m1/s1"</data>
+      <data key="d8">Lipids and lipid-like molecules</data>
+      <data key="d9">Fatty Acyls</data>
+      <data key="d10">Fatty acid esters</data>
+      <data key="d11">nan</data>
+      <data key="d12">nan</data>
+      <data key="d13">nan</data>
+    </node>
+    <node id="4864">
+      <data key="d0">280.176</data>
+      <data key="d1">2.23</data>
+      <data key="d2">2.23</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="6211">
+      <data key="d0">312.217</data>
+      <data key="d1">3.32</data>
+      <data key="d2">3.32</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="9662">
+      <data key="d0">400.342</data>
+      <data key="d1">5.59</data>
+      <data key="d2">5.59</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+      <data key="d5">Spectral Match to Palmitoylcarnitine from NIST14</data>
+      <data key="d6">CCCCCCCCCCCCCCCC(=O)OC(CC(=O)[O-])C[N+](C)(C)C</data>
+      <data key="d7">InChI=1S/C23H45NO4/c1-5-6-7-8-9-10-11-12-13-14-15-16-17-18-23(27)28-21(19-22(25)26)20-24(2,3)4/h21H,5-20H2,1-4H3</data>
+      <data key="d8">Lipids and lipid-like molecules</data>
+      <data key="d9">Fatty Acyls</data>
+      <data key="d10">Fatty acid esters</data>
+      <data key="d11">nan</data>
+      <data key="d12">nan</data>
+      <data key="d13">nan</data>
+    </node>
+    <node id="4562">
+      <data key="d0">272.186</data>
+      <data key="d1">3.28</data>
+      <data key="d2">3.28</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="6503">
+      <data key="d0">318.191</data>
+      <data key="d1">7.04</data>
+      <data key="d2">7.04</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="3480">
+      <data key="d0">244.154</data>
+      <data key="d1">1.36</data>
+      <data key="d2">1.36</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="2145">
+      <data key="d0">203.053</data>
+      <data key="d1">0.25</data>
+      <data key="d2">0.25</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="6244">
+      <data key="d0">313.142</data>
+      <data key="d1">3.86</data>
+      <data key="d2">3.86</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="9438">
+      <data key="d0">394.294</data>
+      <data key="d1">5.13</data>
+      <data key="d2">5.13</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="2570">
+      <data key="d0">216.923</data>
+      <data key="d1">0.23</data>
+      <data key="d2">0.23</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="9582">
+      <data key="d0">398.327</data>
+      <data key="d1">5.22</data>
+      <data key="d2">5.22</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="6404">
+      <data key="d0">316.176</data>
+      <data key="d1">1.61</data>
+      <data key="d2">1.61</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="11025">
+      <data key="d0">442.353</data>
+      <data key="d1">5.15</data>
+      <data key="d2">5.15</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="22430">
+      <data key="d0">372.311</data>
+      <data key="d1">7.17</data>
+      <data key="d2">7.17</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+      <data key="d5">Myristoylcarnitine -  eV</data>
+      <data key="d6">CCCCCCCCCCCCCC(=O)O[C@H](CC(O)=O)C[N+](C)(C)C</data>
+      <data key="d7">InChI=1S/C21H41NO4/c1-5-6-7-8-9-10-11-12-13-14-15-16-21(25)26-19(17-20(23)24)18-22(2,3)4/h19H,5-18H2,1-4H3/p+1/t19-/m1/s1</data>
+      <data key="d8">Organic nitrogen compounds</data>
+      <data key="d9">Organonitrogen compounds</data>
+      <data key="d10">Quaternary ammonium salts</data>
+      <data key="d11">nan</data>
+      <data key="d12">nan</data>
+      <data key="d13">nan</data>
+    </node>
+    <node id="5214">
+      <data key="d0">288.217</data>
+      <data key="d1">3.47</data>
+      <data key="d2">3.47</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+      <data key="d5">Octanoylcarnitine - 40.00 eV</data>
+      <data key="d6">CCCCCCCC(=O)O[C@H](CC(O)=O)C[N+](C)(C)C</data>
+      <data key="d7">InChI=1S/C15H29NO4/c1-5-6-7-8-9-10-15(19)20-13(11-14(17)18)12-16(2,3)4/h13H,5-12H2,1-4H3/p+1/t13-/m1/s1</data>
+      <data key="d8">Lipids and lipid-like molecules</data>
+      <data key="d9">Fatty Acyls</data>
+      <data key="d10">Fatty acid esters</data>
+      <data key="d11">nan</data>
+      <data key="d12">nan</data>
+      <data key="d13">nan</data>
+    </node>
+    <node id="20916">
+      <data key="d0">248.149</data>
+      <data key="d1">0.85</data>
+      <data key="d2">0.85</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+      <data key="d5">3-hydroxybutyrylcarnitine</data>
+      <data key="d6">CC(O)CC(=O)OC(CC([O-])=O)C[N+](C)(C)C</data>
+      <data key="d7">"InChI=1S/C11H21NO5/c1-8(13)5-11(16)17-9(6-10(14)15)7-12(2,3)4/h8-9,13H,5-7H2,1-4H3"</data>
+      <data key="d8">Lipids and lipid-like molecules</data>
+      <data key="d9">Fatty Acyls</data>
+      <data key="d10">Fatty acid esters</data>
+      <data key="d11">nan</data>
+      <data key="d12">nan</data>
+      <data key="d13">nan</data>
+    </node>
+    <node id="3080">
+      <data key="d0">232.155</data>
+      <data key="d1">0.67</data>
+      <data key="d2">0.67</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+      <data key="d5">Butyrylcarnitine - 30.00 eV</data>
+      <data key="d6">CCCC(=O)O[C@H](CC([O-])=O)C[N+](C)(C)C</data>
+      <data key="d7">InChI=1S/C11H21NO4/c1-5-6-11(15)16-9(7-10(13)14)8-12(2,3)4/h9H,5-8H2,1-4H3/t9-/m1/s1</data>
+      <data key="d8">Lipids and lipid-like molecules</data>
+      <data key="d9">Fatty Acyls</data>
+      <data key="d10">Fatty acid esters</data>
+      <data key="d11">nan</data>
+      <data key="d12">nan</data>
+      <data key="d13">nan</data>
+    </node>
+    <node id="2638">
+      <data key="d0">218.139</data>
+      <data key="d1">3.53</data>
+      <data key="d2">3.53</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+      <data key="d5">Propionylcarnitine - 30.00 eV</data>
+      <data key="d6">CCC(=O)O[C@H](CC(O)=O)C[N+](C)(C)C</data>
+      <data key="d7">InChI=1S/C10H19NO4/c1-5-10(14)15-8(6-9(12)13)7-11(2,3)4/h8H,5-7H2,1-4H3/p+1/t8-/m1/s1</data>
+      <data key="d8">Lipids and lipid-like molecules</data>
+      <data key="d9">Fatty Acyls</data>
+      <data key="d10">Fatty acid esters</data>
+      <data key="d11">nan</data>
+      <data key="d12">nan</data>
+      <data key="d13">nan</data>
+    </node>
+    <node id="6210">
+      <data key="d0">312.217</data>
+      <data key="d1">3.59</data>
+      <data key="d2">3.59</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="23130">
+      <data key="d0">442.353</data>
+      <data key="d1">6.93</data>
+      <data key="d2">6.93</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <node id="7336">
+      <data key="d0">338.233</data>
+      <data key="d1">3.8</data>
+      <data key="d2">3.8</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+    </node>
+    <edge source="4561" target="3480">
+      <data key="d14">-28.031</data>
+      <data key="d15">-28</data>
+      <data key="d16">0.9495</data>
+      <data key="d17">0</data>
+      <data key="d18">3480</data>
+      <data key="d19">4561</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="4561" target="4582">
+      <data key="d14">-0.983</data>
+      <data key="d15">0</data>
+      <data key="d16">0.9263</data>
+      <data key="d17">0</data>
+      <data key="d18">4561</data>
+      <data key="d19">4582</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="20584" target="2181">
+      <data key="d14">-14.015</data>
+      <data key="d15">-14</data>
+      <data key="d16">0.9611</data>
+      <data key="d17">0</data>
+      <data key="d18">2181</data>
+      <data key="d19">20584</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="20584" target="20451">
+      <data key="d14">-14.015</data>
+      <data key="d15">-14</data>
+      <data key="d16">0.9751</data>
+      <data key="d17">0</data>
+      <data key="d18">20451</data>
+      <data key="d19">20584</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="20584" target="22741">
+      <data key="d14">-182.203</data>
+      <data key="d15">-182</data>
+      <data key="d16">0.9421</data>
+      <data key="d17">0</data>
+      <data key="d18">22741</data>
+      <data key="d19">20584</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="20584" target="20449">
+      <data key="d14">-14.015</data>
+      <data key="d15">-14</data>
+      <data key="d16">0.9653</data>
+      <data key="d17">0</data>
+      <data key="d18">20449</data>
+      <data key="d19">20584</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="20584" target="22084">
+      <data key="d14">-126.141</data>
+      <data key="d15">-126</data>
+      <data key="d16">0.9536</data>
+      <data key="d17">0</data>
+      <data key="d18">22084</data>
+      <data key="d19">20584</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="20584" target="22430">
+      <data key="d14">-154.172</data>
+      <data key="d15">-154</data>
+      <data key="d16">0.9459</data>
+      <data key="d17">0</data>
+      <data key="d18">22430</data>
+      <data key="d19">20584</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="20584" target="20895">
+      <data key="d14">-28.031</data>
+      <data key="d15">-28</data>
+      <data key="d16">0.9406</data>
+      <data key="d17">0</data>
+      <data key="d18">20895</data>
+      <data key="d19">20584</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="20584" target="20894">
+      <data key="d14">-28.031</data>
+      <data key="d15">-28</data>
+      <data key="d16">0.9623</data>
+      <data key="d17">0</data>
+      <data key="d18">20584</data>
+      <data key="d19">20894</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="6516" target="5633">
+      <data key="d14">-19.089</data>
+      <data key="d15">-19</data>
+      <data key="d16">0.8992</data>
+      <data key="d17">0</data>
+      <data key="d18">5633</data>
+      <data key="d19">6516</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="6516" target="7397">
+      <data key="d14">-21.948</data>
+      <data key="d15">-21</data>
+      <data key="d16">0.7497</data>
+      <data key="d17">0</data>
+      <data key="d18">7397</data>
+      <data key="d19">6516</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="6516" target="5706">
+      <data key="d14">-18.011</data>
+      <data key="d15">-18</data>
+      <data key="d16">0.9323</data>
+      <data key="d17">0</data>
+      <data key="d18">6516</data>
+      <data key="d19">5706</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="6516" target="6911">
+      <data key="d14">-9.984</data>
+      <data key="d15">-9</data>
+      <data key="d16">0.7353</data>
+      <data key="d17">0</data>
+      <data key="d18">6516</data>
+      <data key="d19">6911</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="7507" target="9582">
+      <data key="d14">-56.063</data>
+      <data key="d15">-56</data>
+      <data key="d16">0.9413</data>
+      <data key="d17">0</data>
+      <data key="d18">7507</data>
+      <data key="d19">9582</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="7507" target="6421">
+      <data key="d14">-26.016</data>
+      <data key="d15">-26</data>
+      <data key="d16">0.9762</data>
+      <data key="d17">0</data>
+      <data key="d18">7507</data>
+      <data key="d19">6421</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="7507" target="8602">
+      <data key="d14">-28.031</data>
+      <data key="d15">-28</data>
+      <data key="d16">0.9723</data>
+      <data key="d17">0</data>
+      <data key="d18">7507</data>
+      <data key="d19">8602</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="7507" target="22406">
+      <data key="d14">-28.031</data>
+      <data key="d15">-28</data>
+      <data key="d16">0.9366</data>
+      <data key="d17">0</data>
+      <data key="d18">7507</data>
+      <data key="d19">22406</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="7507" target="6308">
+      <data key="d14">-28.031</data>
+      <data key="d15">-28</data>
+      <data key="d16">0.9646</data>
+      <data key="d17">0</data>
+      <data key="d18">7507</data>
+      <data key="d19">6308</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="7507" target="6927">
+      <data key="d14">-14.016</data>
+      <data key="d15">-14</data>
+      <data key="d16">0.9459</data>
+      <data key="d17">0</data>
+      <data key="d18">7507</data>
+      <data key="d19">6927</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="5633" target="5706">
+      <data key="d14">-1.078</data>
+      <data key="d15">-1</data>
+      <data key="d16">0.9471</data>
+      <data key="d17">0</data>
+      <data key="d18">5633</data>
+      <data key="d19">5706</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="5633" target="6244">
+      <data key="d14">-14.003</data>
+      <data key="d15">-14</data>
+      <data key="d16">0.8829</data>
+      <data key="d17">0</data>
+      <data key="d18">5633</data>
+      <data key="d19">6244</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="5633" target="4799">
+      <data key="d14">-20.082</data>
+      <data key="d15">-20</data>
+      <data key="d16">0.7803</data>
+      <data key="d17">0</data>
+      <data key="d18">5633</data>
+      <data key="d19">4799</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="5633" target="5054">
+      <data key="d14">-14.028</data>
+      <data key="d15">-14</data>
+      <data key="d16">0.8018</data>
+      <data key="d17">0</data>
+      <data key="d18">5633</data>
+      <data key="d19">5054</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="7397" target="5283">
+      <data key="d14">-50.016</data>
+      <data key="d15">-50</data>
+      <data key="d16">0.7801</data>
+      <data key="d17">0</data>
+      <data key="d18">5283</data>
+      <data key="d19">7397</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="7397" target="6404">
+      <data key="d14">-24.0</data>
+      <data key="d15">-24</data>
+      <data key="d16">0.7809</data>
+      <data key="d17">0</data>
+      <data key="d18">6404</data>
+      <data key="d19">7397</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="7397" target="7674">
+      <data key="d14">-6.047</data>
+      <data key="d15">-6</data>
+      <data key="d16">0.7251</data>
+      <data key="d17">0</data>
+      <data key="d18">7674</data>
+      <data key="d19">7397</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="7397" target="6911">
+      <data key="d14">-11.964</data>
+      <data key="d15">-11</data>
+      <data key="d16">0.7443</data>
+      <data key="d17">0</data>
+      <data key="d18">7397</data>
+      <data key="d19">6911</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="10454" target="8083">
+      <data key="d14">-68.062</data>
+      <data key="d15">-68</data>
+      <data key="d16">0.9117</data>
+      <data key="d17">0</data>
+      <data key="d18">8083</data>
+      <data key="d19">10454</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="10454" target="23130">
+      <data key="d14">-18.01</data>
+      <data key="d15">-18</data>
+      <data key="d16">0.8941</data>
+      <data key="d17">0</data>
+      <data key="d18">23130</data>
+      <data key="d19">10454</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="10454" target="9582">
+      <data key="d14">-26.015</data>
+      <data key="d15">-26</data>
+      <data key="d16">0.9502</data>
+      <data key="d17">0</data>
+      <data key="d18">10454</data>
+      <data key="d19">9582</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="6267" target="6266">
+      <data key="d14">-0.0</data>
+      <data key="d15">0</data>
+      <data key="d16">0.8282</data>
+      <data key="d17">0</data>
+      <data key="d18">6266</data>
+      <data key="d19">6267</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="6267" target="6249">
+      <data key="d14">-0.057</data>
+      <data key="d15">0</data>
+      <data key="d16">0.8673</data>
+      <data key="d17">0</data>
+      <data key="d18">6249</data>
+      <data key="d19">6267</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="6267" target="4582">
+      <data key="d14">-40.051</data>
+      <data key="d15">-40</data>
+      <data key="d16">0.8439</data>
+      <data key="d17">0</data>
+      <data key="d18">6267</data>
+      <data key="d19">4582</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="6267" target="6210">
+      <data key="d14">-1.003</data>
+      <data key="d15">-1</data>
+      <data key="d16">0.9242</data>
+      <data key="d17">0</data>
+      <data key="d18">6267</data>
+      <data key="d19">6210</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="4799" target="5054">
+      <data key="d14">-6.054</data>
+      <data key="d15">-6</data>
+      <data key="d16">0.8016</data>
+      <data key="d17">0</data>
+      <data key="d18">5054</data>
+      <data key="d19">4799</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="4799" target="4864">
+      <data key="d14">-1.119</data>
+      <data key="d15">-1</data>
+      <data key="d16">0.8692</data>
+      <data key="d17">0</data>
+      <data key="d18">4864</data>
+      <data key="d19">4799</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="10031" target="10395">
+      <data key="d14">-10.02</data>
+      <data key="d15">-10</data>
+      <data key="d16">0.7626</data>
+      <data key="d17">0</data>
+      <data key="d18">10031</data>
+      <data key="d19">10395</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="4024" target="3547">
+      <data key="d14">-12.0</data>
+      <data key="d15">-12</data>
+      <data key="d16">0.9416</data>
+      <data key="d17">0</data>
+      <data key="d18">3547</data>
+      <data key="d19">4024</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="4024" target="5512">
+      <data key="d14">-37.979</data>
+      <data key="d15">-37</data>
+      <data key="d16">0.9449</data>
+      <data key="d17">0</data>
+      <data key="d18">5512</data>
+      <data key="d19">4024</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="4024" target="4861">
+      <data key="d14">-21.984</data>
+      <data key="d15">-21</data>
+      <data key="d16">0.9489</data>
+      <data key="d17">0</data>
+      <data key="d18">4861</data>
+      <data key="d19">4024</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="6401" target="6404">
+      <data key="d14">-0.0</data>
+      <data key="d15">0</data>
+      <data key="d16">0.7742</data>
+      <data key="d17">0</data>
+      <data key="d18">6404</data>
+      <data key="d19">6401</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="8680" target="8170">
+      <data key="d14">-14.016</data>
+      <data key="d15">-14</data>
+      <data key="d16">0.9582</data>
+      <data key="d17">0</data>
+      <data key="d18">8170</data>
+      <data key="d19">8680</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="8680" target="6421">
+      <data key="d14">-56.063</data>
+      <data key="d15">-56</data>
+      <data key="d16">0.9797</data>
+      <data key="d17">0</data>
+      <data key="d18">6421</data>
+      <data key="d19">8680</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="8680" target="9662">
+      <data key="d14">-28.031</data>
+      <data key="d15">-28</data>
+      <data key="d16">0.9794</data>
+      <data key="d17">0</data>
+      <data key="d18">9662</data>
+      <data key="d19">8680</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="8680" target="9582">
+      <data key="d14">-26.016</data>
+      <data key="d15">-26</data>
+      <data key="d16">0.9477</data>
+      <data key="d17">0</data>
+      <data key="d18">9582</data>
+      <data key="d19">8680</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="8680" target="5024">
+      <data key="d14">-88.125</data>
+      <data key="d15">-88</data>
+      <data key="d16">0.9468</data>
+      <data key="d17">0</data>
+      <data key="d18">5024</data>
+      <data key="d19">8680</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="8680" target="5214">
+      <data key="d14">-84.094</data>
+      <data key="d15">-84</data>
+      <data key="d16">0.9712</data>
+      <data key="d17">0</data>
+      <data key="d18">5214</data>
+      <data key="d19">8680</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="8680" target="7613">
+      <data key="d14">-28.031</data>
+      <data key="d15">-28</data>
+      <data key="d16">0.9639</data>
+      <data key="d17">0</data>
+      <data key="d18">7613</data>
+      <data key="d19">8680</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="4157" target="2145">
+      <data key="d14">-59.112</data>
+      <data key="d15">-59</data>
+      <data key="d16">0.8807</data>
+      <data key="d17">0</data>
+      <data key="d18">4157</data>
+      <data key="d19">2145</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="5283" target="6498">
+      <data key="d14">-28.032</data>
+      <data key="d15">-28</data>
+      <data key="d16">0.7897</data>
+      <data key="d17">0</data>
+      <data key="d18">6498</data>
+      <data key="d19">5283</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="5283" target="6404">
+      <data key="d14">-26.016</data>
+      <data key="d15">-26</data>
+      <data key="d16">0.8384</data>
+      <data key="d17">0</data>
+      <data key="d18">5283</data>
+      <data key="d19">6404</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="8529" target="8083">
+      <data key="d14">-12.0</data>
+      <data key="d15">-12</data>
+      <data key="d16">0.952</data>
+      <data key="d17">0</data>
+      <data key="d18">8529</data>
+      <data key="d19">8083</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="8529" target="6210">
+      <data key="d14">-56.062</data>
+      <data key="d15">-56</data>
+      <data key="d16">0.9221</data>
+      <data key="d17">0</data>
+      <data key="d18">8529</data>
+      <data key="d19">6210</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="8602" target="9582">
+      <data key="d14">-28.031</data>
+      <data key="d15">-28</data>
+      <data key="d16">0.9545</data>
+      <data key="d17">0</data>
+      <data key="d18">8602</data>
+      <data key="d19">9582</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="8602" target="6308">
+      <data key="d14">-56.063</data>
+      <data key="d15">-56</data>
+      <data key="d16">0.959</data>
+      <data key="d17">0</data>
+      <data key="d18">8602</data>
+      <data key="d19">6308</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="8602" target="22406">
+      <data key="d14">0.0</data>
+      <data key="d15">0</data>
+      <data key="d16">0.9354</data>
+      <data key="d17">0</data>
+      <data key="d18">8602</data>
+      <data key="d19">22406</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="6927" target="8083">
+      <data key="d14">-28.031</data>
+      <data key="d15">-28</data>
+      <data key="d16">0.95</data>
+      <data key="d17">0</data>
+      <data key="d18">8083</data>
+      <data key="d19">6927</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="6927" target="9582">
+      <data key="d14">-70.078</data>
+      <data key="d15">-70</data>
+      <data key="d16">0.9482</data>
+      <data key="d17">0</data>
+      <data key="d18">6927</data>
+      <data key="d19">9582</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="6927" target="6421">
+      <data key="d14">-12.0</data>
+      <data key="d15">-12</data>
+      <data key="d16">0.9646</data>
+      <data key="d17">0</data>
+      <data key="d18">6927</data>
+      <data key="d19">6421</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="6927" target="6308">
+      <data key="d14">-14.016</data>
+      <data key="d15">-14</data>
+      <data key="d16">0.9714</data>
+      <data key="d17">0</data>
+      <data key="d18">6927</data>
+      <data key="d19">6308</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="9198" target="11025">
+      <data key="d14">-56.062</data>
+      <data key="d15">-56</data>
+      <data key="d16">0.8522</data>
+      <data key="d17">0</data>
+      <data key="d18">11025</data>
+      <data key="d19">9198</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="9198" target="22383">
+      <data key="d14">18.011</data>
+      <data key="d15">18</data>
+      <data key="d16">0.773</data>
+      <data key="d17">0</data>
+      <data key="d18">9198</data>
+      <data key="d19">22383</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="9198" target="10395">
+      <data key="d14">-36.036</data>
+      <data key="d15">-36</data>
+      <data key="d16">0.7703</data>
+      <data key="d17">0</data>
+      <data key="d18">9198</data>
+      <data key="d19">10395</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="6545" target="6211">
+      <data key="d14">-6.948</data>
+      <data key="d15">-6</data>
+      <data key="d16">0.8063</data>
+      <data key="d17">0</data>
+      <data key="d18">6545</data>
+      <data key="d19">6211</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="6545" target="7853">
+      <data key="d14">-31.068</data>
+      <data key="d15">-31</data>
+      <data key="d16">0.9125</data>
+      <data key="d17">0</data>
+      <data key="d18">6545</data>
+      <data key="d19">7853</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="6545" target="5791">
+      <data key="d14">-17.006</data>
+      <data key="d15">-17</data>
+      <data key="d16">0.7926</data>
+      <data key="d17">0</data>
+      <data key="d18">6545</data>
+      <data key="d19">5791</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="5512" target="5024">
+      <data key="d14">-11.964</data>
+      <data key="d15">-11</data>
+      <data key="d16">0.9475</data>
+      <data key="d17">0</data>
+      <data key="d18">5024</data>
+      <data key="d19">5512</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="5512" target="5115">
+      <data key="d14">-9.948</data>
+      <data key="d15">-9</data>
+      <data key="d16">0.9597</data>
+      <data key="d17">0</data>
+      <data key="d18">5512</data>
+      <data key="d19">5115</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="5512" target="4861">
+      <data key="d14">-15.995</data>
+      <data key="d15">-15</data>
+      <data key="d16">0.9609</data>
+      <data key="d17">0</data>
+      <data key="d18">5512</data>
+      <data key="d19">4861</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="3547" target="3546">
+      <data key="d14">0.0</data>
+      <data key="d15">0</data>
+      <data key="d16">0.9916</data>
+      <data key="d17">0</data>
+      <data key="d18">3546</data>
+      <data key="d19">3547</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="3547" target="4025">
+      <data key="d14">-12.0</data>
+      <data key="d15">-12</data>
+      <data key="d16">0.9619</data>
+      <data key="d17">0</data>
+      <data key="d18">4025</data>
+      <data key="d19">3547</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="3547" target="5115">
+      <data key="d14">-40.031</data>
+      <data key="d15">-40</data>
+      <data key="d16">0.9609</data>
+      <data key="d17">0</data>
+      <data key="d18">3547</data>
+      <data key="d19">5115</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="3547" target="3080">
+      <data key="d14">-14.016</data>
+      <data key="d15">-14</data>
+      <data key="d16">0.9611</data>
+      <data key="d17">0</data>
+      <data key="d18">3547</data>
+      <data key="d19">3080</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="3547" target="2638">
+      <data key="d14">-28.031</data>
+      <data key="d15">-28</data>
+      <data key="d16">0.9417</data>
+      <data key="d17">0</data>
+      <data key="d18">3547</data>
+      <data key="d19">2638</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="2213" target="2181">
+      <data key="d14">-1.003</data>
+      <data key="d15">-1</data>
+      <data key="d16">0.988</data>
+      <data key="d17">0</data>
+      <data key="d18">2181</data>
+      <data key="d19">2213</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="2213" target="20451">
+      <data key="d14">1.003</data>
+      <data key="d15">1</data>
+      <data key="d16">0.941</data>
+      <data key="d17">0</data>
+      <data key="d18">20451</data>
+      <data key="d19">2213</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="2213" target="20449">
+      <data key="d14">1.003</data>
+      <data key="d15">1</data>
+      <data key="d16">0.9333</data>
+      <data key="d17">0</data>
+      <data key="d18">20449</data>
+      <data key="d19">2213</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="2213" target="5895">
+      <data key="d14">-99.085</data>
+      <data key="d15">-99</data>
+      <data key="d16">0.9144</data>
+      <data key="d17">0</data>
+      <data key="d18">5895</data>
+      <data key="d19">2213</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="2213" target="2145">
+      <data key="d14">-2.074</data>
+      <data key="d15">-2</data>
+      <data key="d16">0.9568</data>
+      <data key="d17">0</data>
+      <data key="d18">2213</data>
+      <data key="d19">2145</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="2213" target="7111">
+      <data key="d14">-127.116</data>
+      <data key="d15">-127</data>
+      <data key="d16">0.9076</data>
+      <data key="d17">0</data>
+      <data key="d18">2213</data>
+      <data key="d19">7111</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="2213" target="8251">
+      <data key="d14">-155.148</data>
+      <data key="d15">-155</data>
+      <data key="d16">0.9164</data>
+      <data key="d17">0</data>
+      <data key="d18">2213</data>
+      <data key="d19">8251</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="20894" target="20451">
+      <data key="d14">-42.047</data>
+      <data key="d15">-42</data>
+      <data key="d16">0.946</data>
+      <data key="d17">0</data>
+      <data key="d18">20451</data>
+      <data key="d19">20894</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="20894" target="20740">
+      <data key="d14">-14.016</data>
+      <data key="d15">-14</data>
+      <data key="d16">0.9685</data>
+      <data key="d17">0</data>
+      <data key="d18">20740</data>
+      <data key="d19">20894</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="20894" target="22741">
+      <data key="d14">-154.172</data>
+      <data key="d15">-154</data>
+      <data key="d16">0.9239</data>
+      <data key="d17">0</data>
+      <data key="d18">22741</data>
+      <data key="d19">20894</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="20894" target="20449">
+      <data key="d14">-42.047</data>
+      <data key="d15">-42</data>
+      <data key="d16">0.9388</data>
+      <data key="d17">0</data>
+      <data key="d18">20449</data>
+      <data key="d19">20894</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="20894" target="22084">
+      <data key="d14">-98.109</data>
+      <data key="d15">-98</data>
+      <data key="d16">0.9381</data>
+      <data key="d17">0</data>
+      <data key="d18">22084</data>
+      <data key="d19">20894</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="20894" target="20895">
+      <data key="d14">0.0</data>
+      <data key="d15">0</data>
+      <data key="d16">0.9584</data>
+      <data key="d17">0</data>
+      <data key="d18">20895</data>
+      <data key="d19">20894</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="20447" target="20449">
+      <data key="d14">-0.021</data>
+      <data key="d15">0</data>
+      <data key="d16">0.7812</data>
+      <data key="d17">0</data>
+      <data key="d18">20447</data>
+      <data key="d19">20449</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="7674" target="6404">
+      <data key="d14">-30.047</data>
+      <data key="d15">-30</data>
+      <data key="d16">0.7985</data>
+      <data key="d17">0</data>
+      <data key="d18">6404</data>
+      <data key="d19">7674</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="22982" target="20451">
+      <data key="d14">-222.235</data>
+      <data key="d15">-222</data>
+      <data key="d16">0.9235</data>
+      <data key="d17">0</data>
+      <data key="d18">20451</data>
+      <data key="d19">22982</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="22982" target="20449">
+      <data key="d14">-222.235</data>
+      <data key="d15">-222</data>
+      <data key="d16">0.9187</data>
+      <data key="d17">0</data>
+      <data key="d18">20449</data>
+      <data key="d19">22982</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="22961" target="23130">
+      <data key="d14">-18.01</data>
+      <data key="d15">-18</data>
+      <data key="d16">0.8215</data>
+      <data key="d17">0</data>
+      <data key="d18">23130</data>
+      <data key="d19">22961</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="22961" target="22709">
+      <data key="d14">-27.159</data>
+      <data key="d15">-27</data>
+      <data key="d16">0.7913</data>
+      <data key="d17">0</data>
+      <data key="d18">22961</data>
+      <data key="d19">22709</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="4694" target="5895">
+      <data key="d14">-28.031</data>
+      <data key="d15">-28</data>
+      <data key="d16">0.9399</data>
+      <data key="d17">0</data>
+      <data key="d18">4694</data>
+      <data key="d19">5895</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="4694" target="5897">
+      <data key="d14">-28.031</data>
+      <data key="d15">-28</data>
+      <data key="d16">0.9234</data>
+      <data key="d17">0</data>
+      <data key="d18">4694</data>
+      <data key="d19">5897</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="4694" target="7111">
+      <data key="d14">-56.063</data>
+      <data key="d15">-56</data>
+      <data key="d16">0.9409</data>
+      <data key="d17">0</data>
+      <data key="d18">4694</data>
+      <data key="d19">7111</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="4694" target="8251">
+      <data key="d14">-84.094</data>
+      <data key="d15">-84</data>
+      <data key="d16">0.9017</data>
+      <data key="d17">0</data>
+      <data key="d18">4694</data>
+      <data key="d19">8251</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="3546" target="3480">
+      <data key="d14">-2.016</data>
+      <data key="d15">-2</data>
+      <data key="d16">0.9519</data>
+      <data key="d17">0</data>
+      <data key="d18">3546</data>
+      <data key="d19">3480</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="3546" target="4025">
+      <data key="d14">-12.0</data>
+      <data key="d15">-12</data>
+      <data key="d16">0.9747</data>
+      <data key="d17">0</data>
+      <data key="d18">3546</data>
+      <data key="d19">4025</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="3546" target="4298">
+      <data key="d14">-19.969</data>
+      <data key="d15">-19</data>
+      <data key="d16">0.9603</data>
+      <data key="d17">0</data>
+      <data key="d18">3546</data>
+      <data key="d19">4298</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="3546" target="4861">
+      <data key="d14">-33.984</data>
+      <data key="d15">-33</data>
+      <data key="d16">0.9539</data>
+      <data key="d17">0</data>
+      <data key="d18">3546</data>
+      <data key="d19">4861</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="3546" target="5115">
+      <data key="d14">-40.031</data>
+      <data key="d15">-40</data>
+      <data key="d16">0.973</data>
+      <data key="d17">0</data>
+      <data key="d18">3546</data>
+      <data key="d19">5115</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="3546" target="5214">
+      <data key="d14">-42.047</data>
+      <data key="d15">-42</data>
+      <data key="d16">0.9755</data>
+      <data key="d17">0</data>
+      <data key="d18">3546</data>
+      <data key="d19">5214</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="3546" target="3080">
+      <data key="d14">-14.016</data>
+      <data key="d15">-14</data>
+      <data key="d16">0.9713</data>
+      <data key="d17">0</data>
+      <data key="d18">3546</data>
+      <data key="d19">3080</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="5897" target="5895">
+      <data key="d14">-0.0</data>
+      <data key="d15">0</data>
+      <data key="d16">0.9467</data>
+      <data key="d17">0</data>
+      <data key="d18">5895</data>
+      <data key="d19">5897</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="5897" target="7111">
+      <data key="d14">-28.031</data>
+      <data key="d15">-28</data>
+      <data key="d16">0.9134</data>
+      <data key="d17">0</data>
+      <data key="d18">7111</data>
+      <data key="d19">5897</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="5897" target="8251">
+      <data key="d14">-56.062</data>
+      <data key="d15">-56</data>
+      <data key="d16">0.9067</data>
+      <data key="d17">0</data>
+      <data key="d18">5897</data>
+      <data key="d19">8251</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="4861" target="2181">
+      <data key="d14">-76.031</data>
+      <data key="d15">-76</data>
+      <data key="d16">0.9654</data>
+      <data key="d17">0</data>
+      <data key="d18">2181</data>
+      <data key="d19">4861</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="4861" target="4864">
+      <data key="d14">-0.021</data>
+      <data key="d15">0</data>
+      <data key="d16">0.9758</data>
+      <data key="d17">0</data>
+      <data key="d18">4864</data>
+      <data key="d19">4861</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="4861" target="4025">
+      <data key="d14">-21.984</data>
+      <data key="d15">-21</data>
+      <data key="d16">0.9794</data>
+      <data key="d17">0</data>
+      <data key="d18">4025</data>
+      <data key="d19">4861</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="4861" target="5024">
+      <data key="d14">-4.031</data>
+      <data key="d15">-4</data>
+      <data key="d16">0.9465</data>
+      <data key="d17">0</data>
+      <data key="d18">5024</data>
+      <data key="d19">4861</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="4861" target="3080">
+      <data key="d14">-48.0</data>
+      <data key="d15">-48</data>
+      <data key="d16">0.9545</data>
+      <data key="d17">0</data>
+      <data key="d18">3080</data>
+      <data key="d19">4861</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="4861" target="5115">
+      <data key="d14">-6.047</data>
+      <data key="d15">-6</data>
+      <data key="d16">0.9751</data>
+      <data key="d17">0</data>
+      <data key="d18">4861</data>
+      <data key="d19">5115</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="6498" target="6404">
+      <data key="d14">-2.016</data>
+      <data key="d15">-2</data>
+      <data key="d16">0.803</data>
+      <data key="d17">0</data>
+      <data key="d18">6498</data>
+      <data key="d19">6404</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="6498" target="6503">
+      <data key="d14">-0.0</data>
+      <data key="d15">0</data>
+      <data key="d16">0.8906</data>
+      <data key="d17">0</data>
+      <data key="d18">6498</data>
+      <data key="d19">6503</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="6266" target="6249">
+      <data key="d14">-0.057</data>
+      <data key="d15">0</data>
+      <data key="d16">0.9404</data>
+      <data key="d17">0</data>
+      <data key="d18">6266</data>
+      <data key="d19">6249</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="6266" target="6211">
+      <data key="d14">-1.002</data>
+      <data key="d15">-1</data>
+      <data key="d16">0.9093</data>
+      <data key="d17">0</data>
+      <data key="d18">6266</data>
+      <data key="d19">6211</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="6266" target="4582">
+      <data key="d14">-40.051</data>
+      <data key="d15">-40</data>
+      <data key="d16">0.7731</data>
+      <data key="d17">0</data>
+      <data key="d18">6266</data>
+      <data key="d19">4582</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="5895" target="2145">
+      <data key="d14">-101.159</data>
+      <data key="d15">-101</data>
+      <data key="d16">0.8994</data>
+      <data key="d17">0</data>
+      <data key="d18">5895</data>
+      <data key="d19">2145</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="5895" target="7111">
+      <data key="d14">-28.031</data>
+      <data key="d15">-28</data>
+      <data key="d16">0.969</data>
+      <data key="d17">0</data>
+      <data key="d18">5895</data>
+      <data key="d19">7111</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="5895" target="8251">
+      <data key="d14">-56.062</data>
+      <data key="d15">-56</data>
+      <data key="d16">0.9584</data>
+      <data key="d17">0</data>
+      <data key="d18">5895</data>
+      <data key="d19">8251</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="20451" target="2181">
+      <data key="d14">0.0</data>
+      <data key="d15">0</data>
+      <data key="d16">0.9593</data>
+      <data key="d17">0</data>
+      <data key="d18">2181</data>
+      <data key="d19">20451</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="20451" target="20449">
+      <data key="d14">0.0</data>
+      <data key="d15">0</data>
+      <data key="d16">0.9915</data>
+      <data key="d17">0</data>
+      <data key="d18">20451</data>
+      <data key="d19">20449</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="20451" target="2145">
+      <data key="d14">-1.07</data>
+      <data key="d15">-1</data>
+      <data key="d16">0.9729</data>
+      <data key="d17">0</data>
+      <data key="d18">20451</data>
+      <data key="d19">2145</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="7613" target="8170">
+      <data key="d14">-14.016</data>
+      <data key="d15">-14</data>
+      <data key="d16">0.9438</data>
+      <data key="d17">0</data>
+      <data key="d18">8170</data>
+      <data key="d19">7613</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="7613" target="6421">
+      <data key="d14">-28.031</data>
+      <data key="d15">-28</data>
+      <data key="d16">0.9617</data>
+      <data key="d17">0</data>
+      <data key="d18">6421</data>
+      <data key="d19">7613</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="7613" target="9662">
+      <data key="d14">-56.063</data>
+      <data key="d15">-56</data>
+      <data key="d16">0.9651</data>
+      <data key="d17">0</data>
+      <data key="d18">9662</data>
+      <data key="d19">7613</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="6308" target="4298">
+      <data key="d14">-48.094</data>
+      <data key="d15">-48</data>
+      <data key="d16">0.9545</data>
+      <data key="d17">0</data>
+      <data key="d18">4298</data>
+      <data key="d19">6308</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="6308" target="6421">
+      <data key="d14">-2.016</data>
+      <data key="d15">-2</data>
+      <data key="d16">0.9695</data>
+      <data key="d17">0</data>
+      <data key="d18">6421</data>
+      <data key="d19">6308</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="6308" target="4025">
+      <data key="d14">-56.062</data>
+      <data key="d15">-56</data>
+      <data key="d16">0.9703</data>
+      <data key="d17">0</data>
+      <data key="d18">4025</data>
+      <data key="d19">6308</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="6308" target="6244">
+      <data key="d14">-1.091</data>
+      <data key="d15">-1</data>
+      <data key="d16">0.9715</data>
+      <data key="d17">0</data>
+      <data key="d18">6244</data>
+      <data key="d19">6308</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="6308" target="5214">
+      <data key="d14">-26.016</data>
+      <data key="d15">-26</data>
+      <data key="d16">0.9688</data>
+      <data key="d17">0</data>
+      <data key="d18">5214</data>
+      <data key="d19">6308</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="20895" target="20740">
+      <data key="d14">-14.016</data>
+      <data key="d15">-14</data>
+      <data key="d16">0.9449</data>
+      <data key="d17">0</data>
+      <data key="d18">20740</data>
+      <data key="d19">20895</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="4025" target="2181">
+      <data key="d14">-54.047</data>
+      <data key="d15">-54</data>
+      <data key="d16">0.9692</data>
+      <data key="d17">0</data>
+      <data key="d18">2181</data>
+      <data key="d19">4025</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="4025" target="4298">
+      <data key="d14">-7.969</data>
+      <data key="d15">-7</data>
+      <data key="d16">0.9733</data>
+      <data key="d17">0</data>
+      <data key="d18">4298</data>
+      <data key="d19">4025</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="4025" target="6421">
+      <data key="d14">-58.078</data>
+      <data key="d15">-58</data>
+      <data key="d16">0.9662</data>
+      <data key="d17">0</data>
+      <data key="d18">6421</data>
+      <data key="d19">4025</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="4025" target="5115">
+      <data key="d14">-28.031</data>
+      <data key="d15">-28</data>
+      <data key="d16">0.9847</data>
+      <data key="d17">0</data>
+      <data key="d18">4025</data>
+      <data key="d19">5115</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="4025" target="3080">
+      <data key="d14">-26.016</data>
+      <data key="d15">-26</data>
+      <data key="d16">0.9706</data>
+      <data key="d17">0</data>
+      <data key="d18">4025</data>
+      <data key="d19">3080</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="4025" target="5214">
+      <data key="d14">-30.047</data>
+      <data key="d15">-30</data>
+      <data key="d16">0.9734</data>
+      <data key="d17">0</data>
+      <data key="d18">4025</data>
+      <data key="d19">5214</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="8170" target="9662">
+      <data key="d14">-42.047</data>
+      <data key="d15">-42</data>
+      <data key="d16">0.9625</data>
+      <data key="d17">0</data>
+      <data key="d18">8170</data>
+      <data key="d19">9662</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="8170" target="4298">
+      <data key="d14">-92.157</data>
+      <data key="d15">-92</data>
+      <data key="d16">0.9499</data>
+      <data key="d17">0</data>
+      <data key="d18">8170</data>
+      <data key="d19">4298</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="7111" target="6244">
+      <data key="d14">-19.102</data>
+      <data key="d15">-19</data>
+      <data key="d16">0.9023</data>
+      <data key="d17">0</data>
+      <data key="d18">6244</data>
+      <data key="d19">7111</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="7111" target="8251">
+      <data key="d14">-28.031</data>
+      <data key="d15">-28</data>
+      <data key="d16">0.9653</data>
+      <data key="d17">0</data>
+      <data key="d18">7111</data>
+      <data key="d19">8251</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="20449" target="2145">
+      <data key="d14">-1.07</data>
+      <data key="d15">-1</data>
+      <data key="d16">0.9653</data>
+      <data key="d17">0</data>
+      <data key="d18">20449</data>
+      <data key="d19">2145</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="22741" target="22430">
+      <data key="d14">-28.031</data>
+      <data key="d15">-28</data>
+      <data key="d16">0.9618</data>
+      <data key="d17">0</data>
+      <data key="d18">22741</data>
+      <data key="d19">22430</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="22741" target="22084">
+      <data key="d14">-56.063</data>
+      <data key="d15">-56</data>
+      <data key="d16">0.9448</data>
+      <data key="d17">0</data>
+      <data key="d18">22741</data>
+      <data key="d19">22084</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="6249" target="6211">
+      <data key="d14">-0.945</data>
+      <data key="d15">0</data>
+      <data key="d16">0.918</data>
+      <data key="d17">0</data>
+      <data key="d18">6249</data>
+      <data key="d19">6211</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="4298" target="5115">
+      <data key="d14">-20.063</data>
+      <data key="d15">-20</data>
+      <data key="d16">0.959</data>
+      <data key="d17">0</data>
+      <data key="d18">4298</data>
+      <data key="d19">5115</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="4298" target="6421">
+      <data key="d14">-50.11</data>
+      <data key="d15">-50</data>
+      <data key="d16">0.9642</data>
+      <data key="d17">0</data>
+      <data key="d18">4298</data>
+      <data key="d19">6421</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="4298" target="3080">
+      <data key="d14">-33.984</data>
+      <data key="d15">-33</data>
+      <data key="d16">0.9665</data>
+      <data key="d17">0</data>
+      <data key="d18">4298</data>
+      <data key="d19">3080</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="4298" target="5214">
+      <data key="d14">-22.078</data>
+      <data key="d15">-22</data>
+      <data key="d16">0.9752</data>
+      <data key="d17">0</data>
+      <data key="d18">4298</data>
+      <data key="d19">5214</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="4298" target="3480">
+      <data key="d14">-21.984</data>
+      <data key="d15">-21</data>
+      <data key="d16">0.972</data>
+      <data key="d17">0</data>
+      <data key="d18">4298</data>
+      <data key="d19">3480</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="5054" target="2570">
+      <data key="d14">-68.188</data>
+      <data key="d15">-68</data>
+      <data key="d16">0.7285</data>
+      <data key="d17">0</data>
+      <data key="d18">5054</data>
+      <data key="d19">2570</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="5054" target="6244">
+      <data key="d14">-28.031</data>
+      <data key="d15">-28</data>
+      <data key="d16">0.8392</data>
+      <data key="d17">0</data>
+      <data key="d18">5054</data>
+      <data key="d19">6244</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="5024" target="4562">
+      <data key="d14">-12.0</data>
+      <data key="d15">-12</data>
+      <data key="d16">0.9442</data>
+      <data key="d17">0</data>
+      <data key="d18">4562</data>
+      <data key="d19">5024</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="5024" target="3480">
+      <data key="d14">-40.031</data>
+      <data key="d15">-40</data>
+      <data key="d16">0.9476</data>
+      <data key="d17">0</data>
+      <data key="d18">3480</data>
+      <data key="d19">5024</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="5024" target="5115">
+      <data key="d14">-2.016</data>
+      <data key="d15">-2</data>
+      <data key="d16">0.9686</data>
+      <data key="d17">0</data>
+      <data key="d18">5024</data>
+      <data key="d19">5115</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="20740" target="20916">
+      <data key="d14">-15.995</data>
+      <data key="d15">-15</data>
+      <data key="d16">0.9243</data>
+      <data key="d17">0</data>
+      <data key="d18">20740</data>
+      <data key="d19">20916</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="22406" target="22430">
+      <data key="d14">-2.016</data>
+      <data key="d15">-2</data>
+      <data key="d16">0.9423</data>
+      <data key="d17">0</data>
+      <data key="d18">22406</data>
+      <data key="d19">22430</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="22406" target="22084">
+      <data key="d14">-26.016</data>
+      <data key="d15">-26</data>
+      <data key="d16">0.9381</data>
+      <data key="d17">0</data>
+      <data key="d18">22406</data>
+      <data key="d19">22084</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="6911" target="6404">
+      <data key="d14">-12.036</data>
+      <data key="d15">-12</data>
+      <data key="d16">0.7698</data>
+      <data key="d17">0</data>
+      <data key="d18">6404</data>
+      <data key="d19">6911</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="2181" target="3080">
+      <data key="d14">-28.031</data>
+      <data key="d15">-28</data>
+      <data key="d16">0.9869</data>
+      <data key="d17">0</data>
+      <data key="d18">2181</data>
+      <data key="d19">3080</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="2181" target="5214">
+      <data key="d14">-84.094</data>
+      <data key="d15">-84</data>
+      <data key="d16">0.9648</data>
+      <data key="d17">0</data>
+      <data key="d18">2181</data>
+      <data key="d19">5214</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="2181" target="2638">
+      <data key="d14">-14.015</data>
+      <data key="d15">-14</data>
+      <data key="d16">0.9698</data>
+      <data key="d17">0</data>
+      <data key="d18">2181</data>
+      <data key="d19">2638</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="2181" target="2145">
+      <data key="d14">-1.07</data>
+      <data key="d15">-1</data>
+      <data key="d16">0.9835</data>
+      <data key="d17">0</data>
+      <data key="d18">2181</data>
+      <data key="d19">2145</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="6421" target="9662">
+      <data key="d14">-84.094</data>
+      <data key="d15">-84</data>
+      <data key="d16">0.9735</data>
+      <data key="d17">0</data>
+      <data key="d18">6421</data>
+      <data key="d19">9662</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="6421" target="3080">
+      <data key="d14">-84.094</data>
+      <data key="d15">-84</data>
+      <data key="d16">0.96</data>
+      <data key="d17">0</data>
+      <data key="d18">6421</data>
+      <data key="d19">3080</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="6421" target="5214">
+      <data key="d14">-28.031</data>
+      <data key="d15">-28</data>
+      <data key="d16">0.9702</data>
+      <data key="d17">0</data>
+      <data key="d18">6421</data>
+      <data key="d19">5214</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="5115" target="5214">
+      <data key="d14">-2.016</data>
+      <data key="d15">-2</data>
+      <data key="d16">0.9731</data>
+      <data key="d17">0</data>
+      <data key="d18">5214</data>
+      <data key="d19">5115</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="5115" target="3080">
+      <data key="d14">-54.047</data>
+      <data key="d15">-54</data>
+      <data key="d16">0.9596</data>
+      <data key="d17">0</data>
+      <data key="d18">3080</data>
+      <data key="d19">5115</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="8251" target="2145">
+      <data key="d14">-157.221</data>
+      <data key="d15">-157</data>
+      <data key="d16">0.9123</data>
+      <data key="d17">0</data>
+      <data key="d18">2145</data>
+      <data key="d19">8251</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="22084" target="22430">
+      <data key="d14">-28.031</data>
+      <data key="d15">-28</data>
+      <data key="d16">0.9569</data>
+      <data key="d17">0</data>
+      <data key="d18">22084</data>
+      <data key="d19">22430</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="6211" target="9438">
+      <data key="d14">-82.077</data>
+      <data key="d15">-82</data>
+      <data key="d16">0.8308</data>
+      <data key="d17">0</data>
+      <data key="d18">9438</data>
+      <data key="d19">6211</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="9662" target="5214">
+      <data key="d14">-112.125</data>
+      <data key="d15">-112</data>
+      <data key="d16">0.9691</data>
+      <data key="d17">0</data>
+      <data key="d18">9662</data>
+      <data key="d19">5214</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="6503" target="6404">
+      <data key="d14">-2.016</data>
+      <data key="d15">-2</data>
+      <data key="d16">0.7707</data>
+      <data key="d17">0</data>
+      <data key="d18">6404</data>
+      <data key="d19">6503</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="2145" target="11025">
+      <data key="d14">-239.299</data>
+      <data key="d15">-239</data>
+      <data key="d16">0.8796</data>
+      <data key="d17">0</data>
+      <data key="d18">11025</data>
+      <data key="d19">2145</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="9438" target="7336">
+      <data key="d14">-56.062</data>
+      <data key="d15">-56</data>
+      <data key="d16">0.8628</data>
+      <data key="d17">0</data>
+      <data key="d18">7336</data>
+      <data key="d19">9438</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="5214" target="3080">
+      <data key="d14">-56.062</data>
+      <data key="d15">-56</data>
+      <data key="d16">0.97</data>
+      <data key="d17">0</data>
+      <data key="d18">5214</data>
+      <data key="d19">3080</data>
+      <data key="d20">37</data>
+    </edge>
+    <edge source="3080" target="2638">
+      <data key="d14">-14.016</data>
+      <data key="d15">-14</data>
+      <data key="d16">0.9751</data>
+      <data key="d17">0</data>
+      <data key="d18">3080</data>
+      <data key="d19">2638</data>
+      <data key="d20">37</data>
+    </edge>
+  </graph>
+</graphml>

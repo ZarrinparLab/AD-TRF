@@ -1,0 +1,155 @@
+Category,CategoryID,GO,Description,PARENT_GO,LogP,Enrichment,Z-score,#TotalGeneInLibrary,#GeneInGO,#GeneInHitList,#GeneInGOAndHitList,%InGO,STDV %InGO,GeneID,Hits,Log(q-value),GeneList
+Reactome Gene Sets,6,R-HSA-556833,Metabolism of lipids,,-5.3,6.1,6.6,30286,757,66,10,15,4.4,1557|3158|4036|7368|8529|50487|51129|57104|64850|133121,CYP2C19|HMGCS2|LRP2|UGT8|CYP4F2|PLA2G3|ANGPTL4|PNPLA2|ETNPPL|ENPP6,-1.3,MyList
+GO Biological Processes,19,GO:0042552,myelination,19_GO:0032502 developmental process,-5.1,18,9,30286,127,66,5,7.6,3.3,4099|5354|7368|8537|256987,MAG|PLP1|UGT8|BCAS1|SERINC5,-1.3,MyList
+GO Biological Processes,19,GO:0007272,ensheathment of neurons,19_GO:0032502 developmental process,-5,18,8.9,30286,129,66,5,7.6,3.3,4099|5354|7368|8537|256987,MAG|PLP1|UGT8|BCAS1|SERINC5,-1.3,MyList
+GO Biological Processes,19,GO:0008366,axon ensheathment,19_GO:0032502 developmental process,-5,18,8.9,30286,129,66,5,7.6,3.3,4099|5354|7368|8537|256987,MAG|PLP1|UGT8|BCAS1|SERINC5,-1.3,MyList
+GO Biological Processes,19,GO:0014015,positive regulation of gliogenesis,19_GO:0032502 developmental process,-4.7,25,9.6,30286,74,66,4,6.1,2.9,4036|4099|57165|90865,LRP2|MAG|GJC2|IL33,-1,MyList
+GO Biological Processes,19,GO:0032370,positive regulation of lipid transport,19_GO:0051179 localization,-4.4,21,8.8,30286,87,66,4,6.1,2.9,4792|8529|10351|50487,NFKBIA|CYP4F2|ABCA8|PLA2G3,-0.83,MyList
+GO Biological Processes,19,GO:0009725,response to hormone,19_GO:0050896 response to stimulus,-4.3,5.3,5.7,30286,785,66,9,14,4.2,1026|3158|4036|5166|9340|10628|11170|28999|54541,CDKN1A|HMGCS2|LRP2|PDK4|GLP2R|TXNIP|FAM107A|KLF15|DDIT4,-0.83,MyList
+GO Biological Processes,19,GO:1905952,regulation of lipid localization,19_GO:0051179 localization,-4.3,12,7.2,30286,186,66,5,7.6,3.3,4792|8529|10351|50487|57104,NFKBIA|CYP4F2|ABCA8|PLA2G3|PNPLA2,-0.83,MyList
+WikiPathways,27,WP2882,Nuclear receptors meta pathway,,-4.2,8.8,6.5,30286,314,66,6,9.1,3.5,1557|1831|2289|5166|6817|51129,CYP2C19|TSC22D3|FKBP5|PDK4|SULT1A1|ANGPTL4,-0.83,MyList
+GO Biological Processes,19,GO:0006721,terpenoid metabolic process,19_GO:0008152 metabolic process,-4.2,19,8.2,30286,99,66,4,6.1,2.9,1557|3158|4036|57104,CYP2C19|HMGCS2|LRP2|PNPLA2,-0.83,MyList
+GO Biological Processes,19,GO:1905954,positive regulation of lipid localization,19_GO:0051179 localization,-4,16,7.6,30286,112,66,4,6.1,2.9,4792|8529|10351|50487,NFKBIA|CYP4F2|ABCA8|PLA2G3,-0.79,MyList
+GO Biological Processes,19,GO:0014013,regulation of gliogenesis,19_GO:0032502 developmental process,-4,16,7.6,30286,112,66,4,6.1,2.9,4036|4099|57165|90865,LRP2|MAG|GJC2|IL33,-0.79,MyList
+GO Biological Processes,19,GO:0006606,protein import into nucleus,19_GO:0051179 localization,-4,16,7.6,30286,112,66,4,6.1,2.9,1026|4792|10628|90865,CDKN1A|NFKBIA|TXNIP|IL33,-0.79,MyList
+GO Biological Processes,19,GO:1901654,response to ketone,19_GO:0050896 response to stimulus,-4,11,6.7,30286,215,66,5,7.6,3.3,1026|3158|3684|10628|54541,CDKN1A|HMGCS2|ITGAM|TXNIP|DDIT4,-0.79,MyList
+GO Biological Processes,19,GO:0009612,response to mechanical stimulus,19_GO:0050896 response to stimulus,-4,11,6.6,30286,216,66,5,7.6,3.3,3684|4099|4792|10628|90865,ITGAM|MAG|NFKBIA|TXNIP|IL33,-0.79,MyList
+GO Biological Processes,19,GO:0051170,import into nucleus,19_GO:0051179 localization,-3.9,16,7.4,30286,117,66,4,6.1,2.9,1026|4792|10628|90865,CDKN1A|NFKBIA|TXNIP|IL33,-0.76,MyList
+GO Biological Processes,19,GO:0010927,cellular component assembly involved in morphogenesis,19_GO:0032502 developmental process,-3.8,15,7.2,30286,123,66,4,6.1,2.9,4099|4604|7368|50487,MAG|MYBPC1|UGT8|PLA2G3,-0.7,MyList
+GO Biological Processes,19,GO:0071396,cellular response to lipid,19_GO:0050896 response to stimulus,-3.8,6,5.5,30286,536,66,7,11,3.8,2263|3158|4064|4792|5166|11170|54541,FGFR2|HMGCS2|CD180|NFKBIA|PDK4|FAM107A|DDIT4,-0.69,MyList
+KEGG Pathway,24,hsa00565,Ether lipid metabolism,,-3.7,28,8.8,30286,50,66,3,4.5,2.6,7368|50487|133121,UGT8|PLA2G3|ENPP6,-0.68,MyList
+GO Biological Processes,19,GO:0006720,isoprenoid metabolic process,19_GO:0008152 metabolic process,-3.7,14,6.9,30286,133,66,4,6.1,2.9,1557|3158|4036|57104,CYP2C19|HMGCS2|LRP2|PNPLA2,-0.65,MyList
+GO Biological Processes,19,GO:0051384,response to glucocorticoid,19_GO:0050896 response to stimulus,-3.7,14,6.9,30286,134,66,4,6.1,2.9,1026|3158|11170|54541,CDKN1A|HMGCS2|FAM107A|DDIT4,-0.65,MyList
+GO Biological Processes,19,GO:0071385,cellular response to glucocorticoid stimulus,19_GO:0050896 response to stimulus,-3.6,25,8.4,30286,54,66,3,4.5,2.6,3158|11170|54541,HMGCS2|FAM107A|DDIT4,-0.64,MyList
+KEGG Pathway,24,hsa00590,Arachidonic acid metabolism,,-3.5,23,7.9,30286,61,66,3,4.5,2.6,1557|8529|50487,CYP2C19|CYP4F2|PLA2G3,-0.55,MyList
+GO Biological Processes,19,GO:0042116,macrophage activation,19_GO:0002376 immune system process,-3.5,22,7.8,30286,62,66,3,4.5,2.6,3684|50487|90865,ITGAM|PLA2G3|IL33,-0.55,MyList
+GO Biological Processes,19,GO:0009410,response to xenobiotic stimulus,19_GO:0050896 response to stimulus,-3.5,6.4,5.3,30286,428,66,6,9.1,3.5,1026|1557|3158|6817|8529|10628,CDKN1A|CYP2C19|HMGCS2|SULT1A1|CYP4F2|TXNIP,-0.55,MyList
+Canonical Pathways,11,M254,PID MYC REPRESS PATHWAY,,-3.4,22,7.7,30286,63,66,3,4.5,2.6,1026|3158|10608,CDKN1A|HMGCS2|MXD4,-0.55,MyList
+GO Biological Processes,19,GO:0071384,cellular response to corticosteroid stimulus,19_GO:0050896 response to stimulus,-3.4,22,7.7,30286,64,66,3,4.5,2.6,3158|11170|54541,HMGCS2|FAM107A|DDIT4,-0.55,MyList
+GO Biological Processes,19,GO:0032368,regulation of lipid transport,19_GO:0051179 localization,-3.4,12,6.3,30286,156,66,4,6.1,2.9,4792|8529|10351|50487,NFKBIA|CYP4F2|ABCA8|PLA2G3,-0.55,MyList
+GO Biological Processes,19,GO:0031960,response to corticosteroid,19_GO:0050896 response to stimulus,-3.4,12,6.3,30286,156,66,4,6.1,2.9,1026|3158|11170|54541,CDKN1A|HMGCS2|FAM107A|DDIT4,-0.55,MyList
+GO Biological Processes,19,GO:0048545,response to steroid hormone,19_GO:0050896 response to stimulus,-3.4,8.1,5.6,30286,283,66,5,7.6,3.3,1026|3158|10628|11170|54541,CDKN1A|HMGCS2|TXNIP|FAM107A|DDIT4,-0.55,MyList
+GO Biological Processes,19,GO:0031099,regeneration,19_GO:0032502 developmental process,-3.4,12,6.3,30286,158,66,4,6.1,2.9,347|1026|3936|4099,APOD|CDKN1A|LCP1|MAG,-0.55,MyList
+GO Biological Processes,19,GO:1905953,negative regulation of lipid localization,19_GO:0051179 localization,-3.4,21,7.5,30286,67,66,3,4.5,2.6,4792|8529|57104,NFKBIA|CYP4F2|PNPLA2,-0.53,MyList
+GO Biological Processes,19,GO:0060411,cardiac septum morphogenesis,19_GO:0032502 developmental process,-3.3,19,7.2,30286,72,66,3,4.5,2.6,2263|2535|4036,FGFR2|FZD2|LRP2,-0.45,MyList
+WikiPathways,27,WP4674,Head and neck squamous cell carcinoma,,-3.2,19,7.1,30286,74,66,3,4.5,2.6,1026|2263|54541,CDKN1A|FGFR2|DDIT4,-0.45,MyList
+GO Biological Processes,19,GO:0003281,ventricular septum development,19_GO:0032502 developmental process,-3.2,19,7.1,30286,74,66,3,4.5,2.6,2263|2535|4036,FGFR2|FZD2|LRP2,-0.45,MyList
+GO Biological Processes,19,GO:0060415,muscle tissue morphogenesis,19_GO:0032502 developmental process,-3.2,19,7.1,30286,74,66,3,4.5,2.6,2263|2535|4036,FGFR2|FZD2|LRP2,-0.45,MyList
+KEGG Pathway,24,hsa03320,PPAR signaling pathway,,-3.2,18,7,30286,75,66,3,4.5,2.6,3158|51129|729359,HMGCS2|ANGPTL4|PLIN4,-0.45,MyList
+GO Biological Processes,19,GO:1901615,organic hydroxy compound metabolic process,19_GO:0008152 metabolic process,-3.2,5.7,4.9,30286,482,66,6,9.1,3.5,3158|4036|5860|6817|8529|57104,HMGCS2|LRP2|QDPR|SULT1A1|CYP4F2|PNPLA2,-0.43,MyList
+GO Biological Processes,19,GO:0003151,outflow tract morphogenesis,19_GO:0032502 developmental process,-3.1,17,6.8,30286,80,66,3,4.5,2.6,2263|2535|4036,FGFR2|FZD2|LRP2,-0.41,MyList
+GO Biological Processes,19,GO:0071496,cellular response to external stimulus,19_GO:0050896 response to stimulus,-3.1,7,5.1,30286,326,66,5,7.6,3.3,1026|4099|5166|11170|90865,CDKN1A|MAG|PDK4|FAM107A|IL33,-0.41,MyList
+GO Biological Processes,19,GO:0006066,alcohol metabolic process,19_GO:0008152 metabolic process,-3.1,7,5.1,30286,326,66,5,7.6,3.3,3158|4036|5860|6817|57104,HMGCS2|LRP2|QDPR|SULT1A1|PNPLA2,-0.41,MyList
+GO Biological Processes,19,GO:0048644,muscle organ morphogenesis,19_GO:0032502 developmental process,-3.1,17,6.7,30286,81,66,3,4.5,2.6,2263|2535|4036,FGFR2|FZD2|LRP2,-0.41,MyList
+GO Biological Processes,19,GO:0034504,protein localization to nucleus,19_GO:0051179 localization,-3.1,9.8,5.7,30286,187,66,4,6.1,2.9,1026|4792|10628|90865,CDKN1A|NFKBIA|TXNIP|IL33,-0.41,MyList
+GO Biological Processes,19,GO:0032496,response to lipopolysaccharide,19_GO:0044419 biological process involved in interspecies interaction between organisms,-3.1,6.9,5.1,30286,333,66,5,7.6,3.3,2263|3158|4064|4792|10804,FGFR2|HMGCS2|CD180|NFKBIA|GJB6,-0.39,MyList
+GO Biological Processes,19,GO:2000134,negative regulation of G1/S transition of mitotic cell cycle,19_GO:0048519 negative regulation of biological process,-3.1,16,6.6,30286,85,66,3,4.5,2.6,1026|11170|57165,CDKN1A|FAM107A|GJC2,-0.38,MyList
+GO Biological Processes,19,GO:0009617,response to bacterium,19_GO:0044419 biological process involved in interspecies interaction between organisms,-3.1,4.5,4.4,30286,710,66,7,11,3.8,2263|2289|3158|3684|4064|4792|10804,FGFR2|FKBP5|HMGCS2|ITGAM|CD180|NFKBIA|GJB6,-0.37,MyList
+GO Biological Processes,19,GO:0070482,response to oxygen levels,19_GO:0050896 response to stimulus,-3,6.7,5,30286,342,66,5,7.6,3.3,1026|2263|51129|54541|64344,CDKN1A|FGFR2|ANGPTL4|DDIT4|HIF3A,-0.37,MyList
+GO Biological Processes,19,GO:0002366,leukocyte activation involved in immune response,19_GO:0002376 immune system process,-3,9.2,5.4,30286,199,66,4,6.1,2.9,3936|4064|50487|90865,LCP1|CD180|PLA2G3|IL33,-0.36,MyList
+GO Biological Processes,19,GO:0002263,cell activation involved in immune response,19_GO:0002376 immune system process,-3,9,5.4,30286,203,66,4,6.1,2.9,3936|4064|50487|90865,LCP1|CD180|PLA2G3|IL33,-0.34,MyList
+GO Biological Processes,19,GO:0022411,cellular component disassembly,19_GO:0009987 cellular process,-3,6.5,4.9,30286,353,66,5,7.6,3.3,3684|3936|9507|54541|57104,ITGAM|LCP1|ADAMTS4|DDIT4|PNPLA2,-0.34,MyList
+GO Biological Processes,19,GO:0002237,response to molecule of bacterial origin,19_GO:0044419 biological process involved in interspecies interaction between organisms,-3,6.5,4.8,30286,354,66,5,7.6,3.3,2263|3158|4064|4792|10804,FGFR2|HMGCS2|CD180|NFKBIA|GJB6,-0.34,MyList
+GO Biological Processes,19,GO:1902807,negative regulation of cell cycle G1/S phase transition,19_GO:0048519 negative regulation of biological process,-2.9,15,6.2,30286,94,66,3,4.5,2.6,1026|11170|57165,CDKN1A|FAM107A|GJC2,-0.32,MyList
+GO Biological Processes,19,GO:0006644,phospholipid metabolic process,19_GO:0008152 metabolic process,-2.9,6.4,4.8,30286,361,66,5,7.6,3.3,3158|10351|50487|133121|256987,HMGCS2|ABCA8|PLA2G3|ENPP6|SERINC5,-0.32,MyList
+Reactome Gene Sets,6,R-HSA-1483257,Phospholipid metabolism,,-2.9,8.7,5.2,30286,212,66,4,6.1,2.9,50487|57104|64850|133121,PLA2G3|PNPLA2|ETNPPL|ENPP6,-0.31,MyList
+KEGG Pathway,24,hsa05215,Prostate cancer,,-2.9,14,6.1,30286,97,66,3,4.5,2.6,1026|2263|4792,CDKN1A|FGFR2|NFKBIA,-0.3,MyList
+Reactome Gene Sets,6,R-HSA-193704,p75 NTR receptor-mediated signalling,,-2.9,14,6.1,30286,97,66,3,4.5,2.6,4099|4792|10276,MAG|NFKBIA|NET1,-0.3,MyList
+GO Biological Processes,19,GO:0006954,inflammatory response,19_GO:0050896 response to stimulus,-2.8,4.9,4.4,30286,563,66,6,9.1,3.5,3684|4064|5354|10628|50487|90865,ITGAM|CD180|PLP1|TXNIP|PLA2G3|IL33,-0.26,MyList
+GO Biological Processes,19,GO:0006766,vitamin metabolic process,19_GO:0008152 metabolic process,-2.8,13,5.9,30286,102,66,3,4.5,2.6,4036|8529|81693,LRP2|CYP4F2|AMN,-0.26,MyList
+GO Biological Processes,19,GO:0003279,cardiac septum development,19_GO:0032502 developmental process,-2.8,13,5.7,30286,108,66,3,4.5,2.6,2263|2535|4036,FGFR2|FZD2|LRP2,-0.19,MyList
+GO Biological Processes,19,GO:0001676,long-chain fatty acid metabolic process,19_GO:0008152 metabolic process,-2.8,13,5.7,30286,109,66,3,4.5,2.6,1557|5354|8529,CYP2C19|PLP1|CYP4F2,-0.19,MyList
+GO Biological Processes,19,GO:0008610,lipid biosynthetic process,19_GO:0008152 metabolic process,-2.7,4.6,4.2,30286,593,66,6,9.1,3.5,3158|5354|7368|10351|57104|256987,HMGCS2|PLP1|UGT8|ABCA8|PNPLA2|SERINC5,-0.18,MyList
+GO Biological Processes,19,GO:0009636,response to toxic substance,19_GO:0050896 response to stimulus,-2.7,7.6,4.8,30286,240,66,4,6.1,2.9,1026|4502|57165|84293,CDKN1A|MT2A|GJC2|PRXL2A,-0.17,MyList
+GO Biological Processes,19,GO:0045321,leukocyte activation,19_GO:0002376 immune system process,-2.7,4.6,4.1,30286,601,66,6,9.1,3.5,3684|3936|4064|23303|50487|90865,ITGAM|LCP1|CD180|KIF13B|PLA2G3|IL33,-0.17,MyList
+GO Biological Processes,19,GO:0032989,cellular anatomical entity morphogenesis,19_GO:0032502 developmental process,-2.7,4.6,4.1,30286,605,66,6,9.1,3.5,2263|4036|4099|4604|7368|50487,FGFR2|LRP2|MAG|MYBPC1|UGT8|PLA2G3,-0.17,MyList
+GO Biological Processes,19,GO:0050769,positive regulation of neurogenesis,19_GO:0032502 developmental process,-2.7,7.5,4.8,30286,246,66,4,6.1,2.9,4036|4099|57165|90865,LRP2|MAG|GJC2|IL33,-0.17,MyList
+GO Biological Processes,19,GO:0071216,cellular response to biotic stimulus,19_GO:0050896 response to stimulus,-2.7,7.4,4.7,30286,247,66,4,6.1,2.9,3158|4064|4792|10628,HMGCS2|CD180|NFKBIA|TXNIP,-0.17,MyList
+GO Biological Processes,19,GO:0006913,nucleocytoplasmic transport,19_GO:0051179 localization,-2.7,7.4,4.7,30286,247,66,4,6.1,2.9,1026|4792|10628|90865,CDKN1A|NFKBIA|TXNIP|IL33,-0.17,MyList
+GO Biological Processes,19,GO:0006690,icosanoid metabolic process,19_GO:0008152 metabolic process,-2.7,12,5.5,30286,116,66,3,4.5,2.6,1557|8529|50487,CYP2C19|CYP4F2|PLA2G3,-0.17,MyList
+GO Biological Processes,19,GO:0051169,nuclear transport,19_GO:0051179 localization,-2.7,7.4,4.7,30286,248,66,4,6.1,2.9,1026|4792|10628|90865,CDKN1A|NFKBIA|TXNIP|IL33,-0.17,MyList
+GO Biological Processes,19,GO:0040008,regulation of growth,19_GO:0040007 growth,-2.6,4.5,4.1,30286,618,66,6,9.1,3.5,1026|2263|4099|4502|10276|11170,CDKN1A|FGFR2|MAG|MT2A|NET1|FAM107A,-0.15,MyList
+GO Biological Processes,19,GO:0003014,renal system process,19_GO:0032501 multicellular organismal process,-2.6,11,5.3,30286,122,66,3,4.5,2.6,361|8529|81693,AQP4|CYP4F2|AMN,-0.12,MyList
+GO Biological Processes,19,GO:0008202,steroid metabolic process,19_GO:0008152 metabolic process,-2.6,7.1,4.6,30286,258,66,4,6.1,2.9,1557|3158|4036|6817,CYP2C19|HMGCS2|LRP2|SULT1A1,-0.12,MyList
+GO Biological Processes,19,GO:0048514,blood vessel morphogenesis,19_GO:0032502 developmental process,-2.6,5.3,4.2,30286,431,66,5,7.6,3.3,347|2263|4036|51129|64344,APOD|FGFR2|LRP2|ANGPTL4|HIF3A,-0.12,MyList
+GO Biological Processes,19,GO:0006805,xenobiotic metabolic process,19_GO:0050896 response to stimulus,-2.6,11,5.2,30286,126,66,3,4.5,2.6,1557|6817|8529,CYP2C19|SULT1A1|CYP4F2,-0.11,MyList
+GO Biological Processes,19,GO:0042471,ear morphogenesis,19_GO:0032502 developmental process,-2.6,11,5.2,30286,126,66,3,4.5,2.6,2263|2535|10804,FGFR2|FZD2|GJB6,-0.11,MyList
+GO Biological Processes,19,GO:0003206,cardiac chamber morphogenesis,19_GO:0032502 developmental process,-2.6,11,5.2,30286,127,66,3,4.5,2.6,2263|2535|4036,FGFR2|FZD2|LRP2,-0.11,MyList
+GO Biological Processes,19,GO:0003231,cardiac ventricle development,19_GO:0032502 developmental process,-2.6,11,5.2,30286,127,66,3,4.5,2.6,2263|2535|4036,FGFR2|FZD2|LRP2,-0.11,MyList
+GO Biological Processes,19,GO:0032386,regulation of intracellular transport,19_GO:0051179 localization,-2.6,6.9,4.5,30286,267,66,4,6.1,2.9,347|3936|50487|79899,APOD|LCP1|PLA2G3|PRR5L,-0.11,MyList
+Reactome Gene Sets,6,R-HSA-1483206,Glycerophospholipid biosynthesis,,-2.5,11,5.1,30286,129,66,3,4.5,2.6,50487|57104|64850,PLA2G3|PNPLA2|ETNPPL,-0.1,MyList
+GO Biological Processes,19,GO:0072175,epithelial tube formation,19_GO:0032502 developmental process,-2.5,11,5.1,30286,130,66,3,4.5,2.6,2263|2535|4036,FGFR2|FZD2|LRP2,-0.1,MyList
+GO Biological Processes,19,GO:0042063,gliogenesis,19_GO:0032502 developmental process,-2.5,6.7,4.5,30286,272,66,4,6.1,2.9,4099|5354|28999|90865,MAG|PLP1|KLF15|IL33,-0.1,MyList
+GO Biological Processes,19,GO:0051607,defense response to virus,19_GO:0044419 biological process involved in interspecies interaction between organisms,-2.5,6.7,4.5,30286,272,66,4,6.1,2.9,54541|90865|112703|256987,DDIT4|IL33|GARIN5A|SERINC5,-0.1,MyList
+GO Biological Processes,19,GO:0048565,digestive tract development,19_GO:0032502 developmental process,-2.5,11,5.1,30286,131,66,3,4.5,2.6,1026|2263|3158,CDKN1A|FGFR2|HMGCS2,-0.1,MyList
+GO Biological Processes,19,GO:0010720,positive regulation of cell development,19_GO:0032502 developmental process,-2.5,5.1,4.1,30286,454,66,5,7.6,3.3,4036|4099|50487|57165|90865,LRP2|MAG|PLA2G3|GJC2|IL33,-0.086,MyList
+GO Biological Processes,19,GO:1901652,response to peptide,19_GO:0050896 response to stimulus,-2.4,4.9,4,30286,469,66,5,7.6,3.3,3158|4792|5166|9340|28999,HMGCS2|NFKBIA|PDK4|GLP2R|KLF15,-0.031,MyList
+GO Biological Processes,19,GO:0035239,tube morphogenesis,19_GO:0032502 developmental process,-2.4,4,3.7,30286,682,66,6,9.1,3.5,347|2263|2535|4036|51129|64344,APOD|FGFR2|FZD2|LRP2|ANGPTL4|HIF3A,-0.029,MyList
+Reactome Gene Sets,6,R-HSA-449147,Signaling by Interleukins,,-2.4,4.9,3.9,30286,473,66,5,7.6,3.3,1026|3684|3936|4792|90865,CDKN1A|ITGAM|LCP1|NFKBIA|IL33,-0.029,MyList
+GO Biological Processes,19,GO:0055123,digestive system development,19_GO:0032502 developmental process,-2.4,9.6,4.8,30286,143,66,3,4.5,2.6,1026|2263|3158,CDKN1A|FGFR2|HMGCS2,-0.029,MyList
+GO Biological Processes,19,GO:0016331,morphogenesis of embryonic epithelium,19_GO:0032502 developmental process,-2.4,9.6,4.8,30286,144,66,3,4.5,2.6,2263|2535|4036,FGFR2|FZD2|LRP2,-0.029,MyList
+GO Biological Processes,19,GO:0035148,tube formation,19_GO:0032502 developmental process,-2.4,9.6,4.8,30286,144,66,3,4.5,2.6,2263|2535|4036,FGFR2|FZD2|LRP2,-0.029,MyList
+GO Biological Processes,19,GO:0051962,positive regulation of nervous system development,19_GO:0032502 developmental process,-2.4,6.2,4.2,30286,294,66,4,6.1,2.9,4036|4099|57165|90865,LRP2|MAG|GJC2|IL33,-0.029,MyList
+GO Biological Processes,19,GO:0031175,neuron projection development,19_GO:0032502 developmental process,-2.4,4,3.7,30286,691,66,6,9.1,3.5,347|2263|4036|4099|5354|7368,APOD|FGFR2|LRP2|MAG|PLP1|UGT8,-0.029,MyList
+GO Biological Processes,19,GO:0120254,olefinic compound metabolic process,19_GO:0008152 metabolic process,-2.4,9.5,4.8,30286,145,66,3,4.5,2.6,1557|8529|57104,CYP2C19|CYP4F2|PNPLA2,-0.029,MyList
+Reactome Gene Sets,6,R-HSA-166016,Toll Like Receptor 4 (TLR4) Cascade,,-2.4,9.4,4.8,30286,147,66,3,4.5,2.6,3684|4064|4792,ITGAM|CD180|NFKBIA,-0.017,MyList
+GO Biological Processes,19,GO:0001666,response to hypoxia,19_GO:0050896 response to stimulus,-2.4,6.1,4.2,30286,301,66,4,6.1,2.9,2263|51129|54541|64344,FGFR2|ANGPTL4|DDIT4|HIF3A,-0.014,MyList
+KEGG Pathway,24,hsa05226,Gastric cancer,,-2.4,9.2,4.7,30286,149,66,3,4.5,2.6,1026|2263|2535,CDKN1A|FGFR2|FZD2,-0.014,MyList
+GO Biological Processes,19,GO:0033157,regulation of intracellular protein transport,19_GO:0051179 localization,-2.4,9.2,4.7,30286,149,66,3,4.5,2.6,347|3936|79899,APOD|LCP1|PRR5L,-0.014,MyList
+WikiPathways,27,WP3932,Focal adhesion PI3K Akt mTOR signaling pathway,,-2.4,6.1,4.1,30286,302,66,4,6.1,2.9,1026|2263|54541|64344,CDKN1A|FGFR2|DDIT4|HIF3A,-0.014,MyList
+GO Biological Processes,19,GO:0001822,kidney development,19_GO:0032502 developmental process,-2.4,6.1,4.1,30286,303,66,4,6.1,2.9,2263|3158|4036|28999,FGFR2|HMGCS2|LRP2|KLF15,-0.013,MyList
+GO Biological Processes,19,GO:0008283,cell population proliferation,19_GO:0009987 cellular process,-2.3,3.9,3.6,30286,710,66,6,9.1,3.5,1026|1992|2263|4036|4064|90865,CDKN1A|SERPINB1|FGFR2|LRP2|CD180|IL33,-0.0072,MyList
+GO Biological Processes,19,GO:0002274,myeloid leukocyte activation,19_GO:0002376 immune system process,-2.3,9.1,4.7,30286,152,66,3,4.5,2.6,3684|50487|90865,ITGAM|PLA2G3|IL33,-0.0072,MyList
+GO Biological Processes,19,GO:0050729,positive regulation of inflammatory response,19_GO:0048518 positive regulation of biological process,-2.3,9,4.6,30286,153,66,3,4.5,2.6,4792|50487|90865,NFKBIA|PLA2G3|IL33,-0.0041,MyList
+GO Biological Processes,19,GO:0071383,cellular response to steroid hormone stimulus,19_GO:0050896 response to stimulus,-2.3,8.9,4.6,30286,154,66,3,4.5,2.6,3158|11170|54541,HMGCS2|FAM107A|DDIT4,-0.0041,MyList
+Reactome Gene Sets,6,R-HSA-73887,Death Receptor Signaling,,-2.3,8.9,4.6,30286,154,66,3,4.5,2.6,4099|4792|10276,MAG|NFKBIA|NET1,-0.0041,MyList
+KEGG Pathway,24,hsa04150,mTOR signaling pathway,,-2.3,8.8,4.6,30286,156,66,3,4.5,2.6,2535|54541|79899,FZD2|DDIT4|PRR5L,-0.0014,MyList
+GO Biological Processes,19,GO:0032870,cellular response to hormone stimulus,19_GO:0050896 response to stimulus,-2.3,4.6,3.8,30286,504,66,5,7.6,3.3,3158|5166|9340|11170|54541,HMGCS2|PDK4|GLP2R|FAM107A|DDIT4,-0.0014,MyList
+GO Biological Processes,19,GO:1901653,cellular response to peptide,19_GO:0050896 response to stimulus,-2.3,5.9,4,30286,313,66,4,6.1,2.9,3158|5166|9340|28999,HMGCS2|PDK4|GLP2R|KLF15,-0.0014,MyList
+GO Biological Processes,19,GO:0072001,renal system development,19_GO:0032502 developmental process,-2.3,5.9,4,30286,313,66,4,6.1,2.9,2263|3158|4036|28999,FGFR2|HMGCS2|LRP2|KLF15,-0.0014,MyList
+GO Biological Processes,19,GO:0036293,response to decreased oxygen levels,19_GO:0050896 response to stimulus,-2.3,5.8,4,30286,315,66,4,6.1,2.9,2263|51129|54541|64344,FGFR2|ANGPTL4|DDIT4|HIF3A,0,MyList
+GO Biological Processes,19,GO:0001775,cell activation,19_GO:0032501 multicellular organismal process,-2.3,3.8,3.6,30286,726,66,6,9.1,3.5,3684|3936|4064|23303|50487|90865,ITGAM|LCP1|CD180|KIF13B|PLA2G3|IL33,0,MyList
+GO Biological Processes,19,GO:0007420,brain development,19_GO:0032502 developmental process,-2.3,3.8,3.5,30286,729,66,6,9.1,3.5,347|2263|3684|4036|5354|54541,APOD|FGFR2|ITGAM|LRP2|PLP1|DDIT4,0,MyList
+GO Biological Processes,19,GO:0104004,cellular response to environmental stimulus,19_GO:0050896 response to stimulus,-2.3,5.8,4,30286,318,66,4,6.1,2.9,1026|4099|10276|90865,CDKN1A|MAG|NET1|IL33,0,MyList
+GO Biological Processes,19,GO:0071214,cellular response to abiotic stimulus,19_GO:0050896 response to stimulus,-2.3,5.8,4,30286,318,66,4,6.1,2.9,1026|4099|10276|90865,CDKN1A|MAG|NET1|IL33,0,MyList
+GO Biological Processes,19,GO:0009266,response to temperature stimulus,19_GO:0050896 response to stimulus,-2.3,8.6,4.5,30286,161,66,3,4.5,2.6,1026|3158|4792,CDKN1A|HMGCS2|NFKBIA,0,MyList
+GO Biological Processes,19,GO:0034284,response to monosaccharide,19_GO:0050896 response to stimulus,-2.3,8.6,4.5,30286,161,66,3,4.5,2.6,3158|10628|10804,HMGCS2|TXNIP|GJB6,0,MyList
+Reactome Gene Sets,6,R-HSA-382551,Transport of small molecules,,-2.3,3.7,3.5,30286,737,66,6,9.1,3.5,347|361|1831|10351|51129|81693,APOD|AQP4|TSC22D3|ABCA8|ANGPTL4|AMN,0,MyList
+GO Biological Processes,19,GO:0006898,receptor-mediated endocytosis,19_GO:0051179 localization,-2.3,8.4,4.5,30286,163,66,3,4.5,2.6,3684|4036|81693,ITGAM|LRP2|AMN,0,MyList
+GO Biological Processes,19,GO:0006631,fatty acid metabolic process,19_GO:0008152 metabolic process,-2.3,5.7,3.9,30286,324,66,4,6.1,2.9,1557|5354|8529|50487,CYP2C19|PLP1|CYP4F2|PLA2G3,0,MyList
+GO Biological Processes,19,GO:0019216,regulation of lipid metabolic process,19_GO:0008152 metabolic process,-2.2,5.6,3.9,30286,326,66,4,6.1,2.9,347|5166|50487|57104,APOD|PDK4|PLA2G3|PNPLA2,0,MyList
+GO Biological Processes,19,GO:0001568,blood vessel development,19_GO:0032502 developmental process,-2.2,4.4,3.6,30286,527,66,5,7.6,3.3,347|2263|4036|51129|64344,APOD|FGFR2|LRP2|ANGPTL4|HIF3A,0,MyList
+GO Biological Processes,19,GO:0003205,cardiac chamber development,19_GO:0032502 developmental process,-2.2,8.2,4.4,30286,168,66,3,4.5,2.6,2263|2535|4036,FGFR2|FZD2|LRP2,0,MyList
+Reactome Gene Sets,6,R-HSA-168898,Toll-like Receptor Cascades,,-2.2,8.1,4.4,30286,169,66,3,4.5,2.6,3684|4064|4792,ITGAM|CD180|NFKBIA,0,MyList
+GO Biological Processes,19,GO:0050673,epithelial cell proliferation,19_GO:0009987 cellular process,-2.2,8.1,4.3,30286,171,66,3,4.5,2.6,1026|1992|2263,CDKN1A|SERPINB1|FGFR2,0,MyList
+GO Biological Processes,19,GO:0001525,angiogenesis,19_GO:0032502 developmental process,-2.2,5.4,3.8,30286,338,66,4,6.1,2.9,347|2263|51129|64344,APOD|FGFR2|ANGPTL4|HIF3A,0,MyList
+GO Biological Processes,19,GO:0048660,regulation of smooth muscle cell proliferation,19_GO:0050789 regulation of biological process,-2.2,7.9,4.3,30286,174,66,3,4.5,2.6,347|1026|2263,APOD|CDKN1A|FGFR2,0,MyList
+GO Biological Processes,19,GO:0030111,regulation of Wnt signaling pathway,19_GO:0050896 response to stimulus,-2.2,5.4,3.8,30286,342,66,4,6.1,2.9,2263|28999|83786|643965,FGFR2|KLF15|FRMD8|TMEM88B,0,MyList
+GO Biological Processes,19,GO:0001944,vasculature development,19_GO:0032502 developmental process,-2.2,4.2,3.5,30286,547,66,5,7.6,3.3,347|2263|4036|51129|64344,APOD|FGFR2|LRP2|ANGPTL4|HIF3A,0,MyList
+GO Biological Processes,19,GO:0060322,head development,19_GO:0032502 developmental process,-2.2,3.5,3.4,30286,778,66,6,9.1,3.5,347|2263|3684|4036|5354|54541,APOD|FGFR2|ITGAM|LRP2|PLP1|DDIT4,0,MyList
+GO Biological Processes,19,GO:0000302,response to reactive oxygen species,19_GO:0050896 response to stimulus,-2.1,7.6,4.2,30286,180,66,3,4.5,2.6,347|10276|10628,APOD|NET1|TXNIP,0,MyList
+GO Biological Processes,19,GO:0072594,establishment of protein localization to organelle,19_GO:0051179 localization,-2.1,5.2,3.7,30286,350,66,4,6.1,2.9,1026|4792|10628|90865,CDKN1A|NFKBIA|TXNIP|IL33,0,MyList
+Reactome Gene Sets,6,R-HSA-1280215,Cytokine Signaling in Immune system,,-2.1,3.5,3.3,30286,786,66,6,9.1,3.5,1026|3684|3936|4502|4792|90865,CDKN1A|ITGAM|LCP1|MT2A|NFKBIA|IL33,0,MyList
+GO Biological Processes,19,GO:1901991,negative regulation of mitotic cell cycle phase transition,19_GO:0048519 negative regulation of biological process,-2.1,7.6,4.2,30286,181,66,3,4.5,2.6,1026|11170|57165,CDKN1A|FAM107A|GJC2,0,MyList
+GO Biological Processes,19,GO:0019752,carboxylic acid metabolic process,19_GO:0008152 metabolic process,-2.1,3.5,3.3,30286,789,66,6,9.1,3.5,1557|5354|5860|8529|50487|256987,CYP2C19|PLP1|QDPR|CYP4F2|PLA2G3|SERINC5,0,MyList
+WikiPathways,27,WP702,Metapathway biotransformation Phase I and II,,-2.1,7.5,4.1,30286,184,66,3,4.5,2.6,1557|6817|8529,CYP2C19|SULT1A1|CYP4F2,0,MyList
+GO Biological Processes,19,GO:0006886,intracellular protein transport,19_GO:0051179 localization,-2.1,4.1,3.4,30286,562,66,5,7.6,3.3,379|1026|4792|10628|90865,ARL4D|CDKN1A|NFKBIA|TXNIP|IL33,0,MyList
+GO Biological Processes,19,GO:0046486,glycerolipid metabolic process,19_GO:0008152 metabolic process,-2.1,5.1,3.7,30286,357,66,4,6.1,2.9,50487|57104|133121|256987,PLA2G3|PNPLA2|ENPP6|SERINC5,0,MyList
+GO Biological Processes,19,GO:2000045,regulation of G1/S transition of mitotic cell cycle,19_GO:0050789 regulation of biological process,-2.1,7.4,4.1,30286,185,66,3,4.5,2.6,1026|11170|57165,CDKN1A|FAM107A|GJC2,0,MyList
+GO Biological Processes,19,GO:0009743,response to carbohydrate,19_GO:0050896 response to stimulus,-2.1,7.4,4.1,30286,185,66,3,4.5,2.6,3158|10628|10804,HMGCS2|TXNIP|GJB6,0,MyList
+WikiPathways,27,WP2877,Vitamin D receptor pathway,,-2.1,7.4,4.1,30286,187,66,3,4.5,2.6,1026|1992|3684,CDKN1A|SERPINB1|ITGAM,0,MyList
+GO Biological Processes,19,GO:0007507,heart development,19_GO:0032502 developmental process,-2.1,4,3.4,30286,570,66,5,7.6,3.3,1026|2263|2535|4036|10804,CDKN1A|FGFR2|FZD2|LRP2|GJB6,0,MyList
+GO Biological Processes,19,GO:0006979,response to oxidative stress,19_GO:0050896 response to stimulus,-2.1,5,3.6,30286,366,66,4,6.1,2.9,347|10276|10628|79899,APOD|NET1|TXNIP|PRR5L,0,MyList
+GO Biological Processes,19,GO:0071466,cellular response to xenobiotic stimulus,19_GO:0050896 response to stimulus,-2.1,7.1,4,30286,193,66,3,4.5,2.6,1557|6817|8529,CYP2C19|SULT1A1|CYP4F2,0,MyList
+WikiPathways,27,WP5420,ADHD and autism ASD linked metabolic pathways and SNP,,-2.1,5,3.6,30286,370,66,4,6.1,2.9,1557|3742|5860|81693,CYP2C19|KCNA6|QDPR|AMN,0,MyList
+GO Biological Processes,19,GO:0048738,cardiac muscle tissue development,19_GO:0032502 developmental process,-2.1,7.1,4,30286,194,66,3,4.5,2.6,2263|4036|10804,FGFR2|LRP2|GJB6,0,MyList
+GO Biological Processes,19,GO:0048839,inner ear development,19_GO:0032502 developmental process,-2.1,7.1,4,30286,194,66,3,4.5,2.6,2263|2535|10804,FGFR2|FZD2|GJB6,0,MyList
+GO Biological Processes,19,GO:0044242,cellular lipid catabolic process,19_GO:0008152 metabolic process,-2,7,3.9,30286,197,66,3,4.5,2.6,8529|57104|133121,CYP4F2|PNPLA2|ENPP6,0,MyList
+GO Biological Processes,19,GO:0031334,positive regulation of protein-containing complex assembly,19_GO:0048518 positive regulation of biological process,-2,7,3.9,30286,197,66,3,4.5,2.6,3936|11135|51673,LCP1|CDC42EP1|TPPP3,0,MyList
+GO Biological Processes,19,GO:0045936,negative regulation of phosphate metabolic process,19_GO:0048519 negative regulation of biological process,-2,4.9,3.5,30286,378,66,4,6.1,2.9,1026|54541|79899|84063,CDKN1A|DDIT4|PRR5L|KIRREL2,0,MyList
+GO Biological Processes,19,GO:0097435,supramolecular fiber organization,19_GO:0009987 cellular process,-2,3.9,3.3,30286,592,66,5,7.6,3.3,3936|4604|11170|51673|57471,LCP1|MYBPC1|FAM107A|TPPP3|ERMN,0,MyList
+GO Biological Processes,19,GO:0009615,response to virus,19_GO:0044419 biological process involved in interspecies interaction between organisms,-2,4.8,3.5,30286,379,66,4,6.1,2.9,54541|90865|112703|256987,DDIT4|IL33|GARIN5A|SERINC5,0,MyList
+GO Biological Processes,19,GO:0010563,negative regulation of phosphorus metabolic process,19_GO:0048519 negative regulation of biological process,-2,4.8,3.5,30286,379,66,4,6.1,2.9,1026|54541|79899|84063,CDKN1A|DDIT4|PRR5L|KIRREL2,0,MyList
+GO Biological Processes,19,GO:0014706,striated muscle tissue development,19_GO:0032502 developmental process,-2,6.9,3.9,30286,200,66,3,4.5,2.6,2263|4036|10804,FGFR2|LRP2|GJB6,0,MyList
+GO Biological Processes,19,GO:0043434,response to peptide hormone,19_GO:0050896 response to stimulus,-2,4.8,3.5,30286,381,66,4,6.1,2.9,3158|5166|9340|28999,HMGCS2|PDK4|GLP2R|KLF15,0,MyList
+GO Biological Processes,19,GO:0010876,lipid localization,19_GO:0051179 localization,-2,4.8,3.5,30286,383,66,4,6.1,2.9,347|10351|50487|57104,APOD|ABCA8|PLA2G3|PNPLA2,0,MyList

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d20" for="edge" attr.name="component" attr.type="long" />
+  <key id="d19" for="edge" attr.name="scan2" attr.type="string" />
+  <key id="d18" for="edge" attr.name="scan1" attr.type="string" />
+  <key id="d17" for="edge" attr.name="matched_peaks" attr.type="string" />
+  <key id="d16" for="edge" attr.name="score" attr.type="double" />
+  <key id="d15" for="edge" attr.name="deltamz_int" attr.type="long" />
+  <key id="d14" for="edge" attr.name="deltamz" attr.type="double" />
+  <key id="d13" for="node" attr.name="library_npclassifier_pathway" attr.type="string" />
+  <key id="d12" for="node" attr.name="library_npclassifier_class" attr.type="string" />
+  <key id="d11" for="node" attr.name="library_npclassifier_superclass" attr.type="string" />
+  <key id="d10" for="node" attr.name="library_classyfire_subclass" attr.type="string" />
+  <key id="d9" for="node" attr.name="library_classyfire_class" attr.type="string" />
+  <key id="d8" for="node" attr.name="library_classyfire_superclass" attr.type="string" />
+  <key id="d7" for="node" attr.name="library_InChI" attr.type="string" />
+  <key id="d6" for="node" attr.name="library_SMILES" attr.type="string" />
+  <key id="d5" for="node" attr.name="library_compound_name" attr.type="string" />
+  <key id="d4" for="node" attr.name="component" attr.type="long" />
+  <key id="d3" for="node" attr.name="charge" attr.type="long" />
+  <key id="d2" for="node" attr.name="rt_min" attr.type="double" />
+  <key id="d1" for="node" attr.name="rt" attr.type="double" />
+  <key id="d0" for="node" attr.name="mz" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="19914">
+      <data key="d0">137.046</data>
+      <data key="d1">1.07</data>
+      <data key="d2">1.07</data>
+      <data key="d3">0</data>
+      <data key="d4">572</data>
+      <data key="d5">Spectral Match to Hypoxanthine from NIST14</data>
+      <data key="d6">C1=NC2=C(N1)C(=O)NC=N2</data>
+      <data key="d7">InChI=1S/C5H4N4O/c10-5-3-4(7-1-6-3)8-2-9-5/h1-2H,(H2,6,7,8,9,10)</data>
+      <data key="d8">Organoheterocyclic compounds</data>
+      <data key="d9">Imidazopyrimidines</data>
+      <data key="d10">Purines and purine derivatives</data>
+      <data key="d11">Pseudoalkaloids</data>
+      <data key="d12">Purine alkaloids</data>
+      <data key="d13">Alkaloids</data>
+    </node>
+    <node id="19912">
+      <data key="d0">137.046</data>
+      <data key="d1">0.87</data>
+      <data key="d2">0.87</data>
+      <data key="d3">0</data>
+      <data key="d4">572</data>
+      <data key="d5">HYPOXANTHINE</data>
+      <data key="d6">C1=NC2=C(N=CN=C2N1)O</data>
+      <data key="d7">"InChI=1S/C5H4N4O/c10-5-3-4(7-1-6-3)8-2-9-5/h1-2H,(H2,6,7,8,9,10)"</data>
+      <data key="d8">Organoheterocyclic compounds</data>
+      <data key="d9">Imidazopyrimidines</data>
+      <data key="d10">Purines and purine derivatives</data>
+      <data key="d11">Pseudoalkaloids</data>
+      <data key="d12">pteridine alkaloids</data>
+      <data key="d13">Alkaloids</data>
+    </node>
+    <edge source="19914" target="19912">
+      <data key="d14">0.0</data>
+      <data key="d15">0</data>
+      <data key="d16">0.9879</data>
+      <data key="d17">0</data>
+      <data key="d18">19912</data>
+      <data key="d19">19914</data>
+      <data key="d20">572</data>
+    </edge>
+  </graph>
+</graphml>

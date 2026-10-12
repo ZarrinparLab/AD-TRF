@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d20" for="edge" attr.name="component" attr.type="long" />
+  <key id="d19" for="edge" attr.name="scan2" attr.type="string" />
+  <key id="d18" for="edge" attr.name="scan1" attr.type="string" />
+  <key id="d17" for="edge" attr.name="matched_peaks" attr.type="string" />
+  <key id="d16" for="edge" attr.name="score" attr.type="double" />
+  <key id="d15" for="edge" attr.name="deltamz_int" attr.type="long" />
+  <key id="d14" for="edge" attr.name="deltamz" attr.type="double" />
+  <key id="d13" for="node" attr.name="library_npclassifier_pathway" attr.type="string" />
+  <key id="d12" for="node" attr.name="library_npclassifier_class" attr.type="string" />
+  <key id="d11" for="node" attr.name="library_npclassifier_superclass" attr.type="string" />
+  <key id="d10" for="node" attr.name="library_classyfire_subclass" attr.type="string" />
+  <key id="d9" for="node" attr.name="library_classyfire_class" attr.type="string" />
+  <key id="d8" for="node" attr.name="library_classyfire_superclass" attr.type="string" />
+  <key id="d7" for="node" attr.name="library_InChI" attr.type="string" />
+  <key id="d6" for="node" attr.name="library_SMILES" attr.type="string" />
+  <key id="d5" for="node" attr.name="library_compound_name" attr.type="string" />
+  <key id="d4" for="node" attr.name="component" attr.type="long" />
+  <key id="d3" for="node" attr.name="charge" attr.type="long" />
+  <key id="d2" for="node" attr.name="rt_min" attr.type="double" />
+  <key id="d1" for="node" attr.name="rt" attr.type="double" />
+  <key id="d0" for="node" attr.name="mz" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="22505">
+      <data key="d0">377.146</data>
+      <data key="d1">4.42</data>
+      <data key="d2">4.42</data>
+      <data key="d3">0</data>
+      <data key="d4">708</data>
+      <data key="d5">RIBOFLAVIN</data>
+      <data key="d6">CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(C(CO)O)O)O</data>
+      <data key="d7">InChI=1S/C17H20N4O6/c1-7-3-9-10(4-8(7)2)21(5-11(23)14(25)12(24)6-22)15-13(18-9)16(26)20-17(27)19-15/h3-4,11-12,14,22-25H,5-6H2,1-2H3,(H,20,26,27)</data>
+      <data key="d8">Organoheterocyclic compounds</data>
+      <data key="d9">Pteridines and derivatives</data>
+      <data key="d10">Alloxazines and isoalloxazines</data>
+      <data key="d11">Pseudoalkaloids</data>
+      <data key="d12">pteridine alkaloids</data>
+      <data key="d13">Alkaloids</data>
+    </node>
+    <node id="21839">
+      <data key="d0">325.14</data>
+      <data key="d1">4.36</data>
+      <data key="d2">4.36</data>
+      <data key="d3">0</data>
+      <data key="d4">708</data>
+    </node>
+    <edge source="22505" target="21839">
+      <data key="d14">-52.006</data>
+      <data key="d15">-52</data>
+      <data key="d16">0.8714</data>
+      <data key="d17">0</data>
+      <data key="d18">22505</data>
+      <data key="d19">21839</data>
+      <data key="d20">708</data>
+    </edge>
+  </graph>
+</graphml>

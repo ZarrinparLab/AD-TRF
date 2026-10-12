@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d20" for="edge" attr.name="component" attr.type="long" />
+  <key id="d19" for="edge" attr.name="scan2" attr.type="string" />
+  <key id="d18" for="edge" attr.name="scan1" attr.type="string" />
+  <key id="d17" for="edge" attr.name="matched_peaks" attr.type="string" />
+  <key id="d16" for="edge" attr.name="score" attr.type="double" />
+  <key id="d15" for="edge" attr.name="deltamz_int" attr.type="long" />
+  <key id="d14" for="edge" attr.name="deltamz" attr.type="double" />
+  <key id="d13" for="node" attr.name="library_npclassifier_pathway" attr.type="string" />
+  <key id="d12" for="node" attr.name="library_npclassifier_class" attr.type="string" />
+  <key id="d11" for="node" attr.name="library_npclassifier_superclass" attr.type="string" />
+  <key id="d10" for="node" attr.name="library_classyfire_subclass" attr.type="string" />
+  <key id="d9" for="node" attr.name="library_classyfire_class" attr.type="string" />
+  <key id="d8" for="node" attr.name="library_classyfire_superclass" attr.type="string" />
+  <key id="d7" for="node" attr.name="library_InChI" attr.type="string" />
+  <key id="d6" for="node" attr.name="library_SMILES" attr.type="string" />
+  <key id="d5" for="node" attr.name="library_compound_name" attr.type="string" />
+  <key id="d4" for="node" attr.name="component" attr.type="long" />
+  <key id="d3" for="node" attr.name="charge" attr.type="long" />
+  <key id="d2" for="node" attr.name="rt_min" attr.type="double" />
+  <key id="d1" for="node" attr.name="rt" attr.type="double" />
+  <key id="d0" for="node" attr.name="mz" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="428">
+      <data key="d0">135.081</data>
+      <data key="d1">2.43</data>
+      <data key="d2">2.43</data>
+      <data key="d3">0</data>
+      <data key="d4">513</data>
+    </node>
+    <node id="437">
+      <data key="d0">135.117</data>
+      <data key="d1">2.97</data>
+      <data key="d2">2.97</data>
+      <data key="d3">0</data>
+      <data key="d4">513</data>
+      <data key="d5">CARVEOL CollisionEnergy:102040</data>
+      <data key="d6">C=C(C)C1CC=C(C)C(O)C1</data>
+      <data key="d7">"InChI=1S/C10H16O/c1-7(2)9-5-4-8(3)10(11)6-9/h4,9-11H,1,5-6H2,2-3H3"</data>
+      <data key="d8">Lipids and lipid-like molecules</data>
+      <data key="d9">Prenol lipids</data>
+      <data key="d10">Monoterpenoids</data>
+      <data key="d11">Monoterpenoids</data>
+      <data key="d12">Menthane monoterpenoids|Monocyclic monoterpenoids</data>
+      <data key="d13">Terpenoids</data>
+    </node>
+    <node id="19840">
+      <data key="d0">123.117</data>
+      <data key="d1">7.16</data>
+      <data key="d2">7.16</data>
+      <data key="d3">0</data>
+      <data key="d4">513</data>
+    </node>
+    <node id="438">
+      <data key="d0">135.117</data>
+      <data key="d1">3.68</data>
+      <data key="d2">3.68</data>
+      <data key="d3">0</data>
+      <data key="d4">513</data>
+      <data key="d5">CARVEOL CollisionEnergy:102040</data>
+      <data key="d6">C=C(C)C1CC=C(C)C(O)C1</data>
+      <data key="d7">"InChI=1S/C10H16O/c1-7(2)9-5-4-8(3)10(11)6-9/h4,9-11H,1,5-6H2,2-3H3"</data>
+      <data key="d8">Lipids and lipid-like molecules</data>
+      <data key="d9">Prenol lipids</data>
+      <data key="d10">Monoterpenoids</data>
+      <data key="d11">Monoterpenoids</data>
+      <data key="d12">Menthane monoterpenoids|Monocyclic monoterpenoids</data>
+      <data key="d13">Terpenoids</data>
+    </node>
+    <node id="434">
+      <data key="d0">135.117</data>
+      <data key="d1">5.92</data>
+      <data key="d2">5.92</data>
+      <data key="d3">0</data>
+      <data key="d4">513</data>
+      <data key="d5">Adamantylidene</data>
+      <data key="d6">C1C2CC3CC1CC(C2)[C]3</data>
+      <data key="d7">InChI=1S/C10H14/c1-7-2-9-4-8(1)5-10(3-7)6-9/h7-10H,1-5H2</data>
+      <data key="d8">nan</data>
+      <data key="d9">nan</data>
+      <data key="d10">nan</data>
+      <data key="d11">nan</data>
+      <data key="d12">nan</data>
+      <data key="d13">Terpenoids</data>
+    </node>
+    <edge source="428" target="438">
+      <data key="d14">-0.036</data>
+      <data key="d15">0</data>
+      <data key="d16">0.9482</data>
+      <data key="d17">0</data>
+      <data key="d18">438</data>
+      <data key="d19">428</data>
+      <data key="d20">513</data>
+    </edge>
+    <edge source="428" target="437">
+      <data key="d14">-0.036</data>
+      <data key="d15">0</data>
+      <data key="d16">0.9878</data>
+      <data key="d17">0</data>
+      <data key="d18">437</data>
+      <data key="d19">428</data>
+      <data key="d20">513</data>
+    </edge>
+    <edge source="437" target="438">
+      <data key="d14">0.0</data>
+      <data key="d15">0</data>
+      <data key="d16">0.9595</data>
+      <data key="d17">0</data>
+      <data key="d18">438</data>
+      <data key="d19">437</data>
+      <data key="d20">513</data>
+    </edge>
+    <edge source="437" target="19840">
+      <data key="d14">12.0</data>
+      <data key="d15">12</data>
+      <data key="d16">0.8375</data>
+      <data key="d17">0</data>
+      <data key="d18">19840</data>
+      <data key="d19">437</data>
+      <data key="d20">513</data>
+    </edge>
+    <edge source="19840" target="438">
+      <data key="d14">12.0</data>
+      <data key="d15">12</data>
+      <data key="d16">0.8017</data>
+      <data key="d17">0</data>
+      <data key="d18">438</data>
+      <data key="d19">19840</data>
+      <data key="d20">513</data>
+    </edge>
+    <edge source="19840" target="434">
+      <data key="d14">12.0</data>
+      <data key="d15">12</data>
+      <data key="d16">0.8484</data>
+      <data key="d17">0</data>
+      <data key="d18">19840</data>
+      <data key="d19">434</data>
+      <data key="d20">513</data>
+    </edge>
+  </graph>
+</graphml>

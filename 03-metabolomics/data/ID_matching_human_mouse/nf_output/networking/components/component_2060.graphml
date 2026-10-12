@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d20" for="edge" attr.name="component" attr.type="long" />
+  <key id="d19" for="edge" attr.name="scan2" attr.type="string" />
+  <key id="d18" for="edge" attr.name="scan1" attr.type="string" />
+  <key id="d17" for="edge" attr.name="matched_peaks" attr.type="string" />
+  <key id="d16" for="edge" attr.name="score" attr.type="double" />
+  <key id="d15" for="edge" attr.name="deltamz_int" attr.type="long" />
+  <key id="d14" for="edge" attr.name="deltamz" attr.type="double" />
+  <key id="d13" for="node" attr.name="library_npclassifier_pathway" attr.type="string" />
+  <key id="d12" for="node" attr.name="library_npclassifier_class" attr.type="string" />
+  <key id="d11" for="node" attr.name="library_npclassifier_superclass" attr.type="string" />
+  <key id="d10" for="node" attr.name="library_classyfire_subclass" attr.type="string" />
+  <key id="d9" for="node" attr.name="library_classyfire_class" attr.type="string" />
+  <key id="d8" for="node" attr.name="library_classyfire_superclass" attr.type="string" />
+  <key id="d7" for="node" attr.name="library_InChI" attr.type="string" />
+  <key id="d6" for="node" attr.name="library_SMILES" attr.type="string" />
+  <key id="d5" for="node" attr.name="library_compound_name" attr.type="string" />
+  <key id="d4" for="node" attr.name="component" attr.type="long" />
+  <key id="d3" for="node" attr.name="charge" attr.type="long" />
+  <key id="d2" for="node" attr.name="rt_min" attr.type="double" />
+  <key id="d1" for="node" attr.name="rt" attr.type="double" />
+  <key id="d0" for="node" attr.name="mz" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="23029">
+      <data key="d0">432.296</data>
+      <data key="d1">7.08</data>
+      <data key="d2">7.08</data>
+      <data key="d3">0</data>
+      <data key="d4">2060</data>
+    </node>
+    <node id="10699">
+      <data key="d0">432.296</data>
+      <data key="d1">4.37</data>
+      <data key="d2">4.37</data>
+      <data key="d3">0</data>
+      <data key="d4">2060</data>
+    </node>
+    <node id="10105">
+      <data key="d0">414.321</data>
+      <data key="d1">4.08</data>
+      <data key="d2">4.08</data>
+      <data key="d3">0</data>
+      <data key="d4">2060</data>
+    </node>
+    <node id="5580">
+      <data key="d0">298.094</data>
+      <data key="d1">0.37</data>
+      <data key="d2">0.37</data>
+      <data key="d3">0</data>
+      <data key="d4">2060</data>
+      <data key="d5">5'-METHYLTHIOADENOSINE</data>
+      <data key="d6">CSCC1C(C(C(O1)N2C=NC3=C2N=CN=C3N)O)O</data>
+      <data key="d7">InChI=1S/C11H15N5O3S/c1-20-2-5-7(17)8(18)11(19-5)16-4-15-6-9(12)13-3-14-10(6)16/h3-5,7-8,11,17-18H,2H2,1H3,(H2,12,13,14)</data>
+      <data key="d8">Nucleosides, nucleotides, and analogues</data>
+      <data key="d9">5'-deoxyribonucleosides</data>
+      <data key="d10">5'-deoxy-5'-thionucleosides</data>
+      <data key="d11">Nucleosides</data>
+      <data key="d12">Purine nucleos(t)ides</data>
+      <data key="d13">Carbohydrates</data>
+    </node>
+    <node id="21519">
+      <data key="d0">298.097</data>
+      <data key="d1">2.91</data>
+      <data key="d2">2.91</data>
+      <data key="d3">0</data>
+      <data key="d4">2060</data>
+      <data key="d5">5'-METHYLTHIOADENOSINE</data>
+      <data key="d6">CSC[C@@H]1[C@H]([C@H]([C@H](N2C=NC3=C2N=CN=C3N)O1)O)O</data>
+      <data key="d7">"InChI=1S/C11H15N5O3S/c1-20-2-5-7(17)8(18)11(19-5)16-4-15-6-9(12)13-3-14-10(6)16/h3-5,7-8,11,17-18H,2H2,1H3,(H2,12,13,14)/t5-,7-,8-,11-/m1/s1"</data>
+      <data key="d8">Nucleosides, nucleotides, and analogues</data>
+      <data key="d9">5'-deoxyribonucleosides</data>
+      <data key="d10">5'-deoxy-5'-thionucleosides</data>
+      <data key="d11">Nucleosides</data>
+      <data key="d12">Purine nucleos(t)ides</data>
+      <data key="d13">Carbohydrates</data>
+    </node>
+    <node id="5581">
+      <data key="d0">298.097</data>
+      <data key="d1">1.04</data>
+      <data key="d2">1.04</data>
+      <data key="d3">0</data>
+      <data key="d4">2060</data>
+      <data key="d5">Methylthioadenosine</data>
+      <data key="d6">CSCC1OC(n2cnc3c(N)ncnc32)C(O)C1O</data>
+      <data key="d7">"InChI=1S/C11H15N5O3S/c1-20-2-5-7(17)8(18)11(19-5)16-4-15-6-9(12)13-3-14-10(6)16/h3-5,7-8,11,17-18H,2H2,1H3,(H2,12,13,14)/t5-,7-,8-,11-/m1/s1"</data>
+      <data key="d8">Nucleosides, nucleotides, and analogues</data>
+      <data key="d9">5'-deoxyribonucleosides</data>
+      <data key="d10">5'-deoxy-5'-thionucleosides</data>
+      <data key="d11">Nucleosides</data>
+      <data key="d12">Purine nucleos(t)ides</data>
+      <data key="d13">Carbohydrates</data>
+    </node>
+    <node id="11226">
+      <data key="d0">449.277</data>
+      <data key="d1">4.49</data>
+      <data key="d2">4.49</data>
+      <data key="d3">0</data>
+      <data key="d4">2060</data>
+    </node>
+    <edge source="23029" target="11226">
+      <data key="d14">16.982</data>
+      <data key="d15">16</data>
+      <data key="d16">0.7891</data>
+      <data key="d17">0</data>
+      <data key="d18">23029</data>
+      <data key="d19">11226</data>
+      <data key="d20">2060</data>
+    </edge>
+    <edge source="10699" target="11226">
+      <data key="d14">-16.981</data>
+      <data key="d15">-16</data>
+      <data key="d16">0.7254</data>
+      <data key="d17">0</data>
+      <data key="d18">10699</data>
+      <data key="d19">11226</data>
+      <data key="d20">2060</data>
+    </edge>
+    <edge source="10699" target="10105">
+      <data key="d14">-17.975</data>
+      <data key="d15">-17</data>
+      <data key="d16">0.7521</data>
+      <data key="d17">0</data>
+      <data key="d18">10699</data>
+      <data key="d19">10105</data>
+      <data key="d20">2060</data>
+    </edge>
+    <edge source="10699" target="5581">
+      <data key="d14">-134.199</data>
+      <data key="d15">-134</data>
+      <data key="d16">0.8096</data>
+      <data key="d17">0</data>
+      <data key="d18">10699</data>
+      <data key="d19">5581</data>
+      <data key="d20">2060</data>
+    </edge>
+    <edge source="10105" target="11226">
+      <data key="d14">-34.956</data>
+      <data key="d15">-34</data>
+      <data key="d16">0.701</data>
+      <data key="d17">0</data>
+      <data key="d18">10105</data>
+      <data key="d19">11226</data>
+      <data key="d20">2060</data>
+    </edge>
+    <edge source="5580" target="21519">
+      <data key="d14">-0.003</data>
+      <data key="d15">0</data>
+      <data key="d16">0.8724</data>
+      <data key="d17">0</data>
+      <data key="d18">5580</data>
+      <data key="d19">21519</data>
+      <data key="d20">2060</data>
+    </edge>
+    <edge source="5580" target="5581">
+      <data key="d14">-0.003</data>
+      <data key="d15">0</data>
+      <data key="d16">0.8847</data>
+      <data key="d17">0</data>
+      <data key="d18">5580</data>
+      <data key="d19">5581</data>
+      <data key="d20">2060</data>
+    </edge>
+    <edge source="21519" target="5581">
+      <data key="d14">-0.0</data>
+      <data key="d15">0</data>
+      <data key="d16">0.9242</data>
+      <data key="d17">0</data>
+      <data key="d18">21519</data>
+      <data key="d19">5581</data>
+      <data key="d20">2060</data>
+    </edge>
+  </graph>
+</graphml>

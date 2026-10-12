@@ -1,0 +1,204 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d20" for="edge" attr.name="component" attr.type="long" />
+  <key id="d19" for="edge" attr.name="scan2" attr.type="string" />
+  <key id="d18" for="edge" attr.name="scan1" attr.type="string" />
+  <key id="d17" for="edge" attr.name="matched_peaks" attr.type="string" />
+  <key id="d16" for="edge" attr.name="score" attr.type="double" />
+  <key id="d15" for="edge" attr.name="deltamz_int" attr.type="long" />
+  <key id="d14" for="edge" attr.name="deltamz" attr.type="double" />
+  <key id="d13" for="node" attr.name="library_npclassifier_pathway" attr.type="string" />
+  <key id="d12" for="node" attr.name="library_npclassifier_class" attr.type="string" />
+  <key id="d11" for="node" attr.name="library_npclassifier_superclass" attr.type="string" />
+  <key id="d10" for="node" attr.name="library_classyfire_subclass" attr.type="string" />
+  <key id="d9" for="node" attr.name="library_classyfire_class" attr.type="string" />
+  <key id="d8" for="node" attr.name="library_classyfire_superclass" attr.type="string" />
+  <key id="d7" for="node" attr.name="library_InChI" attr.type="string" />
+  <key id="d6" for="node" attr.name="library_SMILES" attr.type="string" />
+  <key id="d5" for="node" attr.name="library_compound_name" attr.type="string" />
+  <key id="d4" for="node" attr.name="component" attr.type="long" />
+  <key id="d3" for="node" attr.name="charge" attr.type="long" />
+  <key id="d2" for="node" attr.name="rt_min" attr.type="double" />
+  <key id="d1" for="node" attr.name="rt" attr.type="double" />
+  <key id="d0" for="node" attr.name="mz" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="20094">
+      <data key="d0">161.096</data>
+      <data key="d1">5.11</data>
+      <data key="d2">5.11</data>
+      <data key="d3">0</data>
+      <data key="d4">1015</data>
+      <data key="d5">Spectral Match to cis-5,8,11,14-Eicosatetraenoic acid from NIST14</data>
+      <data key="d6">nan</data>
+      <data key="d7">nan</data>
+      <data key="d8">nan</data>
+      <data key="d9">nan</data>
+      <data key="d10">nan</data>
+      <data key="d11">nan</data>
+      <data key="d12">nan</data>
+      <data key="d13">nan</data>
+    </node>
+    <node id="1878">
+      <data key="d0">193.159</data>
+      <data key="d1">4.15</data>
+      <data key="d2">4.15</data>
+      <data key="d3">0</data>
+      <data key="d4">1015</data>
+    </node>
+    <node id="2285">
+      <data key="d0">207.175</data>
+      <data key="d1">6.96</data>
+      <data key="d2">6.96</data>
+      <data key="d3">0</data>
+      <data key="d4">1015</data>
+    </node>
+    <node id="469">
+      <data key="d0">137.096</data>
+      <data key="d1">3.47</data>
+      <data key="d2">3.47</data>
+      <data key="d3">0</data>
+      <data key="d4">1015</data>
+    </node>
+    <node id="778">
+      <data key="d0">153.128</data>
+      <data key="d1">2.03</data>
+      <data key="d2">2.03</data>
+      <data key="d3">0</data>
+      <data key="d4">1015</data>
+      <data key="d5">Spectral Match to Limonene-1,2-epoxide from METLIN</data>
+      <data key="d6">CC(=C)[C@@H]1CCC2(C(C1)O2)C</data>
+      <data key="d7">InChI=1S/C10H16O/c1-7(2)8-4-5-10(3)9(6-8)11-10/h8-9H,1,4-6H2,2-3H3/t8-,9?,10?/m1/s1</data>
+      <data key="d8">nan</data>
+      <data key="d9">nan</data>
+      <data key="d10">nan</data>
+      <data key="d11">Monoterpenoids</data>
+      <data key="d12">Menthane monoterpenoids|Monocyclic monoterpenoids</data>
+      <data key="d13">Terpenoids</data>
+    </node>
+    <node id="1076">
+      <data key="d0">165.128</data>
+      <data key="d1">3.16</data>
+      <data key="d2">3.16</data>
+      <data key="d3">0</data>
+      <data key="d4">1015</data>
+    </node>
+    <node id="1534">
+      <data key="d0">181.159</data>
+      <data key="d1">7.38</data>
+      <data key="d2">7.38</data>
+      <data key="d3">0</data>
+      <data key="d4">1015</data>
+      <data key="d5">OMEGA-HYDROXYDODECANOATE</data>
+      <data key="d6">OCCCCCCCCCCCC(O)=O</data>
+      <data key="d7">InChI=1S/C12H24O3/c13-11-9-7-5-3-1-2-4-6-8-10-12(14)15/h13H,1-11H2,(H,14,15)</data>
+      <data key="d8">Organic acids and derivatives</data>
+      <data key="d9">Hydroxy acids and derivatives</data>
+      <data key="d10">Medium-chain hydroxy acids and derivatives</data>
+      <data key="d11">Fatty Acids and Conjugates</data>
+      <data key="d12">Hydroxy fatty acids</data>
+      <data key="d13">Fatty acids</data>
+    </node>
+    <node id="468">
+      <data key="d0">137.096</data>
+      <data key="d1">2.97</data>
+      <data key="d2">2.97</data>
+      <data key="d3">0</data>
+      <data key="d4">1015</data>
+    </node>
+    <node id="20225">
+      <data key="d0">179.143</data>
+      <data key="d1">7.2</data>
+      <data key="d2">7.2</data>
+      <data key="d3">0</data>
+      <data key="d4">1015</data>
+    </node>
+    <node id="251">
+      <data key="d0">123.081</data>
+      <data key="d1">2.33</data>
+      <data key="d2">2.33</data>
+      <data key="d3">0</data>
+      <data key="d4">1015</data>
+    </node>
+    <edge source="20094" target="469">
+      <data key="d14">-24.0</data>
+      <data key="d15">-24</data>
+      <data key="d16">0.9039</data>
+      <data key="d17">0</data>
+      <data key="d18">469</data>
+      <data key="d19">20094</data>
+      <data key="d20">1015</data>
+    </edge>
+    <edge source="1878" target="1534">
+      <data key="d14">-12.0</data>
+      <data key="d15">-12</data>
+      <data key="d16">0.9057</data>
+      <data key="d17">0</data>
+      <data key="d18">1534</data>
+      <data key="d19">1878</data>
+      <data key="d20">1015</data>
+    </edge>
+    <edge source="1878" target="20225">
+      <data key="d14">14.016</data>
+      <data key="d15">14</data>
+      <data key="d16">0.8998</data>
+      <data key="d17">0</data>
+      <data key="d18">1878</data>
+      <data key="d19">20225</data>
+      <data key="d20">1015</data>
+    </edge>
+    <edge source="1878" target="2285">
+      <data key="d14">-14.015</data>
+      <data key="d15">-14</data>
+      <data key="d16">0.9007</data>
+      <data key="d17">0</data>
+      <data key="d18">1878</data>
+      <data key="d19">2285</data>
+      <data key="d20">1015</data>
+    </edge>
+    <edge source="469" target="251">
+      <data key="d14">-14.016</data>
+      <data key="d15">-14</data>
+      <data key="d16">0.8938</data>
+      <data key="d17">0</data>
+      <data key="d18">251</data>
+      <data key="d19">469</data>
+      <data key="d20">1015</data>
+    </edge>
+    <edge source="469" target="778">
+      <data key="d14">-16.031</data>
+      <data key="d15">-16</data>
+      <data key="d16">0.8968</data>
+      <data key="d17">0</data>
+      <data key="d18">778</data>
+      <data key="d19">469</data>
+      <data key="d20">1015</data>
+    </edge>
+    <edge source="469" target="468">
+      <data key="d14">0.0</data>
+      <data key="d15">0</data>
+      <data key="d16">0.887</data>
+      <data key="d17">0</data>
+      <data key="d18">469</data>
+      <data key="d19">468</data>
+      <data key="d20">1015</data>
+    </edge>
+    <edge source="778" target="20225">
+      <data key="d14">-26.016</data>
+      <data key="d15">-26</data>
+      <data key="d16">0.8696</data>
+      <data key="d17">0</data>
+      <data key="d18">778</data>
+      <data key="d19">20225</data>
+      <data key="d20">1015</data>
+    </edge>
+    <edge source="778" target="1076">
+      <data key="d14">-12.0</data>
+      <data key="d15">-12</data>
+      <data key="d16">0.8619</data>
+      <data key="d17">0</data>
+      <data key="d18">778</data>
+      <data key="d19">1076</data>
+      <data key="d20">1015</data>
+    </edge>
+  </graph>
+</graphml>

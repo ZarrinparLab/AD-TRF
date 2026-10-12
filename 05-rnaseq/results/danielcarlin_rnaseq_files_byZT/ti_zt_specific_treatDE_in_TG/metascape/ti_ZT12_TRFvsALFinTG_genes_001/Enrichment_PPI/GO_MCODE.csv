@@ -1,0 +1,339 @@
+Name,Category,CategoryID,GO,Description,PARENT_GO,LogP,Enrichment,Z-score,#TotalGeneInLibrary,#GeneInGO,#GeneInHitList,#GeneInGOAndHitList,%InGO,STDV %InGO,GeneID,Hits,Log(q-value)
+MyList,Reactome Gene Sets,6,R-HSA-556833,Metabolism of lipids,,-24,15,19,30286,757,74,27,36,5.6,30|32|33|39|1543|1557|1573|1593|2166|2182|2583|3032|3158|3422|4199|5467|6667|8309|8398|8503|8879|9331|10965|79071|79966|376497|641371,ACAA1|ACACB|ACADL|ACAT2|CYP1A1|CYP2C19|CYP2J2|CYP27A1|FAAH|ACSL4|B4GALNT1|HADHB|HMGCS2|IDI1|ME1|PPARD|SP1|ACOX2|PLA2G6|PIK3R3|SGPL1|B4GALT6|ACOT2|ELOVL6|SCD5|SLC27A1|ACOT1,-20
+MyList,GO Biological Processes,19,GO:0006631,fatty acid metabolic process,19_GO:0008152 metabolic process,-21,24,21,30286,324,74,19,26,5.1,30|32|33|39|1543|1557|1573|2166|2182|3032|5467|8309|8879|10965|54988|79071|79966|376497|641371,ACAA1|ACACB|ACADL|ACAT2|CYP1A1|CYP2C19|CYP2J2|FAAH|ACSL4|HADHB|PPARD|ACOX2|SGPL1|ACOT2|ACSM5|ELOVL6|SCD5|SLC27A1|ACOT1,-17
+MyList,GO Biological Processes,19,GO:0032787,monocarboxylic acid metabolic process,19_GO:0008152 metabolic process,-19,17,18,30286,520,74,21,28,5.2,30|32|33|39|1543|1557|1573|1593|2166|2182|3032|4199|5467|8309|8879|10965|54988|79071|79966|376497|641371,ACAA1|ACACB|ACADL|ACAT2|CYP1A1|CYP2C19|CYP2J2|CYP27A1|FAAH|ACSL4|HADHB|ME1|PPARD|ACOX2|SGPL1|ACOT2|ACSM5|ELOVL6|SCD5|SLC27A1|ACOT1,-16
+MyList,Reactome Gene Sets,6,R-HSA-8978868,Fatty acid metabolism,,-19,35,22,30286,176,74,15,20,4.7,30|32|33|1543|1557|1573|2166|2182|3032|5467|8309|10965|79071|79966|641371,ACAA1|ACACB|ACADL|CYP1A1|CYP2C19|CYP2J2|FAAH|ACSL4|HADHB|PPARD|ACOX2|ACOT2|ELOVL6|SCD5|ACOT1,-15
+MyList,GO Biological Processes,19,GO:0019752,carboxylic acid metabolic process,19_GO:0008152 metabolic process,-16,11,14,30286,789,74,21,28,5.2,30|32|33|39|1543|1557|1573|1593|2166|2182|3032|4199|5467|8309|8879|10965|54988|79071|79966|376497|641371,ACAA1|ACACB|ACADL|ACAT2|CYP1A1|CYP2C19|CYP2J2|CYP27A1|FAAH|ACSL4|HADHB|ME1|PPARD|ACOX2|SGPL1|ACOT2|ACSM5|ELOVL6|SCD5|SLC27A1|ACOT1,-12
+MyList,GO Biological Processes,19,GO:0001676,long-chain fatty acid metabolic process,19_GO:0008152 metabolic process,-15,41,21,30286,109,74,11,15,4.1,30|33|1543|1557|1573|2166|2182|10965|79071|376497|641371,ACAA1|ACADL|CYP1A1|CYP2C19|CYP2J2|FAAH|ACSL4|ACOT2|ELOVL6|SLC27A1|ACOT1,-11
+MyList,KEGG Pathway,24,hsa03320,PPAR signaling pathway,,-15,55,23,30286,75,74,10,14,4,30|33|1593|2182|3158|4199|5467|8309|79966|376497,ACAA1|ACADL|CYP27A1|ACSL4|HMGCS2|ME1|PPARD|ACOX2|SCD5|SLC27A1,-11
+MyList,GO Biological Processes,19,GO:0008610,lipid biosynthetic process,19_GO:0008152 metabolic process,-13,12,13,30286,593,74,17,23,4.9,32|1543|1593|2182|2583|3158|3422|7903|8309|8398|8503|9331|22863|54988|79071|79966|376497,ACACB|CYP1A1|CYP27A1|ACSL4|B4GALNT1|HMGCS2|IDI1|ST8SIA4|ACOX2|PLA2G6|PIK3R3|B4GALT6|ATG14|ACSM5|ELOVL6|SCD5|SLC27A1,-10
+MyList,WikiPathways,27,WP3942,PPAR signaling pathway,,-13,54,22,30286,68,74,9,12,3.8,30|33|1593|2182|3158|4199|5467|8309|376497,ACAA1|ACADL|CYP27A1|ACSL4|HMGCS2|ME1|PPARD|ACOX2|SLC27A1,-9.9
+MyList,KEGG Pathway,24,hsa01212,Fatty acid metabolism,,-10,50,18,30286,57,74,7,9.5,3.4,30|33|39|2182|3032|79071|79966,ACAA1|ACADL|ACAT2|ACSL4|HADHB|ELOVL6|SCD5,-7.2
+MyList,GO Biological Processes,19,GO:0016042,lipid catabolic process,19_GO:0008152 metabolic process,-9.9,15,12,30286,291,74,11,15,4.1,30|33|39|134|1593|2166|3032|5467|8309|8398|8879,ACAA1|ACADL|ACAT2|ADORA1|CYP27A1|FAAH|HADHB|PPARD|ACOX2|PLA2G6|SGPL1,-7.1
+MyList,GO Biological Processes,19,GO:0030258,lipid modification,19_GO:0008152 metabolic process,-9.5,22,14,30286,167,74,9,12,3.8,30|32|33|39|1543|2583|3032|5467|8309,ACAA1|ACACB|ACADL|ACAT2|CYP1A1|B4GALNT1|HADHB|PPARD|ACOX2,-6.7
+MyList,WikiPathways,27,WP5329,Cholesterol biosynthesis pathway in hepatocytes,,-9,57,18,30286,43,74,6,8.1,3.2,39|1593|3158|3422|10965|641371,ACAT2|CYP27A1|HMGCS2|IDI1|ACOT2|ACOT1,-6.3
+MyList,GO Biological Processes,19,GO:0019395,fatty acid oxidation,19_GO:0008152 metabolic process,-8.9,35,15,30286,81,74,7,9.5,3.4,30|32|33|39|3032|5467|8309,ACAA1|ACACB|ACADL|ACAT2|HADHB|PPARD|ACOX2,-6.3
+MyList,GO Biological Processes,19,GO:0044242,cellular lipid catabolic process,19_GO:0008152 metabolic process,-8.9,19,12,30286,197,74,9,12,3.8,30|33|39|2166|3032|5467|8309|8398|8879,ACAA1|ACADL|ACAT2|FAAH|HADHB|PPARD|ACOX2|PLA2G6|SGPL1,-6.2
+MyList,WikiPathways,27,WP4718,Cholesterol metabolism with Bloch and Kandutsch Russell pathways,,-8.8,52,17,30286,47,74,6,8.1,3.2,39|1593|2182|3158|3422|10965,ACAT2|CYP27A1|ACSL4|HMGCS2|IDI1|ACOT2,-6.2
+MyList,GO Biological Processes,19,GO:0034440,lipid oxidation,19_GO:0008152 metabolic process,-8.7,33,15,30286,87,74,7,9.5,3.4,30|32|33|39|3032|5467|8309,ACAA1|ACACB|ACADL|ACAT2|HADHB|PPARD|ACOX2,-6.1
+MyList,GO Biological Processes,19,GO:0009062,fatty acid catabolic process,19_GO:0008152 metabolic process,-8.6,32,14,30286,90,74,7,9.5,3.4,30|33|39|2166|3032|5467|8309,ACAA1|ACADL|ACAT2|FAAH|HADHB|PPARD|ACOX2,-6
+MyList,GO Biological Processes,19,GO:0006637,acyl-CoA metabolic process,19_GO:0008152 metabolic process,-8.6,31,14,30286,91,74,7,9.5,3.4,32|2182|3158|10965|54988|79071|641371,ACACB|ACSL4|HMGCS2|ACOT2|ACSM5|ELOVL6|ACOT1,-6
+MyList,GO Biological Processes,19,GO:0035383,thioester metabolic process,19_GO:0008152 metabolic process,-8.6,31,14,30286,91,74,7,9.5,3.4,32|2182|3158|10965|54988|79071|641371,ACACB|ACSL4|HMGCS2|ACOT2|ACSM5|ELOVL6|ACOT1,-6
+MyList,KEGG Pathway,24,hsa01040,Biosynthesis of unsaturated fatty acids,,-8.2,76,19,30286,27,74,5,6.8,2.9,30|10965|79071|79966|641371,ACAA1|ACOT2|ELOVL6|SCD5|ACOT1,-5.7
+MyList,GO Biological Processes,19,GO:0033559,unsaturated fatty acid metabolic process,19_GO:0008152 metabolic process,-8.2,28,13,30286,104,74,7,9.5,3.4,30|1543|1557|1573|2166|79071|79966,ACAA1|CYP1A1|CYP2C19|CYP2J2|FAAH|ELOVL6|SCD5,-5.6
+MyList,GO Biological Processes,19,GO:0006635,fatty acid beta-oxidation,19_GO:0008152 metabolic process,-8.2,42,15,30286,59,74,6,8.1,3.2,30|33|39|3032|5467|8309,ACAA1|ACADL|ACAT2|HADHB|PPARD|ACOX2,-5.6
+MyList,GO Biological Processes,19,GO:0072329,monocarboxylic acid catabolic process,19_GO:0008152 metabolic process,-7.9,25,13,30286,115,74,7,9.5,3.4,30|33|39|2166|3032|5467|8309,ACAA1|ACADL|ACAT2|FAAH|HADHB|PPARD|ACOX2,-5.3
+MyList,GO Biological Processes,19,GO:0008202,steroid metabolic process,19_GO:0008152 metabolic process,-7.9,14,11,30286,258,74,9,12,3.8,30|1543|1557|1593|3158|3422|5467|8309|8879,ACAA1|CYP1A1|CYP2C19|CYP27A1|HMGCS2|IDI1|PPARD|ACOX2|SGPL1,-5.3
+MyList,GO Biological Processes,19,GO:0000038,very long-chain fatty acid metabolic process,19_GO:0008152 metabolic process,-7.8,62,17,30286,33,74,5,6.8,2.9,30|8309|10965|79071|641371,ACAA1|ACOX2|ACOT2|ELOVL6|ACOT1,-5.3
+MyList,GO Biological Processes,19,GO:0034032,purine nucleoside bisphosphate metabolic process,19_GO:0008152 metabolic process,-7.8,24,12,30286,119,74,7,9.5,3.4,32|2182|3158|10965|54988|79071|641371,ACACB|ACSL4|HMGCS2|ACOT2|ACSM5|ELOVL6|ACOT1,-5.3
+MyList,GO Biological Processes,19,GO:0033865,nucleoside bisphosphate metabolic process,19_GO:0008152 metabolic process,-7.8,24,12,30286,119,74,7,9.5,3.4,32|2182|3158|10965|54988|79071|641371,ACACB|ACSL4|HMGCS2|ACOT2|ACSM5|ELOVL6|ACOT1,-5.3
+MyList,GO Biological Processes,19,GO:0033875,ribonucleoside bisphosphate metabolic process,19_GO:0008152 metabolic process,-7.8,24,12,30286,119,74,7,9.5,3.4,32|2182|3158|10965|54988|79071|641371,ACACB|ACSL4|HMGCS2|ACOT2|ACSM5|ELOVL6|ACOT1,-5.3
+MyList,WikiPathways,27,WP4724,Omega 9 fatty acid synthesis,,-7.5,1.2e+02,21,30286,14,74,4,5.4,2.6,2182|10965|79071|79966,ACSL4|ACOT2|ELOVL6|SCD5,-5
+MyList,WikiPathways,27,WP4723,Omega 3 omega 6 fatty acid synthesis,,-7.4,1.1e+02,21,30286,15,74,4,5.4,2.6,2182|8398|10965|641371,ACSL4|PLA2G6|ACOT2|ACOT1,-4.9
+MyList,KEGG Pathway,24,hsa00071,Fatty acid degradation,,-7.2,48,15,30286,43,74,5,6.8,2.9,30|33|39|2182|3032,ACAA1|ACADL|ACAT2|ACSL4|HADHB,-4.7
+MyList,WikiPathways,27,WP2882,Nuclear receptors meta pathway,,-7.1,12,9.5,30286,314,74,9,12,3.8,30|1543|1557|2289|4199|4257|5467|6667|376497,ACAA1|CYP1A1|CYP2C19|FKBP5|ME1|MGST1|PPARD|SP1|SLC27A1,-4.6
+MyList,Reactome Gene Sets,6,R-HSA-8957322,Metabolism of steroids,,-7,18,11,30286,155,74,7,9.5,3.4,32|39|1593|3422|6667|8309|79071,ACACB|ACAT2|CYP27A1|IDI1|SP1|ACOX2|ELOVL6,-4.5
+MyList,KEGG Pathway,24,hsa04913,Ovarian steroidogenesis,,-6.8,40,14,30286,51,74,5,6.8,2.9,1543|1573|3643|10965|641371,CYP1A1|CYP2J2|INSR|ACOT2|ACOT1,-4.3
+MyList,GO Biological Processes,19,GO:0072330,monocarboxylic acid biosynthetic process,19_GO:0008152 metabolic process,-6.7,17,10,30286,167,74,7,9.5,3.4,32|1543|1593|8309|54988|79071|79966,ACACB|CYP1A1|CYP27A1|ACOX2|ACSM5|ELOVL6|SCD5,-4.3
+MyList,GO Biological Processes,19,GO:0044282,small molecule catabolic process,19_GO:0008152 metabolic process,-6.7,10,8.8,30286,352,74,9,12,3.8,30|33|39|1543|1593|2166|3032|5467|8309,ACAA1|ACADL|ACAT2|CYP1A1|CYP27A1|FAAH|HADHB|PPARD|ACOX2,-4.3
+MyList,KEGG Pathway,24,hsa04152,AMPK signaling pathway,,-6.3,20,11,30286,121,74,6,8.1,3.2,32|1978|3643|8503|64764|79966,ACACB|EIF4EBP1|INSR|PIK3R3|CREB3L2|SCD5,-3.8
+MyList,WikiPathways,27,WP5064,7 oxo C and 7 beta HC pathways,,-6.3,61,15,30286,27,74,4,5.4,2.6,1593|8309|10965|641371,CYP27A1|ACOX2|ACOT2|ACOT1,-3.8
+MyList,KEGG Pathway,24,hsa00062,Fatty acid elongation,,-6.3,61,15,30286,27,74,4,5.4,2.6,3032|10965|79071|641371,HADHB|ACOT2|ELOVL6|ACOT1,-3.8
+MyList,Reactome Gene Sets,6,R-HSA-2142670,Synthesis of epoxy (EET) and dihydroxyeicosatrienoic acids (DHET),,-6.1,1.5e+02,21,30286,8,74,3,4.1,2.3,1543|1557|1573,CYP1A1|CYP2C19|CYP2J2,-3.7
+MyList,GO Biological Processes,19,GO:0090407,organophosphate biosynthetic process,19_GO:0008152 metabolic process,-6.1,7.5,7.6,30286,544,74,10,14,4,32|2182|3158|3422|4199|8398|8503|22863|79071|376497,ACACB|ACSL4|HMGCS2|IDI1|ME1|PLA2G6|PIK3R3|ATG14|ELOVL6|SLC27A1,-3.7
+MyList,WikiPathways,27,WP4719,Eicosanoid metabolism via cyclooxygenases COX,,-6,53,14,30286,31,74,4,5.4,2.6,30|5467|8309|8398,ACAA1|PPARD|ACOX2|PLA2G6,-3.6
+MyList,GO Biological Processes,19,GO:0006790,sulfur compound metabolic process,19_GO:0008152 metabolic process,-6,10,8.3,30286,314,74,8,11,3.6,32|2182|3158|10965|26873|54988|79071|641371,ACACB|ACSL4|HMGCS2|ACOT2|OPLAH|ACSM5|ELOVL6|ACOT1,-3.6
+MyList,Reactome Gene Sets,6,R-HSA-211859,Biological oxidations,,-5.9,13,8.8,30286,222,74,7,9.5,3.4,1543|1557|1573|1593|4257|26873|54988,CYP1A1|CYP2C19|CYP2J2|CYP27A1|MGST1|OPLAH|ACSM5,-3.5
+MyList,GO Biological Processes,19,GO:0120254,olefinic compound metabolic process,19_GO:0008152 metabolic process,-5.8,17,9.5,30286,145,74,6,8.1,3.2,30|1543|1557|1573|2166|9249,ACAA1|CYP1A1|CYP2C19|CYP2J2|FAAH|DHRS3,-3.4
+MyList,GO Biological Processes,19,GO:0046395,carboxylic acid catabolic process,19_GO:0008152 metabolic process,-5.8,12,8.6,30286,232,74,7,9.5,3.4,30|33|39|2166|3032|5467|8309,ACAA1|ACADL|ACAT2|FAAH|HADHB|PPARD|ACOX2,-3.4
+MyList,GO Biological Processes,19,GO:0016054,organic acid catabolic process,19_GO:0008152 metabolic process,-5.8,12,8.6,30286,232,74,7,9.5,3.4,30|33|39|2166|3032|5467|8309,ACAA1|ACADL|ACAT2|FAAH|HADHB|PPARD|ACOX2,-3.4
+MyList,GO Biological Processes,19,GO:0044283,small molecule biosynthetic process,19_GO:0008152 metabolic process,-5.7,7.9,7.5,30286,464,74,9,12,3.8,32|1543|1593|3158|3422|8309|54988|79071|79966,ACACB|CYP1A1|CYP27A1|HMGCS2|IDI1|ACOX2|ACSM5|ELOVL6|SCD5,-3.3
+MyList,Reactome Gene Sets,6,R-HSA-77289,Mitochondrial Fatty Acid Beta-Oxidation,,-5.7,44,13,30286,37,74,4,5.4,2.6,33|3032|10965|641371,ACADL|HADHB|ACOT2|ACOT1,-3.3
+MyList,Reactome Gene Sets,6,R-HSA-2426168,Activation of gene expression by SREBF (SREBP),,-5.5,39,12,30286,42,74,4,5.4,2.6,32|3422|6667|79071,ACACB|IDI1|SP1|ELOVL6,-3.1
+MyList,GO Biological Processes,19,GO:0046394,carboxylic acid biosynthetic process,19_GO:0008152 metabolic process,-5.3,10,7.8,30286,275,74,7,9.5,3.4,32|1543|1593|8309|54988|79071|79966,ACACB|CYP1A1|CYP27A1|ACOX2|ACSM5|ELOVL6|SCD5,-2.9
+MyList,GO Biological Processes,19,GO:0016053,organic acid biosynthetic process,19_GO:0008152 metabolic process,-5.3,10,7.7,30286,278,74,7,9.5,3.4,32|1543|1593|8309|54988|79071|79966,ACACB|CYP1A1|CYP27A1|ACOX2|ACSM5|ELOVL6|SCD5,-2.9
+MyList,KEGG Pathway,24,hsa00280,"Valine, leucine and isoleucine degradation",,-5.2,34,11,30286,48,74,4,5.4,2.6,30|39|3032|3158,ACAA1|ACAT2|HADHB|HMGCS2,-2.9
+MyList,KEGG Pathway,24,hsa04931,Insulin resistance,,-5.2,19,9.2,30286,108,74,5,6.8,2.9,32|3643|8503|64764|376497,ACACB|INSR|PIK3R3|CREB3L2|SLC27A1,-2.8
+MyList,WikiPathways,27,WP4545,Oxysterols derived from cholesterol,,-5.1,32,11,30286,51,74,4,5.4,2.6,1593|8309|10965|641371,CYP27A1|ACOX2|ACOT2|ACOT1,-2.8
+MyList,WikiPathways,27,WP4539,Synaptic signaling pathways associated with autism spectrum disorder,,-5.1,32,11,30286,51,74,4,5.4,2.6,816|1978|2906|8503,CAMK2B|EIF4EBP1|GRIN2D|PIK3R3,-2.8
+MyList,GO Biological Processes,19,GO:0001574,ganglioside biosynthetic process,19_GO:0008152 metabolic process,-5,72,15,30286,17,74,3,4.1,2.3,2583|7903|9331,B4GALNT1|ST8SIA4|B4GALT6,-2.7
+MyList,GO Biological Processes,19,GO:0006694,steroid biosynthetic process,19_GO:0008152 metabolic process,-5,18,8.9,30286,115,74,5,6.8,2.9,1543|1593|3158|3422|8309,CYP1A1|CYP27A1|HMGCS2|IDI1|ACOX2,-2.7
+MyList,Reactome Gene Sets,6,R-HSA-1655829,Regulation of cholesterol biosynthesis by SREBP (SREBF),,-5,30,11,30286,55,74,4,5.4,2.6,32|3422|6667|79071,ACACB|IDI1|SP1|ELOVL6,-2.7
+MyList,GO Biological Processes,19,GO:0006633,fatty acid biosynthetic process,19_GO:0008152 metabolic process,-5,17,8.8,30286,117,74,5,6.8,2.9,32|1543|54988|79071|79966,ACACB|CYP1A1|ACSM5|ELOVL6|SCD5,-2.7
+MyList,Reactome Gene Sets,6,R-HSA-1989781,PPARA activates gene expression,,-5,17,8.8,30286,117,74,5,6.8,2.9,1543|3158|4199|6667|376497,CYP1A1|HMGCS2|ME1|SP1|SLC27A1,-2.7
+MyList,GO Biological Processes,19,GO:0019373,epoxygenase P450 pathway,19_GO:0008152 metabolic process,-5,68,14,30286,18,74,3,4.1,2.3,1543|1557|1573,CYP1A1|CYP2C19|CYP2J2,-2.6
+MyList,Reactome Gene Sets,6,R-HSA-400206,Regulation of lipid metabolism by PPARalpha,,-5,17,8.8,30286,119,74,5,6.8,2.9,1543|3158|4199|6667|376497,CYP1A1|HMGCS2|ME1|SP1|SLC27A1,-2.6
+MyList,GO Biological Processes,19,GO:0019369,arachidonic acid metabolic process,19_GO:0008152 metabolic process,-4.9,28,10,30286,58,74,4,5.4,2.6,1543|1557|1573|2166,CYP1A1|CYP2C19|CYP2J2|FAAH,-2.6
+MyList,WikiPathways,27,WP5123,Mitochondrial fatty acid oxidation disorders,,-4.9,65,14,30286,19,74,3,4.1,2.3,33|2182|3032,ACADL|ACSL4|HADHB,-2.6
+MyList,Reactome Gene Sets,6,R-HSA-2142753,Arachidonic acid metabolism,,-4.9,28,10,30286,59,74,4,5.4,2.6,1543|1557|1573|2166,CYP1A1|CYP2C19|CYP2J2|FAAH,-2.6
+MyList,GO Biological Processes,19,GO:0019216,regulation of lipid metabolic process,19_GO:0008152 metabolic process,-4.8,8.8,7,30286,326,74,7,9.5,3.4,32|33|134|5467|8398|22863|376497,ACACB|ACADL|ADORA1|PPARD|PLA2G6|ATG14|SLC27A1,-2.5
+MyList,GO Biological Processes,19,GO:0034219,carbohydrate transmembrane transport,19_GO:0051179 localization,-4.8,27,10,30286,61,74,4,5.4,2.6,32|360|5467|376497,ACACB|AQP3|PPARD|SLC27A1,-2.5
+MyList,GO Biological Processes,19,GO:0006163,purine nucleotide metabolic process,19_GO:0008152 metabolic process,-4.8,7.1,6.5,30286,463,74,8,11,3.6,32|2182|3158|4199|10965|54988|79071|641371,ACACB|ACSL4|HMGCS2|ME1|ACOT2|ACSM5|ELOVL6|ACOT1,-2.5
+MyList,WikiPathways,27,WP43,Oxidation by cytochrome P450,,-4.7,26,9.7,30286,64,74,4,5.4,2.6,1543|1557|1573|1593,CYP1A1|CYP2C19|CYP2J2|CYP27A1,-2.5
+MyList,GO Biological Processes,19,GO:0006720,isoprenoid metabolic process,19_GO:0008152 metabolic process,-4.7,15,8.2,30286,133,74,5,6.8,2.9,1543|1557|3158|3422|9249,CYP1A1|CYP2C19|HMGCS2|IDI1|DHRS3,-2.4
+MyList,Reactome Gene Sets,6,R-HSA-211897,Cytochrome P450 - arranged by substrate type,,-4.7,25,9.6,30286,66,74,4,5.4,2.6,1543|1557|1573|1593,CYP1A1|CYP2C19|CYP2J2|CYP27A1,-2.4
+MyList,WikiPathways,27,WP1403,AMP activated protein kinase signaling,,-4.6,24,9.5,30286,67,74,4,5.4,2.6,32|1978|3643|8503,ACACB|EIF4EBP1|INSR|PIK3R3,-2.4
+MyList,KEGG Pathway,24,hsa05221,Acute myeloid leukemia,,-4.6,24,9.5,30286,67,74,4,5.4,2.6,1978|5467|7704|8503,EIF4EBP1|PPARD|ZBTB16|PIK3R3,-2.4
+MyList,GO Biological Processes,19,GO:1901615,organic hydroxy compound metabolic process,19_GO:0008152 metabolic process,-4.6,6.8,6.3,30286,482,74,8,11,3.6,30|1543|1593|3158|3422|5467|8309|9249,ACAA1|CYP1A1|CYP27A1|HMGCS2|IDI1|PPARD|ACOX2|DHRS3,-2.4
+MyList,KEGG Pathway,24,hsa00900,Terpenoid backbone biosynthesis,,-4.6,53,12,30286,23,74,3,4.1,2.3,39|3158|3422,ACAT2|HMGCS2|IDI1,-2.4
+MyList,WikiPathways,27,WP5293,Acute myeloid leukemia,,-4.6,24,9.4,30286,69,74,4,5.4,2.6,1978|5467|7704|8503,EIF4EBP1|PPARD|ZBTB16|PIK3R3,-2.3
+MyList,GO Biological Processes,19,GO:0072521,purine-containing compound metabolic process,19_GO:0008152 metabolic process,-4.6,6.7,6.3,30286,492,74,8,11,3.6,32|2182|3158|4199|10965|54988|79071|641371,ACACB|ACSL4|HMGCS2|ME1|ACOT2|ACSM5|ELOVL6|ACOT1,-2.3
+MyList,KEGG Pathway,24,hsa05017,Spinocerebellar ataxia,,-4.6,14,7.9,30286,143,74,5,6.8,2.9,2906|5682|6667|8503|22863,GRIN2D|PSMA1|SP1|PIK3R3|ATG14,-2.3
+MyList,GO Biological Processes,19,GO:0008654,phospholipid biosynthetic process,19_GO:0008152 metabolic process,-4.6,10,7.1,30286,240,74,6,8.1,3.2,3158|3422|8398|8503|22863|376497,HMGCS2|IDI1|PLA2G6|PIK3R3|ATG14|SLC27A1,-2.3
+MyList,Reactome Gene Sets,6,R-HSA-211981,Xenobiotics,,-4.5,49,12,30286,25,74,3,4.1,2.3,1543|1557|1573,CYP1A1|CYP2C19|CYP2J2,-2.3
+MyList,GO Biological Processes,19,GO:0042178,xenobiotic catabolic process,19_GO:0050896 response to stimulus,-4.5,49,12,30286,25,74,3,4.1,2.3,30|1543|1557,ACAA1|CYP1A1|CYP2C19,-2.3
+MyList,GO Biological Processes,19,GO:0032869,cellular response to insulin stimulus,19_GO:0050896 response to stimulus,-4.5,14,7.7,30286,150,74,5,6.8,2.9,3158|3643|6667|8503|376497,HMGCS2|INSR|SP1|PIK3R3|SLC27A1,-2.2
+MyList,WikiPathways,27,WP5434,Pathways in cancer,,-4.5,6.4,6.1,30286,509,74,8,11,3.6,816|1439|1870|4257|5467|6667|7704|8503,CAMK2B|CSF2RB|E2F2|MGST1|PPARD|SP1|ZBTB16|PIK3R3,-2.2
+MyList,GO Biological Processes,19,GO:0008299,isoprenoid biosynthetic process,19_GO:0008152 metabolic process,-4.4,45,11,30286,27,74,3,4.1,2.3,1543|3158|3422,CYP1A1|HMGCS2|IDI1,-2.2
+MyList,KEGG Pathway,24,hsa00650,Butanoate metabolism,,-4.4,45,11,30286,27,74,3,4.1,2.3,39|3158|54988,ACAT2|HMGCS2|ACSM5,-2.2
+MyList,GO Biological Processes,19,GO:0009150,purine ribonucleotide metabolic process,19_GO:0008152 metabolic process,-4.4,7.5,6.3,30286,382,74,7,9.5,3.4,32|2182|3158|10965|54988|79071|641371,ACACB|ACSL4|HMGCS2|ACOT2|ACSM5|ELOVL6|ACOT1,-2.2
+MyList,GO Biological Processes,19,GO:0009117,nucleotide metabolic process,19_GO:0008152 metabolic process,-4.4,6.2,6,30286,524,74,8,11,3.6,32|2182|3158|4199|10965|54988|79071|641371,ACACB|ACSL4|HMGCS2|ME1|ACOT2|ACSM5|ELOVL6|ACOT1,-2.2
+MyList,GO Biological Processes,19,GO:0006665,sphingolipid metabolic process,19_GO:0008152 metabolic process,-4.4,13,7.5,30286,158,74,5,6.8,2.9,2583|7903|8879|9331|79071,B4GALNT1|ST8SIA4|SGPL1|B4GALT6|ELOVL6,-2.2
+MyList,WikiPathways,27,WP4721,Eicosanoid metabolism via lipooxygenases LOX,,-4.4,44,11,30286,28,74,3,4.1,2.3,30|5467|8309,ACAA1|PPARD|ACOX2,-2.2
+MyList,GO Biological Processes,19,GO:0001573,ganglioside metabolic process,19_GO:0008152 metabolic process,-4.4,44,11,30286,28,74,3,4.1,2.3,2583|7903|9331,B4GALNT1|ST8SIA4|B4GALT6,-2.2
+MyList,GO Biological Processes,19,GO:0043491,phosphatidylinositol 3-kinase/protein kinase B signal transduction,19_GO:0050896 response to stimulus,-4.3,20,8.6,30286,80,74,4,5.4,2.6,2065|5467|8503|22863,ERBB3|PPARD|PIK3R3|ATG14,-2.2
+MyList,KEGG Pathway,24,hsa05200,Pathways in cancer,,-4.3,6.2,5.9,30286,531,74,8,11,3.6,816|1439|1870|4257|5467|6667|7704|8503,CAMK2B|CSF2RB|E2F2|MGST1|PPARD|SP1|ZBTB16|PIK3R3,-2.1
+MyList,GO Biological Processes,19,GO:0006753,nucleoside phosphate metabolic process,19_GO:0008152 metabolic process,-4.3,6.2,5.9,30286,532,74,8,11,3.6,32|2182|3158|4199|10965|54988|79071|641371,ACACB|ACSL4|HMGCS2|ME1|ACOT2|ACSM5|ELOVL6|ACOT1,-2.1
+MyList,WikiPathways,27,WP3869,Cannabinoid receptor signaling,,-4.3,42,11,30286,29,74,3,4.1,2.3,1543|1557|2166,CYP1A1|CYP2C19|FAAH,-2.1
+MyList,KEGG Pathway,24,hsa00591,Linoleic acid metabolism,,-4.3,41,11,30286,30,74,3,4.1,2.3,1557|1573|8398,CYP2C19|CYP2J2|PLA2G6,-2.1
+MyList,KEGG Pathway,24,hsa04012,ErbB signaling pathway,,-4.2,19,8.3,30286,85,74,4,5.4,2.6,816|1978|2065|8503,CAMK2B|EIF4EBP1|ERBB3|PIK3R3,-2.1
+MyList,GO Biological Processes,19,GO:0009259,ribonucleotide metabolic process,19_GO:0008152 metabolic process,-4.2,7.1,6.1,30286,402,74,7,9.5,3.4,32|2182|3158|10965|54988|79071|641371,ACACB|ACSL4|HMGCS2|ACOT2|ACSM5|ELOVL6|ACOT1,-2.1
+MyList,GO Biological Processes,19,GO:0008643,carbohydrate transport,19_GO:0051179 localization,-4.2,19,8.3,30286,86,74,4,5.4,2.6,32|360|5467|376497,ACACB|AQP3|PPARD|SLC27A1,-2
+MyList,Reactome Gene Sets,6,R-HSA-5673001,RAF/MAP kinase cascade,,-4.2,8.8,6.5,30286,280,74,6,8.1,3.2,816|1439|2065|2906|5682|5778,CAMK2B|CSF2RB|ERBB3|GRIN2D|PSMA1|PTPN7,-2
+MyList,KEGG Pathway,24,hsa04211,Longevity regulating pathway,,-4.2,18,8.1,30286,89,74,4,5.4,2.6,1978|3643|8503|64764,EIF4EBP1|INSR|PIK3R3|CREB3L2,-2
+MyList,GO Biological Processes,19,GO:0019693,ribose phosphate metabolic process,19_GO:0008152 metabolic process,-4.1,6.9,6,30286,416,74,7,9.5,3.4,32|2182|3158|10965|54988|79071|641371,ACACB|ACSL4|HMGCS2|ACOT2|ACSM5|ELOVL6|ACOT1,-2
+MyList,WikiPathways,27,WP673,ErbB signaling pathway,,-4.1,18,8.1,30286,90,74,4,5.4,2.6,816|1978|2065|8503,CAMK2B|EIF4EBP1|ERBB3|PIK3R3,-2
+MyList,WikiPathways,27,WP408,Oxidative stress response,,-4.1,37,10,30286,33,74,3,4.1,2.3,1543|4257|6667,CYP1A1|MGST1|SP1,-2
+MyList,Reactome Gene Sets,6,R-HSA-5684996,MAPK1/MAPK3 signaling,,-4.1,8.6,6.4,30286,286,74,6,8.1,3.2,816|1439|2065|2906|5682|5778,CAMK2B|CSF2RB|ERBB3|GRIN2D|PSMA1|PTPN7,-2
+MyList,WikiPathways,27,WP143,Fatty acid beta oxidation,,-4.1,36,10,30286,34,74,3,4.1,2.3,33|2182|3032,ACADL|ACSL4|HADHB,-1.9
+MyList,GO Biological Processes,19,GO:0009410,response to xenobiotic stimulus,19_GO:0050896 response to stimulus,-4.1,6.7,5.9,30286,428,74,7,9.5,3.4,30|32|1543|1557|1573|3158|10628,ACAA1|ACACB|CYP1A1|CYP2C19|CYP2J2|HMGCS2|TXNIP,-1.9
+MyList,WikiPathways,27,WP702,Metapathway biotransformation Phase I and II,,-4,11,6.8,30286,184,74,5,6.8,2.9,1543|1557|1573|1593|4257,CYP1A1|CYP2C19|CYP2J2|CYP27A1|MGST1,-1.9
+MyList,GO Biological Processes,19,GO:0001666,response to hypoxia,19_GO:0050896 response to stimulus,-4,8.2,6.2,30286,301,74,6,8.1,3.2,134|360|1543|5467|10397|64344,ADORA1|AQP3|CYP1A1|PPARD|NDRG1|HIF3A,-1.9
+MyList,KEGG Pathway,24,hsa04750,Inflammatory mediator regulation of TRP channels,,-4,17,7.7,30286,98,74,4,5.4,2.6,816|1573|8398|8503,CAMK2B|CYP2J2|PLA2G6|PIK3R3,-1.9
+MyList,GO Biological Processes,19,GO:0006688,glycosphingolipid biosynthetic process,19_GO:0008152 metabolic process,-4,33,9.7,30286,37,74,3,4.1,2.3,2583|7903|9331,B4GALNT1|ST8SIA4|B4GALT6,-1.9
+MyList,Reactome Gene Sets,6,R-HSA-75105,Fatty acyl-CoA biosynthesis,,-4,33,9.7,30286,37,74,3,4.1,2.3,2182|79071|79966,ACSL4|ELOVL6|SCD5,-1.9
+MyList,GO Biological Processes,19,GO:0006721,terpenoid metabolic process,19_GO:0008152 metabolic process,-4,17,7.7,30286,99,74,4,5.4,2.6,1543|1557|3158|9249,CYP1A1|CYP2C19|HMGCS2|DHRS3,-1.9
+MyList,GO Biological Processes,19,GO:0006672,ceramide metabolic process,19_GO:0008152 metabolic process,-4,17,7.7,30286,99,74,4,5.4,2.6,2583|7903|8879|9331,B4GALNT1|ST8SIA4|SGPL1|B4GALT6,-1.9
+MyList,GO Biological Processes,19,GO:0055086,nucleobase-containing small molecule metabolic process,19_GO:0008152 metabolic process,-4,5.5,5.5,30286,599,74,8,11,3.6,32|2182|3158|4199|10965|54988|79071|641371,ACACB|ACSL4|HMGCS2|ME1|ACOT2|ACSM5|ELOVL6|ACOT1,-1.8
+MyList,GO Biological Processes,19,GO:0030148,sphingolipid biosynthetic process,19_GO:0008152 metabolic process,-4,16,7.6,30286,100,74,4,5.4,2.6,2583|7903|9331|79071,B4GALNT1|ST8SIA4|B4GALT6|ELOVL6,-1.8
+MyList,GO Biological Processes,19,GO:0008206,bile acid metabolic process,19_GO:0008152 metabolic process,-3.9,31,9.4,30286,39,74,3,4.1,2.3,30|1593|8309,ACAA1|CYP27A1|ACOX2,-1.8
+MyList,GO Biological Processes,19,GO:0036293,response to decreased oxygen levels,19_GO:0050896 response to stimulus,-3.9,7.8,6,30286,315,74,6,8.1,3.2,134|360|1543|5467|10397|64344,ADORA1|AQP3|CYP1A1|PPARD|NDRG1|HIF3A,-1.8
+MyList,Reactome Gene Sets,6,R-HSA-1280215,Cytokine Signaling in Immune system,,-3.9,4.7,5.2,30286,786,74,9,12,3.8,816|829|1439|2633|4502|4927|5682|5778|8503,CAMK2B|CAPZA1|CSF2RB|GBP1|MT2A|NUP88|PSMA1|PTPN7|PIK3R3,-1.8
+MyList,Reactome Gene Sets,6,R-HSA-211945,Phase I - Functionalization of compounds,,-3.9,15,7.4,30286,106,74,4,5.4,2.6,1543|1557|1573|1593,CYP1A1|CYP2C19|CYP2J2|CYP27A1,-1.8
+MyList,KEGG Pathway,24,hsa04066,HIF-1 signaling pathway,,-3.8,15,7.3,30286,108,74,4,5.4,2.6,816|1978|3643|8503,CAMK2B|EIF4EBP1|INSR|PIK3R3,-1.7
+MyList,Reactome Gene Sets,6,R-HSA-5683057,MAPK family signaling cascades,,-3.8,7.6,5.9,30286,325,74,6,8.1,3.2,816|1439|2065|2906|5682|5778,CAMK2B|CSF2RB|ERBB3|GRIN2D|PSMA1|PTPN7,-1.7
+MyList,GO Biological Processes,19,GO:0006066,alcohol metabolic process,19_GO:0008152 metabolic process,-3.8,7.5,5.9,30286,326,74,6,8.1,3.2,1543|1593|3158|3422|5467|9249,CYP1A1|CYP27A1|HMGCS2|IDI1|PPARD|DHRS3,-1.7
+MyList,GO Biological Processes,19,GO:0035384,thioester biosynthetic process,19_GO:0008152 metabolic process,-3.8,29,9.1,30286,42,74,3,4.1,2.3,32|2182|79071,ACACB|ACSL4|ELOVL6,-1.7
+MyList,GO Biological Processes,19,GO:0071616,acyl-CoA biosynthetic process,19_GO:0008152 metabolic process,-3.8,29,9.1,30286,42,74,3,4.1,2.3,32|2182|79071,ACACB|ACSL4|ELOVL6,-1.7
+MyList,GO Biological Processes,19,GO:1904659,glucose transmembrane transport,19_GO:0051179 localization,-3.8,29,9.1,30286,42,74,3,4.1,2.3,32|5467|376497,ACACB|PPARD|SLC27A1,-1.7
+MyList,WikiPathways,27,WP2263,Androgen receptor network in prostate cancer,,-3.8,15,7.3,30286,109,74,4,5.4,2.6,1978|2289|6667|10397,EIF4EBP1|FKBP5|SP1|NDRG1,-1.7
+MyList,GO Biological Processes,19,GO:0006643,membrane lipid metabolic process,19_GO:0008152 metabolic process,-3.8,9.9,6.4,30286,206,74,5,6.8,2.9,2583|7903|8879|9331|79071,B4GALNT1|ST8SIA4|SGPL1|B4GALT6|ELOVL6,-1.7
+MyList,GO Biological Processes,19,GO:0045833,negative regulation of lipid metabolic process,19_GO:0048519 negative regulation of biological process,-3.8,15,7.1,30286,112,74,4,5.4,2.6,32|33|134|376497,ACACB|ACADL|ADORA1|SLC27A1,-1.7
+MyList,GO Biological Processes,19,GO:0031667,response to nutrient levels,19_GO:0050896 response to stimulus,-3.8,6,5.4,30286,479,74,7,9.5,3.4,32|360|1543|3158|5467|6667|22863,ACACB|AQP3|CYP1A1|HMGCS2|PPARD|SP1|ATG14,-1.7
+MyList,KEGG Pathway,24,hsa05207,Chemical carcinogenesis - receptor activation,,-3.8,9.7,6.3,30286,212,74,5,6.8,2.9,1543|1978|4257|8503|64764,CYP1A1|EIF4EBP1|MGST1|PIK3R3|CREB3L2,-1.7
+MyList,GO Biological Processes,19,GO:0008645,hexose transmembrane transport,19_GO:0051179 localization,-3.7,27,8.7,30286,45,74,3,4.1,2.3,32|5467|376497,ACACB|PPARD|SLC27A1,-1.6
+MyList,GO Biological Processes,19,GO:0006690,icosanoid metabolic process,19_GO:0008152 metabolic process,-3.7,14,7,30286,116,74,4,5.4,2.6,1543|1557|1573|2166,CYP1A1|CYP2C19|CYP2J2|FAAH,-1.6
+MyList,GO Biological Processes,19,GO:0070482,response to oxygen levels,19_GO:0050896 response to stimulus,-3.7,7.2,5.7,30286,342,74,6,8.1,3.2,134|360|1543|5467|10397|64344,ADORA1|AQP3|CYP1A1|PPARD|NDRG1|HIF3A,-1.6
+MyList,GO Biological Processes,19,GO:0032868,response to insulin,19_GO:0050896 response to stimulus,-3.7,9.4,6.2,30286,218,74,5,6.8,2.9,3158|3643|6667|8503|376497,HMGCS2|INSR|SP1|PIK3R3|SLC27A1,-1.6
+MyList,GO Biological Processes,19,GO:0008203,cholesterol metabolic process,19_GO:0008152 metabolic process,-3.7,14,6.9,30286,118,74,4,5.4,2.6,1593|3158|3422|5467,CYP27A1|HMGCS2|IDI1|PPARD,-1.6
+MyList,GO Biological Processes,19,GO:0015749,monosaccharide transmembrane transport,19_GO:0051179 localization,-3.7,26,8.5,30286,47,74,3,4.1,2.3,32|5467|376497,ACACB|PPARD|SLC27A1,-1.6
+MyList,KEGG Pathway,24,hsa00620,Pyruvate metabolism,,-3.7,26,8.5,30286,47,74,3,4.1,2.3,32|39|4199,ACACB|ACAT2|ME1,-1.6
+MyList,KEGG Pathway,24,hsa04071,Sphingolipid signaling pathway,,-3.6,14,6.8,30286,121,74,4,5.4,2.6,134|8503|8879|53637,ADORA1|PIK3R3|SGPL1|S1PR5,-1.6
+MyList,KEGG Pathway,24,hsa04024,cAMP signaling pathway,,-3.6,9.1,6,30286,225,74,5,6.8,2.9,134|816|2906|8503|64764,ADORA1|CAMK2B|GRIN2D|PIK3R3|CREB3L2,-1.6
+MyList,KEGG Pathway,24,hsa05163,Human cytomegalovirus infection,,-3.6,9.1,6,30286,225,74,5,6.8,2.9,1870|1978|6667|8503|64764,E2F2|EIF4EBP1|SP1|PIK3R3|CREB3L2,-1.6
+MyList,GO Biological Processes,19,GO:0045834,positive regulation of lipid metabolic process,19_GO:0048518 positive regulation of biological process,-3.6,13,6.8,30286,123,74,4,5.4,2.6,134|5467|8398|376497,ADORA1|PPARD|PLA2G6|SLC27A1,-1.6
+MyList,GO Biological Processes,19,GO:0009991,response to extracellular stimulus,19_GO:0050896 response to stimulus,-3.6,5.6,5.2,30286,508,74,7,9.5,3.4,32|360|1543|3158|5467|6667|22863,ACACB|AQP3|CYP1A1|HMGCS2|PPARD|SP1|ATG14,-1.6
+MyList,GO Biological Processes,19,GO:0010038,response to metal ion,19_GO:0050896 response to stimulus,-3.6,6.8,5.5,30286,360,74,6,8.1,3.2,360|1543|3158|4502|10397|10628,AQP3|CYP1A1|HMGCS2|MT2A|NDRG1|TXNIP,-1.5
+MyList,GO Biological Processes,19,GO:0006644,phospholipid metabolic process,19_GO:0008152 metabolic process,-3.6,6.8,5.5,30286,361,74,6,8.1,3.2,3158|3422|8398|8503|22863|376497,HMGCS2|IDI1|PLA2G6|PIK3R3|ATG14|SLC27A1,-1.5
+MyList,GO Biological Processes,19,GO:0006805,xenobiotic metabolic process,19_GO:0050896 response to stimulus,-3.6,13,6.7,30286,126,74,4,5.4,2.6,30|1543|1557|1573,ACAA1|CYP1A1|CYP2C19|CYP2J2,-1.5
+MyList,GO Biological Processes,19,GO:1901570,fatty acid derivative biosynthetic process,19_GO:0008152 metabolic process,-3.6,24,8.2,30286,51,74,3,4.1,2.3,2182|3158|79071,ACSL4|HMGCS2|ELOVL6,-1.5
+MyList,GO Biological Processes,19,GO:0034033,purine nucleoside bisphosphate biosynthetic process,19_GO:0008152 metabolic process,-3.5,24,8.1,30286,52,74,3,4.1,2.3,32|2182|79071,ACACB|ACSL4|ELOVL6,-1.5
+MyList,GO Biological Processes,19,GO:0033866,nucleoside bisphosphate biosynthetic process,19_GO:0008152 metabolic process,-3.5,24,8.1,30286,52,74,3,4.1,2.3,32|2182|79071,ACACB|ACSL4|ELOVL6,-1.5
+MyList,GO Biological Processes,19,GO:0034030,ribonucleoside bisphosphate biosynthetic process,19_GO:0008152 metabolic process,-3.5,24,8.1,30286,52,74,3,4.1,2.3,32|2182|79071,ACACB|ACSL4|ELOVL6,-1.5
+MyList,GO Biological Processes,19,GO:0007272,ensheathment of neurons,19_GO:0032502 developmental process,-3.5,13,6.6,30286,129,74,4,5.4,2.6,2065|5467|9331|10397,ERBB3|PPARD|B4GALT6|NDRG1,-1.5
+MyList,GO Biological Processes,19,GO:0008366,axon ensheathment,19_GO:0032502 developmental process,-3.5,13,6.6,30286,129,74,4,5.4,2.6,2065|5467|9331|10397,ERBB3|PPARD|B4GALT6|NDRG1,-1.5
+MyList,GO Biological Processes,19,GO:1902652,secondary alcohol metabolic process,19_GO:0008152 metabolic process,-3.5,13,6.6,30286,129,74,4,5.4,2.6,1593|3158|3422|5467,CYP27A1|HMGCS2|IDI1|PPARD,-1.5
+MyList,WikiPathways,27,WP5420,ADHD and autism ASD linked metabolic pathways and SNP,,-3.5,6.6,5.4,30286,370,74,6,8.1,3.2,1557|2166|2906|3643|8503|22863,CYP2C19|FAAH|GRIN2D|INSR|PIK3R3|ATG14,-1.5
+MyList,GO Biological Processes,19,GO:0010035,response to inorganic substance,19_GO:0050896 response to stimulus,-3.5,5.4,5.1,30286,527,74,7,9.5,3.4,134|360|1543|3158|4502|10397|10628,ADORA1|AQP3|CYP1A1|HMGCS2|MT2A|NDRG1|TXNIP,-1.5
+MyList,GO Biological Processes,19,GO:0016125,sterol metabolic process,19_GO:0008152 metabolic process,-3.5,12,6.5,30286,132,74,4,5.4,2.6,1593|3158|3422|5467,CYP27A1|HMGCS2|IDI1|PPARD,-1.5
+MyList,KEGG Pathway,24,hsa00600,Sphingolipid metabolism,,-3.5,23,7.9,30286,54,74,3,4.1,2.3,2583|8879|9331,B4GALNT1|SGPL1|B4GALT6,-1.5
+MyList,GO Biological Processes,19,GO:0010817,regulation of hormone levels,19_GO:0065007 biological regulation,-3.5,5.3,5,30286,539,74,7,9.5,3.4,93|134|1543|2182|8398|8879|9249,ACVR2B|ADORA1|CYP1A1|ACSL4|PLA2G6|SGPL1|DHRS3,-1.4
+MyList,GO Biological Processes,19,GO:0071375,cellular response to peptide hormone stimulus,19_GO:0050896 response to stimulus,-3.4,8.3,5.7,30286,248,74,5,6.8,2.9,3158|3643|6667|8503|376497,HMGCS2|INSR|SP1|PIK3R3|SLC27A1,-1.4
+MyList,KEGG Pathway,24,hsa04910,Insulin signaling pathway,,-3.4,12,6.4,30286,137,74,4,5.4,2.6,32|1978|3643|8503,ACACB|EIF4EBP1|INSR|PIK3R3,-1.4
+MyList,KEGG Pathway,24,hsa04915,Estrogen signaling pathway,,-3.4,12,6.4,30286,137,74,4,5.4,2.6,2289|6667|8503|64764,FKBP5|SP1|PIK3R3|CREB3L2,-1.4
+MyList,GO Biological Processes,19,GO:0046513,ceramide biosynthetic process,19_GO:0008152 metabolic process,-3.4,22,7.7,30286,57,74,3,4.1,2.3,2583|7903|9331,B4GALNT1|ST8SIA4|B4GALT6,-1.4
+MyList,GO Biological Processes,19,GO:0042886,amide transport,19_GO:0051179 localization,-3.4,12,6.3,30286,139,74,4,5.4,2.6,93|360|4257|376497,ACVR2B|AQP3|MGST1|SLC27A1,-1.4
+MyList,GO Biological Processes,19,GO:0046467,membrane lipid biosynthetic process,19_GO:0008152 metabolic process,-3.4,12,6.3,30286,140,74,4,5.4,2.6,2583|7903|9331|79071,B4GALNT1|ST8SIA4|B4GALT6|ELOVL6,-1.4
+MyList,KEGG Pathway,24,hsa04923,Regulation of lipolysis in adipocytes,,-3.4,21,7.6,30286,58,74,3,4.1,2.3,134|3643|8503,ADORA1|INSR|PIK3R3,-1.4
+MyList,WikiPathways,27,WP2858,Ectoderm differentiation,,-3.4,12,6.2,30286,142,74,4,5.4,2.6,4926|5467|7704|7903,NUMA1|PPARD|ZBTB16|ST8SIA4,-1.4
+MyList,GO Biological Processes,19,GO:0055123,digestive system development,19_GO:0032502 developmental process,-3.4,11,6.2,30286,143,74,4,5.4,2.6,93|1543|3158|3643,ACVR2B|CYP1A1|HMGCS2|INSR,-1.4
+MyList,KEGG Pathway,24,hsa00590,Arachidonic acid metabolism,,-3.3,20,7.4,30286,61,74,3,4.1,2.3,1557|1573|8398,CYP2C19|CYP2J2|PLA2G6,-1.3
+MyList,WikiPathways,27,WP5124,Alzheimer 39 s disease,,-3.3,7.8,5.5,30286,263,74,5,6.8,2.9,2906|3643|5682|8503|22863,GRIN2D|INSR|PSMA1|PIK3R3|ATG14,-1.3
+MyList,GO Biological Processes,19,GO:0006687,glycosphingolipid metabolic process,19_GO:0008152 metabolic process,-3.3,20,7.3,30286,62,74,3,4.1,2.3,2583|7903|9331,B4GALNT1|ST8SIA4|B4GALT6,-1.3
+MyList,Reactome Gene Sets,6,R-HSA-9033241,Peroxisomal protein import,,-3.3,19,7.3,30286,63,74,3,4.1,2.3,30|8309|10965,ACAA1|ACOX2|ACOT2,-1.3
+MyList,Canonical Pathways,11,M254,PID MYC REPRESS PATHWAY,,-3.3,19,7.3,30286,63,74,3,4.1,2.3,3158|6667|10397,HMGCS2|SP1|NDRG1,-1.3
+MyList,WikiPathways,27,WP2059,Alzheimer 39 s disease and miRNA effects,,-3.3,7.6,5.4,30286,268,74,5,6.8,2.9,2906|3643|5682|8503|22863,GRIN2D|INSR|PSMA1|PIK3R3|ATG14,-1.3
+MyList,KEGG Pathway,24,hsa04934,Cushing syndrome,,-3.2,11,5.9,30286,155,74,4,5.4,2.6,816|1870|6667|64764,CAMK2B|E2F2|SP1|CREB3L2,-1.2
+MyList,GO Biological Processes,19,GO:0007584,response to nutrient,19_GO:0050896 response to stimulus,-3.2,10,5.9,30286,156,74,4,5.4,2.6,32|360|1543|3158,ACACB|AQP3|CYP1A1|HMGCS2,-1.2
+MyList,KEGG Pathway,24,hsa05031,Amphetamine addiction,,-3.2,18,6.9,30286,69,74,3,4.1,2.3,816|2906|64764,CAMK2B|GRIN2D|CREB3L2,-1.2
+MyList,GO Biological Processes,19,GO:0009725,response to hormone,19_GO:0050896 response to stimulus,-3.2,4.2,4.5,30286,785,74,8,11,3.6,3158|3643|4199|5467|6667|8503|10628|376497,HMGCS2|INSR|ME1|PPARD|SP1|PIK3R3|TXNIP|SLC27A1,-1.2
+MyList,KEGG Pathway,24,hsa05204,Chemical carcinogenesis - DNA adducts,,-3.2,18,6.9,30286,70,74,3,4.1,2.3,1543|1557|4257,CYP1A1|CYP2C19|MGST1,-1.2
+MyList,GO Biological Processes,19,GO:0005975,carbohydrate metabolic process,19_GO:0008152 metabolic process,-3.2,5.6,4.8,30286,435,74,6,8.1,3.2,2583|3643|4199|5467|7903|9331,B4GALNT1|INSR|ME1|PPARD|ST8SIA4|B4GALT6,-1.2
+MyList,WikiPathways,27,WP2034,Leptin signaling pathway,,-3.1,17,6.8,30286,71,74,3,4.1,2.3,32|1978|6667,ACACB|EIF4EBP1|SP1,-1.2
+MyList,WikiPathways,27,WP5304,Cholesterol metabolism,,-3.1,17,6.7,30286,72,74,3,4.1,2.3,39|1593|3422,ACAT2|CYP27A1|IDI1,-1.1
+MyList,WikiPathways,27,WP3584,MECP2 and associated Rett syndrome,,-3.1,17,6.6,30286,74,74,3,4.1,2.3,2289|6667|84950,FKBP5|SP1|PRPF38A,-1.1
+MyList,Reactome Gene Sets,6,R-HSA-9006931,Signaling by Nuclear Receptors,,-3.1,6.9,5,30286,298,74,5,6.8,2.9,2289|5467|6667|8503|9249,FKBP5|PPARD|SP1|PIK3R3|DHRS3,-1.1
+MyList,KEGG Pathway,24,hsa05214,Glioma,,-3.1,16,6.6,30286,75,74,3,4.1,2.3,816|1870|8503,CAMK2B|E2F2|PIK3R3,-1.1
+MyList,GO Biological Processes,19,GO:1901617,organic hydroxy compound biosynthetic process,19_GO:0008152 metabolic process,-3.1,9.5,5.5,30286,172,74,4,5.4,2.6,1593|3158|3422|8309,CYP27A1|HMGCS2|IDI1|ACOX2,-1.1
+MyList,GO Biological Processes,19,GO:1901568,fatty acid derivative metabolic process,19_GO:0008152 metabolic process,-3.1,16,6.5,30286,76,74,3,4.1,2.3,2182|3158|79071,ACSL4|HMGCS2|ELOVL6,-1.1
+MyList,GO Biological Processes,19,GO:0009247,glycolipid biosynthetic process,19_GO:0008152 metabolic process,-3,16,6.5,30286,77,74,3,4.1,2.3,2583|7903|9331,B4GALNT1|ST8SIA4|B4GALT6,-1.1
+MyList,KEGG Pathway,24,hsa01521,EGFR tyrosine kinase inhibitor resistance,,-3,16,6.4,30286,79,74,3,4.1,2.3,1978|2065|8503,EIF4EBP1|ERBB3|PIK3R3,-1
+MyList,Reactome Gene Sets,6,R-HSA-9006925,Intracellular signaling by second messengers,,-3,6.6,4.9,30286,310,74,5,6.8,2.9,816|2065|3643|5682|8503,CAMK2B|ERBB3|INSR|PSMA1|PIK3R3,-1
+MyList,GO Biological Processes,19,GO:1901653,cellular response to peptide,19_GO:0050896 response to stimulus,-3,6.5,4.9,30286,313,74,5,6.8,2.9,3158|3643|6667|8503|376497,HMGCS2|INSR|SP1|PIK3R3|SLC27A1,-1
+MyList,GO Biological Processes,19,GO:0097190,apoptotic signaling pathway,19_GO:0050896 response to stimulus,-3,6.5,4.9,30286,313,74,5,6.8,2.9,134|1870|2065|5467|8879,ADORA1|E2F2|ERBB3|PPARD|SGPL1,-1
+MyList,GO Biological Processes,19,GO:0009743,response to carbohydrate,19_GO:0050896 response to stimulus,-3,8.8,5.3,30286,185,74,4,5.4,2.6,93|3158|4199|10628,ACVR2B|HMGCS2|ME1|TXNIP,-0.99
+MyList,GO Biological Processes,19,GO:0072665,protein localization to vacuole,19_GO:0051179 localization,-3,15,6.2,30286,83,74,3,4.1,2.3,2633|9179|22863,GBP1|AP4M1|ATG14,-0.99
+MyList,KEGG Pathway,24,hsa04146,Peroxisome,,-3,15,6.2,30286,83,74,3,4.1,2.3,30|2182|8309,ACAA1|ACSL4|ACOX2,-0.99
+MyList,WikiPathways,27,WP4806,EGFR tyrosine kinase inhibitor resistance,,-2.9,15,6.2,30286,84,74,3,4.1,2.3,1978|2065|8503,EIF4EBP1|ERBB3|PIK3R3,-0.98
+MyList,GO Biological Processes,19,GO:0071466,cellular response to xenobiotic stimulus,19_GO:0050896 response to stimulus,-2.9,8.5,5.2,30286,193,74,4,5.4,2.6,30|1543|1557|1573,ACAA1|CYP1A1|CYP2C19|CYP2J2,-0.93
+MyList,GO Biological Processes,19,GO:0062012,regulation of small molecule metabolic process,19_GO:0008152 metabolic process,-2.9,6.2,4.7,30286,331,74,5,6.8,2.9,32|33|3643|4199|5467,ACACB|ACADL|INSR|ME1|PPARD,-0.93
+MyList,GO Biological Processes,19,GO:0045787,positive regulation of cell cycle,19_GO:0048518 positive regulation of biological process,-2.9,6.2,4.7,30286,332,74,5,6.8,2.9,1543|1978|3643|4926|56257,CYP1A1|EIF4EBP1|INSR|NUMA1|MEPCE,-0.92
+MyList,GO Biological Processes,19,GO:0060021,roof of mouth development,19_GO:0032502 developmental process,-2.8,13,5.9,30286,91,74,3,4.1,2.3,93|8879|9249,ACVR2B|SGPL1|DHRS3,-0.89
+MyList,GO Biological Processes,19,GO:0032870,cellular response to hormone stimulus,19_GO:0050896 response to stimulus,-2.8,4.9,4.3,30286,504,74,6,8.1,3.2,3158|3643|5467|6667|8503|376497,HMGCS2|INSR|PPARD|SP1|PIK3R3|SLC27A1,-0.89
+MyList,GO Biological Processes,19,GO:0046474,glycerophospholipid biosynthetic process,19_GO:0008152 metabolic process,-2.8,8.2,5,30286,200,74,4,5.4,2.6,8398|8503|22863|376497,PLA2G6|PIK3R3|ATG14|SLC27A1,-0.88
+MyList,GO Biological Processes,19,GO:0046165,alcohol biosynthetic process,19_GO:0008152 metabolic process,-2.8,13,5.8,30286,93,74,3,4.1,2.3,1593|3158|3422,CYP27A1|HMGCS2|IDI1,-0.86
+MyList,KEGG Pathway,24,hsa05415,Diabetic cardiomyopathy,,-2.8,8.1,5,30286,203,74,4,5.4,2.6,816|3643|6667|8503,CAMK2B|INSR|SP1|PIK3R3,-0.86
+MyList,Reactome Gene Sets,6,R-HSA-877300,Interferon gamma signaling,,-2.8,13,5.7,30286,96,74,3,4.1,2.3,816|2633|4502,CAMK2B|GBP1|MT2A,-0.83
+MyList,GO Biological Processes,19,GO:0009617,response to bacterium,19_GO:0044419 biological process involved in interspecies interaction between organisms,-2.8,4,4.1,30286,710,74,7,9.5,3.4,1439|1543|2289|2633|3032|3158|8398,CSF2RB|CYP1A1|FKBP5|GBP1|HADHB|HMGCS2|PLA2G6,-0.82
+MyList,Reactome Gene Sets,6,R-HSA-9759194,Nuclear events mediated by NFE2L2,,-2.8,13,5.7,30286,97,74,3,4.1,2.3,4199|5682|6667,ME1|PSMA1|SP1,-0.82
+MyList,KEGG Pathway,24,hsa05215,Prostate cancer,,-2.8,13,5.7,30286,97,74,3,4.1,2.3,1870|8503|64764,E2F2|PIK3R3|CREB3L2,-0.82
+MyList,KEGG Pathway,24,hsa05231,Choline metabolism in cancer,,-2.7,13,5.7,30286,98,74,3,4.1,2.3,1978|6667|8503,EIF4EBP1|SP1|PIK3R3,-0.81
+MyList,KEGG Pathway,24,hsa01522,Endocrine resistance,,-2.7,13,5.7,30286,98,74,3,4.1,2.3,1870|6667|8503,E2F2|SP1|PIK3R3,-0.81
+MyList,GO Biological Processes,19,GO:0046486,glycerolipid metabolic process,19_GO:0008152 metabolic process,-2.7,5.7,4.5,30286,357,74,5,6.8,2.9,2166|8398|8503|22863|376497,FAAH|PLA2G6|PIK3R3|ATG14|SLC27A1,-0.81
+MyList,GO Biological Processes,19,GO:0019217,regulation of fatty acid metabolic process,19_GO:0008152 metabolic process,-2.7,12,5.6,30286,99,74,3,4.1,2.3,32|33|5467,ACACB|ACADL|PPARD,-0.8
+MyList,KEGG Pathway,24,hsa04151,PI3K-Akt signaling pathway,,-2.7,5.7,4.4,30286,359,74,5,6.8,2.9,1978|2065|3643|8503|64764,EIF4EBP1|ERBB3|INSR|PIK3R3|CREB3L2,-0.8
+MyList,KEGG Pathway,24,hsa05417,Lipid and atherosclerosis,,-2.7,7.6,4.8,30286,215,74,4,5.4,2.6,816|1543|1573|8503,CAMK2B|CYP1A1|CYP2J2|PIK3R3,-0.79
+MyList,Reactome Gene Sets,6,R-HSA-9711123,Cellular response to chemical stress,,-2.7,7.6,4.8,30286,215,74,4,5.4,2.6,4199|5682|6667|10628,ME1|PSMA1|SP1|TXNIP,-0.79
+MyList,GO Biological Processes,19,GO:0043604,amide biosynthetic process,19_GO:0008152 metabolic process,-2.7,4.5,4.1,30286,542,74,6,8.1,3.2,32|2182|2583|7903|9331|79071,ACACB|ACSL4|B4GALNT1|ST8SIA4|B4GALT6|ELOVL6,-0.75
+MyList,GO Biological Processes,19,GO:0045017,glycerolipid biosynthetic process,19_GO:0008152 metabolic process,-2.7,7.4,4.7,30286,222,74,4,5.4,2.6,8398|8503|22863|376497,PLA2G6|PIK3R3|ATG14|SLC27A1,-0.74
+MyList,Reactome Gene Sets,6,R-HSA-6811558,"PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling",,-2.6,12,5.4,30286,106,74,3,4.1,2.3,2065|3643|8503,ERBB3|INSR|PIK3R3,-0.73
+MyList,Reactome Gene Sets,6,R-HSA-428157,Sphingolipid metabolism,,-2.6,12,5.4,30286,106,74,3,4.1,2.3,2583|8879|9331,B4GALNT1|SGPL1|B4GALT6,-0.73
+MyList,GO Biological Processes,19,GO:0006664,glycolipid metabolic process,19_GO:0008152 metabolic process,-2.6,11,5.4,30286,107,74,3,4.1,2.3,2583|7903|9331,B4GALNT1|ST8SIA4|B4GALT6,-0.72
+MyList,KEGG Pathway,24,hsa04922,Glucagon signaling pathway,,-2.6,11,5.4,30286,107,74,3,4.1,2.3,32|816|64764,ACACB|CAMK2B|CREB3L2,-0.72
+MyList,GO Biological Processes,19,GO:1903509,liposaccharide metabolic process,19_GO:0008152 metabolic process,-2.6,11,5.3,30286,108,74,3,4.1,2.3,2583|7903|9331,B4GALNT1|ST8SIA4|B4GALT6,-0.71
+MyList,GO Biological Processes,19,GO:0071417,cellular response to organonitrogen compound,19_GO:0050896 response to stimulus,-2.6,4.4,4,30286,556,74,6,8.1,3.2,2906|3158|3643|6667|8503|376497,GRIN2D|HMGCS2|INSR|SP1|PIK3R3|SLC27A1,-0.71
+MyList,GO Biological Processes,19,GO:0043434,response to peptide hormone,19_GO:0050896 response to stimulus,-2.6,5.4,4.2,30286,381,74,5,6.8,2.9,3158|3643|6667|8503|376497,HMGCS2|INSR|SP1|PIK3R3|SLC27A1,-0.71
+MyList,Reactome Gene Sets,6,R-HSA-156580,Phase II - Conjugation of compounds,,-2.6,11,5.3,30286,109,74,3,4.1,2.3,4257|26873|54988,MGST1|OPLAH|ACSM5,-0.7
+MyList,GO Biological Processes,19,GO:0061448,connective tissue development,19_GO:0032502 developmental process,-2.6,7.1,4.6,30286,231,74,4,5.4,2.6,3158|5467|7704|64764,HMGCS2|PPARD|ZBTB16|CREB3L2,-0.7
+MyList,GO Biological Processes,19,GO:0044057,regulation of system process,19_GO:0032501 multicellular organismal process,-2.6,4.4,4,30286,561,74,6,8.1,3.2,32|134|816|1573|2166|2906,ACACB|ADORA1|CAMK2B|CYP2J2|FAAH|GRIN2D,-0.7
+MyList,KEGG Pathway,24,hsa05010,Alzheimer disease,,-2.6,5.3,4.2,30286,384,74,5,6.8,2.9,2906|3643|5682|8503|22863,GRIN2D|INSR|PSMA1|PIK3R3|ATG14,-0.7
+MyList,Reactome Gene Sets,6,R-HSA-199418,Negative regulation of the PI3K/AKT network,,-2.6,11,5.2,30286,113,74,3,4.1,2.3,2065|3643|8503,ERBB3|INSR|PIK3R3,-0.67
+MyList,KEGG Pathway,24,hsa04725,Cholinergic synapse,,-2.6,11,5.2,30286,113,74,3,4.1,2.3,816|8503|64764,CAMK2B|PIK3R3|CREB3L2,-0.67
+MyList,GO Biological Processes,19,GO:0002793,positive regulation of peptide secretion,19_GO:0051179 localization,-2.6,11,5.2,30286,113,74,3,4.1,2.3,134|2182|8398,ADORA1|ACSL4|PLA2G6,-0.67
+MyList,WikiPathways,27,WP4659,Gastrin signaling pathway,,-2.5,11,5.1,30286,115,74,3,4.1,2.3,1978|6667|8503,EIF4EBP1|SP1|PIK3R3,-0.65
+MyList,GO Biological Processes,19,GO:0006091,generation of precursor metabolites and energy,19_GO:0008152 metabolic process,-2.5,5,4,30286,410,74,5,6.8,2.9,32|3158|4199|5467|9249,ACACB|HMGCS2|ME1|PPARD|DHRS3,-0.58
+MyList,GO Biological Processes,19,GO:0030278,regulation of ossification,19_GO:0032501 multicellular organismal process,-2.5,10,5,30286,122,74,3,4.1,2.3,93|7704|9249,ACVR2B|ZBTB16|DHRS3,-0.58
+MyList,GO Biological Processes,19,GO:1901137,carbohydrate derivative biosynthetic process,19_GO:0008152 metabolic process,-2.5,4.1,3.8,30286,599,74,6,8.1,3.2,32|2182|2583|7903|9331|79071,ACACB|ACSL4|B4GALNT1|ST8SIA4|B4GALT6|ELOVL6,-0.57
+MyList,GO Biological Processes,19,GO:0007169,transmembrane receptor protein tyrosine kinase signaling pathway,19_GO:0050896 response to stimulus,-2.4,4.9,4,30286,419,74,5,6.8,2.9,2065|3643|8503|8879|10628,ERBB3|INSR|PIK3R3|SGPL1|TXNIP,-0.55
+MyList,Reactome Gene Sets,6,R-HSA-9755511,KEAP1-NFE2L2 pathway,,-2.4,9.7,4.9,30286,126,74,3,4.1,2.3,4199|5682|6667,ME1|PSMA1|SP1,-0.55
+MyList,GO Biological Processes,19,GO:0021782,glial cell development,19_GO:0032502 developmental process,-2.4,9.7,4.9,30286,126,74,3,4.1,2.3,2065|9331|10397,ERBB3|B4GALT6|NDRG1,-0.55
+MyList,GO Biological Processes,19,GO:0006661,phosphatidylinositol biosynthetic process,19_GO:0008152 metabolic process,-2.4,9.7,4.9,30286,126,74,3,4.1,2.3,8503|22863|376497,PIK3R3|ATG14|SLC27A1,-0.55
+MyList,GO Biological Processes,19,GO:0042552,myelination,19_GO:0032502 developmental process,-2.4,9.7,4.8,30286,127,74,3,4.1,2.3,2065|9331|10397,ERBB3|B4GALT6|NDRG1,-0.54
+MyList,GO Biological Processes,19,GO:0007167,enzyme-linked receptor protein signaling pathway,19_GO:0050896 response to stimulus,-2.4,4,3.7,30286,614,74,6,8.1,3.2,93|2065|3643|8503|8879|10628,ACVR2B|ERBB3|INSR|PIK3R3|SGPL1|TXNIP,-0.52
+MyList,GO Biological Processes,19,GO:0090068,positive regulation of cell cycle process,19_GO:0048518 positive regulation of biological process,-2.4,6.2,4.2,30286,263,74,4,5.4,2.6,1543|3643|4926|56257,CYP1A1|INSR|NUMA1|MEPCE,-0.52
+MyList,GO Biological Processes,19,GO:0045931,positive regulation of mitotic cell cycle,19_GO:0048518 positive regulation of biological process,-2.4,9.4,4.8,30286,130,74,3,4.1,2.3,1543|1978|56257,CYP1A1|EIF4EBP1|MEPCE,-0.52
+MyList,GO Biological Processes,19,GO:0009165,nucleotide biosynthetic process,19_GO:0008152 metabolic process,-2.4,6.2,4.2,30286,264,74,4,5.4,2.6,32|2182|4199|79071,ACACB|ACSL4|ME1|ELOVL6,-0.52
+MyList,GO Biological Processes,19,GO:0048565,digestive tract development,19_GO:0032502 developmental process,-2.4,9.4,4.8,30286,131,74,3,4.1,2.3,93|1543|3158,ACVR2B|CYP1A1|HMGCS2,-0.51
+MyList,GO Biological Processes,19,GO:1901293,nucleoside phosphate biosynthetic process,19_GO:0008152 metabolic process,-2.4,6.2,4.2,30286,266,74,4,5.4,2.6,32|2182|4199|79071,ACACB|ACSL4|ME1|ELOVL6,-0.51
+MyList,WikiPathways,27,WP3915,Angiopoietin like protein 8 regulatory pathway,,-2.4,9.3,4.7,30286,132,74,3,4.1,2.3,1978|3643|8503,EIF4EBP1|INSR|PIK3R3,-0.5
+MyList,Reactome Gene Sets,6,R-HSA-1257604,PIP3 activates AKT signaling,,-2.4,6.1,4.2,30286,268,74,4,5.4,2.6,2065|3643|5682|8503,ERBB3|INSR|PSMA1|PIK3R3,-0.5
+MyList,Reactome Gene Sets,6,R-HSA-913531,Interferon Signaling,,-2.4,6.1,4.1,30286,269,74,4,5.4,2.6,816|2633|4502|4927,CAMK2B|GBP1|MT2A|NUP88,-0.5
+MyList,GO Biological Processes,19,GO:1901699,cellular response to nitrogen compound,19_GO:0050896 response to stimulus,-2.4,3.9,3.6,30286,631,74,6,8.1,3.2,2906|3158|3643|6667|8503|376497,GRIN2D|HMGCS2|INSR|SP1|PIK3R3|SLC27A1,-0.48
+MyList,KEGG Pathway,24,hsa05020,Prion disease,,-2.3,6,4.1,30286,272,74,4,5.4,2.6,2906|5682|8503|64764,GRIN2D|PSMA1|PIK3R3|CREB3L2,-0.48
+MyList,Canonical Pathways,11,M145,PID P53 DOWNSTREAM PATHWAY,,-2.3,9,4.6,30286,137,74,3,4.1,2.3,1870|6667|10397,E2F2|SP1|NDRG1,-0.47
+MyList,GO Biological Processes,19,GO:0003018,vascular process in circulatory system,19_GO:0032501 multicellular organismal process,-2.3,6,4.1,30286,275,74,4,5.4,2.6,134|2166|3643|376497,ADORA1|FAAH|INSR|SLC27A1,-0.47
+MyList,KEGG Pathway,24,hsa05418,Fluid shear stress and atherosclerosis,,-2.3,8.8,4.6,30286,139,74,3,4.1,2.3,93|4257|8503,ACVR2B|MGST1|PIK3R3,-0.45
+MyList,GO Biological Processes,19,GO:0071456,cellular response to hypoxia,19_GO:0050896 response to stimulus,-2.3,8.8,4.6,30286,140,74,3,4.1,2.3,360|5467|10397,AQP3|PPARD|NDRG1,-0.45
+MyList,WikiPathways,27,WP5083,Neuroinflammation and glutamatergic signaling,,-2.3,8.8,4.6,30286,140,74,3,4.1,2.3,816|2906|3643,CAMK2B|GRIN2D|INSR,-0.45
+MyList,GO Biological Processes,19,GO:0010565,regulation of cellular ketone metabolic process,19_GO:0008152 metabolic process,-2.3,8.5,4.5,30286,144,74,3,4.1,2.3,32|33|5467,ACACB|ACADL|PPARD,-0.41
+MyList,KEGG Pathway,24,hsa05224,Breast cancer,,-2.2,8.4,4.4,30286,147,74,3,4.1,2.3,1870|6667|8503,E2F2|SP1|PIK3R3,-0.39
+MyList,GO Biological Processes,19,GO:0036294,cellular response to decreased oxygen levels,19_GO:0050896 response to stimulus,-2.2,8.4,4.4,30286,147,74,3,4.1,2.3,360|5467|10397,AQP3|PPARD|NDRG1,-0.39
+MyList,GO Biological Processes,19,GO:0006650,glycerophospholipid metabolic process,19_GO:0008152 metabolic process,-2.2,5.6,3.9,30286,291,74,4,5.4,2.6,8398|8503|22863|376497,PLA2G6|PIK3R3|ATG14|SLC27A1,-0.39
+MyList,GO Biological Processes,19,GO:1901652,response to peptide,19_GO:0050896 response to stimulus,-2.2,4.4,3.6,30286,469,74,5,6.8,2.9,3158|3643|6667|8503|376497,HMGCS2|INSR|SP1|PIK3R3|SLC27A1,-0.38
+MyList,Reactome Gene Sets,6,R-HSA-449147,Signaling by Interleukins,,-2.2,4.3,3.6,30286,473,74,5,6.8,2.9,829|1439|5682|5778|8503,CAPZA1|CSF2RB|PSMA1|PTPN7|PIK3R3,-0.36
+MyList,GO Biological Processes,19,GO:0120161,regulation of cold-induced thermogenesis,19_GO:0042592 homeostatic process,-2.2,8.1,4.3,30286,151,74,3,4.1,2.3,33|93|79071,ACADL|ACVR2B|ELOVL6,-0.36
+MyList,GO Biological Processes,19,GO:0015718,monocarboxylic acid transport,19_GO:0051179 localization,-2.2,8.1,4.3,30286,152,74,3,4.1,2.3,32|5467|376497,ACACB|PPARD|SLC27A1,-0.36
+MyList,WikiPathways,27,WP3932,Focal adhesion PI3K Akt mTOR signaling pathway,,-2.2,5.4,3.8,30286,302,74,4,5.4,2.6,1978|3643|64344|64764,EIF4EBP1|INSR|HIF3A|CREB3L2,-0.34
+MyList,GO Biological Processes,19,GO:0001822,kidney development,19_GO:0032502 developmental process,-2.2,5.4,3.8,30286,303,74,4,5.4,2.6,93|3158|7704|8879,ACVR2B|HMGCS2|ZBTB16|SGPL1,-0.34
+MyList,WikiPathways,27,WP4262,Breast cancer pathway,,-2.2,7.9,4.3,30286,155,74,3,4.1,2.3,1870|6667|8503,E2F2|SP1|PIK3R3,-0.34
+MyList,Reactome Gene Sets,6,R-HSA-446203,Asparagine N-linked glycosylation,,-2.2,5.4,3.8,30286,304,74,4,5.4,2.6,829|7903|9117|9331,CAPZA1|ST8SIA4|SEC22C|B4GALT6,-0.34
+MyList,KEGG Pathway,24,hsa04148,Efferocytosis,,-2.2,7.9,4.3,30286,156,74,3,4.1,2.3,816|5467|8398,CAMK2B|PPARD|PLA2G6,-0.34
+MyList,KEGG Pathway,24,hsa04150,mTOR signaling pathway,,-2.2,7.9,4.3,30286,156,74,3,4.1,2.3,1978|3643|8503,EIF4EBP1|INSR|PIK3R3,-0.34
+MyList,KEGG Pathway,24,hsa04218,Cellular senescence,,-2.2,7.9,4.3,30286,156,74,3,4.1,2.3,1870|1978|8503,E2F2|EIF4EBP1|PIK3R3,-0.34
+MyList,KEGG Pathway,24,hsa05016,Huntington disease,,-2.2,5.3,3.8,30286,306,74,4,5.4,2.6,5682|6667|22863|64764,PSMA1|SP1|ATG14|CREB3L2,-0.33
+MyList,GO Biological Processes,19,GO:0046488,phosphatidylinositol metabolic process,19_GO:0008152 metabolic process,-2.2,7.8,4.2,30286,158,74,3,4.1,2.3,8503|22863|376497,PIK3R3|ATG14|SLC27A1,-0.32
+MyList,GO Biological Processes,19,GO:0044272,sulfur compound biosynthetic process,19_GO:0008152 metabolic process,-2.2,7.7,4.2,30286,159,74,3,4.1,2.3,32|2182|79071,ACACB|ACSL4|ELOVL6,-0.32
+MyList,WikiPathways,27,WP481,Insulin signaling,,-2.1,7.7,4.2,30286,160,74,3,4.1,2.3,1978|3643|8503,EIF4EBP1|INSR|PIK3R3,-0.31
+MyList,GO Biological Processes,19,GO:0034284,response to monosaccharide,19_GO:0050896 response to stimulus,-2.1,7.6,4.2,30286,161,74,3,4.1,2.3,93|3158|10628,ACVR2B|HMGCS2|TXNIP,-0.31
+MyList,GO Biological Processes,19,GO:0072001,renal system development,19_GO:0032502 developmental process,-2.1,5.2,3.7,30286,313,74,4,5.4,2.6,93|3158|7704|8879,ACVR2B|HMGCS2|ZBTB16|SGPL1,-0.3
+MyList,KEGG Pathway,24,hsa05161,Hepatitis B,,-2.1,7.6,4.2,30286,162,74,3,4.1,2.3,1870|8503|64764,E2F2|PIK3R3|CREB3L2,-0.3
+MyList,GO Biological Processes,19,GO:0010562,positive regulation of phosphorus metabolic process,19_GO:0048518 positive regulation of biological process,-2.1,3.5,3.3,30286,702,74,6,8.1,3.2,134|2065|3643|8503|22863|133619,ADORA1|ERBB3|INSR|PIK3R3|ATG14|PRRC1,-0.3
+MyList,GO Biological Processes,19,GO:0045937,positive regulation of phosphate metabolic process,19_GO:0048518 positive regulation of biological process,-2.1,3.5,3.3,30286,702,74,6,8.1,3.2,134|2065|3643|8503|22863|133619,ADORA1|ERBB3|INSR|PIK3R3|ATG14|PRRC1,-0.3
+MyList,GO Biological Processes,19,GO:0071453,cellular response to oxygen levels,19_GO:0050896 response to stimulus,-2.1,7.5,4.1,30286,163,74,3,4.1,2.3,360|5467|10397,AQP3|PPARD|NDRG1,-0.3
+MyList,Reactome Gene Sets,6,R-HSA-9609507,Protein localization,,-2.1,7.5,4.1,30286,164,74,3,4.1,2.3,30|8309|10965,ACAA1|ACOX2|ACOT2,-0.29
+MyList,GO Biological Processes,19,GO:0001501,skeletal system development,19_GO:0032502 developmental process,-2.1,4.1,3.4,30286,501,74,5,6.8,2.9,93|7704|8879|9249|64764,ACVR2B|ZBTB16|SGPL1|DHRS3|CREB3L2,-0.29
+MyList,KEGG Pathway,24,hsa04022,cGMP-PKG signaling pathway,,-2.1,7.4,4.1,30286,166,74,3,4.1,2.3,134|3643|64764,ADORA1|INSR|CREB3L2,-0.28
+MyList,KEGG Pathway,24,hsa05225,Hepatocellular carcinoma,,-2.1,7.3,4.1,30286,168,74,3,4.1,2.3,1870|4257|8503,E2F2|MGST1|PIK3R3,-0.27
+MyList,GO Biological Processes,19,GO:0048639,positive regulation of developmental growth,19_GO:0040007 growth,-2.1,7.3,4,30286,169,74,3,4.1,2.3,32|3643|5467,ACACB|INSR|PPARD,-0.26
+MyList,GO Biological Processes,19,GO:0051897,positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction,19_GO:0048518 positive regulation of biological process,-2.1,7.2,4,30286,171,74,3,4.1,2.3,2065|3643|5467,ERBB3|INSR|PPARD,-0.25
+MyList,GO Biological Processes,19,GO:0048638,regulation of developmental growth,19_GO:0040007 growth,-2.1,5,3.6,30286,330,74,4,5.4,2.6,32|3643|5467|8879,ACACB|INSR|PPARD|SGPL1,-0.24
+MyList,GO Biological Processes,19,GO:0032496,response to lipopolysaccharide,19_GO:0044419 biological process involved in interspecies interaction between organisms,-2,4.9,3.6,30286,333,74,4,5.4,2.6,1439|1543|3032|3158,CSF2RB|CYP1A1|HADHB|HMGCS2,-0.23
+MyList,WikiPathways,27,WP4172,PI3K Akt signaling pathway,,-2,4.8,3.5,30286,339,74,4,5.4,2.6,1978|3643|8503|64764,EIF4EBP1|INSR|PIK3R3|CREB3L2,-0.2
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0019395,fatty acid oxidation,19_GO:0008152 metabolic process,-15,3.2e+02,44,30286,81,7,6,86,13,30|32|33|39|3032|8309,ACAA1|ACACB|ACADL|ACAT2|HADHB|ACOX2,-11
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0034440,lipid oxidation,19_GO:0008152 metabolic process,-14,3e+02,42,30286,87,7,6,86,13,30|32|33|39|3032|8309,ACAA1|ACACB|ACADL|ACAT2|HADHB|ACOX2,-11
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0030258,lipid modification,19_GO:0008152 metabolic process,-13,1.6e+02,30,30286,167,7,6,86,13,30|32|33|39|3032|8309,ACAA1|ACACB|ACADL|ACAT2|HADHB|ACOX2,-9.6
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0032787,monocarboxylic acid metabolic process,19_GO:0008152 metabolic process,-12,58,20,30286,520,7,7,1e+02,13,30|32|33|39|3032|4199|8309,ACAA1|ACACB|ACADL|ACAT2|HADHB|ME1|ACOX2,-9.3
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0006635,fatty acid beta-oxidation,19_GO:0008152 metabolic process,-12,3.7e+02,43,30286,59,7,5,71,17,30|33|39|3032|8309,ACAA1|ACADL|ACAT2|HADHB|ACOX2,-9.2
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0009062,fatty acid catabolic process,19_GO:0008152 metabolic process,-11,2.4e+02,35,30286,90,7,5,71,17,30|33|39|3032|8309,ACAA1|ACADL|ACAT2|HADHB|ACOX2,-8.3
+MyList_MCODE_ALL,Reactome Gene Sets,6,R-HSA-556833,Metabolism of lipids,,-11,40,17,30286,757,7,7,1e+02,13,30|32|33|39|3032|4199|8309,ACAA1|ACACB|ACADL|ACAT2|HADHB|ME1|ACOX2,-8.2
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0019752,carboxylic acid metabolic process,19_GO:0008152 metabolic process,-11,38,16,30286,789,7,7,1e+02,13,30|32|33|39|3032|4199|8309,ACAA1|ACACB|ACADL|ACAT2|HADHB|ME1|ACOX2,-8.2
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0006631,fatty acid metabolic process,19_GO:0008152 metabolic process,-11,80,22,30286,324,7,6,86,13,30|32|33|39|3032|8309,ACAA1|ACACB|ACADL|ACAT2|HADHB|ACOX2,-8.1
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0072329,monocarboxylic acid catabolic process,19_GO:0008152 metabolic process,-11,1.9e+02,31,30286,115,7,5,71,17,30|33|39|3032|8309,ACAA1|ACADL|ACAT2|HADHB|ACOX2,-7.9
+MyList_MCODE_ALL,KEGG Pathway,24,hsa00071,Fatty acid degradation,,-9.9,4e+02,40,30286,43,7,4,57,19,30|33|39|3032,ACAA1|ACADL|ACAT2|HADHB,-7.1
+MyList_MCODE_ALL,Reactome Gene Sets,6,R-HSA-8978868,Fatty acid metabolism,,-9.9,1.2e+02,25,30286,176,7,5,71,17,30|32|33|3032|8309,ACAA1|ACACB|ACADL|HADHB|ACOX2,-7.1
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0044242,cellular lipid catabolic process,19_GO:0008152 metabolic process,-9.6,1.1e+02,23,30286,197,7,5,71,17,30|33|39|3032|8309,ACAA1|ACADL|ACAT2|HADHB|ACOX2,-6.9
+MyList_MCODE_ALL,KEGG Pathway,24,hsa01212,Fatty acid metabolism,,-9.4,3e+02,35,30286,57,7,4,57,19,30|33|39|3032,ACAA1|ACADL|ACAT2|HADHB,-6.7
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0016054,organic acid catabolic process,19_GO:0008152 metabolic process,-9.3,93,21,30286,232,7,5,71,17,30|33|39|3032|8309,ACAA1|ACADL|ACAT2|HADHB|ACOX2,-6.6
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0046395,carboxylic acid catabolic process,19_GO:0008152 metabolic process,-9.3,93,21,30286,232,7,5,71,17,30|33|39|3032|8309,ACAA1|ACADL|ACAT2|HADHB|ACOX2,-6.6
+MyList_MCODE_ALL,WikiPathways,27,WP3942,PPAR signaling pathway,,-9.1,2.5e+02,32,30286,68,7,4,57,19,30|33|4199|8309,ACAA1|ACADL|ME1|ACOX2,-6.4
+MyList_MCODE_ALL,KEGG Pathway,24,hsa03320,PPAR signaling pathway,,-8.9,2.3e+02,30,30286,75,7,4,57,19,30|33|4199|8309,ACAA1|ACADL|ME1|ACOX2,-6.3
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0016042,lipid catabolic process,19_GO:0008152 metabolic process,-8.8,74,19,30286,291,7,5,71,17,30|33|39|3032|8309,ACAA1|ACADL|ACAT2|HADHB|ACOX2,-6.2
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0044282,small molecule catabolic process,19_GO:0008152 metabolic process,-8.4,61,17,30286,352,7,5,71,17,30|33|39|3032|8309,ACAA1|ACADL|ACAT2|HADHB|ACOX2,-5.8
+MyList_MCODE_ALL,KEGG Pathway,24,hsa00620,Pyruvate metabolism,,-6.9,2.8e+02,29,30286,47,7,3,43,19,32|39|4199,ACACB|ACAT2|ME1,-4.5
+MyList_MCODE_ALL,KEGG Pathway,24,hsa00280,"Valine, leucine and isoleucine degradation",,-6.9,2.7e+02,28,30286,48,7,3,43,19,30|39|3032,ACAA1|ACAT2|HADHB,-4.4
+MyList_MCODE_ALL,Reactome Gene Sets,6,R-HSA-8957322,Metabolism of steroids,,-5.3,84,16,30286,155,7,3,43,19,32|39|8309,ACACB|ACAT2|ACOX2,-3
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0062012,regulation of small molecule metabolic process,19_GO:0008152 metabolic process,-4.4,39,11,30286,331,7,3,43,19,32|33|4199,ACACB|ACADL|ME1,-2.2
+MyList_SUB1_MCODE_1,GO Biological Processes,19,GO:0019395,fatty acid oxidation,19_GO:0008152 metabolic process,-15,3.2e+02,44,30286,81,7,6,86,13,30|32|33|39|3032|8309,ACAA1|ACACB|ACADL|ACAT2|HADHB|ACOX2,-11
+MyList_SUB1_MCODE_1,GO Biological Processes,19,GO:0034440,lipid oxidation,19_GO:0008152 metabolic process,-14,3e+02,42,30286,87,7,6,86,13,30|32|33|39|3032|8309,ACAA1|ACACB|ACADL|ACAT2|HADHB|ACOX2,-11
+MyList_SUB1_MCODE_1,GO Biological Processes,19,GO:0030258,lipid modification,19_GO:0008152 metabolic process,-13,1.6e+02,30,30286,167,7,6,86,13,30|32|33|39|3032|8309,ACAA1|ACACB|ACADL|ACAT2|HADHB|ACOX2,-9.6
+MyList_SUB1_MCODE_1,GO Biological Processes,19,GO:0032787,monocarboxylic acid metabolic process,19_GO:0008152 metabolic process,-12,58,20,30286,520,7,7,1e+02,13,30|32|33|39|3032|4199|8309,ACAA1|ACACB|ACADL|ACAT2|HADHB|ME1|ACOX2,-9.3
+MyList_SUB1_MCODE_1,GO Biological Processes,19,GO:0006635,fatty acid beta-oxidation,19_GO:0008152 metabolic process,-12,3.7e+02,43,30286,59,7,5,71,17,30|33|39|3032|8309,ACAA1|ACADL|ACAT2|HADHB|ACOX2,-9.2
+MyList_SUB1_MCODE_1,GO Biological Processes,19,GO:0009062,fatty acid catabolic process,19_GO:0008152 metabolic process,-11,2.4e+02,35,30286,90,7,5,71,17,30|33|39|3032|8309,ACAA1|ACADL|ACAT2|HADHB|ACOX2,-8.3
+MyList_SUB1_MCODE_1,Reactome Gene Sets,6,R-HSA-556833,Metabolism of lipids,,-11,40,17,30286,757,7,7,1e+02,13,30|32|33|39|3032|4199|8309,ACAA1|ACACB|ACADL|ACAT2|HADHB|ME1|ACOX2,-8.2
+MyList_SUB1_MCODE_1,GO Biological Processes,19,GO:0019752,carboxylic acid metabolic process,19_GO:0008152 metabolic process,-11,38,16,30286,789,7,7,1e+02,13,30|32|33|39|3032|4199|8309,ACAA1|ACACB|ACADL|ACAT2|HADHB|ME1|ACOX2,-8.2
+MyList_SUB1_MCODE_1,GO Biological Processes,19,GO:0006631,fatty acid metabolic process,19_GO:0008152 metabolic process,-11,80,22,30286,324,7,6,86,13,30|32|33|39|3032|8309,ACAA1|ACACB|ACADL|ACAT2|HADHB|ACOX2,-8.1
+MyList_SUB1_MCODE_1,GO Biological Processes,19,GO:0072329,monocarboxylic acid catabolic process,19_GO:0008152 metabolic process,-11,1.9e+02,31,30286,115,7,5,71,17,30|33|39|3032|8309,ACAA1|ACADL|ACAT2|HADHB|ACOX2,-7.9
+MyList_SUB1_MCODE_1,KEGG Pathway,24,hsa00071,Fatty acid degradation,,-9.9,4e+02,40,30286,43,7,4,57,19,30|33|39|3032,ACAA1|ACADL|ACAT2|HADHB,-7.1
+MyList_SUB1_MCODE_1,Reactome Gene Sets,6,R-HSA-8978868,Fatty acid metabolism,,-9.9,1.2e+02,25,30286,176,7,5,71,17,30|32|33|3032|8309,ACAA1|ACACB|ACADL|HADHB|ACOX2,-7.1
+MyList_SUB1_MCODE_1,GO Biological Processes,19,GO:0044242,cellular lipid catabolic process,19_GO:0008152 metabolic process,-9.6,1.1e+02,23,30286,197,7,5,71,17,30|33|39|3032|8309,ACAA1|ACADL|ACAT2|HADHB|ACOX2,-6.9
+MyList_SUB1_MCODE_1,KEGG Pathway,24,hsa01212,Fatty acid metabolism,,-9.4,3e+02,35,30286,57,7,4,57,19,30|33|39|3032,ACAA1|ACADL|ACAT2|HADHB,-6.7
+MyList_SUB1_MCODE_1,GO Biological Processes,19,GO:0016054,organic acid catabolic process,19_GO:0008152 metabolic process,-9.3,93,21,30286,232,7,5,71,17,30|33|39|3032|8309,ACAA1|ACADL|ACAT2|HADHB|ACOX2,-6.6
+MyList_SUB1_MCODE_1,GO Biological Processes,19,GO:0046395,carboxylic acid catabolic process,19_GO:0008152 metabolic process,-9.3,93,21,30286,232,7,5,71,17,30|33|39|3032|8309,ACAA1|ACADL|ACAT2|HADHB|ACOX2,-6.6
+MyList_SUB1_MCODE_1,WikiPathways,27,WP3942,PPAR signaling pathway,,-9.1,2.5e+02,32,30286,68,7,4,57,19,30|33|4199|8309,ACAA1|ACADL|ME1|ACOX2,-6.4
+MyList_SUB1_MCODE_1,KEGG Pathway,24,hsa03320,PPAR signaling pathway,,-8.9,2.3e+02,30,30286,75,7,4,57,19,30|33|4199|8309,ACAA1|ACADL|ME1|ACOX2,-6.3
+MyList_SUB1_MCODE_1,GO Biological Processes,19,GO:0016042,lipid catabolic process,19_GO:0008152 metabolic process,-8.8,74,19,30286,291,7,5,71,17,30|33|39|3032|8309,ACAA1|ACADL|ACAT2|HADHB|ACOX2,-6.2
+MyList_SUB1_MCODE_1,GO Biological Processes,19,GO:0044282,small molecule catabolic process,19_GO:0008152 metabolic process,-8.4,61,17,30286,352,7,5,71,17,30|33|39|3032|8309,ACAA1|ACADL|ACAT2|HADHB|ACOX2,-5.8
+MyList_SUB1_MCODE_1,KEGG Pathway,24,hsa00620,Pyruvate metabolism,,-6.9,2.8e+02,29,30286,47,7,3,43,19,32|39|4199,ACACB|ACAT2|ME1,-4.5
+MyList_SUB1_MCODE_1,KEGG Pathway,24,hsa00280,"Valine, leucine and isoleucine degradation",,-6.9,2.7e+02,28,30286,48,7,3,43,19,30|39|3032,ACAA1|ACAT2|HADHB,-4.4
+MyList_SUB1_MCODE_1,Reactome Gene Sets,6,R-HSA-8957322,Metabolism of steroids,,-5.3,84,16,30286,155,7,3,43,19,32|39|8309,ACACB|ACAT2|ACOX2,-3
+MyList_SUB1_MCODE_1,GO Biological Processes,19,GO:0062012,regulation of small molecule metabolic process,19_GO:0008152 metabolic process,-4.4,39,11,30286,331,7,3,43,19,32|33|4199,ACACB|ACADL|ME1,-2.2

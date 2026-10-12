@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d20" for="edge" attr.name="component" attr.type="long" />
+  <key id="d19" for="edge" attr.name="scan2" attr.type="string" />
+  <key id="d18" for="edge" attr.name="scan1" attr.type="string" />
+  <key id="d17" for="edge" attr.name="matched_peaks" attr.type="string" />
+  <key id="d16" for="edge" attr.name="score" attr.type="double" />
+  <key id="d15" for="edge" attr.name="deltamz_int" attr.type="long" />
+  <key id="d14" for="edge" attr.name="deltamz" attr.type="double" />
+  <key id="d13" for="node" attr.name="library_npclassifier_pathway" attr.type="string" />
+  <key id="d12" for="node" attr.name="library_npclassifier_class" attr.type="string" />
+  <key id="d11" for="node" attr.name="library_npclassifier_superclass" attr.type="string" />
+  <key id="d10" for="node" attr.name="library_classyfire_subclass" attr.type="string" />
+  <key id="d9" for="node" attr.name="library_classyfire_class" attr.type="string" />
+  <key id="d8" for="node" attr.name="library_classyfire_superclass" attr.type="string" />
+  <key id="d7" for="node" attr.name="library_InChI" attr.type="string" />
+  <key id="d6" for="node" attr.name="library_SMILES" attr.type="string" />
+  <key id="d5" for="node" attr.name="library_compound_name" attr.type="string" />
+  <key id="d4" for="node" attr.name="component" attr.type="long" />
+  <key id="d3" for="node" attr.name="charge" attr.type="long" />
+  <key id="d2" for="node" attr.name="rt_min" attr.type="double" />
+  <key id="d1" for="node" attr.name="rt" attr.type="double" />
+  <key id="d0" for="node" attr.name="mz" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="21078">
+      <data key="d0">262.165</data>
+      <data key="d1">6.41</data>
+      <data key="d2">6.41</data>
+      <data key="d3">0</data>
+      <data key="d4">1081</data>
+      <data key="d5">NCGC00381248-01!4-oxododecanedioic acid</data>
+      <data key="d6">OC(=O)CCCCCCCC(=O)CCC(O)=O</data>
+      <data key="d7">InChI=1S/C12H20O5/c13-10(8-9-12(16)17)6-4-2-1-3-5-7-11(14)15/h1-9H2,(H,14,15)(H,16,17)</data>
+      <data key="d8">Organic acids and derivatives</data>
+      <data key="d9">Keto acids and derivatives</data>
+      <data key="d10">Medium-chain keto acids and derivatives</data>
+      <data key="d11">Fatty Acids and Conjugates</data>
+      <data key="d12">Dicarboxylic acids|Oxo fatty acids</data>
+      <data key="d13">Fatty acids</data>
+    </node>
+    <node id="4159">
+      <data key="d0">262.165</data>
+      <data key="d1">3.21</data>
+      <data key="d2">3.21</data>
+      <data key="d3">0</data>
+      <data key="d4">1081</data>
+      <data key="d5">NCGC00381248-01!4-oxododecanedioic acid</data>
+      <data key="d6">OC(=O)CCCCCCCC(=O)CCC(O)=O</data>
+      <data key="d7">InChI=1S/C12H20O5/c13-10(8-9-12(16)17)6-4-2-1-3-5-7-11(14)15/h1-9H2,(H,14,15)(H,16,17)</data>
+      <data key="d8">Organic acids and derivatives</data>
+      <data key="d9">Keto acids and derivatives</data>
+      <data key="d10">Medium-chain keto acids and derivatives</data>
+      <data key="d11">Fatty Acids and Conjugates</data>
+      <data key="d12">Dicarboxylic acids|Oxo fatty acids</data>
+      <data key="d13">Fatty acids</data>
+    </node>
+    <edge source="21078" target="4159">
+      <data key="d14">0.0</data>
+      <data key="d15">0</data>
+      <data key="d16">0.9599</data>
+      <data key="d17">0</data>
+      <data key="d18">4159</data>
+      <data key="d19">21078</data>
+      <data key="d20">1081</data>
+    </edge>
+  </graph>
+</graphml>

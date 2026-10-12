@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d20" for="edge" attr.name="component" attr.type="long" />
+  <key id="d19" for="edge" attr.name="scan2" attr.type="string" />
+  <key id="d18" for="edge" attr.name="scan1" attr.type="string" />
+  <key id="d17" for="edge" attr.name="matched_peaks" attr.type="string" />
+  <key id="d16" for="edge" attr.name="score" attr.type="double" />
+  <key id="d15" for="edge" attr.name="deltamz_int" attr.type="long" />
+  <key id="d14" for="edge" attr.name="deltamz" attr.type="double" />
+  <key id="d13" for="node" attr.name="library_npclassifier_pathway" attr.type="string" />
+  <key id="d12" for="node" attr.name="library_npclassifier_class" attr.type="string" />
+  <key id="d11" for="node" attr.name="library_npclassifier_superclass" attr.type="string" />
+  <key id="d10" for="node" attr.name="library_classyfire_subclass" attr.type="string" />
+  <key id="d9" for="node" attr.name="library_classyfire_class" attr.type="string" />
+  <key id="d8" for="node" attr.name="library_classyfire_superclass" attr.type="string" />
+  <key id="d7" for="node" attr.name="library_InChI" attr.type="string" />
+  <key id="d6" for="node" attr.name="library_SMILES" attr.type="string" />
+  <key id="d5" for="node" attr.name="library_compound_name" attr.type="string" />
+  <key id="d4" for="node" attr.name="component" attr.type="long" />
+  <key id="d3" for="node" attr.name="charge" attr.type="long" />
+  <key id="d2" for="node" attr.name="rt_min" attr.type="double" />
+  <key id="d1" for="node" attr.name="rt" attr.type="double" />
+  <key id="d0" for="node" attr.name="mz" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="23858">
+      <data key="d0">538.282</data>
+      <data key="d1">6.49</data>
+      <data key="d2">6.49</data>
+      <data key="d3">0</data>
+      <data key="d4">1205</data>
+      <data key="d5">(((3a,6b,7b)-3,6,7-trihydroxy-24-oxocholan-24-yl)amino)ethanesulfonic acid</data>
+      <data key="d6">O=S(O)(CCNC(CC[C@@H](C)C1CC[C@@]2([H])[C@]3([H])[C@@H](O)[C@@H](O)C4C[C@H](O)CC[C@]4(C)[C@@]3([H])CC[C@]12C)=O)=O</data>
+      <data key="d7">InChI=1S/C26H45NO7S/c1-15(4-7-21(29)27-12-13-35(32,33)34)17-5-6-18-22-19(9-11-25(17,18)2)26(3)10-8-16(28)14-20(26)23(30)24(22)31/h15-20,22-24,28,30-31H,4-14H2,1-3H3,(H,27,29)(H,32,33,34)/t15-,16-,17?,18+,19+,20?,22+,23+,24-,25-,26-/m1/s1</data>
+      <data key="d8">nan</data>
+      <data key="d9">nan</data>
+      <data key="d10">nan</data>
+      <data key="d11">Steroids</data>
+      <data key="d12">Cholane steroids</data>
+      <data key="d13">Terpenoids</data>
+    </node>
+    <node id="23859">
+      <data key="d0">538.282</data>
+      <data key="d1">6.56</data>
+      <data key="d2">6.56</data>
+      <data key="d3">0</data>
+      <data key="d4">1205</data>
+      <data key="d5">(((3a,6b,7b)-3,6,7-trihydroxy-24-oxocholan-24-yl)amino)ethanesulfonic acid</data>
+      <data key="d6">O=S(O)(CCNC(CC[C@@H](C)C1CC[C@@]2([H])[C@]3([H])[C@@H](O)[C@@H](O)C4C[C@H](O)CC[C@]4(C)[C@@]3([H])CC[C@]12C)=O)=O</data>
+      <data key="d7">InChI=1S/C26H45NO7S/c1-15(4-7-21(29)27-12-13-35(32,33)34)17-5-6-18-22-19(9-11-25(17,18)2)26(3)10-8-16(28)14-20(26)23(30)24(22)31/h15-20,22-24,28,30-31H,4-14H2,1-3H3,(H,27,29)(H,32,33,34)/t15-,16-,17?,18+,19+,20?,22+,23+,24-,25-,26-/m1/s1</data>
+      <data key="d8">nan</data>
+      <data key="d9">nan</data>
+      <data key="d10">nan</data>
+      <data key="d11">Steroids</data>
+      <data key="d12">Cholane steroids</data>
+      <data key="d13">Terpenoids</data>
+    </node>
+    <edge source="23858" target="23859">
+      <data key="d14">-0.0</data>
+      <data key="d15">0</data>
+      <data key="d16">0.8883</data>
+      <data key="d17">0</data>
+      <data key="d18">23858</data>
+      <data key="d19">23859</data>
+      <data key="d20">1205</data>
+    </edge>
+  </graph>
+</graphml>

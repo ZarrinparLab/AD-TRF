@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d20" for="edge" attr.name="component" attr.type="long" />
+  <key id="d19" for="edge" attr.name="scan2" attr.type="string" />
+  <key id="d18" for="edge" attr.name="scan1" attr.type="string" />
+  <key id="d17" for="edge" attr.name="matched_peaks" attr.type="string" />
+  <key id="d16" for="edge" attr.name="score" attr.type="double" />
+  <key id="d15" for="edge" attr.name="deltamz_int" attr.type="long" />
+  <key id="d14" for="edge" attr.name="deltamz" attr.type="double" />
+  <key id="d13" for="node" attr.name="library_npclassifier_pathway" attr.type="string" />
+  <key id="d12" for="node" attr.name="library_npclassifier_class" attr.type="string" />
+  <key id="d11" for="node" attr.name="library_npclassifier_superclass" attr.type="string" />
+  <key id="d10" for="node" attr.name="library_classyfire_subclass" attr.type="string" />
+  <key id="d9" for="node" attr.name="library_classyfire_class" attr.type="string" />
+  <key id="d8" for="node" attr.name="library_classyfire_superclass" attr.type="string" />
+  <key id="d7" for="node" attr.name="library_InChI" attr.type="string" />
+  <key id="d6" for="node" attr.name="library_SMILES" attr.type="string" />
+  <key id="d5" for="node" attr.name="library_compound_name" attr.type="string" />
+  <key id="d4" for="node" attr.name="component" attr.type="long" />
+  <key id="d3" for="node" attr.name="charge" attr.type="long" />
+  <key id="d2" for="node" attr.name="rt_min" attr.type="double" />
+  <key id="d1" for="node" attr.name="rt" attr.type="double" />
+  <key id="d0" for="node" attr.name="mz" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="10806">
+      <data key="d0">436.197</data>
+      <data key="d1">3.53</data>
+      <data key="d2">3.53</data>
+      <data key="d3">0</data>
+      <data key="d4">635</data>
+    </node>
+    <node id="14934">
+      <data key="d0">598.255</data>
+      <data key="d1">3.86</data>
+      <data key="d2">3.86</data>
+      <data key="d3">0</data>
+      <data key="d4">635</data>
+      <data key="d5">NCGC00169670-02!(2S,3R,4S,5S,6R)-2-[4-[(3S,3aR,6S,6aR)-3-(4-hydroxy-3,5-dimethoxyphenyl)-1,3,3a,4,6,6a-hexahydrofuro[3,4-c]furan-6-yl]-2,6-dimethoxyphenoxy]-6-(hydroxymethyl)oxane-3,4,5-triol</data>
+      <data key="d6">COC1=CC(=CC(OC)=C1O)[C@H]2OC[C@H]3[C@@H]2CO[C@@H]3C4=CC(OC)=C(O[C@@H]5O[C@H](CO)[C@@H](O)[C@H](O)[C@H]5O)C(OC)=C4</data>
+      <data key="d7">InChI=1S/C28H36O13/c1-34-16-5-12(6-17(35-2)21(16)30)25-14-10-39-26(15(14)11-38-25)13-7-18(36-3)27(19(8-13)37-4)41-28-24(33)23(32)22(31)20(9-29)40-28/h5-8,14-15,20,22-26,28-33H,9-11H2,1-4H3/t14-,15-,20+,22+,23-,24+,25+,26+,28-/m0/s1</data>
+      <data key="d8">nan</data>
+      <data key="d9">nan</data>
+      <data key="d10">nan</data>
+      <data key="d11">Lignans</data>
+      <data key="d12">Furofuranoid lignans</data>
+      <data key="d13">Shikimates and Phenylpropanoids</data>
+    </node>
+    <node id="17904">
+      <data key="d0">760.303</data>
+      <data key="d1">2.6</data>
+      <data key="d2">2.6</data>
+      <data key="d3">0</data>
+      <data key="d4">635</data>
+      <data key="d5">(2S,3R,4S,5S,6R)-2-[4-[(3S,3aR,6S,6aR)-6-[3,5-dimethoxy-4-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyphenyl]-1,3,3a,4,6,6a-hexahydrofuro[3,4-c]furan-3-yl]-2,6-dimethoxyphenoxy]-6-(hydroxymethyl)oxane-3,4,5-triol</data>
+      <data key="d6">COc1cc([C@H]2OC[C@@H]3[C@@H](c4cc(OC)c(O[C@@H]5O[C@H](CO)[C@@H](O)[C@H](O)[C@H]5O)c(OC)c4)OC[C@H]23)cc(OC)c1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O</data>
+      <data key="d7">InChI=1S/C34H46O18/c1-43-17-5-13(6-18(44-2)31(17)51-33-27(41)25(39)23(37)21(9-35)49-33)29-15-11-48-30(16(15)12-47-29)14-7-19(45-3)32(20(8-14)46-4)52-34-28(42)26(40)24(38)22(10-36)50-34/h5-8,15-16,21-30,33-42H,9-12H2,1-4H3/t15-,16-,21+,22+,23+,24+,25-,26-,27+,28+,29+,30+,33-,34-/m0/s1</data>
+      <data key="d8">nan</data>
+      <data key="d9">nan</data>
+      <data key="d10">nan</data>
+      <data key="d11">Lignans</data>
+      <data key="d12">Furofuranoid lignans</data>
+      <data key="d13">Shikimates and Phenylpropanoids</data>
+    </node>
+    <node id="14933">
+      <data key="d0">598.25</data>
+      <data key="d1">2.93</data>
+      <data key="d2">2.93</data>
+      <data key="d3">0</data>
+      <data key="d4">635</data>
+      <data key="d5">NCGC00169670-02!(2S,3R,4S,5S,6R)-2-[4-[(3S,3aR,6S,6aR)-3-(4-hydroxy-3,5-dimethoxyphenyl)-1,3,3a,4,6,6a-hexahydrofuro[3,4-c]furan-6-yl]-2,6-dimethoxyphenoxy]-6-(hydroxymethyl)oxane-3,4,5-triol</data>
+      <data key="d6">COC1=CC(=CC(OC)=C1O)[C@H]2OC[C@H]3[C@@H]2CO[C@@H]3C4=CC(OC)=C(O[C@@H]5O[C@H](CO)[C@@H](O)[C@H](O)[C@H]5O)C(OC)=C4</data>
+      <data key="d7">InChI=1S/C28H36O13/c1-34-16-5-12(6-17(35-2)21(16)30)25-14-10-39-26(15(14)11-38-25)13-7-18(36-3)27(19(8-13)37-4)41-28-24(33)23(32)22(31)20(9-29)40-28/h5-8,14-15,20,22-26,28-33H,9-11H2,1-4H3/t14-,15-,20+,22+,23-,24+,25+,26+,28-/m0/s1</data>
+      <data key="d8">nan</data>
+      <data key="d9">nan</data>
+      <data key="d10">nan</data>
+      <data key="d11">Lignans</data>
+      <data key="d12">Furofuranoid lignans</data>
+      <data key="d13">Shikimates and Phenylpropanoids</data>
+    </node>
+    <edge source="10806" target="14933">
+      <data key="d14">-162.053</data>
+      <data key="d15">-162</data>
+      <data key="d16">0.7945</data>
+      <data key="d17">0</data>
+      <data key="d18">14933</data>
+      <data key="d19">10806</data>
+      <data key="d20">635</data>
+    </edge>
+    <edge source="10806" target="14934">
+      <data key="d14">-162.059</data>
+      <data key="d15">-162</data>
+      <data key="d16">0.7981</data>
+      <data key="d17">0</data>
+      <data key="d18">14934</data>
+      <data key="d19">10806</data>
+      <data key="d20">635</data>
+    </edge>
+    <edge source="10806" target="17904">
+      <data key="d14">-324.106</data>
+      <data key="d15">-324</data>
+      <data key="d16">0.7815</data>
+      <data key="d17">0</data>
+      <data key="d18">10806</data>
+      <data key="d19">17904</data>
+      <data key="d20">635</data>
+    </edge>
+    <edge source="14934" target="14933">
+      <data key="d14">-0.006</data>
+      <data key="d15">0</data>
+      <data key="d16">0.987</data>
+      <data key="d17">0</data>
+      <data key="d18">14933</data>
+      <data key="d19">14934</data>
+      <data key="d20">635</data>
+    </edge>
+    <edge source="14934" target="17904">
+      <data key="d14">-162.047</data>
+      <data key="d15">-162</data>
+      <data key="d16">0.9757</data>
+      <data key="d17">0</data>
+      <data key="d18">14934</data>
+      <data key="d19">17904</data>
+      <data key="d20">635</data>
+    </edge>
+    <edge source="17904" target="14933">
+      <data key="d14">-162.053</data>
+      <data key="d15">-162</data>
+      <data key="d16">0.9841</data>
+      <data key="d17">0</data>
+      <data key="d18">14933</data>
+      <data key="d19">17904</data>
+      <data key="d20">635</data>
+    </edge>
+  </graph>
+</graphml>

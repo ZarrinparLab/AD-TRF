@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d20" for="edge" attr.name="component" attr.type="long" />
+  <key id="d19" for="edge" attr.name="scan2" attr.type="string" />
+  <key id="d18" for="edge" attr.name="scan1" attr.type="string" />
+  <key id="d17" for="edge" attr.name="matched_peaks" attr.type="string" />
+  <key id="d16" for="edge" attr.name="score" attr.type="double" />
+  <key id="d15" for="edge" attr.name="deltamz_int" attr.type="long" />
+  <key id="d14" for="edge" attr.name="deltamz" attr.type="double" />
+  <key id="d13" for="node" attr.name="library_npclassifier_pathway" attr.type="string" />
+  <key id="d12" for="node" attr.name="library_npclassifier_class" attr.type="string" />
+  <key id="d11" for="node" attr.name="library_npclassifier_superclass" attr.type="string" />
+  <key id="d10" for="node" attr.name="library_classyfire_subclass" attr.type="string" />
+  <key id="d9" for="node" attr.name="library_classyfire_class" attr.type="string" />
+  <key id="d8" for="node" attr.name="library_classyfire_superclass" attr.type="string" />
+  <key id="d7" for="node" attr.name="library_InChI" attr.type="string" />
+  <key id="d6" for="node" attr.name="library_SMILES" attr.type="string" />
+  <key id="d5" for="node" attr.name="library_compound_name" attr.type="string" />
+  <key id="d4" for="node" attr.name="component" attr.type="long" />
+  <key id="d3" for="node" attr.name="charge" attr.type="long" />
+  <key id="d2" for="node" attr.name="rt_min" attr.type="double" />
+  <key id="d1" for="node" attr.name="rt" attr.type="double" />
+  <key id="d0" for="node" attr.name="mz" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="8839">
+      <data key="d0">376.322</data>
+      <data key="d1">4.29</data>
+      <data key="d2">4.29</data>
+      <data key="d3">0</data>
+      <data key="d4">2235</data>
+    </node>
+    <node id="8834">
+      <data key="d0">376.306</data>
+      <data key="d1">4.11</data>
+      <data key="d2">4.11</data>
+      <data key="d3">0</data>
+      <data key="d4">2235</data>
+    </node>
+    <node id="22274">
+      <data key="d0">359.295</data>
+      <data key="d1">7.86</data>
+      <data key="d2">7.86</data>
+      <data key="d3">0</data>
+      <data key="d4">2235</data>
+      <data key="d5">lithocholic acid</data>
+      <data key="d6">C[C@H](CCC(=O)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@H]4[C@@]3(CC[C@H](C4)O)C)C</data>
+      <data key="d7">1S/C24H40O3/c1-15(4-9-22(26)27)19-7-8-20-18-6-5-16-14-17(25)10-12-23(16,2)21(18)11-13-24(19,20)3/h15-21,25H,4-14H2,1-3H3,(H,26,27)/t15?,16-,17-,18+,19-,20+,21+,23?,24?/m1/s1</data>
+      <data key="d8">Lipids and lipid-like molecules</data>
+      <data key="d9">Steroids and steroid derivatives</data>
+      <data key="d10">Bile acids, alcohols and derivatives</data>
+      <data key="d11">Steroids</data>
+      <data key="d12">Cholane steroids</data>
+      <data key="d13">Terpenoids</data>
+    </node>
+    <node id="8213">
+      <data key="d0">359.295</data>
+      <data key="d1">5.74</data>
+      <data key="d2">5.74</data>
+      <data key="d3">0</data>
+      <data key="d4">2235</data>
+      <data key="d5">3a-hydroxy-5b-cholan-24-oate CollisionEnergy:102040</data>
+      <data key="d6">CC(CCC(=O)O)C1CCC2C3CCC4CC(O)CCC4(C)C3CCC12C</data>
+      <data key="d7">"InChI=1S/C24H40O3/c1-15(4-9-22(26)27)19-7-8-20-18-6-5-16-14-17(25)10-12-23(16,2)21(18)11-13-24(19,20)3/h15-21,25H,4-14H2,1-3H3,(H,26,27)/t15-,16?,17-,18+,19-,20+,21+,23+,24-/m1/s1"</data>
+      <data key="d8">Lipids and lipid-like molecules</data>
+      <data key="d9">Steroids and steroid derivatives</data>
+      <data key="d10">Bile acids, alcohols and derivatives</data>
+      <data key="d11">Steroids</data>
+      <data key="d12">Cholane steroids</data>
+      <data key="d13">Terpenoids</data>
+    </node>
+    <node id="9660">
+      <data key="d0">400.321</data>
+      <data key="d1">5.75</data>
+      <data key="d2">5.75</data>
+      <data key="d3">0</data>
+      <data key="d4">2235</data>
+    </node>
+    <edge source="8839" target="8834">
+      <data key="d14">-0.016</data>
+      <data key="d15">0</data>
+      <data key="d16">0.8684</data>
+      <data key="d17">0</data>
+      <data key="d18">8839</data>
+      <data key="d19">8834</data>
+      <data key="d20">2235</data>
+    </edge>
+    <edge source="8834" target="9660">
+      <data key="d14">-24.015</data>
+      <data key="d15">-24</data>
+      <data key="d16">0.9147</data>
+      <data key="d17">0</data>
+      <data key="d18">9660</data>
+      <data key="d19">8834</data>
+      <data key="d20">2235</data>
+    </edge>
+    <edge source="8834" target="22274">
+      <data key="d14">17.011</data>
+      <data key="d15">17</data>
+      <data key="d16">0.8687</data>
+      <data key="d17">0</data>
+      <data key="d18">22274</data>
+      <data key="d19">8834</data>
+      <data key="d20">2235</data>
+    </edge>
+    <edge source="8834" target="8213">
+      <data key="d14">-17.011</data>
+      <data key="d15">-17</data>
+      <data key="d16">0.8811</data>
+      <data key="d17">0</data>
+      <data key="d18">8834</data>
+      <data key="d19">8213</data>
+      <data key="d20">2235</data>
+    </edge>
+    <edge source="22274" target="8213">
+      <data key="d14">-0.0</data>
+      <data key="d15">0</data>
+      <data key="d16">0.8799</data>
+      <data key="d17">0</data>
+      <data key="d18">22274</data>
+      <data key="d19">8213</data>
+      <data key="d20">2235</data>
+    </edge>
+  </graph>
+</graphml>

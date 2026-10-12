@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d20" for="edge" attr.name="component" attr.type="long" />
+  <key id="d19" for="edge" attr.name="scan2" attr.type="string" />
+  <key id="d18" for="edge" attr.name="scan1" attr.type="string" />
+  <key id="d17" for="edge" attr.name="matched_peaks" attr.type="string" />
+  <key id="d16" for="edge" attr.name="score" attr.type="double" />
+  <key id="d15" for="edge" attr.name="deltamz_int" attr.type="long" />
+  <key id="d14" for="edge" attr.name="deltamz" attr.type="double" />
+  <key id="d13" for="node" attr.name="library_npclassifier_pathway" attr.type="string" />
+  <key id="d12" for="node" attr.name="library_npclassifier_class" attr.type="string" />
+  <key id="d11" for="node" attr.name="library_npclassifier_superclass" attr.type="string" />
+  <key id="d10" for="node" attr.name="library_classyfire_subclass" attr.type="string" />
+  <key id="d9" for="node" attr.name="library_classyfire_class" attr.type="string" />
+  <key id="d8" for="node" attr.name="library_classyfire_superclass" attr.type="string" />
+  <key id="d7" for="node" attr.name="library_InChI" attr.type="string" />
+  <key id="d6" for="node" attr.name="library_SMILES" attr.type="string" />
+  <key id="d5" for="node" attr.name="library_compound_name" attr.type="string" />
+  <key id="d4" for="node" attr.name="component" attr.type="long" />
+  <key id="d3" for="node" attr.name="charge" attr.type="long" />
+  <key id="d2" for="node" attr.name="rt_min" attr.type="double" />
+  <key id="d1" for="node" attr.name="rt" attr.type="double" />
+  <key id="d0" for="node" attr.name="mz" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="5713">
+      <data key="d0">300.29</data>
+      <data key="d1">4.95</data>
+      <data key="d2">4.95</data>
+      <data key="d3">0</data>
+      <data key="d4">496</data>
+      <data key="d5">Spectral Match to D-erythro-C18-Sphingosine from NIST14</data>
+      <data key="d6">nan</data>
+      <data key="d7">nan</data>
+      <data key="d8">nan</data>
+      <data key="d9">nan</data>
+      <data key="d10">nan</data>
+      <data key="d11">nan</data>
+      <data key="d12">nan</data>
+      <data key="d13">nan</data>
+    </node>
+    <node id="5608">
+      <data key="d0">298.274</data>
+      <data key="d1">4.64</data>
+      <data key="d2">4.64</data>
+      <data key="d3">0</data>
+      <data key="d4">496</data>
+    </node>
+    <node id="16950">
+      <data key="d0">692.583</data>
+      <data key="d1">4.93</data>
+      <data key="d2">4.93</data>
+      <data key="d3">0</data>
+      <data key="d4">496</data>
+    </node>
+    <node id="21545">
+      <data key="d0">300.29</data>
+      <data key="d1">7.14</data>
+      <data key="d2">7.14</data>
+      <data key="d3">0</data>
+      <data key="d4">496</data>
+      <data key="d5">sphingosine</data>
+      <data key="d6">CCCCCCCCCCCCC/C=C/[C@@H](O)[C@@H](N)CO</data>
+      <data key="d7">"InChI=1S/C18H37NO2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-18(21)17(19)16-20/h14-15,17-18,20-21H,2-13,16,19H2,1H3/b15-14+/t17-,18+/m0/s1"</data>
+      <data key="d8">Organic nitrogen compounds</data>
+      <data key="d9">Organonitrogen compounds</data>
+      <data key="d10">Amines</data>
+      <data key="d11">Sphingolipids</data>
+      <data key="d12">Sphingoid bases</data>
+      <data key="d13">Fatty acids</data>
+    </node>
+    <edge source="5713" target="5608">
+      <data key="d14">-2.016</data>
+      <data key="d15">-2</data>
+      <data key="d16">0.905</data>
+      <data key="d17">0</data>
+      <data key="d18">5608</data>
+      <data key="d19">5713</data>
+      <data key="d20">496</data>
+    </edge>
+    <edge source="5713" target="16950">
+      <data key="d14">-392.293</data>
+      <data key="d15">-392</data>
+      <data key="d16">0.8608</data>
+      <data key="d17">0</data>
+      <data key="d18">5713</data>
+      <data key="d19">16950</data>
+      <data key="d20">496</data>
+    </edge>
+    <edge source="5713" target="21545">
+      <data key="d14">0.0</data>
+      <data key="d15">0</data>
+      <data key="d16">0.8775</data>
+      <data key="d17">0</data>
+      <data key="d18">5713</data>
+      <data key="d19">21545</data>
+      <data key="d20">496</data>
+    </edge>
+    <edge source="5608" target="21545">
+      <data key="d14">-2.016</data>
+      <data key="d15">-2</data>
+      <data key="d16">0.9073</data>
+      <data key="d17">0</data>
+      <data key="d18">5608</data>
+      <data key="d19">21545</data>
+      <data key="d20">496</data>
+    </edge>
+    <edge source="16950" target="21545">
+      <data key="d14">392.293</data>
+      <data key="d15">392</data>
+      <data key="d16">0.8604</data>
+      <data key="d17">0</data>
+      <data key="d18">21545</data>
+      <data key="d19">16950</data>
+      <data key="d20">496</data>
+    </edge>
+  </graph>
+</graphml>

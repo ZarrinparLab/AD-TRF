@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d20" for="edge" attr.name="component" attr.type="long" />
+  <key id="d19" for="edge" attr.name="scan2" attr.type="string" />
+  <key id="d18" for="edge" attr.name="scan1" attr.type="string" />
+  <key id="d17" for="edge" attr.name="matched_peaks" attr.type="string" />
+  <key id="d16" for="edge" attr.name="score" attr.type="double" />
+  <key id="d15" for="edge" attr.name="deltamz_int" attr.type="long" />
+  <key id="d14" for="edge" attr.name="deltamz" attr.type="double" />
+  <key id="d13" for="node" attr.name="library_npclassifier_pathway" attr.type="string" />
+  <key id="d12" for="node" attr.name="library_npclassifier_class" attr.type="string" />
+  <key id="d11" for="node" attr.name="library_npclassifier_superclass" attr.type="string" />
+  <key id="d10" for="node" attr.name="library_classyfire_subclass" attr.type="string" />
+  <key id="d9" for="node" attr.name="library_classyfire_class" attr.type="string" />
+  <key id="d8" for="node" attr.name="library_classyfire_superclass" attr.type="string" />
+  <key id="d7" for="node" attr.name="library_InChI" attr.type="string" />
+  <key id="d6" for="node" attr.name="library_SMILES" attr.type="string" />
+  <key id="d5" for="node" attr.name="library_compound_name" attr.type="string" />
+  <key id="d4" for="node" attr.name="component" attr.type="long" />
+  <key id="d3" for="node" attr.name="charge" attr.type="long" />
+  <key id="d2" for="node" attr.name="rt_min" attr.type="double" />
+  <key id="d1" for="node" attr.name="rt" attr.type="double" />
+  <key id="d0" for="node" attr.name="mz" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="19921">
+      <data key="d0">138.055</data>
+      <data key="d1">2.31</data>
+      <data key="d2">2.31</data>
+      <data key="d3">0</data>
+      <data key="d4">203</data>
+      <data key="d5">4-AMINOBENZOIC ACID</data>
+      <data key="d6">C1=C(C=CC(=C1)N)C(=O)O</data>
+      <data key="d7">"InChI=1S/C7H7NO2/c8-6-3-1-5(2-4-6)7(9)10/h1-4H,8H2,(H,9,10)"</data>
+      <data key="d8">Benzenoids</data>
+      <data key="d9">Benzene and substituted derivatives</data>
+      <data key="d10">Benzoic acids and derivatives</data>
+      <data key="d11">Phenolic acids (C6-C1)|Small peptides</data>
+      <data key="d12">Aminoacids|Simple phenolic acids</data>
+      <data key="d13">Amino acids and Peptides|Shikimates and Phenylpropanoids</data>
+    </node>
+    <node id="1544">
+      <data key="d0">182.076</data>
+      <data key="d1">0.64</data>
+      <data key="d2">0.64</data>
+      <data key="d3">0</data>
+      <data key="d4">203</data>
+    </node>
+    <node id="1517">
+      <data key="d0">181.072</data>
+      <data key="d1">0.63</data>
+      <data key="d2">0.63</data>
+      <data key="d3">0</data>
+      <data key="d4">203</data>
+      <data key="d5">theobromine CollisionEnergy:102040</data>
+      <data key="d6">Cn1cnc2c1c(O)nc(=O)n2C</data>
+      <data key="d7">"InChI=1S/C7H8N4O2/c1-10-3-8-5-4(10)6(12)9-7(13)11(5)2/h3H,1-2H3,(H,9,12,13)"</data>
+      <data key="d8">Organoheterocyclic compounds</data>
+      <data key="d9">Imidazopyrimidines</data>
+      <data key="d10">Purines and purine derivatives</data>
+      <data key="d11">Pseudoalkaloids</data>
+      <data key="d12">Purine alkaloids</data>
+      <data key="d13">Alkaloids</data>
+    </node>
+    <node id="1500">
+      <data key="d0">180.16</data>
+      <data key="d1">0.67</data>
+      <data key="d2">0.67</data>
+      <data key="d3">0</data>
+      <data key="d4">203</data>
+    </node>
+    <edge source="19921" target="1517">
+      <data key="d14">43.017</data>
+      <data key="d15">43</data>
+      <data key="d16">0.7778</data>
+      <data key="d17">0</data>
+      <data key="d18">1517</data>
+      <data key="d19">19921</data>
+      <data key="d20">203</data>
+    </edge>
+    <edge source="1544" target="1500">
+      <data key="d14">-1.916</data>
+      <data key="d15">-1</data>
+      <data key="d16">0.8102</data>
+      <data key="d17">0</data>
+      <data key="d18">1544</data>
+      <data key="d19">1500</data>
+      <data key="d20">203</data>
+    </edge>
+    <edge source="1544" target="1517">
+      <data key="d14">-1.003</data>
+      <data key="d15">-1</data>
+      <data key="d16">0.8257</data>
+      <data key="d17">0</data>
+      <data key="d18">1544</data>
+      <data key="d19">1517</data>
+      <data key="d20">203</data>
+    </edge>
+    <edge source="1517" target="1500">
+      <data key="d14">-0.913</data>
+      <data key="d15">0</data>
+      <data key="d16">0.9538</data>
+      <data key="d17">0</data>
+      <data key="d18">1517</data>
+      <data key="d19">1500</data>
+      <data key="d20">203</data>
+    </edge>
+  </graph>
+</graphml>

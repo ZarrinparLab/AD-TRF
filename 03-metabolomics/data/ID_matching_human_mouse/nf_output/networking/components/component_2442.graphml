@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d20" for="edge" attr.name="component" attr.type="long" />
+  <key id="d19" for="edge" attr.name="scan2" attr.type="string" />
+  <key id="d18" for="edge" attr.name="scan1" attr.type="string" />
+  <key id="d17" for="edge" attr.name="matched_peaks" attr.type="string" />
+  <key id="d16" for="edge" attr.name="score" attr.type="double" />
+  <key id="d15" for="edge" attr.name="deltamz_int" attr.type="long" />
+  <key id="d14" for="edge" attr.name="deltamz" attr.type="double" />
+  <key id="d13" for="node" attr.name="library_npclassifier_pathway" attr.type="string" />
+  <key id="d12" for="node" attr.name="library_npclassifier_class" attr.type="string" />
+  <key id="d11" for="node" attr.name="library_npclassifier_superclass" attr.type="string" />
+  <key id="d10" for="node" attr.name="library_classyfire_subclass" attr.type="string" />
+  <key id="d9" for="node" attr.name="library_classyfire_class" attr.type="string" />
+  <key id="d8" for="node" attr.name="library_classyfire_superclass" attr.type="string" />
+  <key id="d7" for="node" attr.name="library_InChI" attr.type="string" />
+  <key id="d6" for="node" attr.name="library_SMILES" attr.type="string" />
+  <key id="d5" for="node" attr.name="library_compound_name" attr.type="string" />
+  <key id="d4" for="node" attr.name="component" attr.type="long" />
+  <key id="d3" for="node" attr.name="charge" attr.type="long" />
+  <key id="d2" for="node" attr.name="rt_min" attr.type="double" />
+  <key id="d1" for="node" attr.name="rt" attr.type="double" />
+  <key id="d0" for="node" attr.name="mz" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="24371">
+      <data key="d0">685.474</data>
+      <data key="d1">7.91</data>
+      <data key="d2">7.91</data>
+      <data key="d3">0</data>
+      <data key="d4">2442</data>
+    </node>
+    <node id="24315">
+      <data key="d0">657.443</data>
+      <data key="d1">7.91</data>
+      <data key="d2">7.91</data>
+      <data key="d3">0</data>
+      <data key="d4">2442</data>
+      <data key="d5">NCGC00180529-03!(3S,6R,9S,12R,15S,18R)-4,10,16-trimethyl-3,6,9,12,15,18-hexa(propan-2-yl)-1,7,13-trioxa-4,10,16-triazacyclooctadecane-2,5,8,11,14,17-hexone [IIN-based on: CCMSLIB00000846051]</data>
+      <data key="d6">CC(C)[C@H]1OC(=O)[C@H](C(C)C)N(C)C(=O)[C@H](OC(=O)[C@H](C(C)C)N(C)C(=O)[C@H](OC(=O)[C@H](C(C)C)N(C)C1=O)C(C)C)C(C)C</data>
+      <data key="d7">InChI=1S/C33H57N3O9/c1-16(2)22-31(40)43-26(20(9)10)29(38)35(14)24(18(5)6)33(42)45-27(21(11)12)30(39)36(15)23(17(3)4)32(41)44-25(19(7)8)28(37)34(22)13/h16-27H,1-15H3/t22-,23-,24-,25+,26+,27+/m0/s1</data>
+      <data key="d8">Organic acids and derivatives</data>
+      <data key="d9">Peptidomimetics</data>
+      <data key="d10">Depsipeptides</data>
+      <data key="d11">Oligopeptides</data>
+      <data key="d12">Cyclic peptides|Depsipeptides</data>
+      <data key="d13">Amino acids and Peptides|Polyketides</data>
+    </node>
+    <edge source="24371" target="24315">
+      <data key="d14">-28.031</data>
+      <data key="d15">-28</data>
+      <data key="d16">0.9792</data>
+      <data key="d17">0</data>
+      <data key="d18">24315</data>
+      <data key="d19">24371</data>
+      <data key="d20">2442</data>
+    </edge>
+  </graph>
+</graphml>

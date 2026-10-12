@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d20" for="edge" attr.name="component" attr.type="long" />
+  <key id="d19" for="edge" attr.name="scan2" attr.type="string" />
+  <key id="d18" for="edge" attr.name="scan1" attr.type="string" />
+  <key id="d17" for="edge" attr.name="matched_peaks" attr.type="string" />
+  <key id="d16" for="edge" attr.name="score" attr.type="double" />
+  <key id="d15" for="edge" attr.name="deltamz_int" attr.type="long" />
+  <key id="d14" for="edge" attr.name="deltamz" attr.type="double" />
+  <key id="d13" for="node" attr.name="library_npclassifier_pathway" attr.type="string" />
+  <key id="d12" for="node" attr.name="library_npclassifier_class" attr.type="string" />
+  <key id="d11" for="node" attr.name="library_npclassifier_superclass" attr.type="string" />
+  <key id="d10" for="node" attr.name="library_classyfire_subclass" attr.type="string" />
+  <key id="d9" for="node" attr.name="library_classyfire_class" attr.type="string" />
+  <key id="d8" for="node" attr.name="library_classyfire_superclass" attr.type="string" />
+  <key id="d7" for="node" attr.name="library_InChI" attr.type="string" />
+  <key id="d6" for="node" attr.name="library_SMILES" attr.type="string" />
+  <key id="d5" for="node" attr.name="library_compound_name" attr.type="string" />
+  <key id="d4" for="node" attr.name="component" attr.type="long" />
+  <key id="d3" for="node" attr.name="charge" attr.type="long" />
+  <key id="d2" for="node" attr.name="rt_min" attr.type="double" />
+  <key id="d1" for="node" attr.name="rt" attr.type="double" />
+  <key id="d0" for="node" attr.name="mz" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="2031">
+      <data key="d0">199.061</data>
+      <data key="d1">0.98</data>
+      <data key="d2">0.98</data>
+      <data key="d3">0</data>
+      <data key="d4">948</data>
+      <data key="d5">Spectral Match to Syringic acid from NIST14</data>
+      <data key="d6">COC1=CC(=CC(=C1O)OC)C(=O)O</data>
+      <data key="d7">InChI=1S/C9H10O5/c1-13-6-3-5(9(11)12)4-7(14-2)8(6)10/h3-4,10H,1-2H3,(H,11,12)</data>
+      <data key="d8">Benzenoids</data>
+      <data key="d9">Benzene and substituted derivatives</data>
+      <data key="d10">Benzoic acids and derivatives</data>
+      <data key="d11">Phenolic acids (C6-C1)</data>
+      <data key="d12">Simple phenolic acids</data>
+      <data key="d13">Shikimates and Phenylpropanoids</data>
+    </node>
+    <node id="1972">
+      <data key="d0">197.068</data>
+      <data key="d1">0.53</data>
+      <data key="d2">0.53</data>
+      <data key="d3">0</data>
+      <data key="d4">948</data>
+    </node>
+    <node id="1979">
+      <data key="d0">197.096</data>
+      <data key="d1">0.94</data>
+      <data key="d2">0.94</data>
+      <data key="d3">0</data>
+      <data key="d4">948</data>
+    </node>
+    <node id="1973">
+      <data key="d0">197.068</data>
+      <data key="d1">0.88</data>
+      <data key="d2">0.88</data>
+      <data key="d3">0</data>
+      <data key="d4">948</data>
+    </node>
+    <node id="2032">
+      <data key="d0">199.061</data>
+      <data key="d1">2.29</data>
+      <data key="d2">2.29</data>
+      <data key="d3">0</data>
+      <data key="d4">948</data>
+      <data key="d5">Spectral Match to Syringic acid from NIST14</data>
+      <data key="d6">COC1=CC(=CC(=C1O)OC)C(=O)O</data>
+      <data key="d7">InChI=1S/C9H10O5/c1-13-6-3-5(9(11)12)4-7(14-2)8(6)10/h3-4,10H,1-2H3,(H,11,12)</data>
+      <data key="d8">Benzenoids</data>
+      <data key="d9">Benzene and substituted derivatives</data>
+      <data key="d10">Benzoic acids and derivatives</data>
+      <data key="d11">Phenolic acids (C6-C1)</data>
+      <data key="d12">Simple phenolic acids</data>
+      <data key="d13">Shikimates and Phenylpropanoids</data>
+    </node>
+    <node id="1990">
+      <data key="d0">197.129</data>
+      <data key="d1">0.29</data>
+      <data key="d2">0.29</data>
+      <data key="d3">0</data>
+      <data key="d4">948</data>
+    </node>
+    <edge source="2031" target="1973">
+      <data key="d14">-1.993</data>
+      <data key="d15">-1</data>
+      <data key="d16">0.7161</data>
+      <data key="d17">0</data>
+      <data key="d18">1973</data>
+      <data key="d19">2031</data>
+      <data key="d20">948</data>
+    </edge>
+    <edge source="2031" target="2032">
+      <data key="d14">-0.0</data>
+      <data key="d15">0</data>
+      <data key="d16">0.96</data>
+      <data key="d17">0</data>
+      <data key="d18">2032</data>
+      <data key="d19">2031</data>
+      <data key="d20">948</data>
+    </edge>
+    <edge source="2031" target="1979">
+      <data key="d14">-1.965</data>
+      <data key="d15">-1</data>
+      <data key="d16">0.7378</data>
+      <data key="d17">0</data>
+      <data key="d18">1979</data>
+      <data key="d19">2031</data>
+      <data key="d20">948</data>
+    </edge>
+    <edge source="1972" target="1990">
+      <data key="d14">-0.061</data>
+      <data key="d15">0</data>
+      <data key="d16">0.7243</data>
+      <data key="d17">0</data>
+      <data key="d18">1972</data>
+      <data key="d19">1990</data>
+      <data key="d20">948</data>
+    </edge>
+    <edge source="1972" target="1979">
+      <data key="d14">-0.028</data>
+      <data key="d15">0</data>
+      <data key="d16">0.7097</data>
+      <data key="d17">0</data>
+      <data key="d18">1972</data>
+      <data key="d19">1979</data>
+      <data key="d20">948</data>
+    </edge>
+    <edge source="1979" target="2032">
+      <data key="d14">-1.965</data>
+      <data key="d15">-1</data>
+      <data key="d16">0.7862</data>
+      <data key="d17">0</data>
+      <data key="d18">2032</data>
+      <data key="d19">1979</data>
+      <data key="d20">948</data>
+    </edge>
+    <edge source="1973" target="2032">
+      <data key="d14">-1.993</data>
+      <data key="d15">-1</data>
+      <data key="d16">0.726</data>
+      <data key="d17">0</data>
+      <data key="d18">1973</data>
+      <data key="d19">2032</data>
+      <data key="d20">948</data>
+    </edge>
+  </graph>
+</graphml>

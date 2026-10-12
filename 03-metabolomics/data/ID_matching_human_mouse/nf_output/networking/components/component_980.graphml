@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d20" for="edge" attr.name="component" attr.type="long" />
+  <key id="d19" for="edge" attr.name="scan2" attr.type="string" />
+  <key id="d18" for="edge" attr.name="scan1" attr.type="string" />
+  <key id="d17" for="edge" attr.name="matched_peaks" attr.type="string" />
+  <key id="d16" for="edge" attr.name="score" attr.type="double" />
+  <key id="d15" for="edge" attr.name="deltamz_int" attr.type="long" />
+  <key id="d14" for="edge" attr.name="deltamz" attr.type="double" />
+  <key id="d13" for="node" attr.name="library_npclassifier_pathway" attr.type="string" />
+  <key id="d12" for="node" attr.name="library_npclassifier_class" attr.type="string" />
+  <key id="d11" for="node" attr.name="library_npclassifier_superclass" attr.type="string" />
+  <key id="d10" for="node" attr.name="library_classyfire_subclass" attr.type="string" />
+  <key id="d9" for="node" attr.name="library_classyfire_class" attr.type="string" />
+  <key id="d8" for="node" attr.name="library_classyfire_superclass" attr.type="string" />
+  <key id="d7" for="node" attr.name="library_InChI" attr.type="string" />
+  <key id="d6" for="node" attr.name="library_SMILES" attr.type="string" />
+  <key id="d5" for="node" attr.name="library_compound_name" attr.type="string" />
+  <key id="d4" for="node" attr.name="component" attr.type="long" />
+  <key id="d3" for="node" attr.name="charge" attr.type="long" />
+  <key id="d2" for="node" attr.name="rt_min" attr.type="double" />
+  <key id="d1" for="node" attr.name="rt" attr.type="double" />
+  <key id="d0" for="node" attr.name="mz" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="4351">
+      <data key="d0">267.17</data>
+      <data key="d1">0.6</data>
+      <data key="d2">0.6</data>
+      <data key="d3">0</data>
+      <data key="d4">980</data>
+      <data key="d5">ATENOLOL</data>
+      <data key="d6">CC(C)NCC(COC1=CC=C(C=C1)CC(=N)O)O</data>
+      <data key="d7">"InChI=1S/C14H22N2O3/c1-10(2)16-8-12(17)9-19-13-5-3-11(4-6-13)7-14(15)18/h3-6,10,12,16-17H,7-9H2,1-2H3,(H2,15,18)"</data>
+      <data key="d8">Benzenoids</data>
+      <data key="d9">Benzene and substituted derivatives</data>
+      <data key="d10">Phenylacetamides</data>
+      <data key="d11">Pseudoalkaloids</data>
+      <data key="d12">Phenylalanine-derived alkaloids</data>
+      <data key="d13">Alkaloids</data>
+    </node>
+    <node id="4385">
+      <data key="d0">268.154</data>
+      <data key="d1">2.2</data>
+      <data key="d2">2.2</data>
+      <data key="d3">0</data>
+      <data key="d4">980</data>
+      <data key="d5">Massbank:EA069710 Atenolol acid|Metoprolol acid|4-(2-Hydroxy-3-((1-methylethyl)amino)propoxy)benzeneacetic acid</data>
+      <data key="d6">CC(C)NCC(O)COc1ccc(cc1)CC(=O)O</data>
+      <data key="d7">1S/C14H21NO4/c1-10(2)15-8-12(16)9-19-13-5-3-11(4-6-13)7-14(17)18/h3-6,10,12,15-16H,7-9H2,1-2H3,(H,17,18)</data>
+      <data key="d8">nan</data>
+      <data key="d9">nan</data>
+      <data key="d10">nan</data>
+      <data key="d11">Pseudoalkaloids</data>
+      <data key="d12">Phenylalanine-derived alkaloids</data>
+      <data key="d13">Alkaloids</data>
+    </node>
+    <node id="4336">
+      <data key="d0">267.134</data>
+      <data key="d1">0.45</data>
+      <data key="d2">0.45</data>
+      <data key="d3">0</data>
+      <data key="d4">980</data>
+    </node>
+    <node id="4396">
+      <data key="d0">268.19</data>
+      <data key="d1">2.61</data>
+      <data key="d2">2.61</data>
+      <data key="d3">0</data>
+      <data key="d4">980</data>
+      <data key="d5">metoprolol</data>
+      <data key="d6">COCCc1ccc(OCC(O)CNC(C)C)cc1</data>
+      <data key="d7">InChI=1S/C15H25NO3/c1-12(2)16-10-14(17)11-19-15-6-4-13(5-7-15)8-9-18-3/h4-7,12,14,16-17H,8-11H2,1-3H3</data>
+      <data key="d8">Benzenoids</data>
+      <data key="d9">Phenols</data>
+      <data key="d10">Tyrosols and derivatives</data>
+      <data key="d11">Pseudoalkaloids</data>
+      <data key="d12">Phenylalanine-derived alkaloids</data>
+      <data key="d13">Alkaloids</data>
+    </node>
+    <edge source="4351" target="4396">
+      <data key="d14">-1.02</data>
+      <data key="d15">-1</data>
+      <data key="d16">0.7248</data>
+      <data key="d17">0</data>
+      <data key="d18">4351</data>
+      <data key="d19">4396</data>
+      <data key="d20">980</data>
+    </edge>
+    <edge source="4351" target="4385">
+      <data key="d14">-0.984</data>
+      <data key="d15">0</data>
+      <data key="d16">0.8888</data>
+      <data key="d17">0</data>
+      <data key="d18">4351</data>
+      <data key="d19">4385</data>
+      <data key="d20">980</data>
+    </edge>
+    <edge source="4385" target="4396">
+      <data key="d14">-0.036</data>
+      <data key="d15">0</data>
+      <data key="d16">0.7322</data>
+      <data key="d17">0</data>
+      <data key="d18">4396</data>
+      <data key="d19">4385</data>
+      <data key="d20">980</data>
+    </edge>
+    <edge source="4336" target="4396">
+      <data key="d14">-1.057</data>
+      <data key="d15">-1</data>
+      <data key="d16">0.983</data>
+      <data key="d17">0</data>
+      <data key="d18">4396</data>
+      <data key="d19">4336</data>
+      <data key="d20">980</data>
+    </edge>
+  </graph>
+</graphml>

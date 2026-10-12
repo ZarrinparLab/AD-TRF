@@ -1,0 +1,414 @@
+Name,Category,CategoryID,GO,Description,PARENT_GO,LogP,Enrichment,Z-score,#TotalGeneInLibrary,#GeneInGO,#GeneInHitList,#GeneInGOAndHitList,%InGO,STDV %InGO,GeneID,Hits,Log(q-value)
+MyList,Canonical Pathways,11,M5884,NABA CORE MATRISOME,,-17,30,20,30286,275,52,14,27,6.2,633|1277|1278|1293|2331|3339|4811|5549|6678|7045|7057|7058|7450|10319,BGN|COL1A1|COL1A2|COL6A3|FMOD|HSPG2|NID1|PRELP|SPARC|TGFBI|THBS1|THBS2|VWF|LAMC3,-12
+MyList,Reactome Gene Sets,6,R-HSA-1474244,Extracellular matrix organization,,-16,27,19,30286,300,52,14,27,6.2,633|1277|1278|1293|2331|3339|3691|4038|4811|4921|6678|7057|7450|10319,BGN|COL1A1|COL1A2|COL6A3|FMOD|HSPG2|ITGB4|LRP4|NID1|DDR2|SPARC|THBS1|VWF|LAMC3,-12
+MyList,KEGG Pathway,24,hsa04512,ECM-receptor interaction,,-15,65,25,30286,89,52,10,19,5.5,1277|1278|1293|3339|3691|7057|7058|7450|10319|22987,COL1A1|COL1A2|COL6A3|HSPG2|ITGB4|THBS1|THBS2|VWF|LAMC3|SV2C,-12
+MyList,Canonical Pathways,11,M18,PID INTEGRIN1 PATHWAY,,-13,71,23,30286,66,52,8,15,5,1277|1278|1293|1464|4811|7045|7057|7058,COL1A1|COL1A2|COL6A3|CSPG4|NID1|TGFBI|THBS1|THBS2,-9
+MyList,Reactome Gene Sets,6,R-HSA-3000178,ECM proteoglycans,,-12,61,22,30286,76,52,8,15,5,633|1277|1278|1293|2331|3339|4038|6678,BGN|COL1A1|COL1A2|COL6A3|FMOD|HSPG2|LRP4|SPARC,-8.6
+MyList,KEGG Pathway,24,hsa04820,Cytoskeleton in muscle cells,,-11,25,15,30286,229,52,10,19,5.5,633|1277|1278|1293|2318|3339|3691|4811|7057|7058,BGN|COL1A1|COL1A2|COL6A3|FLNC|HSPG2|ITGB4|NID1|THBS1|THBS2,-7.9
+MyList,Reactome Gene Sets,6,R-HSA-3000171,Non-integrin membrane-ECM interactions,,-11,69,22,30286,59,52,7,13,4.7,1277|1278|3339|3691|4921|7057|10319,COL1A1|COL1A2|HSPG2|ITGB4|DDR2|THBS1|LAMC3,-7.7
+MyList,Reactome Gene Sets,6,R-HSA-3781865,Diseases of glycosylation,,-9.9,32,16,30286,144,52,8,15,5,633|1464|2331|3339|4853|5549|7057|7058,BGN|CSPG4|FMOD|HSPG2|NOTCH2|PRELP|THBS1|THBS2,-6.7
+MyList,KEGG Pathway,24,hsa05165,Human papillomavirus infection,,-9.7,18,13,30286,331,52,10,19,5.5,1277|1278|1293|3691|4853|7057|7058|7450|10319|56288,COL1A1|COL1A2|COL6A3|ITGB4|NOTCH2|THBS1|THBS2|VWF|LAMC3|PARD3,-6.6
+MyList,Reactome Gene Sets,6,R-HSA-5668914,Diseases of metabolism,,-9.4,21,13,30286,250,52,9,17,5.2,633|1464|2331|3339|4853|5549|7057|7058|56603,BGN|CSPG4|FMOD|HSPG2|NOTCH2|PRELP|THBS1|THBS2|CYP26B1,-6.3
+MyList,WikiPathways,27,WP306,Focal adhesion,,-8.8,23,13,30286,199,52,8,15,5,1277|1278|2318|3691|7057|7058|7450|10319,COL1A1|COL1A2|FLNC|ITGB4|THBS1|THBS2|VWF|LAMC3,-5.8
+MyList,GO Biological Processes,19,GO:0001944,vasculature development,19_GO:0032502 developmental process,-8.7,12,10,30286,547,52,11,21,5.7,1277|1278|1464|3339|4853|5784|7045|7048|7057|8854|154810,COL1A1|COL1A2|CSPG4|HSPG2|NOTCH2|PTPN14|TGFBI|TGFBR2|THBS1|ALDH1A2|AMOTL1,-5.8
+MyList,KEGG Pathway,24,hsa04510,Focal adhesion,,-8.7,23,13,30286,202,52,8,15,5,1277|1278|1293|3691|7057|7058|7450|10319,COL1A1|COL1A2|COL6A3|ITGB4|THBS1|THBS2|VWF|LAMC3,-5.8
+MyList,GO Biological Processes,19,GO:0001934,positive regulation of protein phosphorylation,19_GO:0048518 positive regulation of biological process,-8.5,11,10,30286,578,52,11,21,5.7,150|718|972|1464|1601|3123|4038|4921|7048|7057|8826,ADRA2A|C3|CD74|CSPG4|DAB2|HLA-DRB1|LRP4|DDR2|TGFBR2|THBS1|IQGAP1,-5.6
+MyList,Reactome Gene Sets,6,R-HSA-9845622,Defective VWF binding to collagen type I,,-8.3,5.8e+02,42,30286,3,52,3,5.8,3.2,1277|1278|7450,COL1A1|COL1A2|VWF,-5.5
+MyList,WikiPathways,27,WP4172,PI3K Akt signaling pathway,,-8.2,15,11,30286,339,52,9,17,5.2,1277|1278|1293|2786|3691|7057|7058|7450|10319,COL1A1|COL1A2|COL6A3|GNG4|ITGB4|THBS1|THBS2|VWF|LAMC3,-5.4
+MyList,GO Biological Processes,19,GO:0042327,positive regulation of phosphorylation,19_GO:0048518 positive regulation of biological process,-8.1,10,9.7,30286,623,52,11,21,5.7,150|718|972|1464|1601|3123|4038|4921|7048|7057|8826,ADRA2A|C3|CD74|CSPG4|DAB2|HLA-DRB1|LRP4|DDR2|TGFBR2|THBS1|IQGAP1,-5.3
+MyList,Reactome Gene Sets,6,R-HSA-216083,Integrin cell surface interactions,,-8.1,41,15,30286,85,52,6,12,4.4,1277|1278|1293|3339|7057|7450,COL1A1|COL1A2|COL6A3|HSPG2|THBS1|VWF,-5.3
+MyList,Reactome Gene Sets,6,R-HSA-3560782,Diseases associated with glycosaminoglycan metabolism,,-8.1,71,19,30286,41,52,5,9.6,4.1,633|1464|2331|3339|5549,BGN|CSPG4|FMOD|HSPG2|PRELP,-5.3
+MyList,KEGG Pathway,24,hsa04151,PI3K-Akt signaling pathway,,-8,15,11,30286,359,52,9,17,5.2,1277|1278|1293|2786|3691|7057|7058|7450|10319,COL1A1|COL1A2|COL6A3|GNG4|ITGB4|THBS1|THBS2|VWF|LAMC3,-5.2
+MyList,Canonical Pathways,11,M53,PID INTEGRIN3 PATHWAY,,-7.9,68,18,30286,43,52,5,9.6,4.1,1277|1278|7045|7048|7057,COL1A1|COL1A2|TGFBI|TGFBR2|THBS1,-5.2
+MyList,Reactome Gene Sets,6,R-HSA-9845621,Defective VWF cleavage by ADAMTS13 variant,,-7.7,4.4e+02,36,30286,4,52,3,5.8,3.2,1277|1278|7450,COL1A1|COL1A2|VWF,-5
+MyList,Reactome Gene Sets,6,R-HSA-9845619,Enhanced cleavage of VWF variant by ADAMTS13,,-7.7,4.4e+02,36,30286,4,52,3,5.8,3.2,1277|1278|7450,COL1A1|COL1A2|VWF,-5
+MyList,GO Biological Processes,19,GO:0001568,blood vessel development,19_GO:0032502 developmental process,-7.7,11,9.7,30286,527,52,10,19,5.5,1277|1278|1464|3339|4853|7045|7048|7057|8854|154810,COL1A1|COL1A2|CSPG4|HSPG2|NOTCH2|TGFBI|TGFBR2|THBS1|ALDH1A2|AMOTL1,-5
+MyList,GO Biological Processes,19,GO:0045937,positive regulation of phosphate metabolic process,19_GO:0048518 positive regulation of biological process,-7.6,9.1,9,30286,702,52,11,21,5.7,150|718|972|1464|1601|3123|4038|4921|7048|7057|8826,ADRA2A|C3|CD74|CSPG4|DAB2|HLA-DRB1|LRP4|DDR2|TGFBR2|THBS1|IQGAP1,-4.9
+MyList,GO Biological Processes,19,GO:0010562,positive regulation of phosphorus metabolic process,19_GO:0048518 positive regulation of biological process,-7.6,9.1,9,30286,702,52,11,21,5.7,150|718|972|1464|1601|3123|4038|4921|7048|7057|8826,ADRA2A|C3|CD74|CSPG4|DAB2|HLA-DRB1|LRP4|DDR2|TGFBR2|THBS1|IQGAP1,-4.9
+MyList,Canonical Pathways,11,M3008,NABA ECM GLYCOPROTEINS,,-7.4,21,12,30286,196,52,7,13,4.7,4811|6678|7045|7057|7058|7450|10319,NID1|SPARC|TGFBI|THBS1|THBS2|VWF|LAMC3,-4.7
+MyList,WikiPathways,27,WP3932,Focal adhesion PI3K Akt mTOR signaling pathway,,-7.3,15,10,30286,302,52,8,15,5,1277|1278|2786|3691|7057|7058|7450|10319,COL1A1|COL1A2|GNG4|ITGB4|THBS1|THBS2|VWF|LAMC3,-4.7
+MyList,GO Biological Processes,19,GO:0031401,positive regulation of protein modification process,19_GO:0048518 positive regulation of biological process,-7.2,8.4,8.6,30286,764,52,11,21,5.7,150|718|972|1464|1601|3123|4038|4921|7048|7057|8826,ADRA2A|C3|CD74|CSPG4|DAB2|HLA-DRB1|LRP4|DDR2|TGFBR2|THBS1|IQGAP1,-4.6
+MyList,GO Biological Processes,19,GO:0007167,enzyme-linked receptor protein signaling pathway,19_GO:0050896 response to stimulus,-7.1,9.5,8.8,30286,614,52,10,19,5.5,1277|1278|1464|1601|2331|4038|4853|4921|7048|8826,COL1A1|COL1A2|CSPG4|DAB2|FMOD|LRP4|NOTCH2|DDR2|TGFBR2|IQGAP1,-4.5
+MyList,Reactome Gene Sets,6,R-HSA-3000170,Syndecan interactions,,-6.9,86,18,30286,27,52,4,7.7,3.7,1277|1278|3691|7057,COL1A1|COL1A2|ITGB4|THBS1,-4.3
+MyList,GO Biological Processes,19,GO:0071363,cellular response to growth factor stimulus,19_GO:0050896 response to stimulus,-6.9,11,9,30286,488,52,9,17,5.2,1277|1278|1601|2331|4853|4921|7048|7057|8826,COL1A1|COL1A2|DAB2|FMOD|NOTCH2|DDR2|TGFBR2|THBS1|IQGAP1,-4.3
+MyList,Reactome Gene Sets,6,R-HSA-9846298,Defective binding of VWF variant to GPIb:IX:V,,-6.8,2.5e+02,27,30286,7,52,3,5.8,3.2,1277|1278|7450,COL1A1|COL1A2|VWF,-4.3
+MyList,Reactome Gene Sets,6,R-HSA-9845620,Enhanced binding of GP1BA variant to VWF multimer:collagen,,-6.8,2.5e+02,27,30286,7,52,3,5.8,3.2,1277|1278|7450,COL1A1|COL1A2|VWF,-4.3
+MyList,GO Biological Processes,19,GO:0001501,skeletal system development,19_GO:0032502 developmental process,-6.8,10,8.9,30286,501,52,9,17,5.2,633|1277|1278|4921|5549|7045|7048|7298|56603,BGN|COL1A1|COL1A2|DDR2|PRELP|TGFBI|TGFBR2|TYMS|CYP26B1,-4.3
+MyList,Reactome Gene Sets,6,R-HSA-3000157,Laminin interactions,,-6.7,78,17,30286,30,52,4,7.7,3.7,3339|3691|4811|10319,HSPG2|ITGB4|NID1|LAMC3,-4.2
+MyList,GO Biological Processes,19,GO:0070848,response to growth factor,19_GO:0050896 response to stimulus,-6.6,10,8.7,30286,520,52,9,17,5.2,1277|1278|1601|2331|4853|4921|7048|7057|8826,COL1A1|COL1A2|DAB2|FMOD|NOTCH2|DDR2|TGFBR2|THBS1|IQGAP1,-4.1
+MyList,Reactome Gene Sets,6,R-HSA-9823587,Defects of platelet adhesion to exposed collagen,,-6.6,2.2e+02,26,30286,8,52,3,5.8,3.2,1277|1278|7450,COL1A1|COL1A2|VWF,-4.1
+MyList,Reactome Gene Sets,6,R-HSA-76002,"Platelet activation, signaling and aggregation",,-6.5,16,9.8,30286,263,52,7,13,4.7,150|1277|1278|2786|6678|7057|7450,ADRA2A|COL1A1|COL1A2|GNG4|SPARC|THBS1|VWF,-4
+MyList,GO Biological Processes,19,GO:0071560,cellular response to transforming growth factor beta stimulus,19_GO:0050896 response to stimulus,-6.5,22,11,30286,162,52,6,12,4.4,1277|1278|1601|2331|4921|7048,COL1A1|COL1A2|DAB2|FMOD|DDR2|TGFBR2,-4
+MyList,Canonical Pathways,11,M5882,NABA PROTEOGLYCANS,,-6.4,67,16,30286,35,52,4,7.7,3.7,633|2331|3339|5549,BGN|FMOD|HSPG2|PRELP,-4
+MyList,GO Biological Processes,19,GO:0071559,response to transforming growth factor beta,19_GO:0050896 response to stimulus,-6.3,21,11,30286,169,52,6,12,4.4,1277|1278|1601|2331|4921|7048,COL1A1|COL1A2|DAB2|FMOD|DDR2|TGFBR2,-3.9
+MyList,WikiPathways,27,WP2911,miRNA targets in ECM and membrane receptors,,-6.3,61,15,30286,38,52,4,7.7,3.7,1278|1293|7057|7058,COL1A2|COL6A3|THBS1|THBS2,-3.9
+MyList,GO Biological Processes,19,GO:0048589,developmental growth,19_GO:0040007 growth,-6.2,11,8.6,30286,424,52,8,15,5,4038|4853|4921|7048|7298|8826|9254|51299,LRP4|NOTCH2|DDR2|TGFBR2|TYMS|IQGAP1|CACNA2D2|NRN1,-3.8
+MyList,GO Biological Processes,19,GO:0040007,growth,19_GO:0040007 growth,-6.2,11,8.6,30286,424,52,8,15,5,4038|4853|4921|7048|7298|8826|9254|51299,LRP4|NOTCH2|DDR2|TGFBR2|TYMS|IQGAP1|CACNA2D2|NRN1,-3.8
+MyList,Reactome Gene Sets,6,R-HSA-76009,Platelet Aggregation (Plug Formation),,-6.2,60,15,30286,39,52,4,7.7,3.7,150|1277|1278|7450,ADRA2A|COL1A1|COL1A2|VWF,-3.8
+MyList,Canonical Pathways,11,M5887,NABA BASEMENT MEMBRANES,,-6.2,58,15,30286,40,52,4,7.7,3.7,1293|3339|4811|10319,COL6A3|HSPG2|NID1|LAMC3,-3.8
+MyList,GO Biological Processes,19,GO:0033674,positive regulation of kinase activity,19_GO:0048518 positive regulation of biological process,-6.1,13,9.1,30286,302,52,7,13,4.7,150|972|3123|4921|7048|7057|8826,ADRA2A|CD74|HLA-DRB1|DDR2|TGFBR2|THBS1|IQGAP1,-3.7
+MyList,Reactome Gene Sets,6,R-HSA-430116,GP1b-IX-V activation signalling,,-6,1.5e+02,21,30286,12,52,3,5.8,3.2,1277|1278|7450,COL1A1|COL1A2|VWF,-3.6
+MyList,GO Biological Processes,19,GO:0043589,skin morphogenesis,19_GO:0032502 developmental process,-6,1.5e+02,21,30286,12,52,3,5.8,3.2,1277|1278|3691,COL1A1|COL1A2|ITGB4,-3.6
+MyList,GO Biological Processes,19,GO:0001525,angiogenesis,19_GO:0032502 developmental process,-5.8,12,8.5,30286,338,52,7,13,4.7,1464|3339|4853|7045|7048|7057|154810,CSPG4|HSPG2|NOTCH2|TGFBI|TGFBR2|THBS1|AMOTL1,-3.4
+MyList,GO Biological Processes,19,GO:0033189,response to vitamin A,19_GO:0050896 response to stimulus,-5.7,1.2e+02,19,30286,15,52,3,5.8,3.2,7298|8854|56603,TYMS|ALDH1A2|CYP26B1,-3.3
+MyList,Reactome Gene Sets,6,R-HSA-1630316,Glycosaminoglycan metabolism,,-5.6,23,10,30286,126,52,5,9.6,4.1,633|1464|2331|3339|5549,BGN|CSPG4|FMOD|HSPG2|PRELP,-3.3
+MyList,Reactome Gene Sets,6,R-HSA-75892,Platelet Adhesion to exposed collagen,,-5.6,1.1e+02,18,30286,16,52,3,5.8,3.2,1277|1278|7450,COL1A1|COL1A2|VWF,-3.3
+MyList,WikiPathways,27,WP366,TGF beta signaling pathway,,-5.5,22,10,30286,132,52,5,9.6,4.1,1278|1601|3691|7048|7057,COL1A2|DAB2|ITGB4|TGFBR2|THBS1,-3.2
+MyList,GO Biological Processes,19,GO:0051347,positive regulation of transferase activity,19_GO:0065007 biological regulation,-5.5,11,8,30286,375,52,7,13,4.7,150|972|3123|4921|7048|7057|8826,ADRA2A|CD74|HLA-DRB1|DDR2|TGFBR2|THBS1|IQGAP1,-3.2
+MyList,GO Biological Processes,19,GO:0030199,collagen fibril organization,19_GO:0009987 cellular process,-5.5,39,12,30286,60,52,4,7.7,3.7,1277|1278|2331|4921,COL1A1|COL1A2|FMOD|DDR2,-3.2
+MyList,Reactome Gene Sets,6,R-HSA-2022090,Assembly of collagen fibrils and other multimeric structures,,-5.4,38,12,30286,61,52,4,7.7,3.7,1277|1278|1293|3691,COL1A1|COL1A2|COL6A3|ITGB4,-3.1
+MyList,WikiPathways,27,WP3967,miR 509 3p alteration of YAP1 ECM axis,,-5.4,97,17,30286,18,52,3,5.8,3.2,1277|6678|7058,COL1A1|SPARC|THBS2,-3.1
+MyList,Reactome Gene Sets,6,R-HSA-1474228,Degradation of the extracellular matrix,,-5.4,21,9.7,30286,140,52,5,9.6,4.1,1277|1278|1293|3339|4811,COL1A1|COL1A2|COL6A3|HSPG2|NID1,-3.1
+MyList,Reactome Gene Sets,6,R-HSA-9671793,Diseases of hemostasis,,-5.3,92,16,30286,19,52,3,5.8,3.2,1277|1278|7450,COL1A1|COL1A2|VWF,-3.1
+MyList,Reactome Gene Sets,6,R-HSA-4420332,Defective B3GALT6 causes EDSP2 and SEMDJL1,,-5.3,87,16,30286,20,52,3,5.8,3.2,633|1464|3339,BGN|CSPG4|HSPG2,-3
+MyList,Reactome Gene Sets,6,R-HSA-3560783,"Defective B4GALT7 causes EDS, progeroid type",,-5.3,87,16,30286,20,52,3,5.8,3.2,633|1464|3339,BGN|CSPG4|HSPG2,-3
+MyList,Reactome Gene Sets,6,R-HSA-3560801,Defective B3GAT3 causes JDSSDHD,,-5.3,87,16,30286,20,52,3,5.8,3.2,633|1464|3339,BGN|CSPG4|HSPG2,-3
+MyList,GO Biological Processes,19,GO:0050678,regulation of epithelial cell proliferation,19_GO:0050789 regulation of biological process,-5.2,10,7.6,30286,407,52,7,13,4.7,1601|3339|4853|6331|6678|7057|8854,DAB2|HSPG2|NOTCH2|SCN5A|SPARC|THBS1|ALDH1A2,-3
+MyList,GO Biological Processes,19,GO:0030335,positive regulation of cell migration,19_GO:0040011 locomotion,-5.2,8,7.1,30286,580,52,8,15,5,150|972|1277|1601|4921|6678|7048|7057,ADRA2A|CD74|COL1A1|DAB2|DDR2|SPARC|TGFBR2|THBS1,-3
+MyList,GO Biological Processes,19,GO:0030198,extracellular matrix organization,19_GO:0009987 cellular process,-5.1,13,8.1,30286,274,52,6,12,4.4,1277|1278|2331|4811|4921|7045,COL1A1|COL1A2|FMOD|NID1|DDR2|TGFBI,-2.9
+MyList,GO Biological Processes,19,GO:0043062,extracellular structure organization,19_GO:0009987 cellular process,-5.1,13,8.1,30286,275,52,6,12,4.4,1277|1278|2331|4811|4921|7045,COL1A1|COL1A2|FMOD|NID1|DDR2|TGFBI,-2.9
+MyList,GO Biological Processes,19,GO:0045229,external encapsulating structure organization,19_GO:0009987 cellular process,-5.1,13,8.1,30286,276,52,6,12,4.4,1277|1278|2331|4811|4921|7045,COL1A1|COL1A2|FMOD|NID1|DDR2|TGFBI,-2.9
+MyList,Canonical Pathways,11,M160,PID AVB3 INTEGRIN PATHWAY,,-5.1,31,11,30286,74,52,4,7.7,3.7,1277|1278|1293|7048,COL1A1|COL1A2|COL6A3|TGFBR2,-2.9
+MyList,GO Biological Processes,19,GO:2000147,positive regulation of cell motility,19_GO:0040011 locomotion,-5.1,7.7,6.9,30286,607,52,8,15,5,150|972|1277|1601|4921|6678|7048|7057,ADRA2A|CD74|COL1A1|DAB2|DDR2|SPARC|TGFBR2|THBS1,-2.8
+MyList,GO Biological Processes,19,GO:0048514,blood vessel morphogenesis,19_GO:0032502 developmental process,-5.1,9.5,7.3,30286,431,52,7,13,4.7,1464|3339|4853|7045|7048|7057|154810,CSPG4|HSPG2|NOTCH2|TGFBI|TGFBR2|THBS1|AMOTL1,-2.8
+MyList,Reactome Gene Sets,6,R-HSA-422356,Regulation of insulin secretion,,-5,30,11,30286,78,52,4,7.7,3.7,150|2786|8826|9254,ADRA2A|GNG4|IQGAP1|CACNA2D2,-2.8
+MyList,GO Biological Processes,19,GO:0040017,positive regulation of locomotion,19_GO:0040011 locomotion,-5,7.5,6.8,30286,621,52,8,15,5,150|972|1277|1601|4921|6678|7048|7057,ADRA2A|CD74|COL1A1|DAB2|DDR2|SPARC|TGFBR2|THBS1,-2.8
+MyList,Reactome Gene Sets,6,R-HSA-109582,Hemostasis,,-5,7.5,6.8,30286,622,52,8,15,5,150|972|1277|1278|2786|6678|7057|7450,ADRA2A|CD74|COL1A1|COL1A2|GNG4|SPARC|THBS1|VWF,-2.8
+MyList,Reactome Gene Sets,6,R-HSA-1971475,A tetrasaccharide linker sequence is required for GAG synthesis,,-4.9,67,14,30286,26,52,3,5.8,3.2,633|1464|3339,BGN|CSPG4|HSPG2,-2.7
+MyList,GO Biological Processes,19,GO:0051216,cartilage development,19_GO:0032502 developmental process,-4.9,17,8.6,30286,174,52,5,9.6,4.1,633|1277|7045|7048|7298,BGN|COL1A1|TGFBI|TGFBR2|TYMS,-2.7
+MyList,GO Biological Processes,19,GO:0141091,transforming growth factor beta receptor superfamily signaling pathway,19_GO:0050896 response to stimulus,-4.9,17,8.6,30286,174,52,5,9.6,4.1,1278|1601|2331|4853|7048,COL1A2|DAB2|FMOD|NOTCH2|TGFBR2,-2.7
+MyList,GO Biological Processes,19,GO:0033273,response to vitamin,19_GO:0050896 response to stimulus,-4.9,28,10,30286,83,52,4,7.7,3.7,1277|7298|8854|56603,COL1A1|TYMS|ALDH1A2|CYP26B1,-2.7
+MyList,GO Biological Processes,19,GO:0001822,kidney development,19_GO:0032502 developmental process,-4.9,12,7.6,30286,303,52,6,12,4.4,4038|4811|4853|8826|8854|56603,LRP4|NID1|NOTCH2|IQGAP1|ALDH1A2|CYP26B1,-2.7
+MyList,GO Biological Processes,19,GO:0007162,negative regulation of cell adhesion,19_GO:0048519 negative regulation of biological process,-4.8,11,7.5,30286,310,52,6,12,4.4,972|1277|3123|3339|7045|7057,CD74|COL1A1|HLA-DRB1|HSPG2|TGFBI|THBS1,-2.6
+MyList,Reactome Gene Sets,6,R-HSA-400042,"Adrenaline,noradrenaline inhibits insulin secretion",,-4.8,62,13,30286,28,52,3,5.8,3.2,150|2786|9254,ADRA2A|GNG4|CACNA2D2,-2.6
+MyList,WikiPathways,27,WP5036,Angiotensin II receptor type 1 pathway,,-4.8,62,13,30286,28,52,3,5.8,3.2,1277|1278|7048,COL1A1|COL1A2|TGFBR2,-2.6
+MyList,GO Biological Processes,19,GO:0072001,renal system development,19_GO:0032502 developmental process,-4.8,11,7.5,30286,313,52,6,12,4.4,4038|4811|4853|8826|8854|56603,LRP4|NID1|NOTCH2|IQGAP1|ALDH1A2|CYP26B1,-2.6
+MyList,GO Biological Processes,19,GO:0043410,positive regulation of MAPK cascade,19_GO:0048518 positive regulation of biological process,-4.8,8.6,6.9,30286,475,52,7,13,4.7,150|972|1464|3123|4853|7057|8826,ADRA2A|CD74|CSPG4|HLA-DRB1|NOTCH2|THBS1|IQGAP1,-2.6
+MyList,GO Biological Processes,19,GO:0048736,appendage development,19_GO:0032502 developmental process,-4.8,16,8.3,30286,186,52,5,9.6,4.1,3691|4038|4853|8854|56603,ITGB4|LRP4|NOTCH2|ALDH1A2|CYP26B1,-2.6
+MyList,GO Biological Processes,19,GO:0060173,limb development,19_GO:0032502 developmental process,-4.8,16,8.3,30286,186,52,5,9.6,4.1,3691|4038|4853|8854|56603,ITGB4|LRP4|NOTCH2|ALDH1A2|CYP26B1,-2.6
+MyList,GO Biological Processes,19,GO:0043408,regulation of MAPK cascade,19_GO:0050896 response to stimulus,-4.8,7,6.5,30286,669,52,8,15,5,150|972|1464|1601|3123|4853|7057|8826,ADRA2A|CD74|CSPG4|DAB2|HLA-DRB1|NOTCH2|THBS1|IQGAP1,-2.6
+MyList,GO Biological Processes,19,GO:0007178,transmembrane receptor protein serine/threonine kinase signaling pathway,19_GO:0050896 response to stimulus,-4.8,16,8.3,30286,187,52,5,9.6,4.1,1278|1601|2331|4853|7048,COL1A2|DAB2|FMOD|NOTCH2|TGFBR2,-2.6
+MyList,Reactome Gene Sets,6,R-HSA-1474290,Collagen formation,,-4.8,26,9.8,30286,90,52,4,7.7,3.7,1277|1278|1293|3691,COL1A1|COL1A2|COL6A3|ITGB4,-2.6
+MyList,WikiPathways,27,WP453,Inflammatory response pathway,,-4.7,58,13,30286,30,52,3,5.8,3.2,1277|1278|7057,COL1A1|COL1A2|THBS1,-2.6
+MyList,Reactome Gene Sets,6,R-HSA-8874081,MET activates PTK2 signaling,,-4.7,58,13,30286,30,52,3,5.8,3.2,1277|1278|10319,COL1A1|COL1A2|LAMC3,-2.6
+MyList,GO Biological Processes,19,GO:0019886,antigen processing and presentation of exogenous peptide antigen via MHC class II,19_GO:0002376 immune system process,-4.7,56,13,30286,31,52,3,5.8,3.2,972|3120|3123,CD74|HLA-DQB2|HLA-DRB1,-2.5
+MyList,GO Biological Processes,19,GO:0060348,bone development,19_GO:0032502 developmental process,-4.7,15,8.1,30286,195,52,5,9.6,4.1,633|1277|4921|7048|56603,BGN|COL1A1|DDR2|TGFBR2|CYP26B1,-2.5
+MyList,GO Biological Processes,19,GO:0002495,antigen processing and presentation of peptide antigen via MHC class II,19_GO:0002376 immune system process,-4.6,53,12,30286,33,52,3,5.8,3.2,972|3120|3123,CD74|HLA-DQB2|HLA-DRB1,-2.5
+MyList,KEGG Pathway,24,hsa05205,Proteoglycans in cancer,,-4.6,14,7.9,30286,203,52,5,9.6,4.1,1277|1278|3339|7057|8826,COL1A1|COL1A2|HSPG2|THBS1|IQGAP1,-2.5
+MyList,GO Biological Processes,19,GO:0009954,proximal/distal pattern formation,19_GO:0032502 developmental process,-4.6,51,12,30286,34,52,3,5.8,3.2,4038|8854|56603,LRP4|ALDH1A2|CYP26B1,-2.4
+MyList,GO Biological Processes,19,GO:0002504,antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,19_GO:0002376 immune system process,-4.6,51,12,30286,34,52,3,5.8,3.2,972|3120|3123,CD74|HLA-DQB2|HLA-DRB1,-2.4
+MyList,GO Biological Processes,19,GO:0007179,transforming growth factor beta receptor signaling pathway,19_GO:0050896 response to stimulus,-4.6,23,9.2,30286,101,52,4,7.7,3.7,1278|1601|2331|7048,COL1A2|DAB2|FMOD|TGFBR2,-2.4
+MyList,GO Biological Processes,19,GO:0045765,regulation of angiogenesis,19_GO:0032502 developmental process,-4.5,9.9,7,30286,353,52,6,12,4.4,718|3339|6678|7048|7057|7058,C3|HSPG2|SPARC|TGFBR2|THBS1|THBS2,-2.4
+MyList,GO Biological Processes,19,GO:0090100,positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway,19_GO:0048518 positive regulation of biological process,-4.5,22,9,30286,105,52,4,7.7,3.7,1601|4853|7048|7057,DAB2|NOTCH2|TGFBR2|THBS1,-2.4
+MyList,GO Biological Processes,19,GO:0031214,biomineral tissue development,19_GO:0032502 developmental process,-4.5,22,9,30286,105,52,4,7.7,3.7,1277|1278|4921|5167,COL1A1|COL1A2|DDR2|ENPP1,-2.4
+MyList,GO Biological Processes,19,GO:0043549,regulation of kinase activity,19_GO:0008152 metabolic process,-4.5,7.7,6.4,30286,532,52,7,13,4.7,150|972|3123|4921|7048|7057|8826,ADRA2A|CD74|HLA-DRB1|DDR2|TGFBR2|THBS1|IQGAP1,-2.4
+MyList,Reactome Gene Sets,6,R-HSA-9006934,Signaling by Receptor Tyrosine Kinases,,-4.5,7.6,6.4,30286,534,52,7,13,4.7,1277|1278|1293|6678|7057|7058|10319,COL1A1|COL1A2|COL6A3|SPARC|THBS1|THBS2|LAMC3,-2.4
+MyList,GO Biological Processes,19,GO:1901342,regulation of vasculature development,19_GO:0032502 developmental process,-4.4,9.7,6.9,30286,362,52,6,12,4.4,718|3339|6678|7048|7057|7058,C3|HSPG2|SPARC|TGFBR2|THBS1|THBS2,-2.3
+MyList,Reactome Gene Sets,6,R-HSA-163685,Integration of energy metabolism,,-4.4,22,8.9,30286,108,52,4,7.7,3.7,150|2786|8826|9254,ADRA2A|GNG4|IQGAP1|CACNA2D2,-2.3
+MyList,GO Biological Processes,19,GO:0050867,positive regulation of cell activation,19_GO:0048518 positive regulation of biological process,-4.3,9.2,6.7,30286,380,52,6,12,4.4,972|3120|3123|4921|7048|7057,CD74|HLA-DQB2|HLA-DRB1|DDR2|TGFBR2|THBS1,-2.2
+MyList,GO Biological Processes,19,GO:0061448,connective tissue development,19_GO:0032502 developmental process,-4.3,13,7.3,30286,231,52,5,9.6,4.1,633|1277|7045|7048|7298,BGN|COL1A1|TGFBI|TGFBR2|TYMS,-2.2
+MyList,Reactome Gene Sets,6,R-HSA-8875878,MET promotes cell motility,,-4.3,43,11,30286,41,52,3,5.8,3.2,1277|1278|10319,COL1A1|COL1A2|LAMC3,-2.2
+MyList,GO Biological Processes,19,GO:0002478,antigen processing and presentation of exogenous peptide antigen,19_GO:0002376 immune system process,-4.3,43,11,30286,41,52,3,5.8,3.2,972|3120|3123,CD74|HLA-DQB2|HLA-DRB1,-2.2
+MyList,GO Biological Processes,19,GO:0071364,cellular response to epidermal growth factor stimulus,19_GO:0050896 response to stimulus,-4.3,42,11,30286,42,52,3,5.8,3.2,1277|1601|8826,COL1A1|DAB2|IQGAP1,-2.2
+MyList,Reactome Gene Sets,6,R-HSA-2173782,Binding and Uptake of Ligands by Scavenger Receptors,,-4.3,42,11,30286,42,52,3,5.8,3.2,1277|1278|6678,COL1A1|COL1A2|SPARC,-2.2
+MyList,GO Biological Processes,19,GO:0042476,odontogenesis,19_GO:0032502 developmental process,-4.2,19,8.3,30286,121,52,4,7.7,3.7,1277|1278|4038|6331,COL1A1|COL1A2|LRP4|SCN5A,-2.2
+MyList,GO Biological Processes,19,GO:0035113,embryonic appendage morphogenesis,19_GO:0032502 developmental process,-4.2,19,8.3,30286,122,52,4,7.7,3.7,4038|4853|8854|56603,LRP4|NOTCH2|ALDH1A2|CYP26B1,-2.2
+MyList,GO Biological Processes,19,GO:0030326,embryonic limb morphogenesis,19_GO:0032502 developmental process,-4.2,19,8.3,30286,122,52,4,7.7,3.7,4038|4853|8854|56603,LRP4|NOTCH2|ALDH1A2|CYP26B1,-2.2
+MyList,Canonical Pathways,11,M3005,NABA COLLAGENS,,-4.2,40,11,30286,44,52,3,5.8,3.2,1277|1278|1293,COL1A1|COL1A2|COL6A3,-2.2
+MyList,Reactome Gene Sets,6,R-HSA-8948216,Collagen chain trimerization,,-4.2,40,11,30286,44,52,3,5.8,3.2,1277|1278|1293,COL1A1|COL1A2|COL6A3,-2.2
+MyList,GO Biological Processes,19,GO:0048598,embryonic morphogenesis,19_GO:0032502 developmental process,-4.2,6.9,6,30286,587,52,7,13,4.7,3691|4038|4853|7048|8854|25861|56603,ITGB4|LRP4|NOTCH2|TGFBR2|ALDH1A2|WHRN|CYP26B1,-2.1
+MyList,Canonical Pathways,11,M198,PID SYNDECAN 1 PATHWAY,,-4.2,38,10,30286,46,52,3,5.8,3.2,1277|1278|1293,COL1A1|COL1A2|COL6A3,-2.1
+MyList,GO Biological Processes,19,GO:0070849,response to epidermal growth factor,19_GO:0050896 response to stimulus,-4.2,38,10,30286,46,52,3,5.8,3.2,1277|1601|8826,COL1A1|DAB2|IQGAP1,-2.1
+MyList,WikiPathways,27,WP4217,Ebola virus infection in host,,-4.1,18,8.1,30286,129,52,4,7.7,3.7,2318|3120|3123|8826,FLNC|HLA-DQB2|HLA-DRB1|IQGAP1,-2.1
+MyList,KEGG Pathway,24,hsa04926,Relaxin signaling pathway,,-4.1,18,8.1,30286,129,52,4,7.7,3.7,1277|1278|2786|7048,COL1A1|COL1A2|GNG4|TGFBR2,-2.1
+MyList,GO Biological Processes,19,GO:0003002,regionalization,19_GO:0032502 developmental process,-4.1,8.5,6.3,30286,412,52,6,12,4.4,718|4038|4853|7048|8854|56603,C3|LRP4|NOTCH2|TGFBR2|ALDH1A2|CYP26B1,-2.1
+MyList,GO Biological Processes,19,GO:0051259,protein complex oligomerization,19_GO:0009987 cellular process,-4.1,11,6.9,30286,254,52,5,9.6,4.1,972|1278|3123|8854|23089,CD74|COL1A2|HLA-DRB1|ALDH1A2|PEG10,-2.1
+MyList,GO Biological Processes,19,GO:0032989,cellular anatomical entity morphogenesis,19_GO:0032502 developmental process,-4.1,6.7,5.9,30286,605,52,7,13,4.7,2318|3691|4038|4853|8826|51299|56288,FLNC|ITGB4|LRP4|NOTCH2|IQGAP1|NRN1|PARD3,-2.1
+MyList,GO Biological Processes,19,GO:0045860,positive regulation of protein kinase activity,19_GO:0048518 positive regulation of biological process,-4.1,11,6.9,30286,256,52,5,9.6,4.1,150|4921|7048|7057|8826,ADRA2A|DDR2|TGFBR2|THBS1|IQGAP1,-2.1
+MyList,Reactome Gene Sets,6,R-HSA-1793185,Chondroitin sulfate/dermatan sulfate metabolism,,-4.1,35,10,30286,50,52,3,5.8,3.2,633|1464|3339,BGN|CSPG4|HSPG2,-2
+MyList,GO Biological Processes,19,GO:0019884,antigen processing and presentation of exogenous antigen,19_GO:0002376 immune system process,-4.1,35,10,30286,50,52,3,5.8,3.2,972|3120|3123,CD74|HLA-DQB2|HLA-DRB1,-2
+MyList,GO Biological Processes,19,GO:0009410,response to xenobiotic stimulus,19_GO:0050896 response to stimulus,-4,8.2,6.2,30286,428,52,6,12,4.4,1277|3339|7048|7057|7298|56603,COL1A1|HSPG2|TGFBR2|THBS1|TYMS|CYP26B1,-2
+MyList,GO Biological Processes,19,GO:0050865,regulation of cell activation,19_GO:0032501 multicellular organismal process,-4,6.5,5.8,30286,630,52,7,13,4.7,972|3120|3123|4921|7048|7057|56603,CD74|HLA-DQB2|HLA-DRB1|DDR2|TGFBR2|THBS1|CYP26B1,-2
+MyList,WikiPathways,27,WP5144,NRP1 triggered signaling pathways in pancreatic cancer,,-4,33,9.7,30286,53,52,3,5.8,3.2,1277|1278|7048,COL1A1|COL1A2|TGFBR2,-1.9
+MyList,GO Biological Processes,19,GO:0051338,regulation of transferase activity,19_GO:0065007 biological regulation,-4,6.4,5.7,30286,639,52,7,13,4.7,150|972|3123|4921|7048|7057|8826,ADRA2A|CD74|HLA-DRB1|DDR2|TGFBR2|THBS1|IQGAP1,-1.9
+MyList,GO Biological Processes,19,GO:0043588,skin development,19_GO:0032502 developmental process,-3.9,10,6.6,30286,279,52,5,9.6,4.1,1277|1278|3691|4038|56603,COL1A1|COL1A2|ITGB4|LRP4|CYP26B1,-1.9
+MyList,GO Biological Processes,19,GO:0009749,response to glucose,19_GO:0050896 response to stimulus,-3.9,16,7.4,30286,149,52,4,7.7,3.7,1277|1293|7057|10723,COL1A1|COL6A3|THBS1|SLC12A7,-1.9
+MyList,GO Biological Processes,19,GO:0035107,appendage morphogenesis,19_GO:0032502 developmental process,-3.9,16,7.4,30286,150,52,4,7.7,3.7,4038|4853|8854|56603,LRP4|NOTCH2|ALDH1A2|CYP26B1,-1.9
+MyList,GO Biological Processes,19,GO:0035108,limb morphogenesis,19_GO:0032502 developmental process,-3.9,16,7.4,30286,150,52,4,7.7,3.7,4038|4853|8854|56603,LRP4|NOTCH2|ALDH1A2|CYP26B1,-1.9
+MyList,Reactome Gene Sets,6,R-HSA-1638091,Heparan sulfate/heparin (HS-GAG) metabolism,,-3.9,31,9.3,30286,57,52,3,5.8,3.2,633|1464|3339,BGN|CSPG4|HSPG2,-1.9
+MyList,GO Biological Processes,19,GO:0007389,pattern specification process,19_GO:0032502 developmental process,-3.9,7.6,5.9,30286,459,52,6,12,4.4,718|4038|4853|7048|8854|56603,C3|LRP4|NOTCH2|TGFBR2|ALDH1A2|CYP26B1,-1.9
+MyList,KEGG Pathway,24,hsa04145,Phagosome,,-3.9,15,7.3,30286,152,52,4,7.7,3.7,718|3123|7057|7058,C3|HLA-DRB1|THBS1|THBS2,-1.9
+MyList,GO Biological Processes,19,GO:0032835,glomerulus development,19_GO:0032502 developmental process,-3.9,30,9.2,30286,58,52,3,5.8,3.2,4811|4853|8826,NID1|NOTCH2|IQGAP1,-1.9
+MyList,Reactome Gene Sets,6,R-HSA-186797,Signaling by PDGF,,-3.9,30,9.2,30286,58,52,3,5.8,3.2,1293|7057|7058,COL6A3|THBS1|THBS2,-1.9
+MyList,Reactome Gene Sets,6,R-HSA-71387,Metabolism of carbohydrates,,-3.9,10,6.4,30286,290,52,5,9.6,4.1,633|1464|2331|3339|5549,BGN|CSPG4|FMOD|HSPG2|PRELP,-1.8
+MyList,GO Biological Processes,19,GO:0016525,negative regulation of angiogenesis,19_GO:0032502 developmental process,-3.9,15,7.3,30286,153,52,4,7.7,3.7,3339|6678|7057|7058,HSPG2|SPARC|THBS1|THBS2,-1.8
+MyList,Reactome Gene Sets,6,R-HSA-1500931,Cell-Cell communication,,-3.9,15,7.3,30286,153,52,4,7.7,3.7,2318|3691|8826|56288,FLNC|ITGB4|IQGAP1|PARD3,-1.8
+MyList,GO Biological Processes,19,GO:0009746,response to hexose,19_GO:0050896 response to stimulus,-3.8,15,7.3,30286,154,52,4,7.7,3.7,1277|1293|7057|10723,COL1A1|COL6A3|THBS1|SLC12A7,-1.8
+MyList,GO Biological Processes,19,GO:0010718,positive regulation of epithelial to mesenchymal transition,19_GO:0032502 developmental process,-3.8,30,9.1,30286,59,52,3,5.8,3.2,1277|1601|7048,COL1A1|DAB2|TGFBR2,-1.8
+MyList,GO Biological Processes,19,GO:2000181,negative regulation of blood vessel morphogenesis,19_GO:0032502 developmental process,-3.8,15,7.3,30286,155,52,4,7.7,3.7,3339|6678|7057|7058,HSPG2|SPARC|THBS1|THBS2,-1.8
+MyList,GO Biological Processes,19,GO:0007584,response to nutrient,19_GO:0050896 response to stimulus,-3.8,15,7.2,30286,156,52,4,7.7,3.7,1277|7298|8854|56603,COL1A1|TYMS|ALDH1A2|CYP26B1,-1.8
+MyList,GO Biological Processes,19,GO:1901343,negative regulation of vasculature development,19_GO:0032502 developmental process,-3.8,15,7.2,30286,157,52,4,7.7,3.7,3339|6678|7057|7058,HSPG2|SPARC|THBS1|THBS2,-1.8
+MyList,GO Biological Processes,19,GO:0000902,cell morphogenesis,19_GO:0032502 developmental process,-3.8,6,5.5,30286,681,52,7,13,4.7,4038|4853|8826|10319|25861|51299|56288,LRP4|NOTCH2|IQGAP1|LAMC3|WHRN|NRN1|PARD3,-1.8
+MyList,GO Biological Processes,19,GO:0035239,tube morphogenesis,19_GO:0032502 developmental process,-3.8,6,5.5,30286,682,52,7,13,4.7,1464|3339|4853|7045|7048|7057|154810,CSPG4|HSPG2|NOTCH2|TGFBI|TGFBR2|THBS1|AMOTL1,-1.8
+MyList,GO Biological Processes,19,GO:0002763,positive regulation of myeloid leukocyte differentiation,19_GO:0002376 immune system process,-3.8,28,8.9,30286,62,52,3,5.8,3.2,972|3123|4853,CD74|HLA-DRB1|NOTCH2,-1.8
+MyList,GO Biological Processes,19,GO:0034284,response to monosaccharide,19_GO:0050896 response to stimulus,-3.8,14,7.1,30286,161,52,4,7.7,3.7,1277|1293|7057|10723,COL1A1|COL6A3|THBS1|SLC12A7,-1.8
+MyList,GO Biological Processes,19,GO:0045785,positive regulation of cell adhesion,19_GO:0048518 positive regulation of biological process,-3.7,7.2,5.7,30286,485,52,6,12,4.4,972|1601|3120|3123|4811|7048,CD74|DAB2|HLA-DQB2|HLA-DRB1|NID1|TGFBR2,-1.8
+MyList,Reactome Gene Sets,6,R-HSA-1442490,Collagen degradation,,-3.7,27,8.7,30286,64,52,3,5.8,3.2,1277|1278|1293,COL1A1|COL1A2|COL6A3,-1.8
+MyList,GO Biological Processes,19,GO:0090303,positive regulation of wound healing,19_GO:0048518 positive regulation of biological process,-3.7,27,8.7,30286,65,52,3,5.8,3.2,150|4921|7057,ADRA2A|DDR2|THBS1,-1.7
+MyList,GO Biological Processes,19,GO:0003205,cardiac chamber development,19_GO:0032502 developmental process,-3.7,14,6.9,30286,168,52,4,7.7,3.7,4853|4887|6331|7048,NOTCH2|NPY2R|SCN5A|TGFBR2,-1.7
+MyList,GO Biological Processes,19,GO:0090092,regulation of transmembrane receptor protein serine/threonine kinase signaling pathway,19_GO:0050896 response to stimulus,-3.7,9.2,6.1,30286,317,52,5,9.6,4.1,1601|4853|7048|7057|23089,DAB2|NOTCH2|TGFBR2|THBS1|PEG10,-1.7
+MyList,Reactome Gene Sets,6,R-HSA-1650814,Collagen biosynthesis and modifying enzymes,,-3.7,26,8.5,30286,67,52,3,5.8,3.2,1277|1278|1293,COL1A1|COL1A2|COL6A3,-1.7
+MyList,GO Biological Processes,19,GO:0071300,cellular response to retinoic acid,19_GO:0050896 response to stimulus,-3.7,26,8.5,30286,68,52,3,5.8,3.2,1277|8854|56603,COL1A1|ALDH1A2|CYP26B1,-1.7
+MyList,Reactome Gene Sets,6,R-HSA-3906995,Diseases associated with O-glycosylation of proteins,,-3.6,25,8.4,30286,69,52,3,5.8,3.2,4853|7057|7058,NOTCH2|THBS1|THBS2,-1.7
+MyList,GO Biological Processes,19,GO:0048002,antigen processing and presentation of peptide antigen,19_GO:0002376 immune system process,-3.6,25,8.3,30286,70,52,3,5.8,3.2,972|3120|3123,CD74|HLA-DQB2|HLA-DRB1,-1.7
+MyList,GO Biological Processes,19,GO:1902105,regulation of leukocyte differentiation,19_GO:0002376 immune system process,-3.6,8.9,5.9,30286,328,52,5,9.6,4.1,972|3123|4853|7048|56603,CD74|HLA-DRB1|NOTCH2|TGFBR2|CYP26B1,-1.6
+MyList,GO Biological Processes,19,GO:0001936,regulation of endothelial cell proliferation,19_GO:0050789 regulation of biological process,-3.6,13,6.6,30286,181,52,4,7.7,3.7,3339|6678|7057|8854,HSPG2|SPARC|THBS1|ALDH1A2,-1.6
+MyList,GO Biological Processes,19,GO:0045580,regulation of T cell differentiation,19_GO:0002376 immune system process,-3.6,13,6.6,30286,183,52,4,7.7,3.7,972|3123|7048|56603,CD74|HLA-DRB1|TGFBR2|CYP26B1,-1.6
+MyList,GO Biological Processes,19,GO:0009743,response to carbohydrate,19_GO:0050896 response to stimulus,-3.5,13,6.6,30286,185,52,4,7.7,3.7,1277|1293|7057|10723,COL1A1|COL6A3|THBS1|SLC12A7,-1.6
+MyList,GO Biological Processes,19,GO:0034330,cell junction organization,19_GO:0009987 cellular process,-3.5,6.6,5.4,30286,533,52,6,12,4.4,718|3691|4038|9254|25861|56288,C3|ITGB4|LRP4|CACNA2D2|WHRN|PARD3,-1.6
+MyList,GO Biological Processes,19,GO:1902107,positive regulation of leukocyte differentiation,19_GO:0002376 immune system process,-3.5,12,6.5,30286,190,52,4,7.7,3.7,972|3123|4853|7048,CD74|HLA-DRB1|NOTCH2|TGFBR2,-1.5
+MyList,GO Biological Processes,19,GO:1903708,positive regulation of hemopoiesis,19_GO:0002376 immune system process,-3.5,12,6.5,30286,190,52,4,7.7,3.7,972|3123|4853|7048,CD74|HLA-DRB1|NOTCH2|TGFBR2,-1.5
+MyList,Reactome Gene Sets,6,R-HSA-6806834,Signaling by MET,,-3.5,22,7.8,30286,79,52,3,5.8,3.2,1277|1278|10319,COL1A1|COL1A2|LAMC3,-1.5
+MyList,GO Biological Processes,19,GO:0060322,head development,19_GO:0032502 developmental process,-3.5,5.2,5,30286,778,52,7,13,4.7,1277|3339|6331|7048|8854|25861|317762,COL1A1|HSPG2|SCN5A|TGFBR2|ALDH1A2|WHRN|CCDC85C,-1.5
+MyList,GO Biological Processes,19,GO:1903036,positive regulation of response to wounding,19_GO:0048518 positive regulation of biological process,-3.4,22,7.7,30286,80,52,3,5.8,3.2,150|4921|7057,ADRA2A|DDR2|THBS1,-1.5
+MyList,GO Biological Processes,19,GO:0009725,response to hormone,19_GO:0050896 response to stimulus,-3.4,5.2,4.9,30286,785,52,7,13,4.7,150|1277|1601|4921|5167|7057|7298,ADRA2A|COL1A1|DAB2|DDR2|ENPP1|THBS1|TYMS,-1.5
+MyList,GO Biological Processes,19,GO:0008285,negative regulation of cell population proliferation,19_GO:0048519 negative regulation of biological process,-3.4,5.2,4.9,30286,791,52,7,13,4.7,1601|3123|3339|5784|6678|7057|8854,DAB2|HLA-DRB1|HSPG2|PTPN14|SPARC|THBS1|ALDH1A2,-1.5
+MyList,GO Biological Processes,19,GO:0002696,positive regulation of leukocyte activation,19_GO:0002376 immune system process,-3.4,8,5.6,30286,362,52,5,9.6,4.1,972|3120|3123|7048|7057,CD74|HLA-DQB2|HLA-DRB1|TGFBR2|THBS1,-1.5
+MyList,GO Biological Processes,19,GO:0006954,inflammatory response,19_GO:0050896 response to stimulus,-3.4,6.2,5.2,30286,563,52,6,12,4.4,718|3123|3339|4853|7057|56603,C3|HLA-DRB1|HSPG2|NOTCH2|THBS1|CYP26B1,-1.5
+MyList,GO Biological Processes,19,GO:0051149,positive regulation of muscle cell differentiation,19_GO:0032502 developmental process,-3.4,21,7.5,30286,85,52,3,5.8,3.2,4811|4853|56603,NID1|NOTCH2|CYP26B1,-1.4
+MyList,GO Biological Processes,19,GO:0002694,regulation of leukocyte activation,19_GO:0002376 immune system process,-3.4,6.1,5.1,30286,573,52,6,12,4.4,972|3120|3123|7048|7057|56603,CD74|HLA-DQB2|HLA-DRB1|TGFBR2|THBS1|CYP26B1,-1.4
+MyList,GO Biological Processes,19,GO:0007423,sensory organ development,19_GO:0032502 developmental process,-3.3,6,5.1,30286,581,52,6,12,4.4,4853|7048|8854|10319|25861|56603,NOTCH2|TGFBR2|ALDH1A2|LAMC3|WHRN|CYP26B1,-1.4
+MyList,GO Biological Processes,19,GO:0050863,regulation of T cell activation,19_GO:0002376 immune system process,-3.3,7.6,5.4,30286,382,52,5,9.6,4.1,972|3120|3123|7048|56603,CD74|HLA-DQB2|HLA-DRB1|TGFBR2|CYP26B1,-1.4
+MyList,GO Biological Processes,19,GO:0045619,regulation of lymphocyte differentiation,19_GO:0002376 immune system process,-3.3,11,6,30286,215,52,4,7.7,3.7,972|3123|7048|56603,CD74|HLA-DRB1|TGFBR2|CYP26B1,-1.4
+MyList,GO Biological Processes,19,GO:0150063,visual system development,19_GO:0032502 developmental process,-3.3,7.6,5.4,30286,385,52,5,9.6,4.1,718|4853|7048|8854|10319,C3|NOTCH2|TGFBR2|ALDH1A2|LAMC3,-1.4
+MyList,GO Biological Processes,19,GO:0097435,supramolecular fiber organization,19_GO:0009987 cellular process,-3.3,5.9,5,30286,592,52,6,12,4.4,1277|1278|2318|2331|4921|8826,COL1A1|COL1A2|FLNC|FMOD|DDR2|IQGAP1,-1.4
+MyList,GO Biological Processes,19,GO:0009612,response to mechanical stimulus,19_GO:0050896 response to stimulus,-3.3,11,6,30286,216,52,4,7.7,3.7,1277|4921|7057|25861,COL1A1|DDR2|THBS1|WHRN,-1.4
+MyList,GO Biological Processes,19,GO:0048880,sensory system development,19_GO:0032502 developmental process,-3.3,7.4,5.3,30286,391,52,5,9.6,4.1,718|4853|7048|8854|10319,C3|NOTCH2|TGFBR2|ALDH1A2|LAMC3,-1.3
+MyList,KEGG Pathway,24,hsa04520,Adherens junction,,-3.3,19,7.1,30286,93,52,3,5.8,3.2,7048|8826|56288,TGFBR2|IQGAP1|PARD3,-1.3
+MyList,GO Biological Processes,19,GO:0010810,regulation of cell-substrate adhesion,19_GO:0050789 regulation of biological process,-3.2,11,5.9,30286,221,52,4,7.7,3.7,1277|1601|4811|7057,COL1A1|DAB2|NID1|THBS1,-1.3
+MyList,Reactome Gene Sets,6,R-HSA-170834,Signaling by TGF-beta Receptor Complex,,-3.2,19,7.1,30286,94,52,3,5.8,3.2,1278|7048|56288,COL1A2|TGFBR2|PARD3,-1.3
+MyList,GO Biological Processes,19,GO:0050953,sensory perception of light stimulus,19_GO:0032501 multicellular organismal process,-3.2,10,5.9,30286,223,52,4,7.7,3.7,1277|7045|10319|25861,COL1A1|TGFBI|LAMC3|WHRN,-1.3
+MyList,GO Biological Processes,19,GO:0060349,bone morphogenesis,19_GO:0032502 developmental process,-3.2,18,6.9,30286,99,52,3,5.8,3.2,1277|7048|56603,COL1A1|TGFBR2|CYP26B1,-1.3
+MyList,KEGG Pathway,24,hsa04933,AGE-RAGE signaling pathway in diabetic complications,,-3.2,17,6.8,30286,100,52,3,5.8,3.2,1277|1278|7048,COL1A1|COL1A2|TGFBR2,-1.3
+MyList,GO Biological Processes,19,GO:0030855,epithelial cell differentiation,19_GO:0032502 developmental process,-3.1,5.5,4.8,30286,631,52,6,12,4.4,1601|4853|7298|8826|25861|56603,DAB2|NOTCH2|TYMS|IQGAP1|WHRN|CYP26B1,-1.2
+MyList,KEGG Pathway,24,hsa05146,Amoebiasis,,-3.1,17,6.8,30286,102,52,3,5.8,3.2,1277|1278|10319,COL1A1|COL1A2|LAMC3,-1.2
+MyList,KEGG Pathway,24,hsa04974,Protein digestion and absorption,,-3.1,17,6.7,30286,103,52,3,5.8,3.2,1277|1278|1293,COL1A1|COL1A2|COL6A3,-1.2
+MyList,GO Biological Processes,19,GO:0019882,antigen processing and presentation,19_GO:0002376 immune system process,-3.1,17,6.7,30286,104,52,3,5.8,3.2,972|3120|3123,CD74|HLA-DQB2|HLA-DRB1,-1.2
+MyList,GO Biological Processes,19,GO:0045639,positive regulation of myeloid cell differentiation,19_GO:0002376 immune system process,-3.1,17,6.7,30286,105,52,3,5.8,3.2,972|3123|4853,CD74|HLA-DRB1|NOTCH2,-1.2
+MyList,GO Biological Processes,19,GO:1903706,regulation of hemopoiesis,19_GO:0002376 immune system process,-3.1,6.9,5,30286,424,52,5,9.6,4.1,972|3123|4853|7048|56603,CD74|HLA-DRB1|NOTCH2|TGFBR2|CYP26B1,-1.2
+MyList,GO Biological Processes,19,GO:0032526,response to retinoic acid,19_GO:0050896 response to stimulus,-3.1,16,6.6,30286,106,52,3,5.8,3.2,1277|8854|56603,COL1A1|ALDH1A2|CYP26B1,-1.2
+MyList,GO Biological Processes,19,GO:0035265,organ growth,19_GO:0040007 growth,-3.1,16,6.6,30286,107,52,3,5.8,3.2,4921|7048|9254,DDR2|TGFBR2|CACNA2D2,-1.2
+MyList,KEGG Pathway,24,hsa04350,TGF-beta signaling pathway,,-3.1,16,6.6,30286,108,52,3,5.8,3.2,2331|7048|7057,FMOD|TGFBR2|THBS1,-1.2
+MyList,GO Biological Processes,19,GO:0050870,positive regulation of T cell activation,19_GO:0002376 immune system process,-3,9.2,5.4,30286,253,52,4,7.7,3.7,972|3120|3123|7048,CD74|HLA-DQB2|HLA-DRB1|TGFBR2,-1.1
+MyList,GO Biological Processes,19,GO:0048588,developmental cell growth,19_GO:0040007 growth,-3,15,6.4,30286,113,52,3,5.8,3.2,7048|8826|51299,TGFBR2|IQGAP1|NRN1,-1.1
+MyList,GO Biological Processes,19,GO:0016049,cell growth,19_GO:0040007 growth,-3,15,6.3,30286,115,52,3,5.8,3.2,7048|8826|51299,TGFBR2|IQGAP1|NRN1,-1.1
+MyList,Reactome Gene Sets,6,R-HSA-446728,Cell junction organization,,-3,15,6.3,30286,115,52,3,5.8,3.2,2318|3691|56288,FLNC|ITGB4|PARD3,-1.1
+MyList,GO Biological Processes,19,GO:0003007,heart morphogenesis,19_GO:0032502 developmental process,-3,8.9,5.3,30286,263,52,4,7.7,3.7,4853|4887|7048|8854,NOTCH2|NPY2R|TGFBR2|ALDH1A2,-1.1
+MyList,GO Biological Processes,19,GO:0045582,positive regulation of T cell differentiation,19_GO:0002376 immune system process,-2.9,15,6.2,30286,119,52,3,5.8,3.2,972|3123|7048,CD74|HLA-DRB1|TGFBR2,-1.1
+MyList,GO Biological Processes,19,GO:0031175,neuron projection development,19_GO:0032502 developmental process,-2.9,5.1,4.5,30286,691,52,6,12,4.4,4038|4853|8826|25861|51299|56288,LRP4|NOTCH2|IQGAP1|WHRN|NRN1|PARD3,-1.1
+MyList,GO Biological Processes,19,GO:0010717,regulation of epithelial to mesenchymal transition,19_GO:0032502 developmental process,-2.9,15,6.2,30286,120,52,3,5.8,3.2,1277|1601|7048,COL1A1|DAB2|TGFBR2,-1.1
+MyList,GO Biological Processes,19,GO:0030278,regulation of ossification,19_GO:0032501 multicellular organismal process,-2.9,14,6.1,30286,122,52,3,5.8,3.2,4038|4921|5167,LRP4|DDR2|ENPP1,-1
+MyList,GO Biological Processes,19,GO:0042063,gliogenesis,19_GO:0032502 developmental process,-2.9,8.6,5.2,30286,272,52,4,7.7,3.7,1464|3691|10319|56288,CSPG4|ITGB4|LAMC3|PARD3,-1
+MyList,Reactome Gene Sets,6,R-HSA-2132295,MHC class II antigen presentation,,-2.9,14,6.1,30286,123,52,3,5.8,3.2,972|3120|3123,CD74|HLA-DQB2|HLA-DRB1,-1
+MyList,GO Biological Processes,19,GO:0045859,regulation of protein kinase activity,19_GO:0008152 metabolic process,-2.9,6.2,4.7,30286,470,52,5,9.6,4.1,150|4921|7048|7057|8826,ADRA2A|DDR2|TGFBR2|THBS1|IQGAP1,-1
+MyList,KEGG Pathway,24,hsa04611,Platelet activation,,-2.9,14,6.1,30286,124,52,3,5.8,3.2,1277|1278|7450,COL1A1|COL1A2|VWF,-1
+MyList,Reactome Gene Sets,6,R-HSA-9006936,Signaling by TGFB family members,,-2.9,14,6.1,30286,124,52,3,5.8,3.2,1278|7048|56288,COL1A2|TGFBR2|PARD3,-1
+MyList,WikiPathways,27,WP4657,22q11 2 copy number variation syndrome,,-2.9,14,6,30286,125,52,3,5.8,3.2,7450|8854|56603,VWF|ALDH1A2|CYP26B1,-1
+MyList,GO Biological Processes,19,GO:1903039,positive regulation of leukocyte cell-cell adhesion,19_GO:0048518 positive regulation of biological process,-2.9,8.4,5.1,30286,277,52,4,7.7,3.7,972|3120|3123|7048,CD74|HLA-DQB2|HLA-DRB1|TGFBR2,-1
+MyList,GO Biological Processes,19,GO:0098657,import into cell,19_GO:0051179 localization,-2.9,4.9,4.4,30286,709,52,6,12,4.4,1601|3339|4038|5167|7057|10723,DAB2|HSPG2|LRP4|ENPP1|THBS1|SLC12A7,-1
+MyList,GO Biological Processes,19,GO:0198738,cell-cell signaling by wnt,19_GO:0050789 regulation of biological process,-2.9,8.4,5.1,30286,278,52,4,7.7,3.7,1601|4038|4811|154810,DAB2|LRP4|NID1|AMOTL1,-1
+MyList,GO Biological Processes,19,GO:0016055,Wnt signaling pathway,19_GO:0050896 response to stimulus,-2.9,8.4,5.1,30286,278,52,4,7.7,3.7,1601|4038|4811|154810,DAB2|LRP4|NID1|AMOTL1,-1
+MyList,GO Biological Processes,19,GO:0021782,glial cell development,19_GO:0032502 developmental process,-2.9,14,6,30286,126,52,3,5.8,3.2,3691|10319|56288,ITGB4|LAMC3|PARD3,-1
+MyList,GO Biological Processes,19,GO:0003206,cardiac chamber morphogenesis,19_GO:0032502 developmental process,-2.9,14,6,30286,127,52,3,5.8,3.2,4853|4887|7048,NOTCH2|NPY2R|TGFBR2,-1
+MyList,GO Biological Processes,19,GO:0003231,cardiac ventricle development,19_GO:0032502 developmental process,-2.9,14,6,30286,127,52,3,5.8,3.2,4887|6331|7048,NPY2R|SCN5A|TGFBR2,-1
+MyList,GO Biological Processes,19,GO:0046683,response to organophosphorus,19_GO:0050896 response to stimulus,-2.9,14,5.9,30286,128,52,3,5.8,3.2,1277|5167|7298,COL1A1|ENPP1|TYMS,-1
+MyList,GO Biological Processes,19,GO:0002761,regulation of myeloid leukocyte differentiation,19_GO:0002376 immune system process,-2.9,14,5.9,30286,128,52,3,5.8,3.2,972|3123|4853,CD74|HLA-DRB1|NOTCH2,-1
+MyList,GO Biological Processes,19,GO:0048545,response to steroid hormone,19_GO:0050896 response to stimulus,-2.8,8.2,5.1,30286,283,52,4,7.7,3.7,1277|1601|7057|7298,COL1A1|DAB2|THBS1|TYMS,-0.99
+MyList,GO Biological Processes,19,GO:0048812,neuron projection morphogenesis,19_GO:0032502 developmental process,-2.8,6,4.6,30286,484,52,5,9.6,4.1,4038|4853|8826|51299|56288,LRP4|NOTCH2|IQGAP1|NRN1|PARD3,-0.99
+MyList,Reactome Gene Sets,6,R-HSA-114608,Platelet degranulation,,-2.8,14,5.9,30286,129,52,3,5.8,3.2,6678|7057|7450,SPARC|THBS1|VWF,-0.99
+MyList,GO Biological Processes,19,GO:0001503,ossification,19_GO:0032501 multicellular organismal process,-2.8,8.2,5,30286,285,52,4,7.7,3.7,1277|1278|4921|5167,COL1A1|COL1A2|DDR2|ENPP1,-0.99
+MyList,GO Biological Processes,19,GO:0001775,cell activation,19_GO:0032501 multicellular organismal process,-2.8,4.8,4.3,30286,726,52,6,12,4.4,150|972|4853|7048|7450|56603,ADRA2A|CD74|NOTCH2|TGFBR2|VWF|CYP26B1,-0.98
+MyList,GO Biological Processes,19,GO:0034762,regulation of transmembrane transport,19_GO:0051179 localization,-2.8,6,4.6,30286,489,52,5,9.6,4.1,150|718|5167|6331|7057,ADRA2A|C3|ENPP1|SCN5A|THBS1,-0.98
+MyList,GO Biological Processes,19,GO:0120039,plasma membrane bounded cell projection morphogenesis,19_GO:0032502 developmental process,-2.8,6,4.6,30286,489,52,5,9.6,4.1,4038|4853|8826|51299|56288,LRP4|NOTCH2|IQGAP1|NRN1|PARD3,-0.98
+MyList,GO Biological Processes,19,GO:0007420,brain development,19_GO:0032502 developmental process,-2.8,4.8,4.3,30286,729,52,6,12,4.4,3339|6331|7048|8854|25861|317762,HSPG2|SCN5A|TGFBR2|ALDH1A2|WHRN|CCDC85C,-0.97
+MyList,GO Biological Processes,19,GO:0030010,establishment of cell polarity,19_GO:0009987 cellular process,-2.8,13,5.8,30286,132,52,3,5.8,3.2,56288|56603|154810,PARD3|CYP26B1|AMOTL1,-0.97
+MyList,GO Biological Processes,19,GO:0001889,liver development,19_GO:0032502 developmental process,-2.8,13,5.8,30286,132,52,3,5.8,3.2,4853|7298|8854,NOTCH2|TYMS|ALDH1A2,-0.97
+MyList,Reactome Gene Sets,6,R-HSA-198933,Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell,,-2.8,13,5.8,30286,133,52,3,5.8,3.2,718|1277|1278,C3|COL1A1|COL1A2,-0.97
+MyList,GO Biological Processes,19,GO:0045621,positive regulation of lymphocyte differentiation,19_GO:0002376 immune system process,-2.8,13,5.8,30286,133,52,3,5.8,3.2,972|3123|7048,CD74|HLA-DRB1|TGFBR2,-0.97
+MyList,GO Biological Processes,19,GO:0048858,cell projection morphogenesis,19_GO:0032502 developmental process,-2.8,5.9,4.5,30286,494,52,5,9.6,4.1,4038|4853|8826|51299|56288,LRP4|NOTCH2|IQGAP1|NRN1|PARD3,-0.97
+MyList,Reactome Gene Sets,6,R-HSA-76005,Response to elevated platelet cytosolic Ca2+,,-2.8,13,5.8,30286,134,52,3,5.8,3.2,6678|7057|7450,SPARC|THBS1|VWF,-0.96
+MyList,GO Biological Processes,19,GO:0061008,hepaticobiliary system development,19_GO:0032502 developmental process,-2.8,13,5.8,30286,135,52,3,5.8,3.2,4853|7298|8854,NOTCH2|TYMS|ALDH1A2,-0.95
+MyList,Reactome Gene Sets,6,R-HSA-202733,Cell surface interactions at the vascular wall,,-2.8,13,5.7,30286,137,52,3,5.8,3.2,972|1277|1278,CD74|COL1A1|COL1A2,-0.94
+MyList,GO Biological Processes,19,GO:0060560,developmental growth involved in morphogenesis,19_GO:0040007 growth,-2.8,13,5.7,30286,137,52,3,5.8,3.2,7048|8826|51299,TGFBR2|IQGAP1|NRN1,-0.94
+MyList,GO Biological Processes,19,GO:0061041,regulation of wound healing,19_GO:0050896 response to stimulus,-2.8,13,5.7,30286,138,52,3,5.8,3.2,150|4921|7057,ADRA2A|DDR2|THBS1,-0.93
+MyList,GO Biological Processes,19,GO:0051249,regulation of lymphocyte activation,19_GO:0002376 immune system process,-2.8,5.8,4.5,30286,506,52,5,9.6,4.1,972|3120|3123|7048|56603,CD74|HLA-DQB2|HLA-DRB1|TGFBR2|CYP26B1,-0.93
+MyList,GO Biological Processes,19,GO:0072006,nephron development,19_GO:0032502 developmental process,-2.8,13,5.7,30286,139,52,3,5.8,3.2,4811|4853|8826,NID1|NOTCH2|IQGAP1,-0.92
+MyList,GO Biological Processes,19,GO:0009799,specification of symmetry,19_GO:0032502 developmental process,-2.7,12,5.6,30286,143,52,3,5.8,3.2,4853|7048|8854,NOTCH2|TGFBR2|ALDH1A2,-0.89
+MyList,GO Biological Processes,19,GO:0009855,determination of bilateral symmetry,19_GO:0032502 developmental process,-2.7,12,5.6,30286,143,52,3,5.8,3.2,4853|7048|8854,NOTCH2|TGFBR2|ALDH1A2,-0.89
+MyList,GO Biological Processes,19,GO:0070372,regulation of ERK1 and ERK2 cascade,19_GO:0050896 response to stimulus,-2.7,7.6,4.8,30286,308,52,4,7.7,3.7,972|1601|3123|4853,CD74|DAB2|HLA-DRB1|NOTCH2,-0.89
+MyList,GO Biological Processes,19,GO:0034763,negative regulation of transmembrane transport,19_GO:0051179 localization,-2.7,12,5.6,30286,144,52,3,5.8,3.2,150|5167|7057,ADRA2A|ENPP1|THBS1,-0.88
+MyList,Reactome Gene Sets,6,R-HSA-1280218,Adaptive Immune System,,-2.7,4.6,4.1,30286,768,52,6,12,4.4,718|972|1277|1278|3120|3123,C3|CD74|COL1A1|COL1A2|HLA-DQB2|HLA-DRB1,-0.88
+MyList,GO Biological Processes,19,GO:0006897,endocytosis,19_GO:0051179 localization,-2.7,5.6,4.4,30286,522,52,5,9.6,4.1,1601|3339|4038|5167|7057,DAB2|HSPG2|LRP4|ENPP1|THBS1,-0.88
+MyList,GO Biological Processes,19,GO:0051592,response to calcium ion,19_GO:0050896 response to stimulus,-2.7,12,5.5,30286,146,52,3,5.8,3.2,6331|7057|8826,SCN5A|THBS1|IQGAP1,-0.87
+MyList,GO Biological Processes,19,GO:0010035,response to inorganic substance,19_GO:0050896 response to stimulus,-2.7,5.5,4.3,30286,527,52,5,9.6,4.1,1277|5167|6331|7057|8826,COL1A1|ENPP1|SCN5A|THBS1|IQGAP1,-0.86
+MyList,Reactome Gene Sets,6,R-HSA-418594,G alpha (i) signalling events,,-2.7,7.3,4.7,30286,318,52,4,7.7,3.7,150|718|2786|4887,ADRA2A|C3|GNG4|NPY2R,-0.85
+MyList,GO Biological Processes,19,GO:0002573,myeloid leukocyte differentiation,19_GO:0032502 developmental process,-2.6,12,5.4,30286,151,52,3,5.8,3.2,3123|4853|7048,HLA-DRB1|NOTCH2|TGFBR2,-0.83
+MyList,GO Biological Processes,19,GO:0010817,regulation of hormone levels,19_GO:0065007 biological regulation,-2.6,5.4,4.3,30286,539,52,5,9.6,4.1,150|1601|3123|8854|56603,ADRA2A|DAB2|HLA-DRB1|ALDH1A2|CYP26B1,-0.83
+MyList,GO Biological Processes,19,GO:0022409,positive regulation of cell-cell adhesion,19_GO:0048518 positive regulation of biological process,-2.6,7.2,4.6,30286,325,52,4,7.7,3.7,972|3120|3123|7048,CD74|HLA-DQB2|HLA-DRB1|TGFBR2,-0.82
+MyList,GO Biological Processes,19,GO:0019216,regulation of lipid metabolic process,19_GO:0008152 metabolic process,-2.6,7.1,4.6,30286,326,52,4,7.7,3.7,150|718|972|1601,ADRA2A|C3|CD74|DAB2,-0.81
+MyList,GO Biological Processes,19,GO:0051251,positive regulation of lymphocyte activation,19_GO:0002376 immune system process,-2.6,7.1,4.6,30286,328,52,4,7.7,3.7,972|3120|3123|7048,CD74|HLA-DQB2|HLA-DRB1|TGFBR2,-0.8
+MyList,GO Biological Processes,19,GO:0030902,hindbrain development,19_GO:0032502 developmental process,-2.6,11,5.3,30286,156,52,3,5.8,3.2,6331|8854|25861,SCN5A|ALDH1A2|WHRN,-0.8
+MyList,GO Biological Processes,19,GO:0008544,epidermis development,19_GO:0032502 developmental process,-2.6,7,4.5,30286,335,52,4,7.7,3.7,3123|4038|25861|56603,HLA-DRB1|LRP4|WHRN|CYP26B1,-0.77
+MyList,GO Biological Processes,19,GO:0043010,camera-type eye development,19_GO:0032502 developmental process,-2.6,7,4.5,30286,335,52,4,7.7,3.7,4853|7048|8854|10319,NOTCH2|TGFBR2|ALDH1A2|LAMC3,-0.77
+MyList,WikiPathways,27,WP4239,Epithelial to mesenchymal transition in colorectal cancer,,-2.6,11,5.2,30286,162,52,3,5.8,3.2,4853|6678|7048,NOTCH2|SPARC|TGFBR2,-0.76
+MyList,GO Biological Processes,19,GO:0070482,response to oxygen levels,19_GO:0050896 response to stimulus,-2.5,6.8,4.5,30286,342,52,4,7.7,3.7,1277|3339|4921|7057,COL1A1|HSPG2|DDR2|THBS1,-0.74
+MyList,GO Biological Processes,19,GO:0050731,positive regulation of peptidyl-tyrosine phosphorylation,19_GO:0048518 positive regulation of biological process,-2.5,11,5.1,30286,164,52,3,5.8,3.2,972|1464|4038,CD74|CSPG4|LRP4,-0.74
+MyList,GO Biological Processes,19,GO:0051147,regulation of muscle cell differentiation,19_GO:0032502 developmental process,-2.5,11,5.1,30286,165,52,3,5.8,3.2,4811|4853|56603,NID1|NOTCH2|CYP26B1,-0.74
+MyList,GO Biological Processes,19,GO:0007507,heart development,19_GO:0032502 developmental process,-2.5,5.1,4.1,30286,570,52,5,9.6,4.1,4853|4887|6331|7048|8854,NOTCH2|NPY2R|SCN5A|TGFBR2|ALDH1A2,-0.74
+MyList,GO Biological Processes,19,GO:0007565,female pregnancy,19_GO:0022414 reproductive process,-2.5,10,5.1,30286,168,52,3,5.8,3.2,150|3339|3691,ADRA2A|HSPG2|ITGB4,-0.72
+MyList,GO Biological Processes,19,GO:0050680,negative regulation of epithelial cell proliferation,19_GO:0048519 negative regulation of biological process,-2.5,10,5,30286,173,52,3,5.8,3.2,1601|6678|7057,DAB2|SPARC|THBS1,-0.68
+MyList,WikiPathways,27,WP5316,Primary ovarian insufficiency,,-2.5,10,5,30286,174,52,3,5.8,3.2,3123|4853|7048,HLA-DRB1|NOTCH2|TGFBR2,-0.68
+MyList,GO Biological Processes,19,GO:0010634,positive regulation of epithelial cell migration,19_GO:0040011 locomotion,-2.5,9.9,4.9,30286,177,52,3,5.8,3.2,6678|7048|7057,SPARC|TGFBR2|THBS1,-0.66
+MyList,GO Biological Processes,19,GO:1903034,regulation of response to wounding,19_GO:0050896 response to stimulus,-2.4,9.8,4.9,30286,179,52,3,5.8,3.2,150|4921|7057,ADRA2A|DDR2|THBS1,-0.65
+MyList,KEGG Pathway,24,hsa04080,Neuroactive ligand-receptor interaction,,-2.4,6.3,4.3,30286,367,52,4,7.7,3.7,150|718|4887|56288,ADRA2A|C3|NPY2R|PARD3,-0.65
+MyList,KEGG Pathway,24,hsa05152,Tuberculosis,,-2.4,9.7,4.9,30286,180,52,3,5.8,3.2,718|972|3123,C3|CD74|HLA-DRB1,-0.64
+MyList,GO Biological Processes,19,GO:0031589,cell-substrate adhesion,19_GO:0009987 cellular process,-2.4,9.4,4.8,30286,185,52,3,5.8,3.2,3691|4811|7450,ITGB4|NID1|VWF,-0.61
+MyList,GO Biological Processes,19,GO:0030029,actin filament-based process,19_GO:0009987 cellular process,-2.4,4.7,3.9,30286,614,52,5,9.6,4.1,150|2318|6331|8826|154810,ADRA2A|FLNC|SCN5A|IQGAP1|AMOTL1,-0.61
+MyList,GO Biological Processes,19,GO:0045936,negative regulation of phosphate metabolic process,19_GO:0048519 negative regulation of biological process,-2.4,6.2,4.2,30286,378,52,4,7.7,3.7,5167|5783|8826|56288,ENPP1|PTPN13|IQGAP1|PARD3,-0.61
+MyList,GO Biological Processes,19,GO:1905952,regulation of lipid localization,19_GO:0051179 localization,-2.4,9.4,4.8,30286,186,52,3,5.8,3.2,718|1601|7057,C3|DAB2|THBS1,-0.61
+MyList,GO Biological Processes,19,GO:0010563,negative regulation of phosphorus metabolic process,19_GO:0048519 negative regulation of biological process,-2.4,6.1,4.2,30286,379,52,4,7.7,3.7,5167|5783|8826|56288,ENPP1|PTPN13|IQGAP1|PARD3,-0.6
+MyList,GO Biological Processes,19,GO:0046890,regulation of lipid biosynthetic process,19_GO:0008152 metabolic process,-2.4,9.3,4.7,30286,187,52,3,5.8,3.2,718|972|1601,C3|CD74|DAB2,-0.6
+MyList,GO Biological Processes,19,GO:0045766,positive regulation of angiogenesis,19_GO:0032502 developmental process,-2.4,9.3,4.7,30286,187,52,3,5.8,3.2,718|7048|7057,C3|TGFBR2|THBS1,-0.6
+MyList,GO Biological Processes,19,GO:0001654,eye development,19_GO:0032502 developmental process,-2.4,6.1,4.2,30286,381,52,4,7.7,3.7,4853|7048|8854|10319,NOTCH2|TGFBR2|ALDH1A2|LAMC3,-0.6
+MyList,GO Biological Processes,19,GO:1903037,regulation of leukocyte cell-cell adhesion,19_GO:0050789 regulation of biological process,-2.4,6.1,4.2,30286,382,52,4,7.7,3.7,972|3120|3123|7048,CD74|HLA-DQB2|HLA-DRB1|TGFBR2,-0.6
+MyList,GO Biological Processes,19,GO:0051046,regulation of secretion,19_GO:0051179 localization,-2.4,4.7,3.9,30286,621,52,5,9.6,4.1,150|972|1601|3123|22987,ADRA2A|CD74|DAB2|HLA-DRB1|SV2C,-0.6
+MyList,GO Biological Processes,19,GO:0044703,multi-organism reproductive process,19_GO:0022414 reproductive process,-2.4,9.2,4.7,30286,189,52,3,5.8,3.2,150|3339|3691,ADRA2A|HSPG2|ITGB4,-0.6
+MyList,GO Biological Processes,19,GO:0002064,epithelial cell development,19_GO:0032502 developmental process,-2.4,9.2,4.7,30286,190,52,3,5.8,3.2,4853|7298|8826,NOTCH2|TYMS|IQGAP1,-0.59
+MyList,GO Biological Processes,19,GO:0030308,negative regulation of cell growth,19_GO:0040007 growth,-2.4,9.2,4.7,30286,190,52,3,5.8,3.2,1601|2786|5167,DAB2|GNG4|ENPP1,-0.59
+MyList,GO Biological Processes,19,GO:1904018,positive regulation of vasculature development,19_GO:0032502 developmental process,-2.4,9.2,4.7,30286,190,52,3,5.8,3.2,718|7048|7057,C3|TGFBR2|THBS1,-0.59
+MyList,GO Biological Processes,19,GO:0048738,cardiac muscle tissue development,19_GO:0032502 developmental process,-2.3,9,4.6,30286,194,52,3,5.8,3.2,4853|6331|8854,NOTCH2|SCN5A|ALDH1A2,-0.57
+MyList,GO Biological Processes,19,GO:0044706,multi-multicellular organism process,19_GO:0032501 multicellular organismal process,-2.3,8.9,4.6,30286,197,52,3,5.8,3.2,150|3339|3691,ADRA2A|HSPG2|ITGB4,-0.55
+MyList,GO Biological Processes,19,GO:0001667,ameboidal-type cell migration,19_GO:0009987 cellular process,-2.3,8.9,4.6,30286,197,52,3,5.8,3.2,3691|8826|154810,ITGB4|IQGAP1|AMOTL1,-0.55
+MyList,GO Biological Processes,19,GO:0002791,regulation of peptide secretion,19_GO:0051179 localization,-2.3,8.7,4.6,30286,200,52,3,5.8,3.2,150|972|3123,ADRA2A|CD74|HLA-DRB1,-0.54
+MyList,GO Biological Processes,19,GO:0014706,striated muscle tissue development,19_GO:0032502 developmental process,-2.3,8.7,4.6,30286,200,52,3,5.8,3.2,4853|6331|8854,NOTCH2|SCN5A|ALDH1A2,-0.54
+MyList,GO Biological Processes,19,GO:0090087,regulation of peptide transport,19_GO:0051179 localization,-2.3,8.6,4.5,30286,202,52,3,5.8,3.2,150|972|3123,ADRA2A|CD74|HLA-DRB1,-0.53
+MyList,GO Biological Processes,19,GO:0007163,establishment or maintenance of cell polarity,19_GO:0009987 cellular process,-2.3,8.6,4.5,30286,203,52,3,5.8,3.2,56288|56603|154810,PARD3|CYP26B1|AMOTL1,-0.52
+MyList,KEGG Pathway,24,hsa05415,Diabetic cardiomyopathy,,-2.3,8.6,4.5,30286,203,52,3,5.8,3.2,1277|1278|7048,COL1A1|COL1A2|TGFBR2,-0.52
+MyList,GO Biological Processes,19,GO:0007169,transmembrane receptor protein tyrosine kinase signaling pathway,19_GO:0050896 response to stimulus,-2.2,5.6,3.9,30286,419,52,4,7.7,3.7,1277|1464|4921|8826,COL1A1|CSPG4|DDR2|IQGAP1,-0.47
+MyList,GO Biological Processes,19,GO:0042593,glucose homeostasis,19_GO:0042592 homeostatic process,-2.2,8.2,4.4,30286,213,52,3,5.8,3.2,150|1277|10723,ADRA2A|COL1A1|SLC12A7,-0.47
+MyList,GO Biological Processes,19,GO:0033500,carbohydrate homeostasis,19_GO:0042592 homeostatic process,-2.2,8.2,4.4,30286,214,52,3,5.8,3.2,150|1277|10723,ADRA2A|COL1A1|SLC12A7,-0.46
+MyList,GO Biological Processes,19,GO:0002521,leukocyte differentiation,19_GO:0032502 developmental process,-2.2,5.5,3.9,30286,423,52,4,7.7,3.7,972|3123|4853|7048,CD74|HLA-DRB1|NOTCH2|TGFBR2,-0.46
+MyList,GO Biological Processes,19,GO:1901888,regulation of cell junction assembly,19_GO:0050789 regulation of biological process,-2.2,8.1,4.3,30286,215,52,3,5.8,3.2,5783|7057|7058,PTPN13|THBS1|THBS2,-0.46
+MyList,GO Biological Processes,19,GO:0070374,positive regulation of ERK1 and ERK2 cascade,19_GO:0048518 positive regulation of biological process,-2.2,8.1,4.3,30286,215,52,3,5.8,3.2,972|3123|4853,CD74|HLA-DRB1|NOTCH2,-0.46
+MyList,GO Biological Processes,19,GO:0010001,glial cell differentiation,19_GO:0032502 developmental process,-2.2,8.1,4.3,30286,216,52,3,5.8,3.2,3691|10319|56288,ITGB4|LAMC3|PARD3,-0.46
+MyList,GO Biological Processes,19,GO:0009611,response to wounding,19_GO:0050896 response to stimulus,-2.2,5.5,3.9,30286,426,52,4,7.7,3.7,150|3691|4853|7450,ADRA2A|ITGB4|NOTCH2|VWF,-0.46
+MyList,GO Biological Processes,19,GO:0048732,gland development,19_GO:0032502 developmental process,-2.2,5.5,3.9,30286,426,52,4,7.7,3.7,4853|7048|7298|8854,NOTCH2|TGFBR2|TYMS|ALDH1A2,-0.46
+MyList,GO Biological Processes,19,GO:0045637,regulation of myeloid cell differentiation,19_GO:0002376 immune system process,-2.2,8,4.3,30286,218,52,3,5.8,3.2,972|3123|4853,CD74|HLA-DRB1|NOTCH2,-0.45
+MyList,GO Biological Processes,19,GO:0007601,visual perception,19_GO:0032501 multicellular organismal process,-2.2,8,4.3,30286,219,52,3,5.8,3.2,1277|7045|10319,COL1A1|TGFBI|LAMC3,-0.44
+MyList,GO Biological Processes,19,GO:0050679,positive regulation of epithelial cell proliferation,19_GO:0048518 positive regulation of biological process,-2.2,8,4.3,30286,219,52,3,5.8,3.2,3339|4853|6331,HSPG2|NOTCH2|SCN5A,-0.44
+MyList,GO Biological Processes,19,GO:0050730,regulation of peptidyl-tyrosine phosphorylation,19_GO:0008152 metabolic process,-2.2,7.8,4.2,30286,225,52,3,5.8,3.2,972|1464|4038,CD74|CSPG4|LRP4,-0.41
+MyList,GO Biological Processes,19,GO:0048667,cell morphogenesis involved in neuron differentiation,19_GO:0032502 developmental process,-2.2,5.3,3.8,30286,440,52,4,7.7,3.7,4038|4853|25861|56288,LRP4|NOTCH2|WHRN|PARD3,-0.41
+MyList,GO Biological Processes,19,GO:0048705,skeletal system morphogenesis,19_GO:0032502 developmental process,-2.2,7.7,4.2,30286,227,52,3,5.8,3.2,1277|7048|56603,COL1A1|TGFBR2|CYP26B1,-0.4
+MyList,GO Biological Processes,19,GO:0006959,humoral immune response,19_GO:0002376 immune system process,-2.1,7.6,4.2,30286,231,52,3,5.8,3.2,718|3123|4853,C3|HLA-DRB1|NOTCH2,-0.39
+MyList,Reactome Gene Sets,6,R-HSA-9012999,RHO GTPase cycle,,-2.1,5.2,3.7,30286,449,52,4,7.7,3.7,5783|8826|26030|55075,PTPN13|IQGAP1|PLEKHG3|UACA,-0.39
+MyList,GO Biological Processes,19,GO:0048568,embryonic organ development,19_GO:0032502 developmental process,-2.1,5.2,3.7,30286,452,52,4,7.7,3.7,4853|7048|8854|25861,NOTCH2|TGFBR2|ALDH1A2|WHRN,-0.38
+MyList,GO Biological Processes,19,GO:0071695,anatomical structure maturation,19_GO:0032502 developmental process,-2.1,7.5,4.1,30286,234,52,3,5.8,3.2,718|7298|8854,C3|TYMS|ALDH1A2,-0.37
+MyList,GO Biological Processes,19,GO:0010720,positive regulation of cell development,19_GO:0032502 developmental process,-2.1,5.1,3.7,30286,454,52,4,7.7,3.7,972|3123|4853|7048,CD74|HLA-DRB1|NOTCH2|TGFBR2,-0.37
+MyList,GO Biological Processes,19,GO:0050670,regulation of lymphocyte proliferation,19_GO:0002376 immune system process,-2.1,7.4,4.1,30286,237,52,3,5.8,3.2,972|3123|7048,CD74|HLA-DRB1|TGFBR2,-0.36
+MyList,GO Biological Processes,19,GO:0051051,negative regulation of transport,19_GO:0051179 localization,-2.1,5,3.6,30286,462,52,4,7.7,3.7,150|972|5167|7057,ADRA2A|CD74|ENPP1|THBS1,-0.35
+MyList,GO Biological Processes,19,GO:0032944,regulation of mononuclear cell proliferation,19_GO:0050789 regulation of biological process,-2.1,7.3,4,30286,241,52,3,5.8,3.2,972|3123|7048,CD74|HLA-DRB1|TGFBR2,-0.34
+MyList,GO Biological Processes,19,GO:0050807,regulation of synapse organization,19_GO:0050789 regulation of biological process,-2.1,7.2,4,30286,243,52,3,5.8,3.2,4038|5783|7058,LRP4|PTPN13|THBS2,-0.33
+MyList,Reactome Gene Sets,6,R-HSA-500792,GPCR ligand binding,,-2.1,5,3.6,30286,468,52,4,7.7,3.7,150|718|2786|4887,ADRA2A|C3|GNG4|NPY2R,-0.33
+MyList,GO Biological Processes,19,GO:0051960,regulation of nervous system development,19_GO:0032502 developmental process,-2.1,5,3.6,30286,468,52,4,7.7,3.7,4038|5783|7058|56288,LRP4|PTPN13|THBS2|PARD3,-0.33
+MyList,GO Biological Processes,19,GO:0045926,negative regulation of growth,19_GO:0040007 growth,-2.1,7.1,4,30286,247,52,3,5.8,3.2,1601|2786|5167,DAB2|GNG4|ENPP1,-0.32
+MyList,GO Biological Processes,19,GO:0002460,adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains,19_GO:0002376 immune system process,-2.1,7.1,4,30286,247,52,3,5.8,3.2,718|972|3123,C3|CD74|HLA-DRB1,-0.32
+MyList,WikiPathways,27,WP382,MAPK signaling pathway,,-2,7,4,30286,248,52,3,5.8,3.2,2318|7048|9254,FLNC|TGFBR2|CACNA2D2,-0.32
+MyList,GO Biological Processes,19,GO:0050803,regulation of synapse structure or activity,19_GO:0065007 biological regulation,-2,7,4,30286,249,52,3,5.8,3.2,4038|5783|7058,LRP4|PTPN13|THBS2,-0.31
+MyList,KEGG Pathway,24,hsa04144,Endocytosis,,-2,7,3.9,30286,250,52,3,5.8,3.2,1601|7048|56288,DAB2|TGFBR2|PARD3,-0.31
+MyList,GO Biological Processes,19,GO:0031667,response to nutrient levels,19_GO:0050896 response to stimulus,-2,4.9,3.5,30286,479,52,4,7.7,3.7,1277|7298|8854|56603,COL1A1|TYMS|ALDH1A2|CYP26B1,-0.31
+MyList,GO Biological Processes,19,GO:0046883,regulation of hormone secretion,19_GO:0051179 localization,-2,6.9,3.9,30286,254,52,3,5.8,3.2,150|1601|3123,ADRA2A|DAB2|HLA-DRB1,-0.29
+MyList,GO Biological Processes,19,GO:0002699,positive regulation of immune effector process,19_GO:0002376 immune system process,-2,6.8,3.9,30286,257,52,3,5.8,3.2,718|972|3123,C3|CD74|HLA-DRB1,-0.28
+MyList_MCODE_ALL,KEGG Pathway,24,hsa04512,ECM-receptor interaction,,-14,2.6e+02,39,30286,89,8,6,75,15,1277|1278|1293|3691|7057|7058,COL1A1|COL1A2|COL6A3|ITGB4|THBS1|THBS2,-10
+MyList_MCODE_ALL,KEGG Pathway,24,hsa04510,Focal adhesion,,-12,1.1e+02,26,30286,202,8,6,75,15,1277|1278|1293|3691|7057|7058,COL1A1|COL1A2|COL6A3|ITGB4|THBS1|THBS2,-8.2
+MyList_MCODE_ALL,Canonical Pathways,11,M18,PID INTEGRIN1 PATHWAY,,-12,2.9e+02,38,30286,66,8,5,62,17,1277|1278|1293|7057|7058,COL1A1|COL1A2|COL6A3|THBS1|THBS2,-8.2
+MyList_MCODE_ALL,KEGG Pathway,24,hsa04820,Cytoskeleton in muscle cells,,-11,99,24,30286,229,8,6,75,15,1277|1278|1293|3691|7057|7058,COL1A1|COL1A2|COL6A3|ITGB4|THBS1|THBS2,-7.9
+MyList_MCODE_ALL,Reactome Gene Sets,6,R-HSA-3000170,Syndecan interactions,,-10,5.6e+02,47,30286,27,8,4,50,18,1277|1278|3691|7057,COL1A1|COL1A2|ITGB4|THBS1,-7.2
+MyList_MCODE_ALL,KEGG Pathway,24,hsa05165,Human papillomavirus infection,,-10,69,20,30286,331,8,6,75,15,1277|1278|1293|3691|7057|7058,COL1A1|COL1A2|COL6A3|ITGB4|THBS1|THBS2,-7.1
+MyList_MCODE_ALL,WikiPathways,27,WP4172,PI3K Akt signaling pathway,,-10,67,20,30286,339,8,6,75,15,1277|1278|1293|3691|7057|7058,COL1A1|COL1A2|COL6A3|ITGB4|THBS1|THBS2,-7.1
+MyList_MCODE_ALL,KEGG Pathway,24,hsa04151,PI3K-Akt signaling pathway,,-10,63,19,30286,359,8,6,75,15,1277|1278|1293|3691|7057|7058,COL1A1|COL1A2|COL6A3|ITGB4|THBS1|THBS2,-7
+MyList_MCODE_ALL,WikiPathways,27,WP2911,miRNA targets in ECM and membrane receptors,,-9.8,4e+02,40,30286,38,8,4,50,18,1278|1293|7057|7058,COL1A2|COL6A3|THBS1|THBS2,-6.7
+MyList_MCODE_ALL,WikiPathways,27,WP306,Focal adhesion,,-9.2,95,22,30286,199,8,5,62,17,1277|1278|3691|7057|7058,COL1A1|COL1A2|ITGB4|THBS1|THBS2,-6.1
+MyList_MCODE_ALL,Reactome Gene Sets,6,R-HSA-3000171,Non-integrin membrane-ECM interactions,,-9,2.6e+02,32,30286,59,8,4,50,18,1277|1278|3691|7057,COL1A1|COL1A2|ITGB4|THBS1,-6
+MyList_MCODE_ALL,Reactome Gene Sets,6,R-HSA-2022090,Assembly of collagen fibrils and other multimeric structures,,-9,2.5e+02,31,30286,61,8,4,50,18,1277|1278|1293|3691,COL1A1|COL1A2|COL6A3|ITGB4,-6
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0043589,skin morphogenesis,19_GO:0032502 developmental process,-8.6,9.5e+02,53,30286,12,8,3,38,17,1277|1278|3691,COL1A1|COL1A2|ITGB4,-5.6
+MyList_MCODE_ALL,Canonical Pathways,11,M5884,NABA CORE MATRISOME,,-8.5,69,18,30286,275,8,5,62,17,1277|1278|1293|7057|7058,COL1A1|COL1A2|COL6A3|THBS1|THBS2,-5.6
+MyList_MCODE_ALL,Reactome Gene Sets,6,R-HSA-216083,Integrin cell surface interactions,,-8.4,1.8e+02,27,30286,85,8,4,50,18,1277|1278|1293|7057,COL1A1|COL1A2|COL6A3|THBS1,-5.5
+MyList_MCODE_ALL,Reactome Gene Sets,6,R-HSA-1474244,Extracellular matrix organization,,-8.3,63,18,30286,300,8,5,62,17,1277|1278|1293|3691|7057,COL1A1|COL1A2|COL6A3|ITGB4|THBS1,-5.5
+MyList_MCODE_ALL,Reactome Gene Sets,6,R-HSA-1474290,Collagen formation,,-8.3,1.7e+02,26,30286,90,8,4,50,18,1277|1278|1293|3691,COL1A1|COL1A2|COL6A3|ITGB4,-5.5
+MyList_MCODE_ALL,WikiPathways,27,WP3932,Focal adhesion PI3K Akt mTOR signaling pathway,,-8.3,63,18,30286,302,8,5,62,17,1277|1278|3691|7057|7058,COL1A1|COL1A2|ITGB4|THBS1|THBS2,-5.5
+MyList_MCODE_ALL,WikiPathways,27,WP453,Inflammatory response pathway,,-7.3,3.8e+02,34,30286,30,8,3,38,17,1277|1278|7057,COL1A1|COL1A2|THBS1,-4.7
+MyList_MCODE_ALL,Reactome Gene Sets,6,R-HSA-9006934,Signaling by Receptor Tyrosine Kinases,,-7,35,13,30286,534,8,5,62,17,1277|1278|1293|7057|7058,COL1A1|COL1A2|COL6A3|THBS1|THBS2,-4.5
+MyList_MCODE_ALL,Canonical Pathways,11,M53,PID INTEGRIN3 PATHWAY,,-6.8,2.6e+02,28,30286,43,8,3,38,17,1277|1278|7057,COL1A1|COL1A2|THBS1,-4.3
+MyList_MCODE_ALL,Canonical Pathways,11,M3005,NABA COLLAGENS,,-6.8,2.6e+02,28,30286,44,8,3,38,17,1277|1278|1293,COL1A1|COL1A2|COL6A3,-4.3
+MyList_MCODE_ALL,Reactome Gene Sets,6,R-HSA-8948216,Collagen chain trimerization,,-6.8,2.6e+02,28,30286,44,8,3,38,17,1277|1278|1293,COL1A1|COL1A2|COL6A3,-4.3
+MyList_MCODE_ALL,Canonical Pathways,11,M198,PID SYNDECAN 1 PATHWAY,,-6.7,2.5e+02,27,30286,46,8,3,38,17,1277|1278|1293,COL1A1|COL1A2|COL6A3,-4.2
+MyList_MCODE_ALL,Reactome Gene Sets,6,R-HSA-186797,Signaling by PDGF,,-6.4,2e+02,24,30286,58,8,3,38,17,1293|7057|7058,COL6A3|THBS1|THBS2,-4
+MyList_MCODE_ALL,Reactome Gene Sets,6,R-HSA-1442490,Collagen degradation,,-6.3,1.8e+02,23,30286,64,8,3,38,17,1277|1278|1293,COL1A1|COL1A2|COL6A3,-3.9
+MyList_MCODE_ALL,Reactome Gene Sets,6,R-HSA-1650814,Collagen biosynthesis and modifying enzymes,,-6.2,1.7e+02,22,30286,67,8,3,38,17,1277|1278|1293,COL1A1|COL1A2|COL6A3,-3.8
+MyList_MCODE_ALL,Canonical Pathways,11,M160,PID AVB3 INTEGRIN PATHWAY,,-6.1,1.5e+02,21,30286,74,8,3,38,17,1277|1278|1293,COL1A1|COL1A2|COL6A3,-3.7
+MyList_MCODE_ALL,Reactome Gene Sets,6,R-HSA-3000178,ECM proteoglycans,,-6.1,1.5e+02,21,30286,76,8,3,38,17,1277|1278|1293,COL1A1|COL1A2|COL6A3,-3.7
+MyList_MCODE_ALL,KEGG Pathway,24,hsa04974,Protein digestion and absorption,,-5.7,1.1e+02,18,30286,103,8,3,38,17,1277|1278|1293,COL1A1|COL1A2|COL6A3,-3.3
+MyList_MCODE_ALL,WikiPathways,27,WP366,TGF beta signaling pathway,,-5.4,86,16,30286,132,8,3,38,17,1278|3691|7057,COL1A2|ITGB4|THBS1,-3.1
+MyList_MCODE_ALL,Reactome Gene Sets,6,R-HSA-1474228,Degradation of the extracellular matrix,,-5.3,81,15,30286,140,8,3,38,17,1277|1278|1293,COL1A1|COL1A2|COL6A3,-3
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0009749,response to glucose,19_GO:0050896 response to stimulus,-5.2,76,15,30286,149,8,3,38,17,1277|1293|7057,COL1A1|COL6A3|THBS1,-2.9
+MyList_MCODE_ALL,KEGG Pathway,24,hsa04145,Phagosome,,-5.2,75,15,30286,152,8,3,38,17,3123|7057|7058,HLA-DRB1|THBS1|THBS2,-2.9
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0009746,response to hexose,19_GO:0050896 response to stimulus,-5.1,74,15,30286,154,8,3,38,17,1277|1293|7057,COL1A1|COL6A3|THBS1,-2.9
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0034284,response to monosaccharide,19_GO:0050896 response to stimulus,-5.1,71,14,30286,161,8,3,38,17,1277|1293|7057,COL1A1|COL6A3|THBS1,-2.9
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0009743,response to carbohydrate,19_GO:0050896 response to stimulus,-4.9,61,13,30286,185,8,3,38,17,1277|1293|7057,COL1A1|COL6A3|THBS1,-2.7
+MyList_MCODE_ALL,KEGG Pathway,24,hsa05205,Proteoglycans in cancer,,-4.8,56,13,30286,203,8,3,38,17,1277|1278|7057,COL1A1|COL1A2|THBS1,-2.6
+MyList_MCODE_ALL,Reactome Gene Sets,6,R-HSA-1280218,Adaptive Immune System,,-4.6,20,8.5,30286,768,8,4,50,18,1277|1278|3120|3123,COL1A1|COL1A2|HLA-DQB2|HLA-DRB1,-2.4
+MyList_MCODE_ALL,Reactome Gene Sets,6,R-HSA-76002,"Platelet activation, signaling and aggregation",,-4.5,43,11,30286,263,8,3,38,17,1277|1278|7057,COL1A1|COL1A2|THBS1,-2.4
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0043588,skin development,19_GO:0032502 developmental process,-4.4,41,11,30286,279,8,3,38,17,1277|1278|3691,COL1A1|COL1A2|ITGB4,-2.3
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0007162,negative regulation of cell adhesion,19_GO:0048519 negative regulation of biological process,-4.2,37,10,30286,310,8,3,38,17,1277|3123|7057,COL1A1|HLA-DRB1|THBS1,-2.2
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0002696,positive regulation of leukocyte activation,19_GO:0002376 immune system process,-4,31,9.5,30286,362,8,3,38,17,3120|3123|7057,HLA-DQB2|HLA-DRB1|THBS1,-2
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0050867,positive regulation of cell activation,19_GO:0048518 positive regulation of biological process,-4,30,9.2,30286,380,8,3,38,17,3120|3123|7057,HLA-DQB2|HLA-DRB1|THBS1,-1.9
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0071363,cellular response to growth factor stimulus,19_GO:0050896 response to stimulus,-3.7,23,8.1,30286,488,8,3,38,17,1277|1278|7057,COL1A1|COL1A2|THBS1,-1.7
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0070848,response to growth factor,19_GO:0050896 response to stimulus,-3.6,22,7.8,30286,520,8,3,38,17,1277|1278|7057,COL1A1|COL1A2|THBS1,-1.6
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0001568,blood vessel development,19_GO:0032502 developmental process,-3.6,22,7.7,30286,527,8,3,38,17,1277|1278|7057,COL1A1|COL1A2|THBS1,-1.6
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0001944,vasculature development,19_GO:0032502 developmental process,-3.5,21,7.6,30286,547,8,3,38,17,1277|1278|7057,COL1A1|COL1A2|THBS1,-1.6
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0002694,regulation of leukocyte activation,19_GO:0002376 immune system process,-3.5,20,7.4,30286,573,8,3,38,17,3120|3123|7057,HLA-DQB2|HLA-DRB1|THBS1,-1.5
+MyList_MCODE_ALL,Reactome Gene Sets,6,R-HSA-109582,Hemostasis,,-3.3,18,7.1,30286,622,8,3,38,17,1277|1278|7057,COL1A1|COL1A2|THBS1,-1.4
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0050865,regulation of cell activation,19_GO:0032501 multicellular organismal process,-3.3,18,7,30286,630,8,3,38,17,3120|3123|7057,HLA-DQB2|HLA-DRB1|THBS1,-1.4
+MyList_MCODE_ALL,Reactome Gene Sets,6,R-HSA-1280215,Cytokine Signaling in Immune system,,-3.1,14,6.2,30286,786,8,3,38,17,1278|3120|3123,COL1A2|HLA-DQB2|HLA-DRB1,-1.2
+MyList_SUB1_MCODE_1,Reactome Gene Sets,6,R-HSA-8948216,Collagen chain trimerization,,-7.5,4.1e+02,35,30286,44,5,3,60,22,1277|1278|1293,COL1A1|COL1A2|COL6A3,-4.9
+MyList_SUB1_MCODE_1,Canonical Pathways,11,M3005,NABA COLLAGENS,,-7.5,4.1e+02,35,30286,44,5,3,60,22,1277|1278|1293,COL1A1|COL1A2|COL6A3,-4.9
+MyList_SUB1_MCODE_1,Canonical Pathways,11,M198,PID SYNDECAN 1 PATHWAY,,-7.5,4e+02,34,30286,46,5,3,60,22,1277|1278|1293,COL1A1|COL1A2|COL6A3,-4.8
+MyList_SUB1_MCODE_1,Reactome Gene Sets,6,R-HSA-2022090,Assembly of collagen fibrils and other multimeric structures,,-7.1,3e+02,30,30286,61,5,3,60,22,1277|1278|1293,COL1A1|COL1A2|COL6A3,-4.5
+MyList_SUB1_MCODE_1,Reactome Gene Sets,6,R-HSA-1442490,Collagen degradation,,-7,2.8e+02,29,30286,64,5,3,60,22,1277|1278|1293,COL1A1|COL1A2|COL6A3,-4.5
+MyList_SUB1_MCODE_1,Canonical Pathways,11,M18,PID INTEGRIN1 PATHWAY,,-7,2.8e+02,29,30286,66,5,3,60,22,1277|1278|1293,COL1A1|COL1A2|COL6A3,-4.4
+MyList_SUB1_MCODE_1,Reactome Gene Sets,6,R-HSA-1650814,Collagen biosynthesis and modifying enzymes,,-7,2.7e+02,28,30286,67,5,3,60,22,1277|1278|1293,COL1A1|COL1A2|COL6A3,-4.4
+MyList_SUB1_MCODE_1,Canonical Pathways,11,M160,PID AVB3 INTEGRIN PATHWAY,,-6.9,2.5e+02,27,30286,74,5,3,60,22,1277|1278|1293,COL1A1|COL1A2|COL6A3,-4.3
+MyList_SUB1_MCODE_1,Reactome Gene Sets,6,R-HSA-3000178,ECM proteoglycans,,-6.8,2.4e+02,27,30286,76,5,3,60,22,1277|1278|1293,COL1A1|COL1A2|COL6A3,-4.3
+MyList_SUB1_MCODE_1,Reactome Gene Sets,6,R-HSA-216083,Integrin cell surface interactions,,-6.7,2.1e+02,25,30286,85,5,3,60,22,1277|1278|1293,COL1A1|COL1A2|COL6A3,-4.2
+MyList_SUB1_MCODE_1,KEGG Pathway,24,hsa04512,ECM-receptor interaction,,-6.6,2e+02,25,30286,89,5,3,60,22,1277|1278|1293,COL1A1|COL1A2|COL6A3,-4.1
+MyList_SUB1_MCODE_1,Reactome Gene Sets,6,R-HSA-1474290,Collagen formation,,-6.6,2e+02,25,30286,90,5,3,60,22,1277|1278|1293,COL1A1|COL1A2|COL6A3,-4.1
+MyList_SUB1_MCODE_1,KEGG Pathway,24,hsa04974,Protein digestion and absorption,,-6.4,1.8e+02,23,30286,103,5,3,60,22,1277|1278|1293,COL1A1|COL1A2|COL6A3,-4
+MyList_SUB1_MCODE_1,Reactome Gene Sets,6,R-HSA-1474228,Degradation of the extracellular matrix,,-6,1.3e+02,20,30286,140,5,3,60,22,1277|1278|1293,COL1A1|COL1A2|COL6A3,-3.7
+MyList_SUB1_MCODE_1,Reactome Gene Sets,6,R-HSA-1280218,Adaptive Immune System,,-5.7,32,11,30286,768,5,4,80,18,1277|1278|3120|3123,COL1A1|COL1A2|HLA-DQB2|HLA-DRB1,-3.4
+MyList_SUB1_MCODE_1,KEGG Pathway,24,hsa04510,Focal adhesion,,-5.5,90,16,30286,202,5,3,60,22,1277|1278|1293,COL1A1|COL1A2|COL6A3,-3.2
+MyList_SUB1_MCODE_1,KEGG Pathway,24,hsa04820,Cytoskeleton in muscle cells,,-5.4,79,15,30286,229,5,3,60,22,1277|1278|1293,COL1A1|COL1A2|COL6A3,-3.1
+MyList_SUB1_MCODE_1,Canonical Pathways,11,M5884,NABA CORE MATRISOME,,-5.1,66,14,30286,275,5,3,60,22,1277|1278|1293,COL1A1|COL1A2|COL6A3,-2.9
+MyList_SUB1_MCODE_1,Reactome Gene Sets,6,R-HSA-1474244,Extracellular matrix organization,,-5,61,13,30286,300,5,3,60,22,1277|1278|1293,COL1A1|COL1A2|COL6A3,-2.8
+MyList_SUB1_MCODE_1,KEGG Pathway,24,hsa05165,Human papillomavirus infection,,-4.9,55,13,30286,331,5,3,60,22,1277|1278|1293,COL1A1|COL1A2|COL6A3,-2.7
+MyList_SUB1_MCODE_1,WikiPathways,27,WP4172,PI3K Akt signaling pathway,,-4.9,54,13,30286,339,5,3,60,22,1277|1278|1293,COL1A1|COL1A2|COL6A3,-2.7
+MyList_SUB1_MCODE_1,KEGG Pathway,24,hsa04151,PI3K-Akt signaling pathway,,-4.8,51,12,30286,359,5,3,60,22,1277|1278|1293,COL1A1|COL1A2|COL6A3,-2.6
+MyList_SUB1_MCODE_1,Reactome Gene Sets,6,R-HSA-9006934,Signaling by Receptor Tyrosine Kinases,,-4.3,34,9.9,30286,534,5,3,60,22,1277|1278|1293,COL1A1|COL1A2|COL6A3,-2.2
+MyList_SUB1_MCODE_1,Reactome Gene Sets,6,R-HSA-1280215,Cytokine Signaling in Immune system,,-3.8,23,8.1,30286,786,5,3,60,22,1278|3120|3123,COL1A2|HLA-DQB2|HLA-DRB1,-1.8
+MyList_SUB1_MCODE_2,KEGG Pathway,24,hsa04512,ECM-receptor interaction,,-7.6,3.4e+02,32,30286,89,3,3,1e+02,27,3691|7057|7058,ITGB4|THBS1|THBS2,-4.9
+MyList_SUB1_MCODE_2,WikiPathways,27,WP306,Focal adhesion,,-6.6,1.5e+02,21,30286,199,3,3,1e+02,27,3691|7057|7058,ITGB4|THBS1|THBS2,-4.1
+MyList_SUB1_MCODE_2,KEGG Pathway,24,hsa04510,Focal adhesion,,-6.5,1.5e+02,21,30286,202,3,3,1e+02,27,3691|7057|7058,ITGB4|THBS1|THBS2,-4.1
+MyList_SUB1_MCODE_2,KEGG Pathway,24,hsa04820,Cytoskeleton in muscle cells,,-6.4,1.3e+02,20,30286,229,3,3,1e+02,27,3691|7057|7058,ITGB4|THBS1|THBS2,-3.9
+MyList_SUB1_MCODE_2,WikiPathways,27,WP3932,Focal adhesion PI3K Akt mTOR signaling pathway,,-6,1e+02,17,30286,302,3,3,1e+02,27,3691|7057|7058,ITGB4|THBS1|THBS2,-3.6
+MyList_SUB1_MCODE_2,KEGG Pathway,24,hsa05165,Human papillomavirus infection,,-5.9,91,16,30286,331,3,3,1e+02,27,3691|7057|7058,ITGB4|THBS1|THBS2,-3.5
+MyList_SUB1_MCODE_2,WikiPathways,27,WP4172,PI3K Akt signaling pathway,,-5.9,89,16,30286,339,3,3,1e+02,27,3691|7057|7058,ITGB4|THBS1|THBS2,-3.5
+MyList_SUB1_MCODE_2,KEGG Pathway,24,hsa04151,PI3K-Akt signaling pathway,,-5.8,84,16,30286,359,3,3,1e+02,27,3691|7057|7058,ITGB4|THBS1|THBS2,-3.4

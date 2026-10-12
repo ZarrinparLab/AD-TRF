@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d20" for="edge" attr.name="component" attr.type="long" />
+  <key id="d19" for="edge" attr.name="scan2" attr.type="string" />
+  <key id="d18" for="edge" attr.name="scan1" attr.type="string" />
+  <key id="d17" for="edge" attr.name="matched_peaks" attr.type="string" />
+  <key id="d16" for="edge" attr.name="score" attr.type="double" />
+  <key id="d15" for="edge" attr.name="deltamz_int" attr.type="long" />
+  <key id="d14" for="edge" attr.name="deltamz" attr.type="double" />
+  <key id="d13" for="node" attr.name="library_npclassifier_pathway" attr.type="string" />
+  <key id="d12" for="node" attr.name="library_npclassifier_class" attr.type="string" />
+  <key id="d11" for="node" attr.name="library_npclassifier_superclass" attr.type="string" />
+  <key id="d10" for="node" attr.name="library_classyfire_subclass" attr.type="string" />
+  <key id="d9" for="node" attr.name="library_classyfire_class" attr.type="string" />
+  <key id="d8" for="node" attr.name="library_classyfire_superclass" attr.type="string" />
+  <key id="d7" for="node" attr.name="library_InChI" attr.type="string" />
+  <key id="d6" for="node" attr.name="library_SMILES" attr.type="string" />
+  <key id="d5" for="node" attr.name="library_compound_name" attr.type="string" />
+  <key id="d4" for="node" attr.name="component" attr.type="long" />
+  <key id="d3" for="node" attr.name="charge" attr.type="long" />
+  <key id="d2" for="node" attr.name="rt_min" attr.type="double" />
+  <key id="d1" for="node" attr.name="rt" attr.type="double" />
+  <key id="d0" for="node" attr.name="mz" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="14339">
+      <data key="d0">570.442</data>
+      <data key="d1">7.64</data>
+      <data key="d2">7.64</data>
+      <data key="d3">0</data>
+      <data key="d4">2460</data>
+    </node>
+    <node id="13558">
+      <data key="d0">536.439</data>
+      <data key="d1">7.78</data>
+      <data key="d2">7.78</data>
+      <data key="d3">0</data>
+      <data key="d4">2460</data>
+      <data key="d5">Massbank:MSJ00139 beta-Carotene|beta,beta-Carotene</data>
+      <data key="d6">CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(/C=C/C=C(/C=C/C2=C(CCCC2(C)C)C)\\C)\\C)/C)/C</data>
+      <data key="d7">1S/C40H56/c1-31(19-13-21-33(3)25-27-37-35(5)23-15-29-39(37,7)8)17-11-12-18-32(2)20-14-22-34(4)26-28-38-36(6)24-16-30-40(38,9)10/h11-14,17-22,25-28H,15-16,23-24,29-30H2,1-10H3/b12-11+,19-13+,20-14+,27-25+,28-26+,31-17+,32-18+,33-21+,34-22+</data>
+      <data key="d8">Lipids and lipid-like molecules</data>
+      <data key="d9">Prenol lipids</data>
+      <data key="d10">Tetraterpenoids</data>
+      <data key="d11">Carotenoids (C40)</data>
+      <data key="d12">Carotenoids (C40, β-β)</data>
+      <data key="d13">Terpenoids</data>
+    </node>
+    <node id="4450">
+      <data key="d0">269.227</data>
+      <data key="d1">6.52</data>
+      <data key="d2">6.52</data>
+      <data key="d3">0</data>
+      <data key="d4">2460</data>
+      <data key="d5">Spectral Match to Retinol from NIST14</data>
+      <data key="d6">nan</data>
+      <data key="d7">nan</data>
+      <data key="d8">nan</data>
+      <data key="d9">nan</data>
+      <data key="d10">nan</data>
+      <data key="d11">nan</data>
+      <data key="d12">nan</data>
+      <data key="d13">nan</data>
+    </node>
+    <node id="13921">
+      <data key="d0">550.418</data>
+      <data key="d1">8.08</data>
+      <data key="d2">8.08</data>
+      <data key="d3">0</data>
+      <data key="d4">2460</data>
+    </node>
+    <node id="13967">
+      <data key="d0">552.432</data>
+      <data key="d1">7.39</data>
+      <data key="d2">7.39</data>
+      <data key="d3">0</data>
+      <data key="d4">2460</data>
+      <data key="d5">Spectral Match to .beta.-Cryptoxanthin from NIST14</data>
+      <data key="d6">nan</data>
+      <data key="d7">nan</data>
+      <data key="d8">nan</data>
+      <data key="d9">nan</data>
+      <data key="d10">nan</data>
+      <data key="d11">nan</data>
+      <data key="d12">nan</data>
+      <data key="d13">nan</data>
+    </node>
+    <node id="13969">
+      <data key="d0">552.434</data>
+      <data key="d1">7.69</data>
+      <data key="d2">7.69</data>
+      <data key="d3">0</data>
+      <data key="d4">2460</data>
+      <data key="d5">Spectral Match to .beta.-Cryptoxanthin from NIST14</data>
+      <data key="d6">nan</data>
+      <data key="d7">nan</data>
+      <data key="d8">nan</data>
+      <data key="d9">nan</data>
+      <data key="d10">nan</data>
+      <data key="d11">nan</data>
+      <data key="d12">nan</data>
+      <data key="d13">nan</data>
+    </node>
+    <node id="4449">
+      <data key="d0">269.227</data>
+      <data key="d1">3.9</data>
+      <data key="d2">3.9</data>
+      <data key="d3">0</data>
+      <data key="d4">2460</data>
+      <data key="d5">Spectral Match to Retinol from NIST14</data>
+      <data key="d6">nan</data>
+      <data key="d7">nan</data>
+      <data key="d8">nan</data>
+      <data key="d9">nan</data>
+      <data key="d10">nan</data>
+      <data key="d11">nan</data>
+      <data key="d12">nan</data>
+      <data key="d13">nan</data>
+    </node>
+    <edge source="14339" target="13967">
+      <data key="d14">-18.01</data>
+      <data key="d15">-18</data>
+      <data key="d16">0.8003</data>
+      <data key="d17">0</data>
+      <data key="d18">14339</data>
+      <data key="d19">13967</data>
+      <data key="d20">2460</data>
+    </edge>
+    <edge source="14339" target="13969">
+      <data key="d14">-18.008</data>
+      <data key="d15">-18</data>
+      <data key="d16">0.8088</data>
+      <data key="d17">0</data>
+      <data key="d18">14339</data>
+      <data key="d19">13969</data>
+      <data key="d20">2460</data>
+    </edge>
+    <edge source="14339" target="4450">
+      <data key="d14">-301.216</data>
+      <data key="d15">-301</data>
+      <data key="d16">0.8397</data>
+      <data key="d17">0</data>
+      <data key="d18">14339</data>
+      <data key="d19">4450</data>
+      <data key="d20">2460</data>
+    </edge>
+    <edge source="13558" target="13969">
+      <data key="d14">-15.995</data>
+      <data key="d15">-15</data>
+      <data key="d16">0.8331</data>
+      <data key="d17">0</data>
+      <data key="d18">13969</data>
+      <data key="d19">13558</data>
+      <data key="d20">2460</data>
+    </edge>
+    <edge source="4450" target="4449">
+      <data key="d14">0.0</data>
+      <data key="d15">0</data>
+      <data key="d16">0.8655</data>
+      <data key="d17">0</data>
+      <data key="d18">4450</data>
+      <data key="d19">4449</data>
+      <data key="d20">2460</data>
+    </edge>
+    <edge source="13921" target="13969">
+      <data key="d14">-2.016</data>
+      <data key="d15">-2</data>
+      <data key="d16">0.8417</data>
+      <data key="d17">0</data>
+      <data key="d18">13969</data>
+      <data key="d19">13921</data>
+      <data key="d20">2460</data>
+    </edge>
+  </graph>
+</graphml>

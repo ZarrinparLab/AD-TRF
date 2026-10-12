@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d20" for="edge" attr.name="component" attr.type="long" />
+  <key id="d19" for="edge" attr.name="scan2" attr.type="string" />
+  <key id="d18" for="edge" attr.name="scan1" attr.type="string" />
+  <key id="d17" for="edge" attr.name="matched_peaks" attr.type="string" />
+  <key id="d16" for="edge" attr.name="score" attr.type="double" />
+  <key id="d15" for="edge" attr.name="deltamz_int" attr.type="long" />
+  <key id="d14" for="edge" attr.name="deltamz" attr.type="double" />
+  <key id="d13" for="node" attr.name="library_npclassifier_pathway" attr.type="string" />
+  <key id="d12" for="node" attr.name="library_npclassifier_class" attr.type="string" />
+  <key id="d11" for="node" attr.name="library_npclassifier_superclass" attr.type="string" />
+  <key id="d10" for="node" attr.name="library_classyfire_subclass" attr.type="string" />
+  <key id="d9" for="node" attr.name="library_classyfire_class" attr.type="string" />
+  <key id="d8" for="node" attr.name="library_classyfire_superclass" attr.type="string" />
+  <key id="d7" for="node" attr.name="library_InChI" attr.type="string" />
+  <key id="d6" for="node" attr.name="library_SMILES" attr.type="string" />
+  <key id="d5" for="node" attr.name="library_compound_name" attr.type="string" />
+  <key id="d4" for="node" attr.name="component" attr.type="long" />
+  <key id="d3" for="node" attr.name="charge" attr.type="long" />
+  <key id="d2" for="node" attr.name="rt_min" attr.type="double" />
+  <key id="d1" for="node" attr.name="rt" attr.type="double" />
+  <key id="d0" for="node" attr.name="mz" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="21051">
+      <data key="d0">260.197</data>
+      <data key="d1">0.85</data>
+      <data key="d2">0.85</data>
+      <data key="d3">0</data>
+      <data key="d4">2124</data>
+      <data key="d5">Spectral Match to Lys-Ile from NIST14</data>
+      <data key="d6">CC[C@H](C)[C@@H](C(=O)O)NC(=O)[C@H](CCCCN)N</data>
+      <data key="d7">InChI=1S/C12H25N3O3/c1-3-8(2)10(12(17)18)15-11(16)9(14)6-4-5-7-13/h8-10H,3-7,13-14H2,1-2H3,(H,15,16)(H,17,18)/t8-,9-,10-/m0/s1</data>
+      <data key="d8">Organic acids and derivatives</data>
+      <data key="d9">Carboxylic acids and derivatives</data>
+      <data key="d10">Amino acids, peptides, and analogues</data>
+      <data key="d11">Small peptides</data>
+      <data key="d12">Dipeptides</data>
+      <data key="d13">Amino acids and Peptides</data>
+    </node>
+    <node id="21465">
+      <data key="d0">294.145</data>
+      <data key="d1">1.28</data>
+      <data key="d2">1.28</data>
+      <data key="d3">0</data>
+      <data key="d4">2124</data>
+      <data key="d5">Spectral Match to Phe-Gln from NIST14</data>
+      <data key="d6">nan</data>
+      <data key="d7">nan</data>
+      <data key="d8">nan</data>
+      <data key="d9">nan</data>
+      <data key="d10">nan</data>
+      <data key="d11">nan</data>
+      <data key="d12">nan</data>
+      <data key="d13">nan</data>
+    </node>
+    <node id="21047">
+      <data key="d0">260.161</data>
+      <data key="d1">0.9</data>
+      <data key="d2">0.9</data>
+      <data key="d3">0</data>
+      <data key="d4">2124</data>
+    </node>
+    <edge source="21051" target="21047">
+      <data key="d14">-0.036</data>
+      <data key="d15">0</data>
+      <data key="d16">0.9442</data>
+      <data key="d17">0</data>
+      <data key="d18">21047</data>
+      <data key="d19">21051</data>
+      <data key="d20">2124</data>
+    </edge>
+    <edge source="21465" target="21047">
+      <data key="d14">-33.984</data>
+      <data key="d15">-33</data>
+      <data key="d16">0.9167</data>
+      <data key="d17">0</data>
+      <data key="d18">21047</data>
+      <data key="d19">21465</data>
+      <data key="d20">2124</data>
+    </edge>
+  </graph>
+</graphml>

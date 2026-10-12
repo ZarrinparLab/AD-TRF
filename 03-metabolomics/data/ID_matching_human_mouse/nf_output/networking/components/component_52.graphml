@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d20" for="edge" attr.name="component" attr.type="long" />
+  <key id="d19" for="edge" attr.name="scan2" attr.type="string" />
+  <key id="d18" for="edge" attr.name="scan1" attr.type="string" />
+  <key id="d17" for="edge" attr.name="matched_peaks" attr.type="string" />
+  <key id="d16" for="edge" attr.name="score" attr.type="double" />
+  <key id="d15" for="edge" attr.name="deltamz_int" attr.type="long" />
+  <key id="d14" for="edge" attr.name="deltamz" attr.type="double" />
+  <key id="d13" for="node" attr.name="library_npclassifier_pathway" attr.type="string" />
+  <key id="d12" for="node" attr.name="library_npclassifier_class" attr.type="string" />
+  <key id="d11" for="node" attr.name="library_npclassifier_superclass" attr.type="string" />
+  <key id="d10" for="node" attr.name="library_classyfire_subclass" attr.type="string" />
+  <key id="d9" for="node" attr.name="library_classyfire_class" attr.type="string" />
+  <key id="d8" for="node" attr.name="library_classyfire_superclass" attr.type="string" />
+  <key id="d7" for="node" attr.name="library_InChI" attr.type="string" />
+  <key id="d6" for="node" attr.name="library_SMILES" attr.type="string" />
+  <key id="d5" for="node" attr.name="library_compound_name" attr.type="string" />
+  <key id="d4" for="node" attr.name="component" attr.type="long" />
+  <key id="d3" for="node" attr.name="charge" attr.type="long" />
+  <key id="d2" for="node" attr.name="rt_min" attr.type="double" />
+  <key id="d1" for="node" attr.name="rt" attr.type="double" />
+  <key id="d0" for="node" attr.name="mz" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="11841">
+      <data key="d0">470.218</data>
+      <data key="d1">2.78</data>
+      <data key="d2">2.78</data>
+      <data key="d3">0</data>
+      <data key="d4">52</data>
+    </node>
+    <node id="5448">
+      <data key="d0">294.186</data>
+      <data key="d1">3.01</data>
+      <data key="d2">3.01</data>
+      <data key="d3">0</data>
+      <data key="d4">52</data>
+    </node>
+    <node id="11424">
+      <data key="d0">456.202</data>
+      <data key="d1">2.77</data>
+      <data key="d2">2.77</data>
+      <data key="d3">0</data>
+      <data key="d4">52</data>
+    </node>
+    <node id="4862">
+      <data key="d0">280.17</data>
+      <data key="d1">2.98</data>
+      <data key="d2">2.98</data>
+      <data key="d3">0</data>
+      <data key="d4">52</data>
+      <data key="d5">E-10-Hydroxynortriptyline</data>
+      <data key="d6">CNCCC=C1c2ccccc2CC(O)c2ccccc12</data>
+      <data key="d7">"InChI=1S/C19H21NO/c1-20-12-6-11-16-15-8-3-2-7-14(15)13-19(21)18-10-5-4-9-17(16)18/h2-5,7-11,19-21H,6,12-13H2,1H3/b16-11+"</data>
+      <data key="d8">nan</data>
+      <data key="d9">nan</data>
+      <data key="d10">nan</data>
+      <data key="d11">Tyrosine alkaloids</data>
+      <data key="d12">nan</data>
+      <data key="d13">Alkaloids</data>
+    </node>
+    <node id="11002">
+      <data key="d0">442.186</data>
+      <data key="d1">2.66</data>
+      <data key="d2">2.66</data>
+      <data key="d3">0</data>
+      <data key="d4">52</data>
+    </node>
+    <node id="4863">
+      <data key="d0">280.17</data>
+      <data key="d1">3.63</data>
+      <data key="d2">3.63</data>
+      <data key="d3">0</data>
+      <data key="d4">52</data>
+      <data key="d5">E-10-Hydroxynortriptyline</data>
+      <data key="d6">CNCCC=C1c2ccccc2CC(O)c2ccccc12</data>
+      <data key="d7">"InChI=1S/C19H21NO/c1-20-12-6-11-16-15-8-3-2-7-14(15)13-19(21)18-10-5-4-9-17(16)18/h2-5,7-11,19-21H,6,12-13H2,1H3/b16-11+"</data>
+      <data key="d8">nan</data>
+      <data key="d9">nan</data>
+      <data key="d10">nan</data>
+      <data key="d11">Tyrosine alkaloids</data>
+      <data key="d12">nan</data>
+      <data key="d13">Alkaloids</data>
+    </node>
+    <edge source="11841" target="5448">
+      <data key="d14">-176.032</data>
+      <data key="d15">-176</data>
+      <data key="d16">0.8914</data>
+      <data key="d17">0</data>
+      <data key="d18">5448</data>
+      <data key="d19">11841</data>
+      <data key="d20">52</data>
+    </edge>
+    <edge source="11841" target="11424">
+      <data key="d14">-14.016</data>
+      <data key="d15">-14</data>
+      <data key="d16">0.9175</data>
+      <data key="d17">0</data>
+      <data key="d18">11424</data>
+      <data key="d19">11841</data>
+      <data key="d20">52</data>
+    </edge>
+    <edge source="11841" target="11002">
+      <data key="d14">-28.032</data>
+      <data key="d15">-28</data>
+      <data key="d16">0.7784</data>
+      <data key="d17">0</data>
+      <data key="d18">11002</data>
+      <data key="d19">11841</data>
+      <data key="d20">52</data>
+    </edge>
+    <edge source="5448" target="4862">
+      <data key="d14">-14.016</data>
+      <data key="d15">-14</data>
+      <data key="d16">0.8838</data>
+      <data key="d17">0</data>
+      <data key="d18">4862</data>
+      <data key="d19">5448</data>
+      <data key="d20">52</data>
+    </edge>
+    <edge source="5448" target="4863">
+      <data key="d14">-14.016</data>
+      <data key="d15">-14</data>
+      <data key="d16">0.8602</data>
+      <data key="d17">0</data>
+      <data key="d18">5448</data>
+      <data key="d19">4863</data>
+      <data key="d20">52</data>
+    </edge>
+    <edge source="11424" target="4862">
+      <data key="d14">-176.032</data>
+      <data key="d15">-176</data>
+      <data key="d16">0.9408</data>
+      <data key="d17">0</data>
+      <data key="d18">4862</data>
+      <data key="d19">11424</data>
+      <data key="d20">52</data>
+    </edge>
+    <edge source="11424" target="11002">
+      <data key="d14">-14.016</data>
+      <data key="d15">-14</data>
+      <data key="d16">0.8422</data>
+      <data key="d17">0</data>
+      <data key="d18">11424</data>
+      <data key="d19">11002</data>
+      <data key="d20">52</data>
+    </edge>
+    <edge source="11424" target="4863">
+      <data key="d14">-176.032</data>
+      <data key="d15">-176</data>
+      <data key="d16">0.8192</data>
+      <data key="d17">0</data>
+      <data key="d18">11424</data>
+      <data key="d19">4863</data>
+      <data key="d20">52</data>
+    </edge>
+    <edge source="4862" target="4863">
+      <data key="d14">-0.0</data>
+      <data key="d15">0</data>
+      <data key="d16">0.8234</data>
+      <data key="d17">0</data>
+      <data key="d18">4862</data>
+      <data key="d19">4863</data>
+      <data key="d20">52</data>
+    </edge>
+  </graph>
+</graphml>

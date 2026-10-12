@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d20" for="edge" attr.name="component" attr.type="long" />
+  <key id="d19" for="edge" attr.name="scan2" attr.type="string" />
+  <key id="d18" for="edge" attr.name="scan1" attr.type="string" />
+  <key id="d17" for="edge" attr.name="matched_peaks" attr.type="string" />
+  <key id="d16" for="edge" attr.name="score" attr.type="double" />
+  <key id="d15" for="edge" attr.name="deltamz_int" attr.type="long" />
+  <key id="d14" for="edge" attr.name="deltamz" attr.type="double" />
+  <key id="d13" for="node" attr.name="library_npclassifier_pathway" attr.type="string" />
+  <key id="d12" for="node" attr.name="library_npclassifier_class" attr.type="string" />
+  <key id="d11" for="node" attr.name="library_npclassifier_superclass" attr.type="string" />
+  <key id="d10" for="node" attr.name="library_classyfire_subclass" attr.type="string" />
+  <key id="d9" for="node" attr.name="library_classyfire_class" attr.type="string" />
+  <key id="d8" for="node" attr.name="library_classyfire_superclass" attr.type="string" />
+  <key id="d7" for="node" attr.name="library_InChI" attr.type="string" />
+  <key id="d6" for="node" attr.name="library_SMILES" attr.type="string" />
+  <key id="d5" for="node" attr.name="library_compound_name" attr.type="string" />
+  <key id="d4" for="node" attr.name="component" attr.type="long" />
+  <key id="d3" for="node" attr.name="charge" attr.type="long" />
+  <key id="d2" for="node" attr.name="rt_min" attr.type="double" />
+  <key id="d1" for="node" attr.name="rt" attr.type="double" />
+  <key id="d0" for="node" attr.name="mz" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="21407">
+      <data key="d0">288.203</data>
+      <data key="d1">0.9</data>
+      <data key="d2">0.9</data>
+      <data key="d3">0</data>
+      <data key="d4">6199</data>
+      <data key="d5">Spectral Match to Ile-Arg from NIST14</data>
+      <data key="d6">CC[C@H](C)[C@@H](C(=O)N[C@@H](CCCN=C(N)N)C(=O)O)N</data>
+      <data key="d7">InChI=1S/C12H25N5O3/c1-3-7(2)9(13)10(18)17-8(11(19)20)5-4-6-16-12(14)15/h7-9H,3-6,13H2,1-2H3,(H,17,18)(H,19,20)(H4,14,15,16)/t7-,8-,9-/m0/s1</data>
+      <data key="d8">Organic acids and derivatives</data>
+      <data key="d9">Carboxylic acids and derivatives</data>
+      <data key="d10">Amino acids, peptides, and analogues</data>
+      <data key="d11">Small peptides</data>
+      <data key="d12">Dipeptides</data>
+      <data key="d13">Amino acids and Peptides</data>
+    </node>
+    <node id="21406">
+      <data key="d0">288.203</data>
+      <data key="d1">0.82</data>
+      <data key="d2">0.82</data>
+      <data key="d3">0</data>
+      <data key="d4">6199</data>
+      <data key="d5">Spectral Match to Ile-Arg from NIST14</data>
+      <data key="d6">CC[C@H](C)[C@@H](C(=O)N[C@@H](CCCN=C(N)N)C(=O)O)N</data>
+      <data key="d7">InChI=1S/C12H25N5O3/c1-3-7(2)9(13)10(18)17-8(11(19)20)5-4-6-16-12(14)15/h7-9H,3-6,13H2,1-2H3,(H,17,18)(H,19,20)(H4,14,15,16)/t7-,8-,9-/m0/s1</data>
+      <data key="d8">Organic acids and derivatives</data>
+      <data key="d9">Carboxylic acids and derivatives</data>
+      <data key="d10">Amino acids, peptides, and analogues</data>
+      <data key="d11">Small peptides</data>
+      <data key="d12">Dipeptides</data>
+      <data key="d13">Amino acids and Peptides</data>
+    </node>
+    <edge source="21407" target="21406">
+      <data key="d14">-0.0</data>
+      <data key="d15">0</data>
+      <data key="d16">0.9385</data>
+      <data key="d17">0</data>
+      <data key="d18">21407</data>
+      <data key="d19">21406</data>
+      <data key="d20">6199</data>
+    </edge>
+  </graph>
+</graphml>

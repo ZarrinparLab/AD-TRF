@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d20" for="edge" attr.name="component" attr.type="long" />
+  <key id="d19" for="edge" attr.name="scan2" attr.type="string" />
+  <key id="d18" for="edge" attr.name="scan1" attr.type="string" />
+  <key id="d17" for="edge" attr.name="matched_peaks" attr.type="string" />
+  <key id="d16" for="edge" attr.name="score" attr.type="double" />
+  <key id="d15" for="edge" attr.name="deltamz_int" attr.type="long" />
+  <key id="d14" for="edge" attr.name="deltamz" attr.type="double" />
+  <key id="d13" for="node" attr.name="library_npclassifier_pathway" attr.type="string" />
+  <key id="d12" for="node" attr.name="library_npclassifier_class" attr.type="string" />
+  <key id="d11" for="node" attr.name="library_npclassifier_superclass" attr.type="string" />
+  <key id="d10" for="node" attr.name="library_classyfire_subclass" attr.type="string" />
+  <key id="d9" for="node" attr.name="library_classyfire_class" attr.type="string" />
+  <key id="d8" for="node" attr.name="library_classyfire_superclass" attr.type="string" />
+  <key id="d7" for="node" attr.name="library_InChI" attr.type="string" />
+  <key id="d6" for="node" attr.name="library_SMILES" attr.type="string" />
+  <key id="d5" for="node" attr.name="library_compound_name" attr.type="string" />
+  <key id="d4" for="node" attr.name="component" attr.type="long" />
+  <key id="d3" for="node" attr.name="charge" attr.type="long" />
+  <key id="d2" for="node" attr.name="rt_min" attr.type="double" />
+  <key id="d1" for="node" attr.name="rt" attr.type="double" />
+  <key id="d0" for="node" attr.name="mz" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="5037">
+      <data key="d0">284.295</data>
+      <data key="d1">7.08</data>
+      <data key="d2">7.08</data>
+      <data key="d3">0</data>
+      <data key="d4">397</data>
+      <data key="d5">Spectral Match to Octadecanamide from NIST14</data>
+      <data key="d6">CCCCCCCCCCCCCCCCCC(=O)N</data>
+      <data key="d7">InChI=1S/C18H37NO/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18(19)20/h2-17H2,1H3,(H2,19,20)</data>
+      <data key="d8">Organic acids and derivatives</data>
+      <data key="d9">Carboximidic acids and derivatives</data>
+      <data key="d10">Carboximidic acids</data>
+      <data key="d11">Fatty amides</data>
+      <data key="d12">Primary amides</data>
+      <data key="d13">Fatty acids</data>
+    </node>
+    <node id="7429">
+      <data key="d0">340.358</data>
+      <data key="d1">8.14</data>
+      <data key="d2">8.14</data>
+      <data key="d3">0</data>
+      <data key="d4">397</data>
+    </node>
+    <node id="1281">
+      <data key="d0">172.17</data>
+      <data key="d1">4.43</data>
+      <data key="d2">4.43</data>
+      <data key="d3">0</data>
+      <data key="d4">397</data>
+      <data key="d5">Candidate Amylamine-C5:0 (delta mass:84.0573)</data>
+      <data key="d6">nan</data>
+      <data key="d7">nan</data>
+      <data key="d8">nan</data>
+      <data key="d9">nan</data>
+      <data key="d10">nan</data>
+      <data key="d11">nan</data>
+      <data key="d12">nan</data>
+      <data key="d13">nan</data>
+    </node>
+    <node id="2511">
+      <data key="d0">214.217</data>
+      <data key="d1">5.35</data>
+      <data key="d2">5.35</data>
+      <data key="d3">0</data>
+      <data key="d4">397</data>
+    </node>
+    <node id="2087">
+      <data key="d0">200.201</data>
+      <data key="d1">5.13</data>
+      <data key="d2">5.13</data>
+      <data key="d3">0</data>
+      <data key="d4">397</data>
+    </node>
+    <edge source="5037" target="2511">
+      <data key="d14">-70.078</data>
+      <data key="d15">-70</data>
+      <data key="d16">0.7983</data>
+      <data key="d17">0</data>
+      <data key="d18">2511</data>
+      <data key="d19">5037</data>
+      <data key="d20">397</data>
+    </edge>
+    <edge source="5037" target="7429">
+      <data key="d14">-56.063</data>
+      <data key="d15">-56</data>
+      <data key="d16">0.7199</data>
+      <data key="d17">0</data>
+      <data key="d18">7429</data>
+      <data key="d19">5037</data>
+      <data key="d20">397</data>
+    </edge>
+    <edge source="5037" target="2087">
+      <data key="d14">-84.093</data>
+      <data key="d15">-84</data>
+      <data key="d16">0.7126</data>
+      <data key="d17">0</data>
+      <data key="d18">2087</data>
+      <data key="d19">5037</data>
+      <data key="d20">397</data>
+    </edge>
+    <edge source="5037" target="1281">
+      <data key="d14">-112.125</data>
+      <data key="d15">-112</data>
+      <data key="d16">0.7239</data>
+      <data key="d17">0</data>
+      <data key="d18">5037</data>
+      <data key="d19">1281</data>
+      <data key="d20">397</data>
+    </edge>
+  </graph>
+</graphml>

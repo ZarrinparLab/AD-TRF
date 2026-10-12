@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d20" for="edge" attr.name="component" attr.type="long" />
+  <key id="d19" for="edge" attr.name="scan2" attr.type="string" />
+  <key id="d18" for="edge" attr.name="scan1" attr.type="string" />
+  <key id="d17" for="edge" attr.name="matched_peaks" attr.type="string" />
+  <key id="d16" for="edge" attr.name="score" attr.type="double" />
+  <key id="d15" for="edge" attr.name="deltamz_int" attr.type="long" />
+  <key id="d14" for="edge" attr.name="deltamz" attr.type="double" />
+  <key id="d13" for="node" attr.name="library_npclassifier_pathway" attr.type="string" />
+  <key id="d12" for="node" attr.name="library_npclassifier_class" attr.type="string" />
+  <key id="d11" for="node" attr.name="library_npclassifier_superclass" attr.type="string" />
+  <key id="d10" for="node" attr.name="library_classyfire_subclass" attr.type="string" />
+  <key id="d9" for="node" attr.name="library_classyfire_class" attr.type="string" />
+  <key id="d8" for="node" attr.name="library_classyfire_superclass" attr.type="string" />
+  <key id="d7" for="node" attr.name="library_InChI" attr.type="string" />
+  <key id="d6" for="node" attr.name="library_SMILES" attr.type="string" />
+  <key id="d5" for="node" attr.name="library_compound_name" attr.type="string" />
+  <key id="d4" for="node" attr.name="component" attr.type="long" />
+  <key id="d3" for="node" attr.name="charge" attr.type="long" />
+  <key id="d2" for="node" attr.name="rt_min" attr.type="double" />
+  <key id="d1" for="node" attr.name="rt" attr.type="double" />
+  <key id="d0" for="node" attr.name="mz" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="8210">
+      <data key="d0">359.265</data>
+      <data key="d1">0.34</data>
+      <data key="d2">0.34</data>
+      <data key="d3">0</data>
+      <data key="d4">4572</data>
+      <data key="d5">Spectral Match to Ile-Val-Lys from NIST14</data>
+      <data key="d6">nan</data>
+      <data key="d7">nan</data>
+      <data key="d8">nan</data>
+      <data key="d9">nan</data>
+      <data key="d10">nan</data>
+      <data key="d11">nan</data>
+      <data key="d12">nan</data>
+      <data key="d13">nan</data>
+    </node>
+    <node id="8703">
+      <data key="d0">373.208</data>
+      <data key="d1">1.41</data>
+      <data key="d2">1.41</data>
+      <data key="d3">0</data>
+      <data key="d4">4572</data>
+    </node>
+    <node id="8720">
+      <data key="d0">373.281</data>
+      <data key="d1">1.98</data>
+      <data key="d2">1.98</data>
+      <data key="d3">0</data>
+      <data key="d4">4572</data>
+      <data key="d5">Spectral Match to Ile-Ile-Lys from NIST14</data>
+      <data key="d6">CC[C@H](C)[C@@H](C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CCCCN)C(=O)O)N</data>
+      <data key="d7">InChI=1S/C18H36N4O4/c1-5-11(3)14(20)16(23)22-15(12(4)6-2)17(24)21-13(18(25)26)9-7-8-10-19/h11-15H,5-10,19-20H2,1-4H3,(H,21,24)(H,22,23)(H,25,26)/t11-,12-,13-,14-,15-/m0/s1</data>
+      <data key="d8">Organic acids and derivatives</data>
+      <data key="d9">Carboxylic acids and derivatives</data>
+      <data key="d10">Amino acids, peptides, and analogues</data>
+      <data key="d11">Small peptides</data>
+      <data key="d12">Dipeptides|Tripeptides</data>
+      <data key="d13">Amino acids and Peptides</data>
+    </node>
+    <node id="8211">
+      <data key="d0">359.265</data>
+      <data key="d1">0.62</data>
+      <data key="d2">0.62</data>
+      <data key="d3">0</data>
+      <data key="d4">4572</data>
+      <data key="d5">Spectral Match to Ile-Val-Lys from NIST14</data>
+      <data key="d6">nan</data>
+      <data key="d7">nan</data>
+      <data key="d8">nan</data>
+      <data key="d9">nan</data>
+      <data key="d10">nan</data>
+      <data key="d11">nan</data>
+      <data key="d12">nan</data>
+      <data key="d13">nan</data>
+    </node>
+    <node id="8719">
+      <data key="d0">373.281</data>
+      <data key="d1">0.43</data>
+      <data key="d2">0.43</data>
+      <data key="d3">0</data>
+      <data key="d4">4572</data>
+      <data key="d5">Spectral Match to Ile-Ile-Lys from NIST14</data>
+      <data key="d6">CC[C@H](C)[C@@H](C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CCCCN)C(=O)O)N</data>
+      <data key="d7">InChI=1S/C18H36N4O4/c1-5-11(3)14(20)16(23)22-15(12(4)6-2)17(24)21-13(18(25)26)9-7-8-10-19/h11-15H,5-10,19-20H2,1-4H3,(H,21,24)(H,22,23)(H,25,26)/t11-,12-,13-,14-,15-/m0/s1</data>
+      <data key="d8">Organic acids and derivatives</data>
+      <data key="d9">Carboxylic acids and derivatives</data>
+      <data key="d10">Amino acids, peptides, and analogues</data>
+      <data key="d11">Small peptides</data>
+      <data key="d12">Dipeptides|Tripeptides</data>
+      <data key="d13">Amino acids and Peptides</data>
+    </node>
+    <edge source="8210" target="8720">
+      <data key="d14">-14.016</data>
+      <data key="d15">-14</data>
+      <data key="d16">0.9193</data>
+      <data key="d17">0</data>
+      <data key="d18">8210</data>
+      <data key="d19">8720</data>
+      <data key="d20">4572</data>
+    </edge>
+    <edge source="8210" target="8719">
+      <data key="d14">-14.016</data>
+      <data key="d15">-14</data>
+      <data key="d16">0.9125</data>
+      <data key="d17">0</data>
+      <data key="d18">8210</data>
+      <data key="d19">8719</data>
+      <data key="d20">4572</data>
+    </edge>
+    <edge source="8210" target="8211">
+      <data key="d14">-0.0</data>
+      <data key="d15">0</data>
+      <data key="d16">0.9427</data>
+      <data key="d17">0</data>
+      <data key="d18">8210</data>
+      <data key="d19">8211</data>
+      <data key="d20">4572</data>
+    </edge>
+    <edge source="8703" target="8720">
+      <data key="d14">-0.073</data>
+      <data key="d15">0</data>
+      <data key="d16">0.8534</data>
+      <data key="d17">0</data>
+      <data key="d18">8720</data>
+      <data key="d19">8703</data>
+      <data key="d20">4572</data>
+    </edge>
+    <edge source="8703" target="8719">
+      <data key="d14">-0.072</data>
+      <data key="d15">0</data>
+      <data key="d16">0.86</data>
+      <data key="d17">0</data>
+      <data key="d18">8703</data>
+      <data key="d19">8719</data>
+      <data key="d20">4572</data>
+    </edge>
+    <edge source="8720" target="8211">
+      <data key="d14">-14.016</data>
+      <data key="d15">-14</data>
+      <data key="d16">0.9534</data>
+      <data key="d17">0</data>
+      <data key="d18">8720</data>
+      <data key="d19">8211</data>
+      <data key="d20">4572</data>
+    </edge>
+    <edge source="8720" target="8719">
+      <data key="d14">-0.0</data>
+      <data key="d15">0</data>
+      <data key="d16">0.9717</data>
+      <data key="d17">0</data>
+      <data key="d18">8720</data>
+      <data key="d19">8719</data>
+      <data key="d20">4572</data>
+    </edge>
+    <edge source="8211" target="8719">
+      <data key="d14">-14.016</data>
+      <data key="d15">-14</data>
+      <data key="d16">0.9236</data>
+      <data key="d17">0</data>
+      <data key="d18">8211</data>
+      <data key="d19">8719</data>
+      <data key="d20">4572</data>
+    </edge>
+  </graph>
+</graphml>

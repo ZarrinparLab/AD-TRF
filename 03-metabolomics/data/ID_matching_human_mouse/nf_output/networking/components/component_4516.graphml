@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d20" for="edge" attr.name="component" attr.type="long" />
+  <key id="d19" for="edge" attr.name="scan2" attr.type="string" />
+  <key id="d18" for="edge" attr.name="scan1" attr.type="string" />
+  <key id="d17" for="edge" attr.name="matched_peaks" attr.type="string" />
+  <key id="d16" for="edge" attr.name="score" attr.type="double" />
+  <key id="d15" for="edge" attr.name="deltamz_int" attr.type="long" />
+  <key id="d14" for="edge" attr.name="deltamz" attr.type="double" />
+  <key id="d13" for="node" attr.name="library_npclassifier_pathway" attr.type="string" />
+  <key id="d12" for="node" attr.name="library_npclassifier_class" attr.type="string" />
+  <key id="d11" for="node" attr.name="library_npclassifier_superclass" attr.type="string" />
+  <key id="d10" for="node" attr.name="library_classyfire_subclass" attr.type="string" />
+  <key id="d9" for="node" attr.name="library_classyfire_class" attr.type="string" />
+  <key id="d8" for="node" attr.name="library_classyfire_superclass" attr.type="string" />
+  <key id="d7" for="node" attr.name="library_InChI" attr.type="string" />
+  <key id="d6" for="node" attr.name="library_SMILES" attr.type="string" />
+  <key id="d5" for="node" attr.name="library_compound_name" attr.type="string" />
+  <key id="d4" for="node" attr.name="component" attr.type="long" />
+  <key id="d3" for="node" attr.name="charge" attr.type="long" />
+  <key id="d2" for="node" attr.name="rt_min" attr.type="double" />
+  <key id="d1" for="node" attr.name="rt" attr.type="double" />
+  <key id="d0" for="node" attr.name="mz" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="9178">
+      <data key="d0">386.153</data>
+      <data key="d1">3.97</data>
+      <data key="d2">3.97</data>
+      <data key="d3">0</data>
+      <data key="d4">4516</data>
+    </node>
+    <node id="9062">
+      <data key="d0">383.152</data>
+      <data key="d1">3.98</data>
+      <data key="d2">3.98</data>
+      <data key="d3">0</data>
+      <data key="d4">4516</data>
+      <data key="d5">Massbank:AU226803 Loratadine|ethyl 4-(8-chloro-5,6-dihydrobenzo[1,2]cyclohepta[2,4-b]pyridin-11-ylidene)piperidine-1-carboxylate</data>
+      <data key="d6">CCOC(=O)N1CCC(=C2c3ccc(cc3CCc4c2nccc4)Cl)CC1</data>
+      <data key="d7">1S/C22H23ClN2O2/c1-2-27-22(26)25-12-9-15(10-13-25)20-19-8-7-18(23)14-17(19)6-5-16-4-3-11-24-21(16)20/h3-4,7-8,11,14H,2,5-6,9-10,12-13H2,1H3</data>
+      <data key="d8">nan</data>
+      <data key="d9">nan</data>
+      <data key="d10">nan</data>
+      <data key="d11">nan</data>
+      <data key="d12">nan</data>
+      <data key="d13">Alkaloids</data>
+    </node>
+    <node id="9135">
+      <data key="d0">385.149</data>
+      <data key="d1">3.98</data>
+      <data key="d2">3.98</data>
+      <data key="d3">0</data>
+      <data key="d4">4516</data>
+      <data key="d5">Loratadine</data>
+      <data key="d6">CCOC(=O)N1CCC(=C2C3=C(CCC4=C2N=CC=C4)C=C(C=C3)Cl)CC1</data>
+      <data key="d7">InChI=1S/C22H23ClN2O2/c1-2-27-22(26)25-12-9-15(10-13-25)20-19-8-7-18(23)14-17(19)6-5-16-4-3-11-24-21(16)20/h3-4,7-8,11,14H,2,5-6,9-10,12-13H2,1H3</data>
+      <data key="d8">nan</data>
+      <data key="d9">nan</data>
+      <data key="d10">nan</data>
+      <data key="d11">nan</data>
+      <data key="d12">nan</data>
+      <data key="d13">Alkaloids</data>
+    </node>
+    <edge source="9178" target="9135">
+      <data key="d14">-1.004</data>
+      <data key="d15">-1</data>
+      <data key="d16">0.7237</data>
+      <data key="d17">0</data>
+      <data key="d18">9135</data>
+      <data key="d19">9178</data>
+      <data key="d20">4516</data>
+    </edge>
+    <edge source="9062" target="9135">
+      <data key="d14">-1.996</data>
+      <data key="d15">-1</data>
+      <data key="d16">0.8344</data>
+      <data key="d17">0</data>
+      <data key="d18">9062</data>
+      <data key="d19">9135</data>
+      <data key="d20">4516</data>
+    </edge>
+  </graph>
+</graphml>

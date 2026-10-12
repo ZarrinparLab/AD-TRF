@@ -1,0 +1,233 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d20" for="edge" attr.name="component" attr.type="long" />
+  <key id="d19" for="edge" attr.name="scan2" attr.type="string" />
+  <key id="d18" for="edge" attr.name="scan1" attr.type="string" />
+  <key id="d17" for="edge" attr.name="matched_peaks" attr.type="string" />
+  <key id="d16" for="edge" attr.name="score" attr.type="double" />
+  <key id="d15" for="edge" attr.name="deltamz_int" attr.type="long" />
+  <key id="d14" for="edge" attr.name="deltamz" attr.type="double" />
+  <key id="d13" for="node" attr.name="library_npclassifier_pathway" attr.type="string" />
+  <key id="d12" for="node" attr.name="library_npclassifier_class" attr.type="string" />
+  <key id="d11" for="node" attr.name="library_npclassifier_superclass" attr.type="string" />
+  <key id="d10" for="node" attr.name="library_classyfire_subclass" attr.type="string" />
+  <key id="d9" for="node" attr.name="library_classyfire_class" attr.type="string" />
+  <key id="d8" for="node" attr.name="library_classyfire_superclass" attr.type="string" />
+  <key id="d7" for="node" attr.name="library_InChI" attr.type="string" />
+  <key id="d6" for="node" attr.name="library_SMILES" attr.type="string" />
+  <key id="d5" for="node" attr.name="library_compound_name" attr.type="string" />
+  <key id="d4" for="node" attr.name="component" attr.type="long" />
+  <key id="d3" for="node" attr.name="charge" attr.type="long" />
+  <key id="d2" for="node" attr.name="rt_min" attr.type="double" />
+  <key id="d1" for="node" attr.name="rt" attr.type="double" />
+  <key id="d0" for="node" attr.name="mz" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="22065">
+      <data key="d0">344.15</data>
+      <data key="d1">6.58</data>
+      <data key="d2">6.58</data>
+      <data key="d3">0</data>
+      <data key="d4">640</data>
+      <data key="d5">Massbank:PR311023 Feruloyl O-methyldopamine</data>
+      <data key="d6">O=C(C=CC1=CC=C(O)C(OC)=C1)NCCC=2C=CC(OC)=C(O)C=2</data>
+      <data key="d7">1S/C19H21NO5/c1-24-17-7-4-14(11-16(17)22)9-10-20-19(23)8-5-13-3-6-15(21)18(12-13)25-2/h3-8,11-12,21-22H,9-10H2,1-2H3,(H,20,23)</data>
+      <data key="d8">Phenylpropanoids and polyketides</data>
+      <data key="d9">Cinnamic acids and derivatives</data>
+      <data key="d10">Hydroxycinnamic acids and derivatives</data>
+      <data key="d11">Phenylpropanoids (C6-C3)</data>
+      <data key="d12">Cinnamic acid amides</data>
+      <data key="d13">Amino acids and Peptides|Shikimates and Phenylpropanoids</data>
+    </node>
+    <node id="22841">
+      <data key="d0">411.192</data>
+      <data key="d1">6.5</data>
+      <data key="d2">6.5</data>
+      <data key="d3">0</data>
+      <data key="d4">640</data>
+    </node>
+    <node id="21714">
+      <data key="d0">314.14</data>
+      <data key="d1">6.54</data>
+      <data key="d2">6.54</data>
+      <data key="d3">0</data>
+      <data key="d4">640</data>
+      <data key="d5">N-trans-Feruloyltyramine</data>
+      <data key="d6">COc1c(O)ccc(/C=C/C(=O)NCCc2ccc(O)cc2)c1</data>
+      <data key="d7">InChI=1S/C18H19NO4/c1-23-17-12-14(4-8-16(17)21)5-9-18(22)19-11-10-13-2-6-15(20)7-3-13/h2-9,12,20-21H,10-11H2,1H3,(H,19,22)/b9-5+</data>
+      <data key="d8">Benzenoids</data>
+      <data key="d9">Phenols</data>
+      <data key="d10">Methoxyphenols</data>
+      <data key="d11">Phenylpropanoids (C6-C3)</data>
+      <data key="d12">Cinnamic acid amides</data>
+      <data key="d13">Amino acids and Peptides|Shikimates and Phenylpropanoids</data>
+    </node>
+    <node id="23111">
+      <data key="d0">441.202</data>
+      <data key="d1">6.52</data>
+      <data key="d2">6.52</data>
+      <data key="d3">0</data>
+      <data key="d4">640</data>
+      <data key="d5">Massbank:PR311024 Diferuloyl putrescine</data>
+      <data key="d6">OC(=NCCCCN=C(O)C=CC=1C=CC(O)=C(OC)C=1)C=CC=2C=CC(O)=C(OC)C=2</data>
+      <data key="d7">1S/C24H28N2O6/c1-31-21-15-17(5-9-19(21)27)7-11-23(29)25-13-3-4-14-26-24(30)12-8-18-6-10-20(28)22(16-18)32-2/h5-12,15-16,27-28H,3-4,13-14H2,1-2H3,(H,25,29)(H,26,30)</data>
+      <data key="d8">Phenylpropanoids and polyketides</data>
+      <data key="d9">Cinnamic acids and derivatives</data>
+      <data key="d10">Hydroxycinnamic acids and derivatives</data>
+      <data key="d11">Phenylpropanoids (C6-C3)|Diarylheptanoids</data>
+      <data key="d12">Cinnamic acids and derivatives|Linear diarylheptanoids</data>
+      <data key="d13">Shikimates and Phenylpropanoids</data>
+    </node>
+    <node id="23082">
+      <data key="d0">438.239</data>
+      <data key="d1">5.55</data>
+      <data key="d2">5.55</data>
+      <data key="d3">0</data>
+      <data key="d4">640</data>
+      <data key="d5">Massbank:PR311082 Dicoumaroyl Spermidine</data>
+      <data key="d6">O=C(C=CC1=CC=C(O)C=C1)NCCCNCCCCNC(=O)C=CC2=CC=C(O)C=C2</data>
+      <data key="d7">1S/C25H31N3O4/c29-22-10-4-20(5-11-22)8-14-24(31)27-18-2-1-16-26-17-3-19-28-25(32)15-9-21-6-12-23(30)13-7-21/h4-15,26,29-30H,1-3,16-19H2,(H,27,31)(H,28,32)</data>
+      <data key="d8">Benzenoids</data>
+      <data key="d9">Benzene and substituted derivatives</data>
+      <data key="d10">Styrenes</data>
+      <data key="d11">Ornithine alkaloids</data>
+      <data key="d12">Polyamines</data>
+      <data key="d13">Alkaloids</data>
+    </node>
+    <node id="6288">
+      <data key="d0">314.139</data>
+      <data key="d1">3.47</data>
+      <data key="d2">3.47</data>
+      <data key="d3">0</data>
+      <data key="d4">640</data>
+      <data key="d5">feruloyltyramine</data>
+      <data key="d6">COc1cc(/C=C/C(O)=NCCc2ccc(O)cc2)ccc1O</data>
+      <data key="d7">InChI=1S/C18H19NO4/c1-23-17-12-14(4-8-16(17)21)5-9-18(22)19-11-10-13-2-6-15(20)7-3-13/h2-9,12,20-21H,10-11H2,1H3,(H,19,22)/b9-5+</data>
+      <data key="d8">Benzenoids</data>
+      <data key="d9">Phenols</data>
+      <data key="d10">Methoxyphenols</data>
+      <data key="d11">Diarylheptanoids</data>
+      <data key="d12">Linear diarylheptanoids</data>
+      <data key="d13">Shikimates and Phenylpropanoids</data>
+    </node>
+    <node id="20367">
+      <data key="d0">195.066</data>
+      <data key="d1">5.53</data>
+      <data key="d2">5.53</data>
+      <data key="d3">0</data>
+      <data key="d4">640</data>
+      <data key="d5">ferulic acid CollisionEnergy:102040</data>
+      <data key="d6">COc1cc(C=CC(=O)O)ccc1O</data>
+      <data key="d7">"InChI=1S/C10H10O4/c1-14-9-6-7(2-4-8(9)11)3-5-10(12)13/h2-6,11H,1H3,(H,12,13)/b5-3+"</data>
+      <data key="d8">Phenylpropanoids and polyketides</data>
+      <data key="d9">Cinnamic acids and derivatives</data>
+      <data key="d10">Hydroxycinnamic acids and derivatives</data>
+      <data key="d11">Phenylpropanoids (C6-C3)</data>
+      <data key="d12">Cinnamic acids and derivatives</data>
+      <data key="d13">Shikimates and Phenylpropanoids</data>
+    </node>
+    <node id="20960">
+      <data key="d0">252.087</data>
+      <data key="d1">4.44</data>
+      <data key="d2">4.44</data>
+      <data key="d3">0</data>
+      <data key="d4">640</data>
+    </node>
+    <node id="5318">
+      <data key="d0">291.158</data>
+      <data key="d1">5.63</data>
+      <data key="d2">5.63</data>
+      <data key="d3">0</data>
+      <data key="d4">640</data>
+    </node>
+    <edge source="22065" target="22841">
+      <data key="d14">-67.042</data>
+      <data key="d15">-67</data>
+      <data key="d16">0.7006</data>
+      <data key="d17">0</data>
+      <data key="d18">22841</data>
+      <data key="d19">22065</data>
+      <data key="d20">640</data>
+    </edge>
+    <edge source="22065" target="20960">
+      <data key="d14">-92.063</data>
+      <data key="d15">-92</data>
+      <data key="d16">0.9543</data>
+      <data key="d17">0</data>
+      <data key="d18">20960</data>
+      <data key="d19">22065</data>
+      <data key="d20">640</data>
+    </edge>
+    <edge source="22065" target="23111">
+      <data key="d14">-97.053</data>
+      <data key="d15">-97</data>
+      <data key="d16">0.8374</data>
+      <data key="d17">0</data>
+      <data key="d18">23111</data>
+      <data key="d19">22065</data>
+      <data key="d20">640</data>
+    </edge>
+    <edge source="22065" target="6288">
+      <data key="d14">-30.01</data>
+      <data key="d15">-30</data>
+      <data key="d16">0.8577</data>
+      <data key="d17">0</data>
+      <data key="d18">6288</data>
+      <data key="d19">22065</data>
+      <data key="d20">640</data>
+    </edge>
+    <edge source="22841" target="23111">
+      <data key="d14">-30.01</data>
+      <data key="d15">-30</data>
+      <data key="d16">0.8364</data>
+      <data key="d17">0</data>
+      <data key="d18">22841</data>
+      <data key="d19">23111</data>
+      <data key="d20">640</data>
+    </edge>
+    <edge source="22841" target="23082">
+      <data key="d14">-27.047</data>
+      <data key="d15">-27</data>
+      <data key="d16">0.7519</data>
+      <data key="d17">0</data>
+      <data key="d18">22841</data>
+      <data key="d19">23082</data>
+      <data key="d20">640</data>
+    </edge>
+    <edge source="21714" target="6288">
+      <data key="d14">-0.001</data>
+      <data key="d15">0</data>
+      <data key="d16">0.9033</data>
+      <data key="d17">0</data>
+      <data key="d18">6288</data>
+      <data key="d19">21714</data>
+      <data key="d20">640</data>
+    </edge>
+    <edge source="23111" target="20960">
+      <data key="d14">-189.115</data>
+      <data key="d15">-189</data>
+      <data key="d16">0.7981</data>
+      <data key="d17">0</data>
+      <data key="d18">20960</data>
+      <data key="d19">23111</data>
+      <data key="d20">640</data>
+    </edge>
+    <edge source="6288" target="5318">
+      <data key="d14">-22.981</data>
+      <data key="d15">-22</data>
+      <data key="d16">0.8672</data>
+      <data key="d17">0</data>
+      <data key="d18">6288</data>
+      <data key="d19">5318</data>
+      <data key="d20">640</data>
+    </edge>
+    <edge source="20367" target="20960">
+      <data key="d14">-57.021</data>
+      <data key="d15">-57</data>
+      <data key="d16">0.9578</data>
+      <data key="d17">0</data>
+      <data key="d18">20367</data>
+      <data key="d19">20960</data>
+      <data key="d20">640</data>
+    </edge>
+  </graph>
+</graphml>
